@@ -1,0 +1,1234 @@
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  make, Posbility: 0.0106
+Next Token :  tuple, Posbility: 0.0288
+Next Token :  index, Posbility: 0.0781
+Next Token :  , Posbility: 0.2734
+Next Token :  rec, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0216
+Next Token :  addition, Posbility: 0.0315
+Next Token :  tuple, Posbility: 0.0315
+Next Token :  index, Posbility: 0.1099
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : map, Posbility: 0.0127
+Next Token : helper, Posbility: 0.0127
+Next Token : f, Posbility: 0.0127
+Next Token : idx, Posbility: 0.0127
+Next Token : add, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0248
+Next Token : 2, Posbility: 0.0281
+Next Token :  =, Posbility: 0.0525
+Next Token :  , Posbility: 0.1426
+Next Token : _, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elements, Posbility: 0.0466
+Next Token : index, Posbility: 0.0527
+Next Token : element, Posbility: 0.0527
+Next Token : elem, Posbility: 0.0767
+Next Token : tuple, Posbility: 0.1621
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0085
+Next Token :  , Posbility: 0.1040
+Next Token :  =, Posbility: 0.1040
+Next Token : s, Posbility: 0.2832
+Next Token : _, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elt, Posbility: 0.0247
+Next Token : tuple, Posbility: 0.0280
+Next Token : elements, Posbility: 0.1816
+Next Token : elem, Posbility: 0.2334
+Next Token : element, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  index, Posbility: 0.0226
+Next Token :  i, Posbility: 0.0479
+Next Token :  =, Posbility: 0.1299
+Next Token : _, Posbility: 0.1670
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0366
+Next Token : :, Posbility: 0.0684
+Next Token : x, Posbility: 0.1128
+Next Token : t, Posbility: 0.1855
+Next Token : (, Posbility: 0.2383
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : x, Posbility: 0.0767
+Next Token : tuple, Posbility: 0.0767
+Next Token : t, Posbility: 0.0981
+Next Token : acc, Posbility: 0.0981
+Next Token : a, Posbility: 0.1260
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1,, Posbility: 0.0325
+Next Token : _, Posbility: 0.0369
+Next Token : :, Posbility: 0.0471
+Next Token :  , Posbility: 0.1001
+Next Token : ,, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  v, Posbility: 0.0059
+Next Token :  a, Posbility: 0.0067
+Next Token :  acc, Posbility: 0.0110
+Next Token : b, Posbility: 0.1719
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : e, Posbility: 0.0034
+Next Token : s, Posbility: 0.0038
+Next Token : _, Posbility: 0.0063
+Next Token : t, Posbility: 0.0081
+Next Token : b, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0014
+Next Token : ):, Posbility: 0.0037
+Next Token :  , Posbility: 0.0101
+Next Token : ,, Posbility: 0.0742
+Next Token : ), Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0112
+Next Token :  i, Posbility: 0.0183
+Next Token :  acc, Posbility: 0.0500
+Next Token :  , Posbility: 0.2236
+Next Token :  =, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0031
+Next Token :  function, Posbility: 0.0097
+Next Token :  match, Posbility: 0.0491
+Next Token :  , Posbility: 0.0557
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0021
+Next Token :    , Posbility: 0.0074
+Next Token : 	, Posbility: 0.0084
+Next Token :     , Posbility: 0.1157
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0049
+Next Token : (, Posbility: 0.0118
+Next Token : let, Posbility: 0.0991
+Next Token : if, Posbility: 0.1270
+Next Token : match, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0041
+Next Token : 
+, Posbility: 0.0053
+Next Token :  String, Posbility: 0.0060
+Next Token :  a, Posbility: 0.4219
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0071
+Next Token : Tuple, Posbility: 0.0669
+Next Token : List, Posbility: 0.0669
+Next Token : b, Posbility: 0.1108
+Next Token : (, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : b, Posbility: 0.0132
+Next Token : Array, Posbility: 0.0150
+Next Token : List, Posbility: 0.1104
+Next Token : Tuple, Posbility: 0.1416
+Next Token : a, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  with, Posbility: 0.0021
+Next Token : ::, Posbility: 0.0030
+Next Token : ., Posbility: 0.0082
+Next Token :  , Posbility: 0.0198
+Next Token : ,, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  type, Posbility: 0.0001
+Next Token :  Some, Posbility: 0.0002
+Next Token :  a, Posbility: 0.0010
+Next Token : b, Posbility: 0.0140
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0001
+Next Token : Type, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : Tuple, Posbility: 0.0001
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0002
+Next Token : );, Posbility: 0.0007
+Next Token : ),, Posbility: 0.0019
+Next Token : ,, Posbility: 0.0025
+Next Token : ), Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  {, Posbility: 0.0003
+Next Token :  , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0067
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  [, Posbility: 0.0015
+Next Token : 
+
+, Posbility: 0.0036
+Next Token :  , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token :       , Posbility: 0.0010
+Next Token :    , Posbility: 0.0021
+Next Token :     , Posbility: 0.0532
+Next Token :   , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (0,, Posbility: 0.0014
+Next Token : ([], Posbility: 0.0055
+Next Token : [, Posbility: 0.0103
+Next Token : (, Posbility: 0.0464
+Next Token : |, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0078
+Next Token :  [],, Posbility: 0.0187
+Next Token :  [], Posbility: 0.0211
+Next Token :  [, Posbility: 0.0271
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0132
+Next Token : (),, Posbility: 0.0132
+Next Token : _, Posbility: 0.0150
+Next Token : ([], Posbility: 0.1816
+Next Token : (, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Tuple, Posbility: 0.0327
+Next Token : (),, Posbility: 0.0371
+Next Token : x, Posbility: 0.1011
+Next Token : _, Posbility: 0.1299
+Next Token : a, Posbility: 0.2734
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0,, Posbility: 0.0708
+Next Token : _, Posbility: 0.0801
+Next Token : ',, Posbility: 0.0801
+Next Token : 1,, Posbility: 0.1318
+Next Token : ,, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  Some, Posbility: 0.0139
+Next Token :  [, Posbility: 0.0259
+Next Token :  None, Posbility: 0.0547
+Next Token :  a, Posbility: 0.0903
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : ()), Posbility: 0.0216
+Next Token : []), Posbility: 0.0245
+Next Token : _, Posbility: 0.1416
+Next Token : (, Posbility: 0.2324
+Next Token : b, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1), Posbility: 0.0036
+Next Token :  , Posbility: 0.0046
+Next Token : ,, Posbility: 0.0085
+Next Token : ),, Posbility: 0.0923
+Next Token : ), Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0036
+Next Token :  |, Posbility: 0.0046
+Next Token : ::, Posbility: 0.0059
+Next Token :  when, Posbility: 0.0918
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0006
+Next Token : -, Posbility: 0.0015
+Next Token : ::, Posbility: 0.0305
+Next Token : if, Posbility: 0.0732
+Next Token : ->, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0137
+Next Token :  match, Posbility: 0.0137
+Next Token :  a, Posbility: 0.0371
+Next Token : 
+, Posbility: 0.4531
+Next Token :  , Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0119
+Next Token : return, Posbility: 0.0119
+Next Token : if, Posbility: 0.0197
+Next Token : let, Posbility: 0.0879
+Next Token : (, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : b, Posbility: 0.0186
+Next Token : 
+, Posbility: 0.0269
+Next Token : add, Posbility: 0.0305
+Next Token : Tuple, Posbility: 0.0305
+Next Token : a, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ',, Posbility: 0.0129
+Next Token : +1,, Posbility: 0.0240
+Next Token :  , Posbility: 0.1226
+Next Token :  +, Posbility: 0.3320
+Next Token : ,, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0021
+Next Token : b, Posbility: 0.0031
+Next Token :  Add, Posbility: 0.0083
+Next Token :  a, Posbility: 0.0156
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0013
+Next Token : Tuple, Posbility: 0.0107
+Next Token : (, Posbility: 0.0898
+Next Token : add, Posbility: 0.2158
+Next Token : b, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0080
+Next Token :  +, Posbility: 0.0080
+Next Token : ),, Posbility: 0.0216
+Next Token : );, Posbility: 0.0278
+Next Token : ), Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0029
+Next Token : 
+
+, Posbility: 0.0146
+Next Token :  , Posbility: 0.0212
+Next Token :  |, Posbility: 0.0398
+Next Token : 
+, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0003
+Next Token :  , Posbility: 0.0004
+Next Token : end, Posbility: 0.0008
+Next Token :     , Posbility: 0.0022
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : else, Posbility: 0.0001
+Next Token : //, Posbility: 0.0002
+Next Token : (, Posbility: 0.0003
+Next Token : ;, Posbility: 0.0005
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0031
+Next Token :  [, Posbility: 0.0035
+Next Token :  ((, Posbility: 0.0035
+Next Token :  [], Posbility: 0.0066
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (0,, Posbility: 0.0060
+Next Token : (), Posbility: 0.0112
+Next Token : ([], Posbility: 0.0391
+Next Token : _, Posbility: 0.2246
+Next Token : (, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : b, Posbility: 0.0258
+Next Token : (),, Posbility: 0.0332
+Next Token : x, Posbility: 0.0796
+Next Token : _, Posbility: 0.1904
+Next Token : a, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0,, Posbility: 0.0167
+Next Token : _, Posbility: 0.0215
+Next Token : 1,, Posbility: 0.0457
+Next Token : ',, Posbility: 0.0586
+Next Token : ,, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  nil, Posbility: 0.0107
+Next Token :  [, Posbility: 0.0137
+Next Token :  a, Posbility: 0.0199
+Next Token :  None, Posbility: 0.0613
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : []), Posbility: 0.0262
+Next Token : ()), Posbility: 0.0491
+Next Token : (, Posbility: 0.2197
+Next Token : b, Posbility: 0.2197
+Next Token : _, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ::, Posbility: 0.0031
+Next Token :  , Posbility: 0.0140
+Next Token : b, Posbility: 0.0140
+Next Token : ),, Posbility: 0.0806
+Next Token : ), Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0063
+Next Token :  when, Posbility: 0.0063
+Next Token :   , Posbility: 0.0117
+Next Token :  |, Posbility: 0.0317
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0008
+Next Token : if, Posbility: 0.0097
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0074
+Next Token :  fail, Posbility: 0.0107
+Next Token :  a, Posbility: 0.0330
+Next Token : 
+, Posbility: 0.0698
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : assert, Posbility: 0.0098
+Next Token : raise, Posbility: 0.0161
+Next Token : add, Posbility: 0.0234
+Next Token : b, Posbility: 0.0342
+Next Token : (, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Tuple, Posbility: 0.0135
+Next Token : add, Posbility: 0.0688
+Next Token : _, Posbility: 0.0781
+Next Token : b, Posbility: 0.1289
+Next Token : a, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0045
+Next Token : ',, Posbility: 0.0051
+Next Token : +1,, Posbility: 0.0058
+Next Token :  +, Posbility: 0.1157
+Next Token : ,, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Add, Posbility: 0.0054
+Next Token :  [, Posbility: 0.0070
+Next Token :  None, Posbility: 0.0090
+Next Token :  a, Posbility: 0.1406
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ()), Posbility: 0.0236
+Next Token : Tuple, Posbility: 0.0303
+Next Token : (, Posbility: 0.1060
+Next Token : add, Posbility: 0.3691
+Next Token : b, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0062
+Next Token : [0]), Posbility: 0.0070
+Next Token : );, Posbility: 0.0131
+Next Token : [1]), Posbility: 0.0190
+Next Token : ), Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0016
+Next Token :   , Posbility: 0.0034
+Next Token :  , Posbility: 0.0151
+Next Token : 
+
+, Posbility: 0.0410
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0002
+Next Token : let, Posbility: 0.0003
+Next Token : end, Posbility: 0.0019
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : let, Posbility: 0.0004
+Next Token : (, Posbility: 0.0006
+Next Token : ;, Posbility: 0.0008
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (<, Posbility: 0.0001
+Next Token :  (!, Posbility: 0.0001
+Next Token :  ((, Posbility: 0.0001
+Next Token :  (*, Posbility: 0.0019
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ({},, Posbility: 0.0013
+Next Token : ([], Posbility: 0.0030
+Next Token : (__, Posbility: 0.0105
+Next Token : _, Posbility: 0.1455
+Next Token : (, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : x, Posbility: 0.0004
+Next Token : ?, Posbility: 0.0005
+Next Token : b, Posbility: 0.0019
+Next Token : a, Posbility: 0.0032
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token : a, Posbility: 0.0001
+Next Token :  , Posbility: 0.0032
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : a, Posbility: 0.0001
+Next Token :  None, Posbility: 0.0002
+Next Token : b, Posbility: 0.0005
+Next Token :  a, Posbility: 0.1816
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : x, Posbility: 0.0002
+Next Token : c, Posbility: 0.0003
+Next Token : (, Posbility: 0.0005
+Next Token : _, Posbility: 0.0179
+Next Token : b, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token : ', Posbility: 0.0001
+Next Token : ),, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :  when, Posbility: 0.0002
+Next Token :   , Posbility: 0.0003
+Next Token :  =>, Posbility: 0.0003
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : <, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : if, Posbility: 0.0001
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fail, Posbility: 0.0003
+Next Token :  ((, Posbility: 0.0006
+Next Token :  a, Posbility: 0.0025
+Next Token : 
+, Posbility: 0.0028
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (0,, Posbility: 0.0003
+Next Token : raise, Posbility: 0.0007
+Next Token : b, Posbility: 0.0015
+Next Token : add, Posbility: 0.0032
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : None, Posbility: 0.0013
+Next Token : add, Posbility: 0.0022
+Next Token : _, Posbility: 0.0269
+Next Token : b, Posbility: 0.0732
+Next Token : a, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0002
+Next Token :  , Posbility: 0.0004
+Next Token : +, Posbility: 0.0005
+Next Token :  +, Posbility: 0.0179
+Next Token : ,, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Add, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  a, Posbility: 0.0000
+Next Token : b, Posbility: 0.0007
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Tuple, Posbility: 0.0000
+Next Token : add, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : _, Posbility: 0.0003
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ),, Posbility: 0.0001
+Next Token : )., Posbility: 0.0003
+Next Token : )), Posbility: 0.0008
+Next Token : );, Posbility: 0.0097
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (a, b)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : , Posbility: 0.0009
+Next Token :  in, Posbility: 0.0015
+Next Token :  , Posbility: 0.0025
+Next Token : 
+, Posbility: 0.3730
+Next Token : 
+
+, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to perform index wise addition of tuple elements in the given two nested tuples. *)
+let rec add_tuple_element (a, b) =
+  match (a, b) with
+  | (a, b) -> (a, b)
+  | (a, _) -> (a, b)
+  | (_, b) -> (a, b)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :36.49076724052429
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

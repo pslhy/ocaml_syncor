@@ -1,0 +1,273 @@
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let
+Next Token :  remove, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove
+Next Token : _, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_
+Next Token : tuple, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple
+Next Token :  , Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple 
+Next Token : t, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t
+Next Token :  =, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+
+Next Token :   , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  
+Next Token : let, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let
+Next Token :  , Posbility: 0.3359
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let 
+Next Token : t, Posbility: 0.2354
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t
+Next Token : ', Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t'
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' =
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = 
+Next Token : List, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.
+Next Token : filter, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (
+Next Token : fun, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun 
+Next Token : x, Posbility: 0.3594
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x ->
+Next Token :  , Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> 
+Next Token : x, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x 
+Next Token : <, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <
+Next Token : >, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <>
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> 
+Next Token : t, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t
+Next Token : ), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) 
+Next Token : t, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t
+Next Token :  in, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+  
+Next Token : t, Posbility: 0.2461
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+  t
+Next Token : ', Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+  t'
+Next Token : 
+, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+  t'
+
+Next Token : ;, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+  t'
+;
+Next Token : ;, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove tuples from the given tuple. *)
+let remove_tuple t =
+  let t' = List.filter (fun x -> x <> t) t in
+  t'
+;;
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4792778491973877
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,284 @@
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let
+Next Token :  is, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_
+Next Token : perfect, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect
+Next Token : _, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_
+Next Token : square, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square 
+Next Token : n, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+Next Token : 
+, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+
+Next Token :   , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  
+Next Token : let, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let 
+Next Token : n, Posbility: 0.1865
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n
+Next Token : _, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_
+Next Token : sqrt, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt
+Next Token :  =, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt =
+Next Token :  , Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = 
+Next Token : (, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (
+Next Token : int, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int
+Next Token :  , Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int 
+Next Token : (, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (
+Next Token : Math, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.
+Next Token : sqrt, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt 
+Next Token : n, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n
+Next Token : )), Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n))
+Next Token :  in, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  
+Next Token : n, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n
+Next Token :  ==, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n ==
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == 
+Next Token : n, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_
+Next Token : sqrt, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt
+Next Token :  *, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt *
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt * 
+Next Token : n, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt * n
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt * n_
+Next Token : sqrt, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt * n_sqrt
+Next Token : 
+, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt * n_sqrt
+
+Next Token : ```, Posbility: 0.1099
+---------------------------
+code:
+ (* Write a function to check whether the given number is a perfect square or not. https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/ *)
+let is_perfect_square n =
+  let n_sqrt = (int (Math.sqrt n)) in
+  n == n_sqrt * n_sqrt
+```
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4121174812316895
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,2435 @@
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0135
+Next Token :  find, Posbility: 0.0222
+Next Token :  sum, Posbility: 0.0286
+Next Token :  , Posbility: 0.3945
+Next Token :  rec, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0243
+Next Token :  loop, Posbility: 0.0276
+Next Token :  find, Posbility: 0.0747
+Next Token :  sum, Posbility: 0.0962
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : add, Posbility: 0.0737
+Next Token : accumulate, Posbility: 0.0947
+Next Token : cs, Posbility: 0.1069
+Next Token : cum, Posbility: 0.1069
+Next Token : cumulative, Posbility: 0.1768
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sum, Posbility: 0.0153
+Next Token :  , Posbility: 0.0253
+Next Token :  =, Posbility: 0.0253
+Next Token : Sum, Posbility: 0.0688
+Next Token : _, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : all, Posbility: 0.0009
+Next Token : product, Posbility: 0.0015
+Next Token : helper, Posbility: 0.0024
+Next Token : list, Posbility: 0.0040
+Next Token : sum, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0352
+Next Token :  l, Posbility: 0.0352
+Next Token : _, Posbility: 0.1572
+Next Token :  =, Posbility: 0.1572
+Next Token :  , Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0557
+Next Token : lst, Posbility: 0.0713
+Next Token : x, Posbility: 0.1338
+Next Token : t, Posbility: 0.1514
+Next Token : (, Posbility: 0.1514
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0371
+Next Token : x, Posbility: 0.0693
+Next Token : tuple, Posbility: 0.0693
+Next Token : acc, Posbility: 0.0786
+Next Token : list, Posbility: 0.0786
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0471
+Next Token : _, Posbility: 0.0605
+Next Token : ), Posbility: 0.0776
+Next Token : ,, Posbility: 0.2715
+Next Token :  , Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0011
+Next Token : ,, Posbility: 0.0014
+Next Token : (, Posbility: 0.0014
+Next Token : ::, Posbility: 0.0289
+Next Token : :, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  [, Posbility: 0.0364
+Next Token :  ', Posbility: 0.0874
+Next Token :  list, Posbility: 0.0874
+Next Token :  int, Posbility: 0.1123
+Next Token :  , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : T, Posbility: 0.0659
+Next Token : (', Posbility: 0.0747
+Next Token : List, Posbility: 0.1582
+Next Token : t, Posbility: 0.1787
+Next Token : (, Posbility: 0.2031
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : T, Posbility: 0.0095
+Next Token : Int, Posbility: 0.0095
+Next Token : string, Posbility: 0.0374
+Next Token : float, Posbility: 0.1016
+Next Token : int, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : *, Posbility: 0.0093
+Next Token :  list, Posbility: 0.0198
+Next Token : ,, Posbility: 0.0417
+Next Token :  , Posbility: 0.2402
+Next Token :  *, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ', Posbility: 0.0132
+Next Token :  , Posbility: 0.0461
+Next Token :  string, Posbility: 0.0591
+Next Token :  float, Posbility: 0.1250
+Next Token :  int, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0299
+Next Token : )), Posbility: 0.0339
+Next Token :  *, Posbility: 0.0435
+Next Token :  list, Posbility: 0.1719
+Next Token : ), Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int)
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  l, Posbility: 0.0006
+Next Token :  array, Posbility: 0.0032
+Next Token :  tuple, Posbility: 0.0032
+Next Token :  , Posbility: 0.0942
+Next Token :  list, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  list, Posbility: 0.0019
+Next Token : _, Posbility: 0.0031
+Next Token :  =, Posbility: 0.0107
+Next Token :  , Posbility: 0.0137
+Next Token : ), Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0068
+Next Token :  result, Posbility: 0.0099
+Next Token : 
+, Posbility: 0.0143
+Next Token :  , Posbility: 0.1543
+Next Token :  =, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0028
+Next Token :  function, Posbility: 0.0183
+Next Token :  , Posbility: 0.0439
+Next Token :  match, Posbility: 0.0439
+Next Token : 
+, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0040
+Next Token :    , Posbility: 0.0066
+Next Token : 	, Posbility: 0.0075
+Next Token :     , Posbility: 0.1035
+Next Token :   , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0084
+Next Token : List, Posbility: 0.0121
+Next Token : if, Posbility: 0.1475
+Next Token : let, Posbility: 0.1475
+Next Token : match, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0013
+Next Token :  !, Posbility: 0.0031
+Next Token :  String, Posbility: 0.0058
+Next Token :  , Posbility: 0.2178
+Next Token :  list, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0005
+Next Token :  , Posbility: 0.0009
+Next Token :  @, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0025
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0019
+Next Token :  , Posbility: 0.0021
+Next Token :  [, Posbility: 0.0024
+Next Token :  [], Posbility: 0.0178
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0004
+Next Token :       , Posbility: 0.0020
+Next Token :    , Posbility: 0.0020
+Next Token :     , Posbility: 0.0752
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ([], Posbility: 0.0002
+Next Token : (, Posbility: 0.0004
+Next Token : [, Posbility: 0.0096
+Next Token : [], Posbility: 0.0096
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [],, Posbility: 0.0011
+Next Token :  nil, Posbility: 0.0070
+Next Token :  [, Posbility: 0.0190
+Next Token :  , Posbility: 0.0518
+Next Token :  [], Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0027
+Next Token :    , Posbility: 0.0035
+Next Token :  =>, Posbility: 0.0045
+Next Token :  |, Posbility: 0.0058
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Next Token : →, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0017
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0187
+Next Token : 
+, Posbility: 0.0508
+Next Token :  , Posbility: 0.1387
+Next Token :  [], Posbility: 0.3770
+Next Token :  0, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0041
+Next Token : L, Posbility: 0.0067
+Next Token :  , Posbility: 0.0236
+Next Token :  |, Posbility: 0.0640
+Next Token : 
+, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |[, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0043
+Next Token :  a, Posbility: 0.0049
+Next Token :  [], Posbility: 0.0168
+Next Token :  [, Posbility: 0.2061
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : hd, Posbility: 0.0488
+Next Token : head, Posbility: 0.0625
+Next Token : _, Posbility: 0.1035
+Next Token : x, Posbility: 0.1035
+Next Token : (, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : first, Posbility: 0.0518
+Next Token : head, Posbility: 0.0752
+Next Token : i, Posbility: 0.0854
+Next Token : _, Posbility: 0.1240
+Next Token : x, Posbility: 0.2041
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1, Posbility: 0.0126
+Next Token : ::, Posbility: 0.0162
+Next Token : 0,, Posbility: 0.0209
+Next Token :  , Posbility: 0.1982
+Next Token : ,, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  0), Posbility: 0.0098
+Next Token :  acc, Posbility: 0.0183
+Next Token : y, Posbility: 0.0439
+Next Token :  rest, Posbility: 0.1533
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : (, Posbility: 0.0177
+Next Token : tail, Posbility: 0.0292
+Next Token : x, Posbility: 0.0791
+Next Token : _, Posbility: 0.1021
+Next Token : y, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : s, Posbility: 0.0038
+Next Token : ),, Posbility: 0.0049
+Next Token :  , Posbility: 0.0133
+Next Token : ,, Posbility: 0.0361
+Next Token : ), Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0012
+Next Token :  as, Posbility: 0.0042
+Next Token :  when, Posbility: 0.0272
+Next Token : ::, Posbility: 0.0579
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0003
+Next Token : →, Posbility: 0.0006
+Next Token : if, Posbility: 0.0189
+Next Token : ::, Posbility: 0.4902
+Next Token : ->, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0055
+Next Token :  (1, Posbility: 0.0092
+Next Token :  1, Posbility: 0.0410
+Next Token : 
+, Posbility: 0.1113
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0070
+Next Token : (, Posbility: 0.0522
+Next Token : y, Posbility: 0.1416
+Next Token : cumulative, Posbility: 0.1416
+Next Token : x, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0016
+Next Token :  , Posbility: 0.0065
+Next Token : +, Posbility: 0.0084
+Next Token :  *, Posbility: 0.0107
+Next Token :  +, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  ((, Posbility: 0.0004
+Next Token :  (1, Posbility: 0.0004
+Next Token :  rec, Posbility: 0.0005
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : cum, Posbility: 0.0017
+Next Token : accumulate, Posbility: 0.0017
+Next Token : (, Posbility: 0.0349
+Next Token : y, Posbility: 0.2578
+Next Token : cumulative, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Sum, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :  sum, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : list, Posbility: 0.0000
+Next Token : total, Posbility: 0.0000
+Next Token : count, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [, Posbility: 0.0063
+Next Token :  list, Posbility: 0.0063
+Next Token : (, Posbility: 0.0219
+Next Token :  ((, Posbility: 0.0281
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : x, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0007
+Next Token : y, Posbility: 0.2676
+Next Token : (, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Rest, Posbility: 0.0107
+Next Token : tail, Posbility: 0.0121
+Next Token : y, Posbility: 0.1309
+Next Token : List, Posbility: 0.3145
+Next Token : list, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ', Posbility: 0.0093
+Next Token : ., Posbility: 0.0119
+Next Token :  [, Posbility: 0.0119
+Next Token :  @, Posbility: 0.0684
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0142
+Next Token : y, Posbility: 0.0206
+Next Token : (, Posbility: 0.0718
+Next Token : -, Posbility: 0.1729
+Next Token : :, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list :
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0027
+Next Token :  drop, Posbility: 0.0050
+Next Token :  rest, Posbility: 0.0256
+Next Token :  list, Posbility: 0.1011
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Rest, Posbility: 0.0063
+Next Token : x, Posbility: 0.0072
+Next Token : List, Posbility: 0.0221
+Next Token : (, Posbility: 0.3047
+Next Token : y, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0139
+Next Token :  *, Posbility: 0.0139
+Next Token :  list, Posbility: 0.0293
+Next Token : ), Posbility: 0.3574
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0007
+Next Token : ->, Posbility: 0.0027
+Next Token : :, Posbility: 0.0093
+Next Token : -, Posbility: 0.0366
+Next Token : ::, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0018
+Next Token :  rest, Posbility: 0.0072
+Next Token :  !, Posbility: 0.0092
+Next Token :  , Posbility: 0.1436
+Next Token :  list, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y :: list
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y :: 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y :: !
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y :: rest
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y ::>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0056
+Next Token :  1, Posbility: 0.1113
+Next Token :  1), Posbility: 0.1436
+Next Token :  list, Posbility: 0.3027
+Next Token :  , Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y - 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y - list
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y - 1)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y - 1
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0043
+Next Token :  next, Posbility: 0.0118
+Next Token :  int, Posbility: 0.0413
+Next Token :  list, Posbility: 0.0986
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0067
+Next Token : cumulative, Posbility: 0.0183
+Next Token : y, Posbility: 0.1738
+Next Token : x, Posbility: 0.3691
+Next Token : (, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0013
+Next Token : list, Posbility: 0.0067
+Next Token : y, Posbility: 0.0142
+Next Token : x, Posbility: 0.3672
+Next Token : int, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *), Posbility: 0.0005
+Next Token :  list, Posbility: 0.0008
+Next Token :  , Posbility: 0.0040
+Next Token : ,, Posbility: 0.0059
+Next Token :  *, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token :  float, Posbility: 0.0000
+Next Token : int, Posbility: 0.0005
+Next Token :  , Posbility: 0.0009
+Next Token :  int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : );, Posbility: 0.0008
+Next Token :  list, Posbility: 0.0012
+Next Token :  , Posbility: 0.0013
+Next Token : )), Posbility: 0.0085
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token :  tuple, Posbility: 0.0002
+Next Token : list, Posbility: 0.0003
+Next Token :  , Posbility: 0.0109
+Next Token :  list, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : );, Posbility: 0.0009
+Next Token : )), Posbility: 0.0013
+Next Token : ),, Posbility: 0.0050
+Next Token :  , Posbility: 0.0289
+Next Token : ), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0021
+Next Token :  *, Posbility: 0.0031
+Next Token :  , Posbility: 0.0058
+Next Token : 
+
+, Posbility: 0.3145
+Next Token : 
+, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : *, Posbility: 0.0067
+Next Token : (, Posbility: 0.0234
+Next Token : end, Posbility: 0.0466
+Next Token :   , Posbility: 0.2852
+Next Token : let, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  test, Posbility: 0.0205
+Next Token :  list, Posbility: 0.0299
+Next Token :  main, Posbility: 0.1523
+Next Token :  , Posbility: 0.2500
+Next Token :  rec, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0242
+Next Token :  sum, Posbility: 0.0310
+Next Token :  count, Posbility: 0.0352
+Next Token :  find, Posbility: 0.0579
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : recursive, Posbility: 0.0187
+Next Token : add, Posbility: 0.0212
+Next Token : cum, Posbility: 0.0240
+Next Token : accumulate, Posbility: 0.0309
+Next Token : cumulative, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0013
+Next Token :  sum, Posbility: 0.0013
+Next Token : Sum, Posbility: 0.0022
+Next Token :  , Posbility: 0.0067
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : max, Posbility: 0.0047
+Next Token : prod, Posbility: 0.0053
+Next Token : count, Posbility: 0.0061
+Next Token : product, Posbility: 0.0211
+Next Token : sum, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0376
+Next Token : s, Posbility: 0.0376
+Next Token : ', Posbility: 0.0483
+Next Token : 2, Posbility: 0.0796
+Next Token : _, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : int, Posbility: 0.0413
+Next Token : rec, Posbility: 0.0466
+Next Token : 2, Posbility: 0.0530
+Next Token : of, Posbility: 0.0530
+Next Token : list, Posbility: 0.1123
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0134
+Next Token :  list, Posbility: 0.0322
+Next Token : _, Posbility: 0.0603
+Next Token :  =, Posbility: 0.0996
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ls, Posbility: 0.0109
+Next Token : lst, Posbility: 0.0157
+Next Token : x, Posbility: 0.0203
+Next Token : :, Posbility: 0.0334
+Next Token : (, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : lists, Posbility: 0.0060
+Next Token : x, Posbility: 0.0087
+Next Token : l, Posbility: 0.0126
+Next Token : tuple, Posbility: 0.0269
+Next Token : list, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0024
+Next Token : ), Posbility: 0.0024
+Next Token : 1, Posbility: 0.0051
+Next Token : _, Posbility: 0.0084
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0000
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  ', Posbility: 0.0159
+Next Token :  [, Posbility: 0.0159
+Next Token :  ((, Posbility: 0.0159
+Next Token :  int, Posbility: 0.0552
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0024
+Next Token : ([, Posbility: 0.0024
+Next Token : (', Posbility: 0.0094
+Next Token : List, Posbility: 0.0121
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : tuple, Posbility: 0.0010
+Next Token : float, Posbility: 0.0019
+Next Token : list, Posbility: 0.0024
+Next Token : string, Posbility: 0.0123
+Next Token : int, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0010
+Next Token :  *), Posbility: 0.0051
+Next Token :  , Posbility: 0.0065
+Next Token :  list, Posbility: 0.0226
+Next Token :  *, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ', Posbility: 0.0002
+Next Token :  float, Posbility: 0.0012
+Next Token :  string, Posbility: 0.0012
+Next Token :  , Posbility: 0.0041
+Next Token :  int, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *, Posbility: 0.0005
+Next Token :  , Posbility: 0.0011
+Next Token : )), Posbility: 0.0011
+Next Token :  list, Posbility: 0.0159
+Next Token : ), Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int)
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  array, Posbility: 0.0014
+Next Token :  *), Posbility: 0.0018
+Next Token :  tuple, Posbility: 0.0024
+Next Token :  , Posbility: 0.0369
+Next Token :  list, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *), Posbility: 0.0118
+Next Token :  *, Posbility: 0.0151
+Next Token :  , Posbility: 0.0194
+Next Token :  list, Posbility: 0.3027
+Next Token : ), Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0011
+Next Token :   , Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0035
+Next Token :  , Posbility: 0.0258
+Next Token :  =, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0015
+Next Token :   , Posbility: 0.0017
+Next Token :  list, Posbility: 0.0069
+Next Token :  , Posbility: 0.0835
+Next Token : 
+, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0002
+Next Token :  , Posbility: 0.0005
+Next Token :    , Posbility: 0.0015
+Next Token :     , Posbility: 0.0067
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0410
+Next Token : cumulative, Posbility: 0.0986
+Next Token : List, Posbility: 0.1270
+Next Token : let, Posbility: 0.1631
+Next Token : match, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0002
+Next Token :  rec, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0007
+Next Token :  , Posbility: 0.0420
+Next Token :  list, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token : ., Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : [0], Posbility: 0.0002
+Next Token :  with, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Next Token :  , Posbility: 0.0004
+Next Token :  [], Posbility: 0.0009
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Next Token :    , Posbility: 0.0002
+Next Token :     , Posbility: 0.0019
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : {, Posbility: 0.0000
+Next Token : [], Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : case, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0003
+Next Token :  nil, Posbility: 0.0023
+Next Token :  [, Posbility: 0.0170
+Next Token :  , Posbility: 0.0464
+Next Token :  [], Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token :  as, Posbility: 0.0004
+Next Token :  =>, Posbility: 0.0005
+Next Token :  |, Posbility: 0.0015
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0000
+Next Token : →, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0001
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0052
+Next Token :  , Posbility: 0.1040
+Next Token :  0, Posbility: 0.1040
+Next Token :  [], Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  |, Posbility: 0.0004
+Next Token :  as, Posbility: 0.0007
+Next Token :  , Posbility: 0.0046
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : let, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0005
+Next Token :  [], Posbility: 0.0013
+Next Token :  ((, Posbility: 0.0040
+Next Token :  [, Posbility: 0.0085
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0033
+Next Token : _, Posbility: 0.0090
+Next Token : head, Posbility: 0.0115
+Next Token : x, Posbility: 0.0403
+Next Token : (, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : a, Posbility: 0.0038
+Next Token : y, Posbility: 0.0038
+Next Token : head, Posbility: 0.0062
+Next Token : _, Posbility: 0.0317
+Next Token : x, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0005
+Next Token : s, Posbility: 0.0019
+Next Token : ::, Posbility: 0.0024
+Next Token :  , Posbility: 0.0228
+Next Token : ,, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  [, Posbility: 0.0010
+Next Token :  list, Posbility: 0.0012
+Next Token : y, Posbility: 0.0019
+Next Token :  rest, Posbility: 0.0040
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : []), Posbility: 0.0005
+Next Token : x, Posbility: 0.0040
+Next Token : (, Posbility: 0.0066
+Next Token : _, Posbility: 0.0108
+Next Token : y, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ),, Posbility: 0.0004
+Next Token : s, Posbility: 0.0010
+Next Token : ,, Posbility: 0.0013
+Next Token :  , Posbility: 0.0075
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0003
+Next Token :  when, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0017
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0000
+Next Token : >, Posbility: 0.0000
+Next Token : →, Posbility: 0.0006
+Next Token :  =>, Posbility: 0.0006
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token :  {, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0767
+Next Token :  [, Posbility: 0.3438
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0342
+Next Token : List, Posbility: 0.0498
+Next Token : cumulative, Posbility: 0.0564
+Next Token : (, Posbility: 0.1191
+Next Token : x, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : :, Posbility: 0.0052
+Next Token :  *, Posbility: 0.0067
+Next Token : ::, Posbility: 0.0815
+Next Token :  +, Posbility: 0.1187
+Next Token :  , Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ->, Posbility: 0.0008
+Next Token : <, Posbility: 0.0011
+Next Token : ^, Posbility: 0.0115
+Next Token : :, Posbility: 0.0747
+Next Token : ::, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0015
+Next Token : !, Posbility: 0.0019
+Next Token : =, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : accumulate, Posbility: 0.0004
+Next Token : x, Posbility: 0.0024
+Next Token : y, Posbility: 0.0083
+Next Token : (, Posbility: 0.0289
+Next Token : cumulative, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ly, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :  sum, Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : add, Posbility: 0.0000
+Next Token : sort, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  list, Posbility: 0.0001
+Next Token :  ((, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token :  , Posbility: 0.0052
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : List, Posbility: 0.0000
+Next Token : rest, Posbility: 0.0000
+Next Token : tuple, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : (, Posbility: 0.0085
+Next Token :  ((, Posbility: 0.0109
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0003
+Next Token : y, Posbility: 0.0229
+Next Token : (, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  list, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0005
+Next Token : List, Posbility: 0.0007
+Next Token : y, Posbility: 0.0371
+Next Token : list, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token :  :=, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0001
+Next Token : :, Posbility: 0.0036
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ->, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0000
+Next Token : y, Posbility: 0.0001
+Next Token : -, Posbility: 0.0002
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list :
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Next Token :   , Posbility: 0.0003
+Next Token :  list, Posbility: 0.0004
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0001
+Next Token : cumulative, Posbility: 0.0001
+Next Token : x, Posbility: 0.0009
+Next Token : (, Posbility: 0.0067
+Next Token : y, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token : ->, Posbility: 0.0000
+Next Token : ), Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : →, Posbility: 0.0001
+Next Token : ::, Posbility: 0.0229
+Next Token : ->, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  int, Posbility: 0.0001
+Next Token :  ((, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : cumulative, Posbility: 0.0000
+Next Token : y, Posbility: 0.0003
+Next Token : x, Posbility: 0.0010
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : tuple, Posbility: 0.0000
+Next Token : float, Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Next Token :  int, Posbility: 0.0000
+Next Token : int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : *, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0001
+Next Token :  *), Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :  *, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  float, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : int, Posbility: 0.0001
+Next Token :  int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int * int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ))), Posbility: 0.0000
+Next Token :  list, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : )), Posbility: 0.0000
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int * int)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token :  list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int * int) list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0002
+Next Token : ),, Posbility: 0.0007
+Next Token : )), Posbility: 0.0012
+Next Token : );, Posbility: 0.0015
+Next Token : ), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int * int) list)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0036
+Next Token :  , Posbility: 0.0125
+Next Token :  in, Posbility: 0.0264
+Next Token : 
+, Posbility: 0.4141
+Next Token : 
+
+, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the cumulative sum of all the values that are present in the given tuple list. *)
+let rec cumulative_sum (list : (int * int) list) =
+  match list with
+  | [] -> 0
+  | (x, y) -> x + cumulative_sum (list : y -> (int * int) list)
+let rec cumulative_sum_list (list : (int * int) list) =
+  match list with
+  | [] -> []
+  | (x, y) -> x :: cumulative_sum_list (list : y -> (int * int) list)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :65.12514352798462
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

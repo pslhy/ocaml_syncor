@@ -1,0 +1,224 @@
+code:
+ (* Write a function which returns nth catalan number. *)
+let
+Next Token :  rec, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec 
+Next Token : cat, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec cat
+Next Token : alan, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan 
+Next Token : n, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n
+Next Token :  =, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+Next Token : 
+, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  
+Next Token : if, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if 
+Next Token : n, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n
+Next Token :  =, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n =
+Next Token :  0, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0
+Next Token :  then, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then
+Next Token :  1, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1
+Next Token :  else, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else
+Next Token :  , Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else 
+Next Token : cat, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else cat
+Next Token : alan, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan 
+Next Token : (, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n
+Next Token :  , Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n -
+Next Token :  1), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1)
+Next Token :  +, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) +
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + 
+Next Token : cat, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + cat
+Next Token : alan, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan (
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan (n
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan (n -
+Next Token :  2), Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function which returns nth catalan number. *)
+let rec catalan n =
+  if n = 0 then 1 else catalan (n - 1) + catalan (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.1840574741363525
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

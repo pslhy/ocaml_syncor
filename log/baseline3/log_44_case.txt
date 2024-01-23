@@ -1,0 +1,709 @@
+code:
+ (* Write a  function to find the length of the longest word. *)
+let
+Next Token :  rec, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec
+Next Token :  , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec 
+Next Token : longest, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest
+Next Token : _, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_
+Next Token : word, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word
+Next Token :  , Posbility: 0.3770
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word 
+Next Token : s, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s
+Next Token :  =, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+
+Next Token :   , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  
+Next Token : let, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let
+Next Token :  , Posbility: 0.3574
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let 
+Next Token : s, Posbility: 0.1318
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s
+Next Token :  =, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s =
+Next Token :  String, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.
+Next Token : trim, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim 
+Next Token : s, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s
+Next Token :  in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  
+Next Token : if, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if
+Next Token :  String, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.
+Next Token : length, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length 
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s
+Next Token :  , Posbility: 0.5508
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s 
+Next Token : <, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <
+Next Token : >, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <>
+Next Token :  0, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0
+Next Token :  then, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+Next Token : 
+, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+
+Next Token :     , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    
+Next Token : let, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let 
+Next Token : s, Posbility: 0.2227
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s
+Next Token :  =, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s =
+Next Token :  String, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.
+Next Token : trim, Posbility: 0.3438
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim 
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+
+Next Token :     , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    
+Next Token : if, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if
+Next Token :  String, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.
+Next Token : length, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length 
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s 
+Next Token : >, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s >
+Next Token :  , Posbility: 0.3047
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > 
+Next Token : longest, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest
+Next Token : _, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_
+Next Token : word, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word 
+Next Token : s, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s
+Next Token :  then, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+Next Token : 
+, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+
+Next Token :       , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      
+Next Token : longest, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_
+Next Token : word, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word 
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+Next Token : 
+, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+
+Next Token :     , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+Next Token : 
+, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+
+Next Token :       , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      
+Next Token : s, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+Next Token : 
+, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+  else
+Next Token : 
+, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+  else
+
+Next Token :     , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+  else
+    
+Next Token : ", Posbility: 0.5508
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+  else
+    "
+Next Token : ", Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the length of the longest word. *)
+let rec longest_word s =
+  let s = String.trim s in
+  if String.length s <> 0 then
+    let s = String.trim s in
+    if String.length s > longest_word s then
+      longest_word s
+    else
+      s
+  else
+    ""
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.580078363418579
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

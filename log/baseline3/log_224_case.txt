@@ -1,0 +1,189 @@
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let
+Next Token :  negative, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negative
+Next Token : s, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives
+Next Token :  =, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+Next Token : 
+, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+
+Next Token :   , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  
+Next Token : List, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.
+Next Token : filter, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter 
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (
+Next Token : fun, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun 
+Next Token : x, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x ->
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> 
+Next Token : x, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x 
+Next Token : <, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x <
+Next Token :  0), Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+Next Token : 
+, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+
+Next Token : ;, Posbility: 0.2988
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;
+Next Token : ;, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;;
+Next Token :  , Posbility: 0.2480
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;; 
+Next Token : end, Posbility: 0.2031
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;; end
+Next Token :  of, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;; end of
+Next Token :  negative, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;; end of negative
+Next Token : s, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to return the negative numbers in a list. *)
+let negatives =
+  List.filter (fun x -> x < 0)
+;; end of negatives
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.9661831855773926
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,382 @@
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let
+Next Token :  is, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is
+Next Token : _, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_
+Next Token : vowel, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel
+Next Token :  , Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel 
+Next Token : s, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+Next Token : 
+, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+
+Next Token :   , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  
+Next Token : let, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let
+Next Token :  , Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let 
+Next Token : vowel, Posbility: 0.2012
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowel
+Next Token : s, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels =
+Next Token :  ", Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "
+Next Token : ae, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "ae
+Next Token : io, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeio
+Next Token : uy, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy
+Next Token : ", Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy"
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  
+Next Token : let, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let
+Next Token :  , Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let 
+Next Token : regex, Posbility: 0.2354
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex =
+Next Token :  , Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = 
+Next Token : Regex, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex
+Next Token : ., Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.
+Next Token : of, Posbility: 0.2354
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_
+Next Token : string, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string
+Next Token :  ", Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "
+Next Token : ^, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^
+Next Token : [, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[
+Next Token : a, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a
+Next Token : -, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-
+Next Token : z, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-z
+Next Token : A, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-
+Next Token : Z, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z
+Next Token : ], Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]
+Next Token : $, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$
+Next Token : ", Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$"
+Next Token :  in, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  
+Next Token : Regex, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.
+Next Token : match, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.match
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.match 
+Next Token : regex, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.match regex
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.match regex 
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.match regex s
+Next Token : 
+, Posbility: 0.2852
+---------------------------
+code:
+ (* Write a function to check whether the given string is starting with a vowel or not using regex. *)
+let is_vowel s =
+  let vowels = "aeiouy" in
+  let regex = Regex.of_string "^[a-zA-Z]$" in
+  Regex.match regex s
+
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.8287713527679443
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,512 @@
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0260
+Next Token :  find, Posbility: 0.0260
+Next Token :  large, Posbility: 0.0427
+Next Token :  , Posbility: 0.1162
+Next Token :  rec, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  large, Posbility: 0.0483
+Next Token :  loop, Posbility: 0.0703
+Next Token :  max, Posbility: 0.1025
+Next Token :  find, Posbility: 0.1494
+Next Token :  , Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fi, Posbility: 0.0430
+Next Token : aux, Posbility: 0.0430
+Next Token : split, Posbility: 0.0549
+Next Token : helper, Posbility: 0.0623
+Next Token : f, Posbility: 0.0708
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0184
+Next Token :  i, Posbility: 0.0442
+Next Token :  =, Posbility: 0.0500
+Next Token :  , Posbility: 0.2891
+Next Token :  k, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0398
+Next Token :  i, Posbility: 0.0654
+Next Token :  a, Posbility: 0.0654
+Next Token :  =, Posbility: 0.1572
+Next Token :  , Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0649
+Next Token : m, Posbility: 0.0737
+Next Token : n, Posbility: 0.1216
+Next Token : arr, Posbility: 0.2266
+Next Token : x, Posbility: 0.2578
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0126
+Next Token :  i, Posbility: 0.0266
+Next Token :  , Posbility: 0.1533
+Next Token : s, Posbility: 0.3242
+Next Token :  =, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0023
+Next Token : 
+
+, Posbility: 0.0027
+Next Token :  match, Posbility: 0.0605
+Next Token :  , Posbility: 0.0879
+Next Token : 
+, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0052
+Next Token :    , Posbility: 0.0060
+Next Token : 	, Posbility: 0.0098
+Next Token :     , Posbility: 0.0820
+Next Token :   , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0068
+Next Token : (, Posbility: 0.0087
+Next Token : let, Posbility: 0.1201
+Next Token : match, Posbility: 0.4180
+Next Token : if, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0022
+Next Token :  0, Posbility: 0.0022
+Next Token :  not, Posbility: 0.0099
+Next Token :  , Posbility: 0.0732
+Next Token :  k, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0194
+Next Token :  <=, Posbility: 0.0869
+Next Token :  ==, Posbility: 0.0869
+Next Token :  , Posbility: 0.1436
+Next Token :  =, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0008
+Next Token :  k, Posbility: 0.0008
+Next Token :  , Posbility: 0.0059
+Next Token :  1, Posbility: 0.1182
+Next Token :  0, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0030
+Next Token :  ||, Posbility: 0.0030
+Next Token : 
+, Posbility: 0.0222
+Next Token :  with, Posbility: 0.0222
+Next Token :  then, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0100
+Next Token :  Some, Posbility: 0.0272
+Next Token :  0, Posbility: 0.0349
+Next Token : 
+, Posbility: 0.3320
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0277
+Next Token : (, Posbility: 0.0356
+Next Token : Array, Posbility: 0.0403
+Next Token : List, Posbility: 0.0664
+Next Token : x, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0344
+Next Token : ., Posbility: 0.0442
+Next Token :  |, Posbility: 0.0825
+Next Token :  else, Posbility: 0.1748
+Next Token : 
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0003
+Next Token :       , Posbility: 0.0010
+Next Token :  , Posbility: 0.0013
+Next Token :     , Posbility: 0.0036
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : elif, Posbility: 0.0004
+Next Token : then, Posbility: 0.0004
+Next Token : [, Posbility: 0.0005
+Next Token : let, Posbility: 0.0028
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0059
+Next Token :  k, Posbility: 0.0182
+Next Token :  {, Posbility: 0.0206
+Next Token : 
+, Posbility: 0.2520
+Next Token :  , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0693
+Next Token : if, Posbility: 0.1289
+Next Token : x, Posbility: 0.1465
+Next Token : let, Posbility: 0.1465
+Next Token : f, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0117
+Next Token :  (1, Posbility: 0.0150
+Next Token :  ((, Posbility: 0.0150
+Next Token :  k, Posbility: 0.3008
+Next Token :  , Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : x, Posbility: 0.0002
+Next Token : -, Posbility: 0.0003
+Next Token : f, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0005
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : mod, Posbility: 0.0001
+Next Token : -, Posbility: 0.0003
+Next Token : f, Posbility: 0.0003
+Next Token :  k, Posbility: 0.0097
+Next Token : k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0021
+Next Token :  –, Posbility: 0.0027
+Next Token :  -1), Posbility: 0.0034
+Next Token : -1), Posbility: 0.1465
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : >, Posbility: 0.0000
+Next Token : /, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0001
+Next Token : −, Posbility: 0.0013
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2), Posbility: 0.0004
+Next Token :  , Posbility: 0.0005
+Next Token :  1, Posbility: 0.0005
+Next Token :  k, Posbility: 0.0008
+Next Token :  1), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0076
+Next Token : 
+, Posbility: 0.0161
+Next Token :  ((, Posbility: 0.0161
+Next Token :  [, Posbility: 0.0437
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ([, Posbility: 0.0020
+Next Token : 
+, Posbility: 0.0029
+Next Token : f, Posbility: 0.0029
+Next Token : x, Posbility: 0.0659
+Next Token : (, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : k, Posbility: 0.0266
+Next Token : f, Posbility: 0.0815
+Next Token : List, Posbility: 0.0928
+Next Token : Array, Posbility: 0.0928
+Next Token : x, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0104
+Next Token : +, Posbility: 0.0104
+Next Token :  *, Posbility: 0.0464
+Next Token :  +, Posbility: 0.4414
+Next Token :  , Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0128
+Next Token : -, Posbility: 0.0508
+Next Token : ^, Posbility: 0.1216
+Next Token : :, Posbility: 0.1768
+Next Token : ::, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0066
+Next Token :  [, Posbility: 0.0096
+Next Token : :, Posbility: 0.0204
+Next Token :  k, Posbility: 0.0488
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0415
+Next Token : List, Posbility: 0.0535
+Next Token : f, Posbility: 0.0879
+Next Token : (, Posbility: 0.0996
+Next Token : x, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : [1]), Posbility: 0.0090
+Next Token : [0]), Posbility: 0.0216
+Next Token : );, Posbility: 0.0244
+Next Token :  , Posbility: 0.0664
+Next Token : ), Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: x)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0121
+Next Token :  ++, Posbility: 0.0156
+Next Token :  , Posbility: 0.0330
+Next Token : 
+, Posbility: 0.2441
+Next Token : 
+
+, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: x)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :16.87321424484253
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

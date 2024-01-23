@@ -1,0 +1,64 @@
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let 
+Next Token : peri, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let peri
+Next Token : meter, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter
+Next Token :  , Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter 
+Next Token : s, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s =
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = 
+Next Token : s, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s
+Next Token :  *, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s *
+Next Token :  4, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s * 4
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.623744010925293
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

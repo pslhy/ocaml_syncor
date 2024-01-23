@@ -1,0 +1,588 @@
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let
+Next Token :  rec, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec
+Next Token :  , Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec 
+Next Token : div, Posbility: 0.1699
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec div
+Next Token : is, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divis
+Next Token : ors, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors
+Next Token :  k, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k 
+Next Token : x, Posbility: 0.2100
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k x
+Next Token : s, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+Next Token : 
+, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+
+Next Token :   , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  
+Next Token : match, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match 
+Next Token : x, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match x
+Next Token : s, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] ->
+Next Token :  [], Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  |
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | 
+Next Token : x, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x 
+Next Token : ::, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x ::
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: 
+Next Token : x, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+
+Next Token :       , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      
+Next Token : if, Posbility: 0.4375
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if 
+Next Token : x, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x
+Next Token :  %, Posbility: 0.3223
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x %
+Next Token :  k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k
+Next Token :  =, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k =
+Next Token :  0, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then 
+Next Token : div, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then div
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divis
+Next Token : ors, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors
+Next Token :  k, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k 
+Next Token : x, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+Next Token : 
+, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+
+Next Token :       , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else 
+Next Token : div, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else div
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divis
+Next Token : ors, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors
+Next Token :  k, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k 
+Next Token : (, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (
+Next Token : x, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x 
+Next Token : ::, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x ::
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x :: 
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x :: x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x :: xs
+Next Token : ), Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find tuples which have all elements divisible by k from the given list of tuples. *)
+let rec divisors k xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+      if x % k = 0 then divisors k xs
+      else divisors k (x :: xs)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.0426247119903564
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

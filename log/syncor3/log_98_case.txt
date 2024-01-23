@@ -1,0 +1,496 @@
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  power, Posbility: 0.0159
+Next Token :  is, Posbility: 0.0231
+Next Token :  find, Posbility: 0.0381
+Next Token :  , Posbility: 0.2188
+Next Token :  rec, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0217
+Next Token :  loop, Posbility: 0.0247
+Next Token :  power, Posbility: 0.0762
+Next Token :  find, Posbility: 0.1826
+Next Token :  , Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0342
+Next Token : pow, Posbility: 0.0498
+Next Token : min, Posbility: 0.0640
+Next Token : f, Posbility: 0.0820
+Next Token : smallest, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0063
+Next Token : Power, Posbility: 0.0063
+Next Token :  , Posbility: 0.0171
+Next Token :  =, Posbility: 0.0171
+Next Token : _, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0136
+Next Token : p, Posbility: 0.0136
+Next Token : great, Posbility: 0.0136
+Next Token : pow, Posbility: 0.1006
+Next Token : power, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0134
+Next Token : 2, Posbility: 0.0366
+Next Token :  , Posbility: 0.0991
+Next Token :  =, Posbility: 0.0991
+Next Token : _, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : gt, Posbility: 0.0037
+Next Token : two, Posbility: 0.0037
+Next Token : 2, Posbility: 0.0275
+Next Token : great, Posbility: 0.0275
+Next Token : of, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0007
+Next Token :  , Posbility: 0.0014
+Next Token : 2, Posbility: 0.0082
+Next Token : _2_, Posbility: 0.0469
+Next Token : _, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0003
+Next Token : 2., Posbility: 0.0003
+Next Token : n, Posbility: 0.0068
+Next Token : two, Posbility: 0.3730
+Next Token : 2, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0122
+Next Token :  greater, Posbility: 0.0201
+Next Token : _, Posbility: 0.0425
+Next Token :  =, Posbility: 0.1904
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0038
+Next Token : :, Posbility: 0.0043
+Next Token : x, Posbility: 0.0220
+Next Token : (, Posbility: 0.0282
+Next Token : n, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0026
+Next Token :  acc, Posbility: 0.0026
+Next Token :  i, Posbility: 0.0049
+Next Token :  , Posbility: 0.0461
+Next Token :  =, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0064
+Next Token :  function, Posbility: 0.0064
+Next Token :  match, Posbility: 0.0608
+Next Token :  , Posbility: 0.0781
+Next Token : 
+, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0056
+Next Token : 	, Posbility: 0.0104
+Next Token :    , Posbility: 0.0118
+Next Token :     , Posbility: 0.1270
+Next Token :   , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0029
+Next Token : (, Posbility: 0.0099
+Next Token : let, Posbility: 0.0947
+Next Token : match, Posbility: 0.3301
+Next Token : if, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  less, Posbility: 0.0012
+Next Token :  0, Posbility: 0.0013
+Next Token :  int, Posbility: 0.0013
+Next Token :  not, Posbility: 0.0022
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0006
+Next Token : 2, Posbility: 0.0008
+Next Token : Int, Posbility: 0.0056
+Next Token : (, Posbility: 0.0469
+Next Token : n, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0144
+Next Token :  ==, Posbility: 0.1064
+Next Token :  , Posbility: 0.2891
+Next Token :  =, Posbility: 0.2891
+Next Token :  <=, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token : 0, Posbility: 0.0004
+Next Token :  , Posbility: 0.0630
+Next Token :  1, Posbility: 0.4668
+Next Token :  0, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0027
+Next Token :  , Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0173
+Next Token :  ||, Posbility: 0.0222
+Next Token :  then, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0214
+Next Token : 
+, Posbility: 0.1582
+Next Token :  , Posbility: 0.2598
+Next Token :  0, Posbility: 0.2598
+Next Token :  1, Posbility: 0.2598
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0017
+Next Token :   , Posbility: 0.0032
+Next Token :  , Posbility: 0.0164
+Next Token : 
+, Posbility: 0.4238
+Next Token :  else, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0034
+Next Token :  {, Posbility: 0.0056
+Next Token :  2*, Posbility: 0.0153
+Next Token : 
+, Posbility: 0.3066
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0503
+Next Token : (, Posbility: 0.0645
+Next Token : n, Posbility: 0.0645
+Next Token : 2, Posbility: 0.2246
+Next Token : smallest, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0000
+Next Token :  *, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : prime, Posbility: 0.0000
+Next Token : of, Posbility: 0.0000
+Next Token : factor, Posbility: 0.0000
+Next Token : pow, Posbility: 0.0001
+Next Token : power, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _2_, Posbility: 0.0000
+Next Token :  *, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : o, Posbility: 0.0000
+Next Token :  of, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : for, Posbility: 0.0000
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token : _2_, Posbility: 0.0041
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 3, Posbility: 0.0001
+Next Token : 2,, Posbility: 0.0001
+Next Token : two, Posbility: 0.0001
+Next Token : 2., Posbility: 0.0003
+Next Token : 2, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0032
+Next Token :  (1, Posbility: 0.0053
+Next Token :  ((, Posbility: 0.0186
+Next Token : (, Posbility: 0.1768
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0003
+Next Token : floor, Posbility: 0.0006
+Next Token : n, Posbility: 0.0140
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : div, Posbility: 0.0032
+Next Token : floor, Posbility: 0.0047
+Next Token :  , Posbility: 0.0145
+Next Token : 2, Posbility: 0.0649
+Next Token : n, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0090
+Next Token :  >>, Posbility: 0.0405
+Next Token : /, Posbility: 0.0522
+Next Token : -1), Posbility: 0.0522
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0014
+Next Token : div, Posbility: 0.0084
+Next Token : //, Posbility: 0.0107
+Next Token : /, Posbility: 0.4570
+Next Token : -, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0072
+Next Token :  2), Posbility: 0.0152
+Next Token :  , Posbility: 0.0250
+Next Token :  1);, Posbility: 0.1123
+Next Token :  1), Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0381
+Next Token :  +, Posbility: 0.0913
+Next Token : 
+, Posbility: 0.1934
+Next Token :  *, Posbility: 0.2197
+Next Token : 
+
+, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to find the smallest power of 2 greater than or equal to n. *)
+let rec smallest_power_of_2 n =
+  if n <= 0 then 1 else smallest_power_of_2 (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :16.973219394683838
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

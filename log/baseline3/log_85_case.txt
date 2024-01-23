@@ -1,0 +1,89 @@
+code:
+ (* Write a function to find the circumference of a circle. *)
+let
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let 
+Next Token : circum, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circum
+Next Token : fer, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumfer
+Next Token : ence, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference 
+Next Token : r, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r
+Next Token :  =, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r =
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 
+Next Token : 2, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2
+Next Token :  *, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 *
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * 
+Next Token : pi, Posbility: 0.3066
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi
+Next Token :  *, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi *
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi * 
+Next Token : r, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi * r
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.749061107635498
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

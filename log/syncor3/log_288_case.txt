@@ -1,0 +1,678 @@
+code:
+ (* Write a function to check if a dictionary is empty *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  check, Posbility: 0.0508
+Next Token :  , Posbility: 0.1216
+Next Token :  empty, Posbility: 0.2275
+Next Token :  is, Posbility: 0.2578
+Next Token :  rec, Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  has, Posbility: 0.0071
+Next Token :  check, Posbility: 0.0762
+Next Token :  , Posbility: 0.1426
+Next Token :  empty, Posbility: 0.2354
+Next Token :  is, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Dict, Posbility: 0.0009
+Next Token : -, Posbility: 0.0014
+Next Token : Empty, Posbility: 0.0014
+Next Token : empty, Posbility: 0.0289
+Next Token : _, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : emp, Posbility: 0.0024
+Next Token : dictionary, Posbility: 0.0024
+Next Token : em, Posbility: 0.0039
+Next Token : dict, Posbility: 0.0176
+Next Token : empty, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0193
+Next Token :  a, Posbility: 0.0317
+Next Token :  =, Posbility: 0.1108
+Next Token : _, Posbility: 0.2354
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0488
+Next Token : m, Posbility: 0.0554
+Next Token : dic, Posbility: 0.0806
+Next Token : dict, Posbility: 0.1172
+Next Token : d, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0010
+Next Token : 1, Posbility: 0.0011
+Next Token :  acc, Posbility: 0.0016
+Next Token :  , Posbility: 0.0156
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0014
+Next Token :  {, Posbility: 0.0043
+Next Token :  match, Posbility: 0.0762
+Next Token :  , Posbility: 0.0864
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0034
+Next Token : 	, Posbility: 0.0092
+Next Token :    , Posbility: 0.0103
+Next Token :     , Posbility: 0.1426
+Next Token :   , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0114
+Next Token : (, Posbility: 0.0188
+Next Token : let, Posbility: 0.0845
+Next Token : if, Posbility: 0.3340
+Next Token : match, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  hash, Posbility: 0.0011
+Next Token :  String, Posbility: 0.0035
+Next Token :  !, Posbility: 0.0045
+Next Token :  Hash, Posbility: 0.0095
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0089
+Next Token : List, Posbility: 0.0114
+Next Token : Dict, Posbility: 0.0114
+Next Token : Map, Posbility: 0.0352
+Next Token : d, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :  {, Posbility: 0.0002
+Next Token :  , Posbility: 0.0009
+Next Token : ., Posbility: 0.0052
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0013
+Next Token :  [], Posbility: 0.0057
+Next Token :  , Posbility: 0.0083
+Next Token :  {, Posbility: 0.0176
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0006
+Next Token :       , Posbility: 0.0016
+Next Token :    , Posbility: 0.0020
+Next Token :     , Posbility: 0.0674
+Next Token :   , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0007
+Next Token : [, Posbility: 0.0017
+Next Token : {, Posbility: 0.0040
+Next Token : [], Posbility: 0.0052
+Next Token : |, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0101
+Next Token :  None, Posbility: 0.0146
+Next Token :  , Posbility: 0.1787
+Next Token :  [], Posbility: 0.3340
+Next Token :  {, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0038
+Next Token : _, Posbility: 0.0049
+Next Token : |, Posbility: 0.0103
+Next Token :  , Posbility: 0.1260
+Next Token : }, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0024
+Next Token :   , Posbility: 0.0024
+Next Token :  |, Posbility: 0.0065
+Next Token :  =>, Posbility: 0.0107
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {}  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {}   
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : map, Posbility: 0.0123
+Next Token : d, Posbility: 0.0139
+Next Token : _, Posbility: 0.0552
+Next Token : (), Posbility: 0.0552
+Next Token : }, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0024
+Next Token :   , Posbility: 0.0030
+Next Token :  |, Posbility: 0.0082
+Next Token :  =>, Posbility: 0.0175
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { } 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { } =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { } |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { }  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { }   
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { ()
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0247
+Next Token : :, Posbility: 0.0247
+Next Token :  |, Posbility: 0.0757
+Next Token :  =, Posbility: 0.1602
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { _ 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { _ =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { _ |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { _:
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { _,
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0298
+Next Token : 1, Posbility: 0.0337
+Next Token :  , Posbility: 0.1514
+Next Token :  |, Posbility: 0.2832
+Next Token :  =, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  nil, Posbility: 0.0110
+Next Token :  [];, Posbility: 0.0493
+Next Token :  {, Posbility: 0.1338
+Next Token :  , Posbility: 0.2832
+Next Token :  [], Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = []
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  as, Posbility: 0.0034
+Next Token :  |, Posbility: 0.0044
+Next Token : }, Posbility: 0.0327
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : },, Posbility: 0.0004
+Next Token : ->, Posbility: 0.0007
+Next Token : ::, Posbility: 0.0009
+Next Token : ;, Posbility: 0.0330
+Next Token : }, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0031
+Next Token : 
+, Posbility: 0.0031
+Next Token :  |, Posbility: 0.0031
+Next Token :  =>, Posbility: 0.0084
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0004
+Next Token : →, Posbility: 0.0007
+Next Token : -, Posbility: 0.0015
+Next Token : ::, Posbility: 0.0052
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  false, Posbility: 0.0038
+Next Token : 
+, Posbility: 0.0063
+Next Token :  True, Posbility: 0.0103
+Next Token :  , Posbility: 0.0464
+Next Token :  true, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ,, Posbility: 0.0022
+Next Token :  , Posbility: 0.0035
+Next Token : ;, Posbility: 0.0040
+Next Token :  |, Posbility: 0.0052
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ;, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  otherwise, Posbility: 0.0015
+Next Token :  others, Posbility: 0.0019
+Next Token :  other, Posbility: 0.0025
+Next Token :  {, Posbility: 0.3711
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ({, Posbility: 0.0028
+Next Token : (, Posbility: 0.0041
+Next Token : x, Posbility: 0.0144
+Next Token : d, Posbility: 0.0645
+Next Token : _, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0011
+Next Token :          , Posbility: 0.0013
+Next Token :   , Posbility: 0.0019
+Next Token :  =>, Posbility: 0.0021
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0002
+Next Token : ::, Posbility: 0.0007
+Next Token : if, Posbility: 0.0010
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0039
+Next Token :  , Posbility: 0.0039
+Next Token :  is, Posbility: 0.0291
+Next Token :  false, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  | _ -> false
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0009
+Next Token :  , Posbility: 0.0020
+Next Token : ;, Posbility: 0.0054
+Next Token : 
+, Posbility: 0.1797
+Next Token : 
+
+, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | { d = [] } -> true
+  | _ -> false
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :23.60431146621704
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

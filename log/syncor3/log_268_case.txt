@@ -1,0 +1,692 @@
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  difference, Posbility: 0.0415
+Next Token :  sum, Posbility: 0.0469
+Next Token :  per, Posbility: 0.0532
+Next Token :  , Posbility: 0.2383
+Next Token :  rec, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0234
+Next Token :  per, Posbility: 0.0437
+Next Token :  find, Posbility: 0.1050
+Next Token :  sum, Posbility: 0.1348
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : digit, Posbility: 0.0295
+Next Token : d, Posbility: 0.0378
+Next Token : add, Posbility: 0.0378
+Next Token : f, Posbility: 0.0625
+Next Token : diff, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0217
+Next Token : s, Posbility: 0.0317
+Next Token :  , Posbility: 0.2334
+Next Token : _, Posbility: 0.2334
+Next Token :  =, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0165
+Next Token :  fun, Posbility: 0.0396
+Next Token :  , Posbility: 0.0508
+Next Token : 
+, Posbility: 0.1768
+Next Token :  function, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0035
+Next Token :  acc, Posbility: 0.0039
+Next Token : (, Posbility: 0.0073
+Next Token :  , Posbility: 0.1147
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0123
+Next Token :         , Posbility: 0.0179
+Next Token : |, Posbility: 0.0554
+Next Token :     , Posbility: 0.1035
+Next Token :   , Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : {, Posbility: 0.0010
+Next Token : let, Posbility: 0.0011
+Next Token : [, Posbility: 0.0045
+Next Token : (, Posbility: 0.0075
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0125
+Next Token :  [, Posbility: 0.0125
+Next Token :  , Posbility: 0.2500
+Next Token :  [], Posbility: 0.2500
+Next Token :  0, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  as, Posbility: 0.0171
+Next Token :  =>, Posbility: 0.0194
+Next Token :   , Posbility: 0.0249
+Next Token :  |, Posbility: 0.0249
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0062
+Next Token : ,, Posbility: 0.0090
+Next Token : :, Posbility: 0.0148
+Next Token : ::, Posbility: 0.1396
+Next Token : ->, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0134
+Next Token :  function, Posbility: 0.0134
+Next Token :  , Posbility: 0.0986
+Next Token :  1, Posbility: 0.0986
+Next Token :  0, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0042
+Next Token :  |, Posbility: 0.0079
+Next Token :   , Posbility: 0.0090
+Next Token :  , Posbility: 0.0215
+Next Token : 
+, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token :       , Posbility: 0.0001
+Next Token : |, Posbility: 0.0001
+Next Token :     , Posbility: 0.0002
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0003
+Next Token : (, Posbility: 0.0003
+Next Token : let, Posbility: 0.0004
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0150
+Next Token :  a, Posbility: 0.0150
+Next Token :  i, Posbility: 0.1113
+Next Token :  1, Posbility: 0.3027
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0255
+Next Token : _, Posbility: 0.1475
+Next Token : x, Posbility: 0.1885
+Next Token : d, Posbility: 0.2422
+Next Token : n, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0114
+Next Token : 0, Posbility: 0.0188
+Next Token :  when, Posbility: 0.0242
+Next Token : 1, Posbility: 0.0742
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0009
+Next Token : <, Posbility: 0.0009
+Next Token : if, Posbility: 0.0121
+Next Token : ::, Posbility: 0.0177
+Next Token : ->, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0130
+Next Token :  (1, Posbility: 0.0130
+Next Token : 
+, Posbility: 0.0962
+Next Token :  1, Posbility: 0.0962
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0593
+Next Token : if, Posbility: 0.0859
+Next Token : (, Posbility: 0.1250
+Next Token : diff, Posbility: 0.1416
+Next Token : n, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0447
+Next Token : 
+, Posbility: 0.1211
+Next Token :  *, Posbility: 0.1553
+Next Token :  +, Posbility: 0.1768
+Next Token :  , Posbility: 0.3730
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ::, Posbility: 0.0094
+Next Token : /, Posbility: 0.0107
+Next Token : //, Posbility: 0.0121
+Next Token : ^, Posbility: 0.0894
+Next Token : -, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  10, Posbility: 0.0064
+Next Token :  0, Posbility: 0.0073
+Next Token :  ((, Posbility: 0.0198
+Next Token :  1, Posbility: 0.1650
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0145
+Next Token : digit, Posbility: 0.0210
+Next Token : n, Posbility: 0.1069
+Next Token : (, Posbility: 0.2266
+Next Token : diff, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0214
+Next Token :  ((, Posbility: 0.0214
+Next Token :  (1, Posbility: 0.0273
+Next Token : (, Posbility: 0.0581
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0017
+Next Token : -, Posbility: 0.0037
+Next Token : n, Posbility: 0.0840
+Next Token : (, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : String, Posbility: 0.0256
+Next Token : div, Posbility: 0.0291
+Next Token : Int, Posbility: 0.0291
+Next Token : int, Posbility: 0.0330
+Next Token : n, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0105
+Next Token : /, Posbility: 0.0286
+Next Token :  +, Posbility: 0.0286
+Next Token : -1), Posbility: 0.1650
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : DIV, Posbility: 0.0009
+Next Token : //, Posbility: 0.0136
+Next Token : div, Posbility: 0.0154
+Next Token : /, Posbility: 0.3105
+Next Token : -, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2), Posbility: 0.0024
+Next Token :  10), Posbility: 0.0040
+Next Token :  1, Posbility: 0.0065
+Next Token :  , Posbility: 0.0108
+Next Token :  1), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0065
+Next Token :  in, Posbility: 0.0107
+Next Token :  , Posbility: 0.0177
+Next Token : 
+
+, Posbility: 0.3555
+Next Token : 
+, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0312
+Next Token : end, Posbility: 0.0334
+Next Token : let, Posbility: 0.0908
+Next Token : |, Posbility: 0.1025
+Next Token :   , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0025
+Next Token : (, Posbility: 0.0069
+Next Token : ;, Posbility: 0.0155
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0078
+Next Token :  1, Posbility: 0.0088
+Next Token :  i, Posbility: 0.0145
+Next Token :  0, Posbility: 0.0211
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0300
+Next Token : x, Posbility: 0.0562
+Next Token : m, Posbility: 0.0562
+Next Token : _, Posbility: 0.3242
+Next Token : n, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0208
+Next Token :  when, Posbility: 0.0266
+Next Token :  +, Posbility: 0.0439
+Next Token : 1, Posbility: 0.0640
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0021
+Next Token : -, Posbility: 0.0093
+Next Token : if, Posbility: 0.0197
+Next Token : ::, Posbility: 0.0197
+Next Token : ->, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fail, Posbility: 0.0119
+Next Token :  1, Posbility: 0.0197
+Next Token : 
+, Posbility: 0.0415
+Next Token :  0, Posbility: 0.0415
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0122
+Next Token : -, Posbility: 0.0293
+Next Token : (, Posbility: 0.0332
+Next Token : n, Posbility: 0.3574
+Next Token : diff, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (1, Posbility: 0.0056
+Next Token :  0, Posbility: 0.0064
+Next Token :  ((, Posbility: 0.0105
+Next Token : (, Posbility: 0.0119
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token : (0), Posbility: 0.0008
+Next Token : 2, Posbility: 0.0010
+Next Token : n, Posbility: 0.1816
+Next Token : (, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : int, Posbility: 0.0027
+Next Token : floor, Posbility: 0.0027
+Next Token : 2, Posbility: 0.0040
+Next Token : diff, Posbility: 0.0084
+Next Token : n, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0079
+Next Token :  *, Posbility: 0.0079
+Next Token : -1), Posbility: 0.0215
+Next Token :  +, Posbility: 0.0354
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : div, Posbility: 0.0002
+Next Token : +1), Posbility: 0.0005
+Next Token : //, Posbility: 0.0073
+Next Token : /, Posbility: 0.1465
+Next Token : -, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0023
+Next Token :  , Posbility: 0.0166
+Next Token :  10), Posbility: 0.0166
+Next Token :  2), Posbility: 0.0452
+Next Token :  1), Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0106
+Next Token :  , Posbility: 0.1011
+Next Token : 
+, Posbility: 0.1670
+Next Token :  +, Posbility: 0.3516
+Next Token : 
+
+, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :21.25601315498352
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

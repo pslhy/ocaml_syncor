@@ -1,0 +1,139 @@
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let 
+Next Token : dog, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog
+Next Token : _, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_
+Next Token : year, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_year
+Next Token : s, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years
+Next Token :  =, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years =
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = 
+Next Token : (, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (
+Next Token : fun, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun 
+Next Token : dog, Posbility: 0.2246
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog
+Next Token : _, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_
+Next Token : year, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_year
+Next Token : s, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years 
+Next Token : ->, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years ->
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> 
+Next Token : dog, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_
+Next Token : year, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_year
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years
+Next Token :  *, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years *
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 
+Next Token : 7, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 7
+Next Token : ), Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 7)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.023521900177002
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

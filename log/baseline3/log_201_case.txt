@@ -1,0 +1,1021 @@
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let 
+Next Token : snake, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake
+Next Token : _, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_
+Next Token : to, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_
+Next Token : camel, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel
+Next Token :  =, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+Next Token : 
+, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  
+Next Token : let, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let
+Next Token :  rec, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec 
+Next Token : snake, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake
+Next Token : _, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_
+Next Token : to, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_
+Next Token : camel, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel 
+Next Token : s, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s
+Next Token :  =, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+
+Next Token :     , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    
+Next Token : match, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match
+Next Token :  String, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.
+Next Token : find, Posbility: 0.1689
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find
+Next Token : _, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_
+Next Token : char, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char 
+Next Token : s, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s
+Next Token :  ', Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '
+Next Token : _, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_'
+Next Token :  with, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+
+Next Token :     , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    |
+Next Token :  None, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None ->
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> 
+Next Token : s, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    |
+Next Token :  Some, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some 
+Next Token : (, Posbility: 0.3027
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (
+Next Token : i, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i
+Next Token : ,, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i,
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, 
+Next Token : _, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _
+Next Token : ), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _)
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) 
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+Next Token : 
+, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+
+Next Token :         , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        
+Next Token : let, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let 
+Next Token : s, Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s
+Next Token : ', Posbility: 0.2617
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s'
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' =
+Next Token :  String, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.
+Next Token : sub, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s
+Next Token :  0, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0
+Next Token :  i, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i
+Next Token :  in, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+
+Next Token :         , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        
+Next Token : let, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let 
+Next Token : s, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s
+Next Token : ', Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'
+Next Token : ', Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s''
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' =
+Next Token :  String, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.
+Next Token : sub, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s
+Next Token :  i, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i
+Next Token :  +, Posbility: 0.3496
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i +
+Next Token :  1, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+
+Next Token :         , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        
+Next Token : snake, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_
+Next Token : to, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_
+Next Token : camel, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel 
+Next Token : s, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s
+Next Token : ', Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s'
+Next Token : ', Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+Next Token : 
+, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  
+Next Token : in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+  
+Next Token : snake, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+  snake
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+  snake_
+Next Token : to, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+  snake_to
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+  snake_to_
+Next Token : camel, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert the given snake case string to camel case string. *)
+let snake_to_camel =
+  let rec snake_to_camel s =
+    match String.find_char s '_' with
+    | None -> s
+    | Some (i, _) ->
+        let s' = String.sub s 0 i in
+        let s'' = String.sub s i + 1 in
+        snake_to_camel s''
+  in
+  snake_to_camel
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.400028228759766
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

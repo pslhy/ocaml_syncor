@@ -1,0 +1,378 @@
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let
+Next Token :  , Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let 
+Next Token : concat, Posbility: 0.3047
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat
+Next Token : _, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_
+Next Token : tuple, Posbility: 0.1865
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple
+Next Token :  , Posbility: 0.3438
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple 
+Next Token : delim, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim
+Next Token :  , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim 
+Next Token : t, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+Next Token : 
+, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+
+Next Token :   , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  
+Next Token : match, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match 
+Next Token : t, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  
+Next Token : |, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  |
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | 
+Next Token : (), Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | ()
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () ->
+Next Token :  "", Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  |
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | 
+Next Token : (, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (
+Next Token : hd, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd
+Next Token : ,, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd,
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, 
+Next Token : tl, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl
+Next Token : ), Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl)
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) 
+Next Token : ->, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) ->
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> 
+Next Token : hd, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd 
+Next Token : ^, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ 
+Next Token : delim, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim 
+Next Token : ^, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ 
+Next Token : concat, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat_
+Next Token : tuple, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat_tuple
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat_tuple 
+Next Token : delim, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat_tuple delim
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat_tuple delim 
+Next Token : tl, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to concatenate each element of tuple by the delimiter. *)
+let concat_tuple delim t =
+  match t with
+  | () -> ""
+  | (hd, tl) -> hd ^ delim ^ concat_tuple delim tl
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.718423843383789
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

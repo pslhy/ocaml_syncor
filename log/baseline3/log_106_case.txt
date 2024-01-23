@@ -1,0 +1,2245 @@
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let
+Next Token :  remove, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove
+Next Token : _, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_
+Next Token : odd, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd
+Next Token : _, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_
+Next Token : index, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index
+Next Token : _, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_
+Next Token : char, Posbility: 0.4688
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_char
+Next Token : s, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars 
+Next Token : s, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+Next Token : 
+, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+
+Next Token :   , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  
+Next Token : let, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let
+Next Token :  , Posbility: 0.3027
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let 
+Next Token : odd, Posbility: 0.3809
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd
+Next Token : _, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_
+Next Token : index, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index
+Next Token : _, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_
+Next Token : char, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_char
+Next Token : s, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars
+Next Token :  =, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+Next Token : 
+, Posbility: 0.3223
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+
+Next Token :     , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    
+Next Token : let, Posbility: 0.3594
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let 
+Next Token : odd, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd
+Next Token : _, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_
+Next Token : index, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index
+Next Token : _, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_
+Next Token : char, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_char
+Next Token : s, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars =
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = 
+Next Token : List, Posbility: 0.2734
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.
+Next Token : filter, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter 
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (
+Next Token : fun, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun 
+Next Token : c, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c ->
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> 
+Next Token : c, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c
+Next Token :  , Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c 
+Next Token : <, Posbility: 0.2637
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <
+Next Token : >, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <>
+Next Token :  ', Posbility: 0.4199
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> '
+Next Token : a, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a
+Next Token : ', Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a'
+Next Token :  &&, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' &&
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && 
+Next Token : c, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <>
+Next Token :  ', Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> '
+Next Token : b, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b
+Next Token : ', Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b'
+Next Token :  &&, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' &&
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && 
+Next Token : c, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <>
+Next Token :  ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> '
+Next Token : c, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c
+Next Token : ', Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c'
+Next Token :  &&, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' &&
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <>
+Next Token :  ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> '
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd
+Next Token : ', Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd'
+Next Token :  &&, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' &&
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <>
+Next Token :  ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> '
+Next Token : e, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e
+Next Token : ', Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e'
+Next Token :  &&, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' &&
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> '
+Next Token : f, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f
+Next Token : ', Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f'
+Next Token :  &&, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <>
+Next Token :  ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> '
+Next Token : g, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g
+Next Token : ', Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g'
+Next Token :  &&, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> '
+Next Token : h, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h
+Next Token : ', Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h'
+Next Token :  &&, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> '
+Next Token : i, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i
+Next Token : ', Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> '
+Next Token : j, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j
+Next Token : ', Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j'
+Next Token :  &&, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> '
+Next Token : k, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k
+Next Token : ', Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> '
+Next Token : l, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l
+Next Token : ', Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> '
+Next Token : m, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> '
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n
+Next Token : ', Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> '
+Next Token : o, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> '
+Next Token : p, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p
+Next Token : ', Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p'
+Next Token :  &&, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> '
+Next Token : q, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q
+Next Token : ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q'
+Next Token :  &&, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> '
+Next Token : r, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r'
+Next Token :  &&, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> '
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's'
+Next Token :  &&, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> '
+Next Token : t, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't
+Next Token : ', Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> '
+Next Token : u, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u
+Next Token : ', Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u'
+Next Token :  &&, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> '
+Next Token : v, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v
+Next Token : ', Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> '
+Next Token : w, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w
+Next Token : ', Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> '
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> '
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y'
+Next Token :  &&, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' &&
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <>
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> '
+Next Token : z, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z
+Next Token : '), Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+Next Token : 
+, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+
+Next Token :   , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  
+Next Token : in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+
+Next Token :   , Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  
+Next Token : List, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.
+Next Token : filter, Posbility: 0.3965
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter 
+Next Token : (, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (
+Next Token : fun, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun 
+Next Token : c, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c ->
+Next Token :  , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> 
+Next Token : c, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c 
+Next Token : <, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <
+Next Token : >, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <>
+Next Token :  , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> 
+Next Token : (, Posbility: 0.2354
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (
+Next Token : String, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.
+Next Token : get, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get 
+Next Token : odd, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_
+Next Token : index, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_
+Next Token : char, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_char
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_chars
+Next Token :  0, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_chars 0
+Next Token : )), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_chars 0))
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_chars 0)) 
+Next Token : s, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to remove the characters which have odd index values of a given string. *)
+let remove_odd_index_chars s =
+  let odd_index_chars =
+    let odd_index_chars = List.filter (fun c -> c <> 'a' && c <> 'b' && c <> 'c' && c <> 'd' && c <> 'e' && c <> 'f' && c <> 'g' && c <> 'h' && c <> 'i' && c <> 'j' && c <> 'k' && c <> 'l' && c <> 'm' && c <> 'n' && c <> 'o' && c <> 'p' && c <> 'q' && c <> 'r' && c <> 's' && c <> 't' && c <> 'u' && c <> 'v' && c <> 'w' && c <> 'x' && c <> 'y' && c <> 'z')
+  in
+  List.filter (fun c -> c <> (String.get odd_index_chars 0)) s
+Error type: synerr_continue
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :9.5704185962677
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,860 @@
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let
+Next Token :  is, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is
+Next Token : _, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_
+Next Token : odd, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd
+Next Token :  , Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd 
+Next Token : s, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s
+Next Token :  =, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+Next Token : 
+, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+
+Next Token :   , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  
+Next Token : let, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let
+Next Token :  len, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len =
+Next Token :  String, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.
+Next Token : length, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length 
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+
+Next Token :   , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  
+Next Token : if, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if
+Next Token :  len, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len 
+Next Token : <, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <
+Next Token : >, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <>
+Next Token :  0, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0
+Next Token :  then, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+Next Token : 
+, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+
+Next Token :     , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    
+Next Token : let, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let
+Next Token :  , Posbility: 0.4375
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let 
+Next Token : c, Posbility: 0.1621
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c
+Next Token :  =, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c =
+Next Token :  , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = 
+Next Token : s, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s
+Next Token : ., Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.
+Next Token : [, Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[
+Next Token : len, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len 
+Next Token : -, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len -
+Next Token :  1], Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1]
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+
+Next Token :     , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    
+Next Token : if, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if 
+Next Token : c, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c
+Next Token :  =, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c =
+Next Token :  ', Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = '
+Next Token : a, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a
+Next Token : ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a'
+Next Token :  ||, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' ||
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || 
+Next Token : c, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c =
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = '
+Next Token : e, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e
+Next Token : ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e'
+Next Token :  ||, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' ||
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c =
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = '
+Next Token : i, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i
+Next Token : ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i'
+Next Token :  ||, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' ||
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c =
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = '
+Next Token : o, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o
+Next Token : ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o'
+Next Token :  ||, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' ||
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c =
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = '
+Next Token : u, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u
+Next Token : ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u'
+Next Token :  then, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+Next Token : 
+, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+
+Next Token :       , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      
+Next Token : return, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return
+Next Token :  true, Posbility: 0.3320
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+Next Token : 
+, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    
+Next Token : else, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+
+Next Token :       , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      
+Next Token : return, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return
+Next Token :  false, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+Next Token : 
+, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+
+Next Token :   , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+  else
+Next Token : 
+, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+  else
+
+Next Token :     , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+  else
+    
+Next Token : return, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+  else
+    return
+Next Token :  false, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd s =
+  let len = String.length s in
+  if len <> 0 then
+    let c = s.[len - 1] in
+    if c = 'a' || c = 'e' || c = 'i' || c = 'o' || c = 'u' then
+      return true
+    else
+      return false
+  else
+    return false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.6856210231781006
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

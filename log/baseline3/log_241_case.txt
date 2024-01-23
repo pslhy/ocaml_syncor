@@ -1,0 +1,104 @@
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let
+Next Token :  , Posbility: 0.3438
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let 
+Next Token : z, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z
+Next Token : _, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_
+Next Token : word, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word
+Next Token :  =, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word =
+Next Token :  , Posbility: 0.3535
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = 
+Next Token : (, Posbility: 0.1250
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (
+Next Token : fun, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun 
+Next Token : w, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w 
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w ->
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w -> 
+Next Token : w, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w -> w
+Next Token :  =, Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w -> w =
+Next Token :  ", Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w -> w = "
+Next Token : z, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w -> w = "z
+Next Token : "), Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function that matches a word containing 'z'. *)
+let z_word = (fun w -> w = "z")
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.9368207454681396
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

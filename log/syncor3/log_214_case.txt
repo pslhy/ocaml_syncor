@@ -1,0 +1,313 @@
+code:
+ (* Write a function to filter odd numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0571
+Next Token :  is, Posbility: 0.1211
+Next Token :  even, Posbility: 0.1553
+Next Token :  filter, Posbility: 0.1553
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0045
+Next Token : x, Posbility: 0.0045
+Next Token : print, Posbility: 0.0045
+Next Token : f, Posbility: 0.0430
+Next Token : odd, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0070
+Next Token :  , Posbility: 0.0854
+Next Token : s, Posbility: 0.2324
+Next Token :  =, Posbility: 0.2324
+Next Token : _, Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0309
+Next Token : nums, Posbility: 0.0396
+Next Token : number, Posbility: 0.0449
+Next Token : filter, Posbility: 0.1079
+Next Token : numbers, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0062
+Next Token :  a, Posbility: 0.0102
+Next Token : _, Posbility: 0.0972
+Next Token :  , Posbility: 0.2637
+Next Token :  =, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  filter, Posbility: 0.0432
+Next Token :  fun, Posbility: 0.0713
+Next Token :  function, Posbility: 0.2490
+Next Token : 
+, Posbility: 0.2832
+Next Token :  , Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Filter, Posbility: 0.0221
+Next Token : f, Posbility: 0.0284
+Next Token : (, Posbility: 0.0469
+Next Token : 
+, Posbility: 0.0601
+Next Token : List, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0002
+Next Token : (, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0010
+Next Token : _, Posbility: 0.0028
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : of, Posbility: 0.0048
+Next Token : rev, Posbility: 0.0061
+Next Token : fold, Posbility: 0.0079
+Next Token : map, Posbility: 0.0452
+Next Token : filter, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0125
+Next Token :  ((, Posbility: 0.0234
+Next Token : _, Posbility: 0.0386
+Next Token : (, Posbility: 0.0815
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : <, Posbility: 0.0021
+Next Token : List, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0040
+Next Token : odd, Posbility: 0.0074
+Next Token : (, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Fun, Posbility: 0.0045
+Next Token :  fun, Posbility: 0.0084
+Next Token : fn, Posbility: 0.0156
+Next Token : function, Posbility: 0.0791
+Next Token : fun, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  number, Posbility: 0.0103
+Next Token :  num, Posbility: 0.0131
+Next Token :  v, Posbility: 0.0131
+Next Token :  i, Posbility: 0.0216
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0017
+Next Token : _, Posbility: 0.0128
+Next Token : (, Posbility: 0.0128
+Next Token : n, Posbility: 0.2578
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0001
+Next Token : _, Posbility: 0.0004
+Next Token : ->, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0000
+Next Token : -, Posbility: 0.0001
+Next Token : →, Posbility: 0.0001
+Next Token : _, Posbility: 0.0003
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  String, Posbility: 0.0059
+Next Token : 
+, Posbility: 0.0125
+Next Token :  !, Posbility: 0.0339
+Next Token :  not, Posbility: 0.0435
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0055
+Next Token : Mod, Posbility: 0.0055
+Next Token : Int, Posbility: 0.0315
+Next Token : (, Posbility: 0.1104
+Next Token : x, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0075
+Next Token :  `, Posbility: 0.0124
+Next Token :  mod, Posbility: 0.0204
+Next Token :  , Posbility: 0.2490
+Next Token :  %, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x %
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0004
+Next Token :  4, Posbility: 0.0004
+Next Token :  2), Posbility: 0.0109
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x % 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token : Int, Posbility: 0.0002
+Next Token : (, Posbility: 0.0006
+Next Token : 3, Posbility: 0.0008
+Next Token : 2, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x % 2
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  !==, Posbility: 0.0056
+Next Token :  ==, Posbility: 0.0776
+Next Token :  , Posbility: 0.2100
+Next Token :  !=, Posbility: 0.3477
+Next Token :  =, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x % 2 =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0055
+Next Token :  1, Posbility: 0.0055
+Next Token :  1);, Posbility: 0.0410
+Next Token :  0), Posbility: 0.1113
+Next Token :  1), Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x % 2 = 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0708
+Next Token :  [, Posbility: 0.0708
+Next Token :  [1,, Posbility: 0.1494
+Next Token : 
+, Posbility: 0.1924
+Next Token : 
+
+, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to filter odd numbers. *)
+let odd_numbers = List.filter (fun x -> x % 2 = 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :11.75264573097229
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

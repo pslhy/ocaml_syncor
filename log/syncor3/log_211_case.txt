@@ -1,0 +1,452 @@
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0079
+Next Token :  find, Posbility: 0.0102
+Next Token :  average, Posbility: 0.1807
+Next Token :  , Posbility: 0.2314
+Next Token :  rec, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0194
+Next Token :  sum, Posbility: 0.0220
+Next Token :  find, Posbility: 0.0320
+Next Token :  average, Posbility: 0.3438
+Next Token :  , Posbility: 0.4414
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fi, Posbility: 0.0177
+Next Token : n, Posbility: 0.0374
+Next Token : f, Posbility: 0.0481
+Next Token : avg, Posbility: 0.2773
+Next Token : cube, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cube
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0228
+Next Token : d, Posbility: 0.0293
+Next Token :  , Posbility: 0.0796
+Next Token : _, Posbility: 0.2773
+Next Token : s, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Of, Posbility: 0.0092
+Next Token : (, Posbility: 0.0364
+Next Token :  =, Posbility: 0.2100
+Next Token : _, Posbility: 0.2695
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0074
+Next Token : :, Posbility: 0.0122
+Next Token : (, Posbility: 0.0376
+Next Token : x, Posbility: 0.0483
+Next Token : n, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0134
+Next Token :  acc, Posbility: 0.0284
+Next Token :  i, Posbility: 0.0366
+Next Token :  , Posbility: 0.1279
+Next Token :  =, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0040
+Next Token :  {, Posbility: 0.0066
+Next Token :  match, Posbility: 0.0630
+Next Token :  , Posbility: 0.1504
+Next Token : 
+, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0053
+Next Token :    , Posbility: 0.0128
+Next Token : 	, Posbility: 0.0128
+Next Token :     , Posbility: 0.1562
+Next Token :   , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0068
+Next Token : n, Posbility: 0.0099
+Next Token : let, Posbility: 0.0645
+Next Token : match, Posbility: 0.2891
+Next Token : if, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0007
+Next Token :  0, Posbility: 0.0007
+Next Token :  not, Posbility: 0.0010
+Next Token :   , Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : Eq, Posbility: 0.0002
+Next Token : Int, Posbility: 0.0008
+Next Token : (, Posbility: 0.0140
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0154
+Next Token :  ==, Posbility: 0.0420
+Next Token :  , Posbility: 0.3105
+Next Token :  =, Posbility: 0.3105
+Next Token :  <=, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0008
+Next Token : 0, Posbility: 0.0058
+Next Token :  , Posbility: 0.0157
+Next Token :  1, Posbility: 0.1162
+Next Token :  0, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token :  ||, Posbility: 0.0015
+Next Token :  , Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0109
+Next Token :  then, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0566
+Next Token :  0.0, Posbility: 0.1533
+Next Token : 
+, Posbility: 0.1973
+Next Token :  , Posbility: 0.1973
+Next Token :  0, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0046
+Next Token :  , Posbility: 0.0182
+Next Token : ., Posbility: 0.1719
+Next Token :  else, Posbility: 0.3223
+Next Token : 
+, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0004
+Next Token :       , Posbility: 0.0005
+Next Token :  , Posbility: 0.0013
+Next Token :     , Posbility: 0.0022
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : then, Posbility: 0.0002
+Next Token : elif, Posbility: 0.0003
+Next Token : let, Posbility: 0.0007
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0039
+Next Token :  1, Posbility: 0.0137
+Next Token :  {, Posbility: 0.0226
+Next Token : 
+, Posbility: 0.1011
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0139
+Next Token : cube, Posbility: 0.0201
+Next Token : if, Posbility: 0.0427
+Next Token : (, Posbility: 0.1318
+Next Token : n, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0061
+Next Token :  , Posbility: 0.0272
+Next Token : *, Posbility: 0.0742
+Next Token :  +, Posbility: 0.0742
+Next Token :  *, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0012
+Next Token :  [, Posbility: 0.0019
+Next Token :  (1, Posbility: 0.0024
+Next Token :  ((, Posbility: 0.0031
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pow, Posbility: 0.0065
+Next Token : 3, Posbility: 0.0156
+Next Token : n, Posbility: 0.2441
+Next Token : (, Posbility: 0.3125
+Next Token : cube, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cube
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0001
+Next Token : _, Posbility: 0.0003
+Next Token : (, Posbility: 0.0008
+Next Token :  , Posbility: 0.0110
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token :  (1, Posbility: 0.0023
+Next Token :  ((, Posbility: 0.0049
+Next Token : (, Posbility: 0.0469
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0001
+Next Token : n, Posbility: 0.0125
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : pred, Posbility: 0.0002
+Next Token : succ, Posbility: 0.0004
+Next Token :  , Posbility: 0.0059
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0017
+Next Token :  -1), Posbility: 0.0028
+Next Token : -1, Posbility: 0.0036
+Next Token : -1), Posbility: 0.1177
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : /, Posbility: 0.0001
+Next Token : −, Posbility: 0.0004
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token :  2), Posbility: 0.0009
+Next Token :  1, Posbility: 0.0024
+Next Token :  1);, Posbility: 0.0067
+Next Token :  1), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0093
+Next Token :  , Posbility: 0.0251
+Next Token :  +, Posbility: 0.0532
+Next Token : 
+, Posbility: 0.2383
+Next Token : 
+
+, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to find the average of cubes of first n natural numbers. *)
+let rec cubes n =
+  if n <= 0 then 0
+  else n * cubes (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :14.882031917572021
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

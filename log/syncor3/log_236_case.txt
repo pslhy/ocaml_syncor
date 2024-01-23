@@ -1,0 +1,479 @@
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0060
+Next Token :  sum, Posbility: 0.1201
+Next Token :  , Posbility: 0.1543
+Next Token :  per, Posbility: 0.1982
+Next Token :  rec, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0143
+Next Token :  loop, Posbility: 0.0236
+Next Token :  sum, Posbility: 0.1738
+Next Token :  , Posbility: 0.2539
+Next Token :  per, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec per
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ri, Posbility: 0.0031
+Next Token : r, Posbility: 0.0050
+Next Token : rine, Posbility: 0.0065
+Next Token : ren, Posbility: 0.0107
+Next Token : rin, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0222
+Next Token : (, Posbility: 0.0322
+Next Token :  =, Posbility: 0.0776
+Next Token :  , Posbility: 0.2715
+Next Token : _, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : iter, Posbility: 0.0162
+Next Token : num, Posbility: 0.0237
+Next Token : number, Posbility: 0.0391
+Next Token : numbers, Posbility: 0.0728
+Next Token : sum, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0206
+Next Token : (, Posbility: 0.0265
+Next Token : _, Posbility: 0.0718
+Next Token :  =, Posbility: 0.3223
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0254
+Next Token : (), Posbility: 0.0327
+Next Token : x, Posbility: 0.0610
+Next Token : (, Posbility: 0.0781
+Next Token : n, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0137
+Next Token :  i, Posbility: 0.0176
+Next Token :  acc, Posbility: 0.0255
+Next Token :  , Posbility: 0.1299
+Next Token :  =, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0017
+Next Token :  {, Posbility: 0.0031
+Next Token :  match, Posbility: 0.0381
+Next Token :  , Posbility: 0.0811
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0056
+Next Token :    , Posbility: 0.0082
+Next Token : 	, Posbility: 0.0082
+Next Token :     , Posbility: 0.1279
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0044
+Next Token : n, Posbility: 0.0120
+Next Token : let, Posbility: 0.0610
+Next Token : match, Posbility: 0.3984
+Next Token : if, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0004
+Next Token :   , Posbility: 0.0005
+Next Token :  0, Posbility: 0.0007
+Next Token :  not, Posbility: 0.0015
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0003
+Next Token : let, Posbility: 0.0003
+Next Token : Int, Posbility: 0.0019
+Next Token : (, Posbility: 0.0159
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0096
+Next Token :  ==, Posbility: 0.0708
+Next Token :  , Posbility: 0.1934
+Next Token :  <=, Posbility: 0.1934
+Next Token :  =, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0007
+Next Token :  10, Posbility: 0.0018
+Next Token :  , Posbility: 0.0131
+Next Token :  1, Posbility: 0.2637
+Next Token :  0, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0007
+Next Token :  ||, Posbility: 0.0017
+Next Token :  , Posbility: 0.0027
+Next Token : 
+, Posbility: 0.0178
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0025
+Next Token :  , Posbility: 0.0815
+Next Token :  1, Posbility: 0.0815
+Next Token : 
+, Posbility: 0.2207
+Next Token :  0, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0022
+Next Token :   , Posbility: 0.0032
+Next Token :  , Posbility: 0.0111
+Next Token :  else, Posbility: 0.3672
+Next Token : 
+, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0004
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0008
+Next Token :     , Posbility: 0.0028
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |, Posbility: 0.0002
+Next Token : then, Posbility: 0.0002
+Next Token : let, Posbility: 0.0008
+Next Token : elif, Posbility: 0.0008
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  per, Posbility: 0.0141
+Next Token :  1, Posbility: 0.0181
+Next Token :  {, Posbility: 0.0383
+Next Token : 
+, Posbility: 0.2207
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0115
+Next Token : let, Posbility: 0.0190
+Next Token : (, Posbility: 0.1094
+Next Token : if, Posbility: 0.3359
+Next Token : n, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  %, Posbility: 0.0156
+Next Token : 
+, Posbility: 0.0177
+Next Token :  , Posbility: 0.0903
+Next Token :  *, Posbility: 0.2451
+Next Token :  +, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0118
+Next Token :  ((, Posbility: 0.0118
+Next Token :  1, Posbility: 0.0320
+Next Token :  , Posbility: 0.2363
+Next Token :  per, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + per
+ score:False
+Error type: noerr
+---------------------------
+Next Token : rn, Posbility: 0.0000
+Next Token : rine, Posbility: 0.0000
+Next Token : rim, Posbility: 0.0000
+Next Token : ren, Posbility: 0.0001
+Next Token : rin, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token :  ((, Posbility: 0.0004
+Next Token : (, Posbility: 0.0008
+Next Token :  , Posbility: 0.0474
+Next Token : _, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : add, Posbility: 0.0004
+Next Token : prod, Posbility: 0.0004
+Next Token : diff, Posbility: 0.0005
+Next Token : term, Posbility: 0.0007
+Next Token : sum, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0014
+Next Token :  (1, Posbility: 0.0115
+Next Token :  ((, Posbility: 0.0168
+Next Token : (, Posbility: 0.0457
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0003
+Next Token : -, Posbility: 0.0003
+Next Token : <, Posbility: 0.0004
+Next Token : n, Posbility: 0.0229
+Next Token : (, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 2, Posbility: 0.0038
+Next Token : Per, Posbility: 0.0043
+Next Token : -, Posbility: 0.0049
+Next Token : per, Posbility: 0.0282
+Next Token : n, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0035
+Next Token : -1, Posbility: 0.0121
+Next Token :  +, Posbility: 0.0330
+Next Token : -1), Posbility: 0.0894
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0001
+Next Token : ^, Posbility: 0.0003
+Next Token : −, Posbility: 0.0017
+Next Token : /, Posbility: 0.0028
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0119
+Next Token :  2), Posbility: 0.0325
+Next Token :  1);, Posbility: 0.0325
+Next Token :  , Posbility: 0.0415
+Next Token :  1), Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0061
+Next Token :  , Posbility: 0.0166
+Next Token :  +, Posbility: 0.0310
+Next Token : 
+, Posbility: 0.2285
+Next Token : 
+
+, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :15.775986671447754
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

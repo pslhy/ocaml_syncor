@@ -1,0 +1,629 @@
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let
+Next Token :  rec, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec 
+Next Token : pal, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec pal
+Next Token : ind, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palind
+Next Token : rom, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrom
+Next Token : e, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome
+Next Token : _, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_
+Next Token : of, Posbility: 0.3027
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of
+Next Token : _, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_
+Next Token : int, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int 
+Next Token : n, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n
+Next Token :  =, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+Next Token : 
+, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  
+Next Token : if, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if 
+Next Token : n, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n
+Next Token :  , Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n 
+Next Token : <, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n <
+Next Token :  , Posbility: 0.2354
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 
+Next Token : 2, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2
+Next Token :  then, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then
+Next Token :  , Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then 
+Next Token : n, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+Next Token : 
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else 
+Next Token : if, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if 
+Next Token : n, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n
+Next Token :  %, Posbility: 0.3145
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n %
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 
+Next Token : 2, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2
+Next Token :  =, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 =
+Next Token :  0, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0
+Next Token :  then, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then 
+Next Token : pal, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then pal
+Next Token : ind, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palind
+Next Token : rom, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrom
+Next Token : e, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_
+Next Token : int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int 
+Next Token : (, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (
+Next Token : n, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n 
+Next Token : /, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n /
+Next Token :  2), Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else 
+Next Token : if, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if 
+Next Token : n, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n
+Next Token :  %, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n %
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 
+Next Token : 2, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2
+Next Token :  =, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 =
+Next Token :  1, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1
+Next Token :  then, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then 
+Next Token : pal, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then pal
+Next Token : ind, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palind
+Next Token : rom, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrom
+Next Token : e, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_
+Next Token : of, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_
+Next Token : int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int 
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (
+Next Token : n, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n 
+Next Token : -, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n -
+Next Token :  1), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+Next Token : 
+, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+
+Next Token :   , Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+  
+Next Token : else, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+  else
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+  else 
+Next Token : assert, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+  else assert
+Next Token :  false, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the next smallest palindrome of a specified integer, returned as an integer. *)
+let rec palindrome_of_int n =
+  if n < 2 then n
+  else if n % 2 = 0 then palindrome_of_int (n / 2)
+  else if n % 2 = 1 then palindrome_of_int (n - 1)
+  else assert false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.718562364578247
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

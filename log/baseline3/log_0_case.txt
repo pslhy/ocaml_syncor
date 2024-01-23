@@ -1,0 +1,934 @@
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let
+Next Token :  , Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let 
+Next Token : shared, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared
+Next Token : _, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_
+Next Token : elements, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements
+Next Token :  , Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements 
+Next Token : x, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements x
+Next Token : s, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs y
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  
+Next Token : let, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let
+Next Token :  rec, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec 
+Next Token : helper, Posbility: 0.2012
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper 
+Next Token : x, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper x
+Next Token : s, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs 
+Next Token : y, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs y
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys
+Next Token :  =, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+
+Next Token :     , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    
+Next Token : match, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match 
+Next Token : x, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs
+Next Token :  with, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+
+Next Token :     , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    |
+Next Token :  [], Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | []
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] 
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] ->
+Next Token :  , Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> 
+Next Token : y, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    |
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | 
+Next Token : x, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x 
+Next Token : ::, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x ::
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: 
+Next Token : x, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: x
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs
+Next Token :  , Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+Next Token : 
+, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+
+Next Token :         , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        
+Next Token : if, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if 
+Next Token : List, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.
+Next Token : mem, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem 
+Next Token : x, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x 
+Next Token : y, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys
+Next Token :  then, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then 
+Next Token : helper, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper 
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs 
+Next Token : y, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+Next Token : 
+, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+
+Next Token :         , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else 
+Next Token : helper, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper 
+Next Token : x, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs 
+Next Token : (, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (
+Next Token : x, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x 
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x ::
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: 
+Next Token : y, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys
+Next Token : ), Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+Next Token : 
+, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+
+Next Token :   , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  
+Next Token : in, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+
+Next Token :   , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  
+Next Token : helper, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper xs
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper xs 
+Next Token : y, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper xs y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the shared elements from the given two lists. *)
+let shared_elements xs ys =
+  let rec helper xs ys =
+    match xs with
+    | [] -> ys
+    | x :: xs ->
+        if List.mem x ys then helper xs ys
+        else helper xs (x :: ys)
+  in
+  helper xs ys
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.159758567810059
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

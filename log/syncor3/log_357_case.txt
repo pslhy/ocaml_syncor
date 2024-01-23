@@ -1,0 +1,578 @@
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  not, Posbility: 0.0106
+Next Token :  set, Posbility: 0.0223
+Next Token :  bit, Posbility: 0.0369
+Next Token :  rec, Posbility: 0.1133
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0045
+Next Token : b, Posbility: 0.0045
+Next Token : flip, Posbility: 0.0229
+Next Token : x, Posbility: 0.0259
+Next Token : toggle, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0085
+Next Token : Bits, Posbility: 0.0124
+Next Token :  , Posbility: 0.0630
+Next Token :  =, Posbility: 0.0913
+Next Token : _, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : last, Posbility: 0.0099
+Next Token : nth, Posbility: 0.0128
+Next Token : first, Posbility: 0.0347
+Next Token : bit, Posbility: 0.0830
+Next Token : bits, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0126
+Next Token :  ~, Posbility: 0.0439
+Next Token : _, Posbility: 0.1738
+Next Token :  , Posbility: 0.3242
+Next Token :  =, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0427
+Next Token :  fun, Posbility: 0.1025
+Next Token : 
+, Posbility: 0.1318
+Next Token :  , Posbility: 0.2461
+Next Token :  function, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  num, Posbility: 0.0030
+Next Token :  bits, Posbility: 0.0072
+Next Token : (, Posbility: 0.0366
+Next Token :  , Posbility: 0.1855
+Next Token : 
+, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0126
+Next Token : 	, Posbility: 0.0126
+Next Token :     , Posbility: 0.1060
+Next Token : |, Posbility: 0.1357
+Next Token :   , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : {, Posbility: 0.0014
+Next Token : x, Posbility: 0.0016
+Next Token : let, Posbility: 0.0030
+Next Token : (, Posbility: 0.0288
+Next Token : |, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0142
+Next Token :  [, Posbility: 0.0161
+Next Token :  [], Posbility: 0.0234
+Next Token :  0, Posbility: 0.2852
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0260
+Next Token : _, Posbility: 0.1318
+Next Token : (, Posbility: 0.1318
+Next Token : n, Posbility: 0.1924
+Next Token : x, Posbility: 0.2793
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0227
+Next Token :  =, Posbility: 0.0703
+Next Token : ::, Posbility: 0.0796
+Next Token :  when, Posbility: 0.1021
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0217
+Next Token : <, Posbility: 0.0278
+Next Token : if, Posbility: 0.0669
+Next Token : ->, Posbility: 0.3008
+Next Token : ::, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  [], Posbility: 0.0076
+Next Token :  acc, Posbility: 0.0110
+Next Token :  bits, Posbility: 0.0206
+Next Token :  rest, Posbility: 0.0383
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : tail, Posbility: 0.0132
+Next Token : n, Posbility: 0.0217
+Next Token : y, Posbility: 0.0972
+Next Token : x, Posbility: 0.2988
+Next Token : _, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  as, Posbility: 0.0162
+Next Token :  when, Posbility: 0.0184
+Next Token : 
+, Posbility: 0.0209
+Next Token :   , Posbility: 0.0237
+Next Token :  , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0010
+Next Token : if, Posbility: 0.0027
+Next Token :  =>, Posbility: 0.0039
+Next Token : ::, Posbility: 0.0256
+Next Token : ->, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0135
+Next Token :  fail, Posbility: 0.0135
+Next Token :  0, Posbility: 0.0605
+Next Token : 
+, Posbility: 0.1001
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0092
+Next Token : raise, Posbility: 0.0151
+Next Token : let, Posbility: 0.0767
+Next Token : (, Posbility: 0.0869
+Next Token : x, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  with, Posbility: 0.0183
+Next Token :  +, Posbility: 0.0236
+Next Token :  |, Posbility: 0.0498
+Next Token :  , Posbility: 0.1357
+Next Token : 
+, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0002
+Next Token :       , Posbility: 0.0003
+Next Token : |, Posbility: 0.0004
+Next Token :     , Posbility: 0.0008
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : let, Posbility: 0.0002
+Next Token : ;, Posbility: 0.0004
+Next Token : (, Posbility: 0.0005
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0032
+Next Token :  first, Posbility: 0.0032
+Next Token :  i, Posbility: 0.0053
+Next Token :  0, Posbility: 0.1758
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0135
+Next Token : n, Posbility: 0.0471
+Next Token : y, Posbility: 0.0532
+Next Token : _, Posbility: 0.3477
+Next Token : x, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0064
+Next Token : ::, Posbility: 0.0064
+Next Token : 0, Posbility: 0.0153
+Next Token :  =, Posbility: 0.0684
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0033
+Next Token : if, Posbility: 0.0061
+Next Token : ^, Posbility: 0.0069
+Next Token : ::, Posbility: 0.4863
+Next Token : ->, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0303
+Next Token :  1, Posbility: 0.0344
+Next Token :  ~, Posbility: 0.0640
+Next Token : 
+, Posbility: 0.0728
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0083
+Next Token : if, Posbility: 0.0107
+Next Token : (, Posbility: 0.2754
+Next Token : let, Posbility: 0.2754
+Next Token : x, Posbility: 0.3535
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0243
+Next Token : 
+, Posbility: 0.0243
+Next Token :  |, Posbility: 0.0454
+Next Token :  +, Posbility: 0.0962
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : X, Posbility: 0.0007
+Next Token : x, Posbility: 0.0035
+Next Token : ::, Posbility: 0.0035
+Next Token : -, Posbility: 0.0045
+Next Token : ^, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0481
+Next Token :  1, Posbility: 0.1152
+Next Token :  (1, Posbility: 0.1475
+Next Token :  0, Posbility: 0.1895
+Next Token :  , Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (1<<, Posbility: 0.0244
+Next Token : -, Posbility: 0.0354
+Next Token : x, Posbility: 0.0664
+Next Token : 2, Posbility: 0.1406
+Next Token : (, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0654
+Next Token : -, Posbility: 0.0654
+Next Token : 0, Posbility: 0.1387
+Next Token : 2, Posbility: 0.1787
+Next Token : x, Posbility: 0.2949
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0669
+Next Token :  <<, Posbility: 0.0859
+Next Token :  >>, Posbility: 0.1250
+Next Token :  , Posbility: 0.3008
+Next Token :  &, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x &
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0427
+Next Token :  ~, Posbility: 0.0703
+Next Token :  1), Posbility: 0.1162
+Next Token :  0, Posbility: 0.1914
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0143
+Next Token : x, Posbility: 0.0208
+Next Token : -2, Posbility: 0.0342
+Next Token : -, Posbility: 0.1973
+Next Token : (, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0903
+Next Token : 2, Posbility: 0.1025
+Next Token : ~, Posbility: 0.1318
+Next Token : 0, Posbility: 0.1484
+Next Token : x, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  >>, Posbility: 0.0232
+Next Token :  <<, Posbility: 0.0299
+Next Token : -1), Posbility: 0.0493
+Next Token :  +, Posbility: 0.0811
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & (x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : <, Posbility: 0.0008
+Next Token : /, Posbility: 0.0009
+Next Token : >>>, Posbility: 0.0022
+Next Token : ^, Posbility: 0.3184
+Next Token : -, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & (x -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0034
+Next Token :  1, Posbility: 0.0327
+Next Token :  1), Posbility: 0.0537
+Next Token :  , Posbility: 0.0608
+Next Token :  1)), Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & (x - 1))
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0113
+Next Token :  +, Posbility: 0.0187
+Next Token :  , Posbility: 0.0737
+Next Token : 
+, Posbility: 0.3750
+Next Token : 
+
+, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a  function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/ *)
+let toggle_bits = function
+  | x :: _ -> x
+  | x -> x ^ (x & (x - 1))
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :18.77614665031433
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

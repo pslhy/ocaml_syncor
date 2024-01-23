@@ -1,0 +1,337 @@
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let
+Next Token :  rec, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec 
+Next Token : diff, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff
+Next Token :  =, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff =
+Next Token :  function, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+
+Next Token :   , Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  |
+Next Token :  0, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 
+Next Token : ->, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 ->
+Next Token :  0, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+Next Token : 
+, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  |
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | 
+Next Token : n, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n 
+Next Token : ->, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n ->
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> 
+Next Token : n, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n
+Next Token :  , Posbility: 0.3730
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n 
+Next Token : -, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n -
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - 
+Next Token : diff, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff 
+Next Token : (, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (
+Next Token : n, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n 
+Next Token : -, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n -
+Next Token :  1), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+Next Token : 
+, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+
+Next Token :   , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  |
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | 
+Next Token : n, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n 
+Next Token : ->, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n ->
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> 
+Next Token : diff, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff 
+Next Token : (, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (
+Next Token : n, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n 
+Next Token : -, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n -
+Next Token :  1), Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to find the sum of the per-digit difference between two integers. *)
+let rec diff = function
+  | 0 -> 0
+  | n -> n - diff (n - 1)
+  | n -> diff (n - 1)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.5782952308654785
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

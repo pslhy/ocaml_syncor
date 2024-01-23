@@ -1,0 +1,2039 @@
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0082
+Next Token :  get, Posbility: 0.0135
+Next Token :  find, Posbility: 0.0325
+Next Token :  , Posbility: 0.3477
+Next Token :  rec, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0109
+Next Token :  get, Posbility: 0.0159
+Next Token :  rec, Posbility: 0.0179
+Next Token :  find, Posbility: 0.1328
+Next Token :  , Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : traverse, Posbility: 0.0197
+Next Token : f, Posbility: 0.0253
+Next Token : trap, Posbility: 0.0415
+Next Token : length, Posbility: 0.0776
+Next Token : median, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0099
+Next Token :  l, Posbility: 0.0127
+Next Token :  =, Posbility: 0.0732
+Next Token :  , Posbility: 0.2256
+Next Token : _, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : height, Posbility: 0.0065
+Next Token : trap, Posbility: 0.0176
+Next Token : of, Posbility: 0.0374
+Next Token : len, Posbility: 0.1016
+Next Token : length, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0153
+Next Token : s, Posbility: 0.0153
+Next Token : _, Posbility: 0.1865
+Next Token :  =, Posbility: 0.1865
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : t, Posbility: 0.0322
+Next Token : h, Posbility: 0.0322
+Next Token : n, Posbility: 0.1279
+Next Token : x, Posbility: 0.1641
+Next Token : (, Posbility: 0.2100
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : n, Posbility: 0.0457
+Next Token : left, Posbility: 0.0518
+Next Token : x, Posbility: 0.0854
+Next Token : l, Posbility: 0.0854
+Next Token : a, Posbility: 0.1245
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0,, Posbility: 0.0168
+Next Token : 1,, Posbility: 0.0190
+Next Token : :, Posbility: 0.0518
+Next Token :  , Posbility: 0.1592
+Next Token : ,, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : m, Posbility: 0.0020
+Next Token :  a, Posbility: 0.0032
+Next Token :  l, Posbility: 0.0088
+Next Token : b, Posbility: 0.1758
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : c, Posbility: 0.0063
+Next Token : p, Posbility: 0.0063
+Next Token : m, Posbility: 0.0081
+Next Token : h, Posbility: 0.0103
+Next Token : b, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0005
+Next Token :  , Posbility: 0.0033
+Next Token : ):, Posbility: 0.0033
+Next Token : ), Posbility: 0.4941
+Next Token : ,, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0023
+Next Token :  i, Posbility: 0.0038
+Next Token :  sum, Posbility: 0.0038
+Next Token :  l, Posbility: 0.0172
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0084
+Next Token : n, Posbility: 0.0108
+Next Token : m, Posbility: 0.0157
+Next Token : h, Posbility: 0.0547
+Next Token : c, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0012
+Next Token : 1,, Posbility: 0.0012
+Next Token :  , Posbility: 0.0033
+Next Token : ), Posbility: 0.4961
+Next Token : ,, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0023
+Next Token :  i, Posbility: 0.0038
+Next Token :  k, Posbility: 0.0038
+Next Token :  l, Posbility: 0.0172
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0055
+Next Token : x, Posbility: 0.0080
+Next Token : h, Posbility: 0.0103
+Next Token : n, Posbility: 0.0117
+Next Token : d, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ):, Posbility: 0.0017
+Next Token :  =, Posbility: 0.0028
+Next Token :  , Posbility: 0.0046
+Next Token : ,, Posbility: 0.1177
+Next Token : ), Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0041
+Next Token :  a, Posbility: 0.0046
+Next Token : 
+, Posbility: 0.0067
+Next Token :  , Posbility: 0.1729
+Next Token :  =, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0074
+Next Token :  function, Posbility: 0.0084
+Next Token :  match, Posbility: 0.0376
+Next Token :  , Posbility: 0.0791
+Next Token : 
+, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0039
+Next Token :    , Posbility: 0.0044
+Next Token : 	, Posbility: 0.0073
+Next Token :     , Posbility: 0.1299
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0039
+Next Token : (, Posbility: 0.0291
+Next Token : if, Posbility: 0.2148
+Next Token : match, Posbility: 0.3125
+Next Token : let, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  mid, Posbility: 0.0376
+Next Token :  l, Posbility: 0.0481
+Next Token :  len, Posbility: 0.0547
+Next Token :  rec, Posbility: 0.2158
+Next Token :  , Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0500
+Next Token : x, Posbility: 0.0500
+Next Token : p, Posbility: 0.0569
+Next Token : m, Posbility: 0.0825
+Next Token : length, Posbility: 0.0938
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0097
+Next Token : 1, Posbility: 0.0264
+Next Token : s, Posbility: 0.1953
+Next Token : _, Posbility: 0.3223
+Next Token :  =, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0139
+Next Token :  ((, Posbility: 0.0378
+Next Token :  a, Posbility: 0.0801
+Next Token : 
+, Posbility: 0.1167
+Next Token :  , Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0291
+Next Token : if, Posbility: 0.0544
+Next Token : c, Posbility: 0.0615
+Next Token : b, Posbility: 0.1016
+Next Token : (, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 2, Posbility: 0.0075
+Next Token : d, Posbility: 0.0552
+Next Token : c, Posbility: 0.1172
+Next Token : b, Posbility: 0.3613
+Next Token : a, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0145
+Next Token :  *, Posbility: 0.0508
+Next Token : +, Posbility: 0.0508
+Next Token :  , Posbility: 0.0654
+Next Token :  +, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0005
+Next Token :  2.0, Posbility: 0.0007
+Next Token :  4, Posbility: 0.0009
+Next Token :  2*, Posbility: 0.0036
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0156
+Next Token : 2, Posbility: 0.0258
+Next Token : d, Posbility: 0.0258
+Next Token : c, Posbility: 0.0698
+Next Token : b, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : *, Posbility: 0.0003
+Next Token :  *, Posbility: 0.0022
+Next Token :  , Posbility: 0.0059
+Next Token : ), Posbility: 0.1182
+Next Token :  +, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1), Posbility: 0.0003
+Next Token :  Math, Posbility: 0.0005
+Next Token :  max, Posbility: 0.0008
+Next Token :  a, Posbility: 0.0017
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0019
+Next Token : 2, Posbility: 0.0024
+Next Token : (, Posbility: 0.0057
+Next Token : d, Posbility: 0.0227
+Next Token : c, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  *, Posbility: 0.0009
+Next Token :  , Posbility: 0.0064
+Next Token : ), Posbility: 0.0471
+Next Token :  +, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  a, Posbility: 0.0001
+Next Token : d, Posbility: 0.0002
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : b, Posbility: 0.0003
+Next Token : c, Posbility: 0.0004
+Next Token : (, Posbility: 0.0006
+Next Token : d, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : );, Posbility: 0.0005
+Next Token : )., Posbility: 0.0014
+Next Token :  +, Posbility: 0.0065
+Next Token :  , Posbility: 0.0291
+Next Token : ), Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *, Posbility: 0.0030
+Next Token : 
+, Posbility: 0.0049
+Next Token : /, Posbility: 0.0134
+Next Token :  in, Posbility: 0.0364
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0010
+Next Token : div, Posbility: 0.0019
+Next Token : -, Posbility: 0.0051
+Next Token : //, Posbility: 0.0109
+Next Token : /, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) /
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  3.0, Posbility: 0.0013
+Next Token : 2, Posbility: 0.0027
+Next Token :  2.0, Posbility: 0.0894
+Next Token :  4, Posbility: 0.2422
+Next Token :  , Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0042
+Next Token : 3, Posbility: 0.0047
+Next Token : 2., Posbility: 0.0444
+Next Token : 4.0, Posbility: 0.0444
+Next Token : 2, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0023
+Next Token :  *, Posbility: 0.0027
+Next Token :  , Posbility: 0.0056
+Next Token : 
+, Posbility: 0.0415
+Next Token :  in, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0001
+Next Token :   , Posbility: 0.0013
+Next Token :  , Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0140
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0002
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0022
+Next Token :     , Posbility: 0.0032
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0052
+Next Token : (, Posbility: 0.0231
+Next Token : match, Posbility: 0.0913
+Next Token : let, Posbility: 0.1709
+Next Token : if, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0038
+Next Token :  ((, Posbility: 0.0043
+Next Token :  not, Posbility: 0.0043
+Next Token :  a, Posbility: 0.2354
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0198
+Next Token : c, Posbility: 0.0327
+Next Token : b, Posbility: 0.0608
+Next Token : (, Posbility: 0.1289
+Next Token : length, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0437
+Next Token :  >=, Posbility: 0.0723
+Next Token :  <=, Posbility: 0.1191
+Next Token :  =, Posbility: 0.1963
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ≤, Posbility: 0.0022
+Next Token : -, Posbility: 0.0145
+Next Token : /, Posbility: 0.0187
+Next Token : >, Posbility: 0.2578
+Next Token : <, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0.5, Posbility: 0.0146
+Next Token :  1, Posbility: 0.0242
+Next Token :  0, Posbility: 0.0742
+Next Token :  a, Posbility: 0.3770
+Next Token :  , Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0728
+Next Token : (, Posbility: 0.1055
+Next Token : c, Posbility: 0.1357
+Next Token : 2, Posbility: 0.2236
+Next Token : b, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0439
+Next Token :  &&, Posbility: 0.0498
+Next Token :  , Posbility: 0.0564
+Next Token :  ||, Posbility: 0.1357
+Next Token :  then, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0085
+Next Token :  1, Posbility: 0.0085
+Next Token :  a, Posbility: 0.0708
+Next Token : 
+, Posbility: 0.3594
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0615
+Next Token : (, Posbility: 0.0791
+Next Token : length, Posbility: 0.1299
+Next Token : b, Posbility: 0.1895
+Next Token : median, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token :  a, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token :  , Posbility: 0.0022
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : lower, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Next Token : height, Posbility: 0.0001
+Next Token : left, Posbility: 0.0002
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [, Posbility: 0.0063
+Next Token : (, Posbility: 0.0081
+Next Token :  ((, Posbility: 0.0081
+Next Token :  a, Posbility: 0.0283
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : length, Posbility: 0.0051
+Next Token : d, Posbility: 0.0374
+Next Token : c, Posbility: 0.1016
+Next Token : b, Posbility: 0.1016
+Next Token : (, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : d, Posbility: 0.0332
+Next Token : c, Posbility: 0.0547
+Next Token : length, Posbility: 0.0898
+Next Token : b, Posbility: 0.1484
+Next Token : a, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ;, Posbility: 0.0004
+Next Token : ), Posbility: 0.0011
+Next Token :  , Posbility: 0.0051
+Next Token :  +, Posbility: 0.0228
+Next Token : ,, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0004
+Next Token : length, Posbility: 0.0007
+Next Token : b, Posbility: 0.0031
+Next Token :  a, Posbility: 0.0085
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0125
+Next Token : d, Posbility: 0.0125
+Next Token : c, Posbility: 0.0339
+Next Token : b, Posbility: 0.2520
+Next Token : length, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : );, Posbility: 0.0008
+Next Token :  , Posbility: 0.0022
+Next Token :  +, Posbility: 0.0059
+Next Token : ), Posbility: 0.1182
+Next Token : ,, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  *, Posbility: 0.0003
+Next Token :  0,, Posbility: 0.0015
+Next Token :  a, Posbility: 0.0025
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0021
+Next Token : (, Posbility: 0.0056
+Next Token : d, Posbility: 0.0415
+Next Token : b, Posbility: 0.1128
+Next Token : c, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +, Posbility: 0.0001
+Next Token : ), Posbility: 0.0012
+Next Token :  , Posbility: 0.0025
+Next Token :  +, Posbility: 0.0041
+Next Token : ,, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0000
+Next Token : d, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  0), Posbility: 0.0001
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0001
+Next Token : c, Posbility: 0.0003
+Next Token : (, Posbility: 0.0004
+Next Token : b, Posbility: 0.0015
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ),, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0013
+Next Token :  , Posbility: 0.0036
+Next Token : );, Posbility: 0.1187
+Next Token : ), Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  otherwise, Posbility: 0.0005
+Next Token :  |, Posbility: 0.0012
+Next Token :  , Posbility: 0.0042
+Next Token :  else, Posbility: 0.3730
+Next Token : 
+, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0002
+Next Token :    , Posbility: 0.0003
+Next Token :       , Posbility: 0.0012
+Next Token :     , Posbility: 0.0085
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : when, Posbility: 0.0000
+Next Token : els, Posbility: 0.0002
+Next Token : if, Posbility: 0.0022
+Next Token : elif, Posbility: 0.0097
+Next Token : else, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0002
+Next Token : if, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0052
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0003
+Next Token : (, Posbility: 0.0009
+Next Token : length, Posbility: 0.0009
+Next Token : median, Posbility: 0.0474
+Next Token : if, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  less, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :  not, Posbility: 0.0002
+Next Token :  a, Posbility: 0.0110
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0009
+Next Token : (, Posbility: 0.0024
+Next Token : c, Posbility: 0.0024
+Next Token : b, Posbility: 0.0178
+Next Token : length, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0004
+Next Token :  =, Posbility: 0.0010
+Next Token :  <=, Posbility: 0.0065
+Next Token :  >=, Posbility: 0.0228
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ≤, Posbility: 0.0000
+Next Token : ≥, Posbility: 0.0001
+Next Token : -, Posbility: 0.0002
+Next Token : >, Posbility: 0.2451
+Next Token : <, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  ((, Posbility: 0.0001
+Next Token :  a, Posbility: 0.0110
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : b, Posbility: 0.0065
+Next Token : (, Posbility: 0.0176
+Next Token : d, Posbility: 0.0176
+Next Token : c, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Next Token :  +, Posbility: 0.0006
+Next Token :   , Posbility: 0.0006
+Next Token :  then, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0000
+Next Token :  a, Posbility: 0.0000
+Next Token :   , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0015
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : medium, Posbility: 0.0001
+Next Token : length, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : median, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : width, Posbility: 0.0000
+Next Token : height, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Next Token : leg, Posbility: 0.0000
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :  a, Posbility: 0.0002
+Next Token :  ((, Posbility: 0.0002
+Next Token : (, Posbility: 0.0009
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : c, Posbility: 0.0000
+Next Token : b, Posbility: 0.0000
+Next Token : (0,, Posbility: 0.0000
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : d, Posbility: 0.0008
+Next Token : c, Posbility: 0.0058
+Next Token : b, Posbility: 0.0157
+Next Token : length, Posbility: 0.1162
+Next Token : a, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  +, Posbility: 0.0028
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  a, Posbility: 0.0001
+Next Token : b, Posbility: 0.0003
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : d, Posbility: 0.0000
+Next Token : length, Posbility: 0.0024
+Next Token : c, Posbility: 0.0179
+Next Token : b, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1,, Posbility: 0.0000
+Next Token : +, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : ,, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :  len, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : median, Posbility: 0.0000
+Next Token : d, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token : c, Posbility: 0.0015
+Next Token : length, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0001
+Next Token :  , Posbility: 0.0041
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : d, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : e, Posbility: 0.0000
+Next Token : b, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : c, Posbility: 0.0019
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : );, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  , Posbility: 0.0004
+Next Token :  else, Posbility: 0.0012
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : |, Posbility: 0.0000
+Next Token : elif, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0019
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0009
+Next Token : let, Posbility: 0.0009
+Next Token : length, Posbility: 0.0023
+Next Token : median, Posbility: 0.0471
+Next Token : if, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  not, Posbility: 0.0001
+Next Token :  a, Posbility: 0.0004
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token : c, Posbility: 0.0004
+Next Token : b, Posbility: 0.0005
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token :  >=, Posbility: 0.0001
+Next Token :  <=, Posbility: 0.0004
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : /, Posbility: 0.0000
+Next Token : ≤, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : >, Posbility: 0.0017
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0000
+Next Token : d, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  a, Posbility: 0.0025
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0000
+Next Token : (, Posbility: 0.0006
+Next Token : c, Posbility: 0.0007
+Next Token : b, Posbility: 0.0007
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0000
+Next Token :  a, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0004
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0000
+Next Token : b, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : length, Posbility: 0.0000
+Next Token : median, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  of, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : height, Posbility: 0.0000
+Next Token : width, Posbility: 0.0000
+Next Token : leg, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ((, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (1,, Posbility: 0.0000
+Next Token : c, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (0,, Posbility: 0.0000
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : d, Posbility: 0.0001
+Next Token : c, Posbility: 0.0006
+Next Token : b, Posbility: 0.0009
+Next Token : length, Posbility: 0.0012
+Next Token : a, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :  +, Posbility: 0.0003
+Next Token : ,, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : c, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token : b, Posbility: 0.0001
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0000
+Next Token : bc, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : c, Posbility: 0.0015
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : ,, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token : c, Posbility: 0.0001
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : d, Posbility: 0.0000
+Next Token : length, Posbility: 0.0006
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : ,, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  len, Posbility: 0.0000
+Next Token : length, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : d, Posbility: 0.0001
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : );, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token :  else, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :     , Posbility: 0.0000
+Next Token : else, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : end, Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : |, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0019
+Next Token :  fail, Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0087
+Next Token :  a, Posbility: 0.0825
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0393
+Next Token : d, Posbility: 0.0505
+Next Token : b, Posbility: 0.0737
+Next Token : if, Posbility: 0.1553
+Next Token : length, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else length
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0045
+Next Token :  , Posbility: 0.0332
+Next Token : ;, Posbility: 0.0796
+Next Token : 
+
+, Posbility: 0.4043
+Next Token : 
+, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else length
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0249
+Next Token : 
+
+, Posbility: 0.0249
+Next Token : let, Posbility: 0.0596
+Next Token : in, Posbility: 0.0635
+Next Token : ;, Posbility: 0.1621
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else length
+;
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0021
+Next Token :  , Posbility: 0.0021
+Next Token : ;&, Posbility: 0.0051
+Next Token : 
+, Posbility: 0.0058
+Next Token : ;, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else length
+;;
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  example, Posbility: 0.0055
+Next Token : ;, Posbility: 0.0217
+Next Token :  , Posbility: 0.0713
+Next Token : 
+, Posbility: 0.2490
+Next Token : 
+
+, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the median length of a trapezium. *)
+let rec median_length (a, b, c, d) =
+  let length = (a + b + c + d) / 2 in
+  if length < b then median_length (a, length, c, d)
+  else if length < c then median_length (a, b, length, d)
+  else if length < d then median_length (a, b, c, length)
+  else length
+;;
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :58.80579233169556
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

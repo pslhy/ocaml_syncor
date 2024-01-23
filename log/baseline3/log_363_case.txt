@@ -1,0 +1,310 @@
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let
+Next Token :  is, Posbility: 0.2383
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is
+Next Token : _, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_
+Next Token : all, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all
+Next Token : _, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_
+Next Token : same, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same
+Next Token :  =, Posbility: 0.4531
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same =
+Next Token :  function, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+Next Token : 
+, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+
+Next Token :   , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  
+Next Token : |, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  |
+Next Token :  [], Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | []
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] ->
+Next Token :  true, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  |
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | 
+Next Token : _, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ 
+Next Token : ->, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ ->
+Next Token :  false, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+Next Token : 
+, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+
+Next Token :   , Posbility: 0.3047
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  
+Next Token : |, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  |
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | 
+Next Token : x, Posbility: 0.2500
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x 
+Next Token : ::, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x ::
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: 
+Next Token : x, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: x
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs
+Next Token :  , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs ->
+Next Token :  is, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_
+Next Token : all, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_all
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_all_
+Next Token : same, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_all_same
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_all_same 
+Next Token : x, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_all_same x
+Next Token : s, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to check whether all the characters are same or not. *)
+let is_all_same = function
+  | [] -> true
+  | _ -> false
+  | x :: xs -> is_all_same xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.438709020614624
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

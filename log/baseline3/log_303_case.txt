@@ -1,0 +1,1017 @@
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let
+Next Token :  rec, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec
+Next Token :  , Posbility: 0.2539
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec 
+Next Token : split, Posbility: 0.1162
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split
+Next Token : _, Posbility: 0.4375
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_
+Next Token : array, Posbility: 0.1108
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_array
+Next Token : s, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays
+Next Token :  , Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays 
+Next Token : arr, Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr
+Next Token : 1, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 
+Next Token : arr, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr
+Next Token : 2, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2
+Next Token :  k, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k
+Next Token :  =, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  
+Next Token : if, Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if
+Next Token :  k, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k
+Next Token :  , Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k 
+Next Token : <, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k <
+Next Token :  0, Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0
+Next Token :  ||, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 ||
+Next Token :  k, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k
+Next Token :  , Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k 
+Next Token : >, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k >
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > 
+Next Token : Array, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.
+Next Token : length, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length 
+Next Token : arr, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr
+Next Token : 1, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1
+Next Token :  then, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+Next Token : 
+, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+
+Next Token :     , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    
+Next Token : raise, Posbility: 0.2773
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise 
+Next Token : (, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (
+Next Token : Index, Posbility: 0.1206
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index
+Next Token : _, Posbility: 0.2676
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_
+Next Token : error, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error
+Next Token :  ", Posbility: 0.3223
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "
+Next Token : k, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k
+Next Token :  is, Posbility: 0.2246
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is
+Next Token :  out, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out
+Next Token :  of, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of
+Next Token :  , Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of 
+Next Token : bounds, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds
+Next Token : "), Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+Next Token : 
+, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  
+Next Token : else, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else
+Next Token :  , Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else 
+Next Token : if, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if
+Next Token :  k, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k
+Next Token :  =, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k =
+Next Token :  0, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0
+Next Token :  then, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+Next Token : 
+, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+
+Next Token :     , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    
+Next Token : (, Posbility: 0.2559
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (
+Next Token : Array, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.
+Next Token : head, Posbility: 0.1914
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head 
+Next Token : arr, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr
+Next Token : 1,, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1,
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, 
+Next Token : Array, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.
+Next Token : tail, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail 
+Next Token : arr, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr
+Next Token : 2), Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+Next Token : 
+, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+
+Next Token :     , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    
+Next Token : let, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let 
+Next Token : (, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (
+Next Token : a, Posbility: 0.1201
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a
+Next Token : 1,, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1,
+Next Token :  a, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a
+Next Token : 2), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2)
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) =
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = 
+Next Token : split, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_
+Next Token : array, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_array
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays 
+Next Token : arr, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr
+Next Token : 1, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 
+Next Token : arr, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr
+Next Token : 2, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2
+Next Token :  k, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k 
+Next Token : -, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k -
+Next Token :  1, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1
+Next Token :  in, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    
+Next Token : (, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (
+Next Token : Array, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.
+Next Token : head, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head
+Next Token :  a, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a
+Next Token : 1,, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1,
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1, 
+Next Token : Array, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1, Array
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1, Array.
+Next Token : head, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1, Array.head
+Next Token :  a, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1, Array.head a
+Next Token : 2), Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find kth element from the given two sorted arrays. *)
+let rec split_arrays arr1 arr2 k =
+  if k < 0 || k > Array.length arr1 then
+    raise (Index_error "k is out of bounds")
+  else if k = 0 then
+    (Array.head arr1, Array.tail arr2)
+  else
+    let (a1, a2) = split_arrays arr1 arr2 k - 1 in
+    (Array.head a1, Array.head a2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.999896287918091
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

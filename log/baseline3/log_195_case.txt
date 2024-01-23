@@ -1,0 +1,231 @@
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let
+Next Token :  exists, Posbility: 0.2617
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists
+Next Token :  , Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists 
+Next Token : x, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x
+Next Token :  , Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x 
+Next Token : t, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+Next Token : 
+, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+
+Next Token :   , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  
+Next Token : match, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match 
+Next Token : x, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x
+Next Token :  with, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  |
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | 
+Next Token : x, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x
+Next Token :  , Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x 
+Next Token : ::, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x ::
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: 
+Next Token : _, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ 
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ ->
+Next Token :  true, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  |
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  | 
+Next Token : _, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  | _
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  | _ 
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  | _ ->
+Next Token :  false, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check whether an element exists within a tuple. *)
+let exists x t =
+  match x with
+  | x :: _ -> true
+  | _ -> false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.125457763671875
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

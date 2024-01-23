@@ -1,0 +1,208 @@
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let
+Next Token :  rec, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec
+Next Token :  , Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec 
+Next Token : nth, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth
+Next Token : _, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_
+Next Token : poli, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_poli
+Next Token : te, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite
+Next Token : _, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_
+Next Token : number, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number 
+Next Token : n, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n
+Next Token :  =, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+Next Token : 
+, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+
+Next Token :   , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  
+Next Token : if, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if 
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n
+Next Token :  =, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n =
+Next Token :  0, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0
+Next Token :  then, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then
+Next Token :  1, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1
+Next Token :  else, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else 
+Next Token : nth, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_
+Next Token : poli, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_poli
+Next Token : te, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number 
+Next Token : (, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number (
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number (n
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number (n -
+Next Token :  1), Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/ *)
+let rec nth_polite_number n =
+  if n = 0 then 1 else nth_polite_number (n - 1)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.1953909397125244
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

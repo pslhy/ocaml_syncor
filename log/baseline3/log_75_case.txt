@@ -1,0 +1,74 @@
+code:
+ (* Write a function to multiply two integers. *)
+let
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let 
+Next Token : multiply, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply 
+Next Token : x, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y =
+Next Token :  , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y = 
+Next Token : x, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y = x
+Next Token :  *, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y = x *
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y = x * 
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to multiply two integers. *)
+let multiply x y = x * y
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.773749828338623
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

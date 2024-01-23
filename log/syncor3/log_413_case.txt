@@ -1,0 +1,1106 @@
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0228
+Next Token :  find, Posbility: 0.0623
+Next Token :  sum, Posbility: 0.1025
+Next Token :  , Posbility: 0.2168
+Next Token :  rec, Posbility: 0.4590
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0259
+Next Token :  loop, Posbility: 0.0376
+Next Token :  find, Posbility: 0.1494
+Next Token :  sum, Posbility: 0.1914
+Next Token :  , Posbility: 0.3574
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : dict, Posbility: 0.0522
+Next Token : write, Posbility: 0.0593
+Next Token : f, Posbility: 0.0674
+Next Token : helper, Posbility: 0.1108
+Next Token : add, Posbility: 0.1426
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : er, Posbility: 0.0131
+Next Token : -, Posbility: 0.0148
+Next Token :  =, Posbility: 0.0664
+Next Token :  , Posbility: 0.1406
+Next Token : _, Posbility: 0.6289
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : items, Posbility: 0.0703
+Next Token : dict, Posbility: 0.0801
+Next Token : to, Posbility: 0.0903
+Next Token : item, Posbility: 0.0903
+Next Token : all, Posbility: 0.1025
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0176
+Next Token :  a, Posbility: 0.0225
+Next Token :  =, Posbility: 0.1299
+Next Token : _, Posbility: 0.2734
+Next Token :  , Posbility: 0.4531
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0518
+Next Token : (, Posbility: 0.0752
+Next Token : dic, Posbility: 0.0967
+Next Token : dict, Posbility: 0.1406
+Next Token : d, Posbility: 0.3379
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0115
+Next Token :  sum, Posbility: 0.0457
+Next Token :  acc, Posbility: 0.1094
+Next Token :  , Posbility: 0.1240
+Next Token :  =, Posbility: 0.6289
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0042
+Next Token :  function, Posbility: 0.0166
+Next Token :  match, Posbility: 0.0742
+Next Token :  , Posbility: 0.0952
+Next Token : 
+, Posbility: 0.7969
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0032
+Next Token : 	, Posbility: 0.0059
+Next Token :    , Posbility: 0.0076
+Next Token :     , Posbility: 0.0928
+Next Token :   , Posbility: 0.8789
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0106
+Next Token : List, Posbility: 0.0255
+Next Token : if, Posbility: 0.0610
+Next Token : let, Posbility: 0.1885
+Next Token : match, Posbility: 0.6562
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  HashMap, Posbility: 0.0021
+Next Token :  Hash, Posbility: 0.0081
+Next Token :  !, Posbility: 0.0104
+Next Token :  String, Posbility: 0.0152
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0098
+Next Token : List, Posbility: 0.0266
+Next Token : Dict, Posbility: 0.0496
+Next Token : Map, Posbility: 0.0640
+Next Token : d, Posbility: 0.7773
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token :  , Posbility: 0.0007
+Next Token : ., Posbility: 0.0052
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0010
+Next Token :  [], Posbility: 0.0021
+Next Token :  , Posbility: 0.0051
+Next Token :  {, Posbility: 0.0201
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0004
+Next Token :       , Posbility: 0.0011
+Next Token :    , Posbility: 0.0014
+Next Token :     , Posbility: 0.0532
+Next Token :   , Posbility: 0.9414
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0010
+Next Token : [, Posbility: 0.0021
+Next Token : [], Posbility: 0.0035
+Next Token : {, Posbility: 0.0096
+Next Token : |, Posbility: 0.9766
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0128
+Next Token :  None, Posbility: 0.0447
+Next Token :  [], Posbility: 0.1216
+Next Token :  , Posbility: 0.3301
+Next Token :  {, Posbility: 0.4258
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  key, Posbility: 0.0183
+Next Token : |, Posbility: 0.0206
+Next Token : key, Posbility: 0.0234
+Next Token :  , Posbility: 0.1729
+Next Token : }, Posbility: 0.6055
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0024
+Next Token :  as, Posbility: 0.0040
+Next Token :  =>, Posbility: 0.0051
+Next Token :  |, Posbility: 0.0051
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {} 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {} |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {} =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {} as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | {}   
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0271
+Next Token : item, Posbility: 0.0306
+Next Token : (), Posbility: 0.0649
+Next Token : _, Posbility: 0.1377
+Next Token : }, Posbility: 0.3301
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0030
+Next Token :  as, Posbility: 0.0082
+Next Token :  |, Posbility: 0.0082
+Next Token :  =>, Posbility: 0.0135
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { } 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { } =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { } |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { } as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { }   
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0221
+Next Token : :, Posbility: 0.0366
+Next Token : ,, Posbility: 0.0874
+Next Token :  |, Posbility: 0.1855
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { _ 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { _ |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { _,
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { _:
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { _ =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { ()
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0698
+Next Token : :, Posbility: 0.0698
+Next Token :  |, Posbility: 0.0698
+Next Token :  , Posbility: 0.2432
+Next Token :  =, Posbility: 0.4004
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0146
+Next Token :  v, Posbility: 0.0146
+Next Token :  {, Posbility: 0.0146
+Next Token :  value, Posbility: 0.0146
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0250
+Next Token : (, Posbility: 0.0413
+Next Token : x, Posbility: 0.0874
+Next Token : _, Posbility: 0.1436
+Next Token : item, Posbility: 0.5703
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1, Posbility: 0.0201
+Next Token : ,, Posbility: 0.0293
+Next Token : _, Posbility: 0.0483
+Next Token :  , Posbility: 0.1157
+Next Token : ;, Posbility: 0.6680
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item;
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  value, Posbility: 0.0449
+Next Token :  count, Posbility: 0.0952
+Next Token :  next, Posbility: 0.1221
+Next Token :  rest, Posbility: 0.1221
+Next Token :  , Posbility: 0.4277
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : item, Posbility: 0.0491
+Next Token : _, Posbility: 0.0554
+Next Token : remaining, Posbility: 0.0554
+Next Token : }, Posbility: 0.0630
+Next Token : weight, Posbility: 0.2812
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0030
+Next Token : :, Posbility: 0.0049
+Next Token : ;, Posbility: 0.0049
+Next Token :  , Posbility: 0.0364
+Next Token :  =, Posbility: 0.9414
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0056
+Next Token :  None, Posbility: 0.0056
+Next Token :  0;, Posbility: 0.0151
+Next Token :  0, Posbility: 0.1113
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0066
+Next Token : (), Posbility: 0.0075
+Next Token : w, Posbility: 0.0918
+Next Token : _, Posbility: 0.1040
+Next Token : weight, Posbility: 0.7656
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0049
+Next Token : _, Posbility: 0.0055
+Next Token : }, Posbility: 0.0317
+Next Token : ;, Posbility: 0.3008
+Next Token :  , Posbility: 0.6406
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ::, Posbility: 0.0018
+Next Token : },, Posbility: 0.0030
+Next Token : ->, Posbility: 0.0049
+Next Token : ;, Posbility: 0.0527
+Next Token : }, Posbility: 0.9336
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0040
+Next Token :  when, Posbility: 0.0051
+Next Token : ::, Posbility: 0.0084
+Next Token :  as, Posbility: 0.0084
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0005
+Next Token : -, Posbility: 0.0020
+Next Token : if, Posbility: 0.0088
+Next Token : ::, Posbility: 0.0942
+Next Token : ->, Posbility: 0.8945
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Add, Posbility: 0.0018
+Next Token :   , Posbility: 0.0027
+Next Token :  {, Posbility: 0.0198
+Next Token :  , Posbility: 0.4512
+Next Token : 
+, Posbility: 0.5117
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0126
+Next Token :    , Posbility: 0.0143
+Next Token :   , Posbility: 0.0267
+Next Token :       , Posbility: 0.2539
+Next Token :     , Posbility: 0.6914
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : item, Posbility: 0.0693
+Next Token : if, Posbility: 0.0781
+Next Token : add, Posbility: 0.2129
+Next Token : let, Posbility: 0.2129
+Next Token : weight, Posbility: 0.2412
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0099
+Next Token : 
+, Posbility: 0.0830
+Next Token :  , Posbility: 0.0830
+Next Token :  +, Posbility: 0.2891
+Next Token :  *, Posbility: 0.4766
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0017
+Next Token : 
+, Posbility: 0.0019
+Next Token : =, Posbility: 0.0019
+Next Token :  !, Posbility: 0.0022
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0007
+Next Token : weight, Posbility: 0.0090
+Next Token : add, Posbility: 0.0116
+Next Token : (, Posbility: 0.0520
+Next Token : item, Posbility: 0.9219
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  >>, Posbility: 0.0342
+Next Token :  |, Posbility: 0.0933
+Next Token : 
+, Posbility: 0.1533
+Next Token :  , Posbility: 0.2539
+Next Token :  +, Posbility: 0.4180
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token : !, Posbility: 0.0008
+Next Token :  !, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0291
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Weight, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0011
+Next Token : weight, Posbility: 0.0278
+Next Token : (, Posbility: 0.0459
+Next Token : add, Posbility: 0.9219
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : rest, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : total, Posbility: 0.0000
+Next Token : one, Posbility: 0.0000
+Next Token : all, Posbility: 1.0000
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ((, Posbility: 0.0005
+Next Token :  ~, Posbility: 0.0007
+Next Token : _, Posbility: 0.0008
+Next Token : (, Posbility: 0.0371
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Weight, Posbility: 0.0021
+Next Token : dict, Posbility: 0.0050
+Next Token : weight, Posbility: 0.0072
+Next Token : d, Posbility: 0.3945
+Next Token : (, Posbility: 0.5742
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : List, Posbility: 0.0408
+Next Token : dict, Posbility: 0.0762
+Next Token : Map, Posbility: 0.1108
+Next Token : d, Posbility: 0.1611
+Next Token : Dict, Posbility: 0.1826
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : Util, Posbility: 0.0001
+Next Token : 2., Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 0.0009
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : lookup, Posbility: 0.0315
+Next Token : next, Posbility: 0.0459
+Next Token : find, Posbility: 0.0854
+Next Token : get, Posbility: 0.2988
+Next Token : remove, Posbility: 0.4336
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  !, Posbility: 0.0008
+Next Token : !, Posbility: 0.0010
+Next Token :  key, Posbility: 0.0057
+Next Token : _, Posbility: 0.0289
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : dict, Posbility: 0.0003
+Next Token : weight, Posbility: 0.0021
+Next Token : (, Posbility: 0.0159
+Next Token : d, Posbility: 0.1167
+Next Token : item, Posbility: 0.8633
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  !, Posbility: 0.0001
+Next Token : ., Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0008
+Next Token : ), Posbility: 0.0017
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : ::, Posbility: 0.0000
+Next Token : dict, Posbility: 0.0002
+Next Token : (, Posbility: 0.0052
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : )., Posbility: 0.0004
+Next Token : ),, Posbility: 0.0005
+Next Token :  , Posbility: 0.0024
+Next Token : );, Posbility: 0.0109
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0014
+Next Token :  *, Posbility: 0.0019
+Next Token :  , Posbility: 0.0083
+Next Token : 
+
+, Posbility: 0.0256
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : let, Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Next Token : end, Posbility: 0.0004
+Next Token :     , Posbility: 0.0067
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : else, Posbility: 0.0002
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  other, Posbility: 0.0020
+Next Token :  [], Posbility: 0.0060
+Next Token :  empty, Posbility: 0.0210
+Next Token :  {, Posbility: 0.0571
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0059
+Next Token : dict, Posbility: 0.0181
+Next Token : Dict, Posbility: 0.0232
+Next Token : d, Posbility: 0.0493
+Next Token : _, Posbility: 0.8711
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0004
+Next Token :   , Posbility: 0.0010
+Next Token :  as, Posbility: 0.0015
+Next Token :  when, Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : if, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0008
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0017
+Next Token :  0.0, Posbility: 0.0126
+Next Token :  , Posbility: 0.0344
+Next Token : 
+, Posbility: 0.2539
+Next Token :  0, Posbility: 0.6914
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  | _ -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token : L, Posbility: 0.0029
+Next Token :  , Posbility: 0.0048
+Next Token : 
+, Posbility: 0.2637
+Next Token : 
+
+, Posbility: 0.7188
+---------------------------
+code:
+ (* Write function to find the sum of all items in the given dictionary. *)
+let rec add_all d =
+  match d with
+  | { item = item; weight = weight } ->
+    weight * item + add_all (Dict.remove item d)
+  | _ -> 0
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :35.51246213912964
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

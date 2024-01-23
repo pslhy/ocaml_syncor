@@ -1,0 +1,1710 @@
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0110
+Next Token :  find, Posbility: 0.0557
+Next Token :  , Posbility: 0.1338
+Next Token :  left, Posbility: 0.2207
+Next Token :  rec, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0276
+Next Token :  search, Posbility: 0.0515
+Next Token :  find, Posbility: 0.1797
+Next Token :  , Posbility: 0.2617
+Next Token :  left, Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0099
+Next Token : most, Posbility: 0.0099
+Next Token : Insert, Posbility: 0.0099
+Next Token :  =, Posbility: 0.0271
+Next Token : _, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : search, Posbility: 0.0194
+Next Token : of, Posbility: 0.0320
+Next Token : index, Posbility: 0.0527
+Next Token : insert, Posbility: 0.0869
+Next Token : insertion, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0071
+Next Token : (, Posbility: 0.0408
+Next Token :  , Posbility: 0.0522
+Next Token :  =, Posbility: 0.0674
+Next Token : _, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0151
+Next Token : pt, Posbility: 0.0250
+Next Token : index, Posbility: 0.0413
+Next Token : search, Posbility: 0.0413
+Next Token : point, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0452
+Next Token :  l, Posbility: 0.0747
+Next Token : _, Posbility: 0.1230
+Next Token :  =, Posbility: 0.1582
+Next Token :  , Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0369
+Next Token : lst, Posbility: 0.0688
+Next Token : arr, Posbility: 0.1455
+Next Token : x, Posbility: 0.1865
+Next Token : (, Posbility: 0.2119
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : list, Posbility: 0.0510
+Next Token : l, Posbility: 0.0579
+Next Token : x, Posbility: 0.0845
+Next Token : v, Posbility: 0.0845
+Next Token : arr, Posbility: 0.0845
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0020
+Next Token : _, Posbility: 0.0092
+Next Token : ,, Posbility: 0.0410
+Next Token : :, Posbility: 0.1118
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : n, Posbility: 0.0002
+Next Token : val, Posbility: 0.0002
+Next Token : x, Posbility: 0.0006
+Next Token : ::, Posbility: 0.0046
+Next Token : :, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  list, Posbility: 0.0277
+Next Token :  array, Posbility: 0.0752
+Next Token :  ', Posbility: 0.0967
+Next Token :  , Posbility: 0.1592
+Next Token :  int, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0021
+Next Token : []), Posbility: 0.0021
+Next Token :  , Posbility: 0.0157
+Next Token :  array, Posbility: 0.1162
+Next Token :  list, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0015
+Next Token :  *, Posbility: 0.0031
+Next Token :  *), Posbility: 0.0035
+Next Token :  , Posbility: 0.0084
+Next Token : ), Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  key, Posbility: 0.0173
+Next Token :  i, Posbility: 0.0286
+Next Token :  value, Posbility: 0.0322
+Next Token :  =, Posbility: 0.1855
+Next Token :  , Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : val, Posbility: 0.0454
+Next Token : :, Posbility: 0.0850
+Next Token : x, Posbility: 0.1396
+Next Token : n, Posbility: 0.1396
+Next Token : (, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : v, Posbility: 0.0771
+Next Token : value, Posbility: 0.0874
+Next Token : x, Posbility: 0.1123
+Next Token : target, Posbility: 0.1123
+Next Token : val, Posbility: 0.1631
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  =, Posbility: 0.0009
+Next Token : _, Posbility: 0.0065
+Next Token : ), Posbility: 0.0065
+Next Token : :, Posbility: 0.0177
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val 
+ score:False
+Error type: Syntaxerr.Expecting_stop
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val:
+ score:False
+Error type: Syntaxerr.Expecting_stop
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val)
+ score:False
+Error type: Syntaxerr.Expecting_stop
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : i, Posbility: 0.0201
+Next Token : of, Posbility: 0.0259
+Next Token : index, Posbility: 0.0293
+Next Token : pos, Posbility: 0.0483
+Next Token : to, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token : search, Posbility: 0.0001
+Next Token : Find, Posbility: 0.0001
+Next Token : find, Posbility: 0.0025
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : test, Posbility: 0.0134
+Next Token : locate, Posbility: 0.0364
+Next Token : insert, Posbility: 0.0364
+Next Token : search, Posbility: 0.0986
+Next Token : find, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0005
+Next Token : ), Posbility: 0.0040
+Next Token : _, Posbility: 0.0065
+Next Token : :, Posbility: 0.0178
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : val, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0002
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  ', Posbility: 0.0003
+Next Token :  ?, Posbility: 0.0003
+Next Token : int, Posbility: 0.0015
+Next Token :  , Posbility: 0.0019
+Next Token :  int, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0004
+Next Token : ):, Posbility: 0.0008
+Next Token :  list, Posbility: 0.0036
+Next Token :  , Posbility: 0.0075
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0034
+Next Token :  result, Posbility: 0.0063
+Next Token : 
+, Posbility: 0.0193
+Next Token :  =, Posbility: 0.4395
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0046
+Next Token : 
+, Posbility: 0.0052
+Next Token : idx, Posbility: 0.0067
+Next Token : :, Posbility: 0.4688
+Next Token : (, Posbility: 0.4688
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : idx, Posbility: 0.0559
+Next Token : index, Posbility: 0.0635
+Next Token : start, Posbility: 0.0635
+Next Token : left, Posbility: 0.0815
+Next Token : i, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0, Posbility: 0.0053
+Next Token : :, Posbility: 0.0088
+Next Token : _, Posbility: 0.0649
+Next Token :  =, Posbility: 0.1074
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : option, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0000
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  pos, Posbility: 0.0001
+Next Token :  ?, Posbility: 0.0004
+Next Token :  , Posbility: 0.0013
+Next Token : int, Posbility: 0.0015
+Next Token :  int, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  start, Posbility: 0.0013
+Next Token :  , Posbility: 0.0127
+Next Token :  list, Posbility: 0.0162
+Next Token :  =, Posbility: 0.0728
+Next Token : ), Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0023
+Next Token :  when, Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0175
+Next Token :  , Posbility: 0.3086
+Next Token :  =, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0028
+Next Token : 
+
+, Posbility: 0.0110
+Next Token :  match, Posbility: 0.0161
+Next Token :  , Posbility: 0.0815
+Next Token : 
+, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0039
+Next Token : 	, Posbility: 0.0121
+Next Token :    , Posbility: 0.0137
+Next Token :     , Posbility: 0.2139
+Next Token :   , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : i, Posbility: 0.0057
+Next Token : (, Posbility: 0.0176
+Next Token : let, Posbility: 0.0894
+Next Token : match, Posbility: 0.2754
+Next Token : if, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0030
+Next Token :  int, Posbility: 0.0043
+Next Token :  not, Posbility: 0.0194
+Next Token :  , Posbility: 0.3047
+Next Token :  i, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0129
+Next Token :  <=, Posbility: 0.0214
+Next Token :  , Posbility: 0.2598
+Next Token :  >=, Posbility: 0.2598
+Next Token :  =, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0076
+Next Token :  len, Posbility: 0.0076
+Next Token :  1, Posbility: 0.0208
+Next Token :  , Posbility: 0.2520
+Next Token :  0, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  or, Posbility: 0.0150
+Next Token :  &&, Posbility: 0.0170
+Next Token : 
+, Posbility: 0.0405
+Next Token :  ||, Posbility: 0.0859
+Next Token :  then, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0264
+Next Token :  i, Posbility: 0.1182
+Next Token :  0, Posbility: 0.1182
+Next Token : 
+, Posbility: 0.3203
+Next Token :  , Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : val, Posbility: 0.0718
+Next Token : 
+, Posbility: 0.1182
+Next Token : arr, Posbility: 0.1182
+Next Token : return, Posbility: 0.1719
+Next Token : (, Posbility: 0.1719
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : if, Posbility: 0.0306
+Next Token : arr, Posbility: 0.0505
+Next Token : 
+, Posbility: 0.0942
+Next Token : fun, Posbility: 0.1758
+Next Token : i, Posbility: 0.2266
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0254
+Next Token : ), Posbility: 0.0537
+Next Token :  , Posbility: 0.1465
+Next Token :  +, Posbility: 0.1875
+Next Token : ,, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  false, Posbility: 0.0244
+Next Token :  None, Posbility: 0.0312
+Next Token :  i, Posbility: 0.0457
+Next Token :  0), Posbility: 0.0854
+Next Token :  , Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ()), Posbility: 0.0206
+Next Token : (, Posbility: 0.0339
+Next Token : []), Posbility: 0.0815
+Next Token : val, Posbility: 0.2832
+Next Token : arr, Posbility: 0.4688
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0757
+Next Token : ,, Posbility: 0.0757
+Next Token : [0]), Posbility: 0.1245
+Next Token : [, Posbility: 0.2061
+Next Token : ), Posbility: 0.3398
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0029
+Next Token :   , Posbility: 0.0054
+Next Token :  , Posbility: 0.0243
+Next Token :  else, Posbility: 0.2305
+Next Token : 
+, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token :    , Posbility: 0.0005
+Next Token :       , Posbility: 0.0006
+Next Token :     , Posbility: 0.0032
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : els, Posbility: 0.0004
+Next Token : if, Posbility: 0.0035
+Next Token : let, Posbility: 0.0075
+Next Token : elif, Posbility: 0.0096
+Next Token : else, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0041
+Next Token :  left, Posbility: 0.0067
+Next Token :  {, Posbility: 0.0076
+Next Token : 
+, Posbility: 0.1963
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : begin, Posbility: 0.0021
+Next Token : 
+, Posbility: 0.0074
+Next Token : (, Posbility: 0.0425
+Next Token : let, Posbility: 0.0898
+Next Token : if, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  less, Posbility: 0.0035
+Next Token :  int, Posbility: 0.0075
+Next Token :  not, Posbility: 0.0109
+Next Token :  i, Posbility: 0.0913
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0017
+Next Token : Int, Posbility: 0.0017
+Next Token : (, Posbility: 0.0344
+Next Token : val, Posbility: 0.2539
+Next Token : arr, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0815
+Next Token :  =, Posbility: 0.1338
+Next Token : [, Posbility: 0.1719
+Next Token :  [, Posbility: 0.1719
+Next Token : ., Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [0], Posbility: 0.0017
+Next Token : [0, Posbility: 0.0017
+Next Token : i, Posbility: 0.0021
+Next Token : [, Posbility: 0.3164
+Next Token : (, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0009
+Next Token : arr, Posbility: 0.0012
+Next Token : Arr, Posbility: 0.0019
+Next Token : (, Posbility: 0.0059
+Next Token : i, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0079
+Next Token :  +, Posbility: 0.0189
+Next Token : ), Posbility: 0.1787
+Next Token : -1), Posbility: 0.2949
+Next Token :  , Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : <, Posbility: 0.0003
+Next Token : ^, Posbility: 0.0004
+Next Token : >, Posbility: 0.0007
+Next Token : −, Posbility: 0.0017
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2), Posbility: 0.0005
+Next Token :  , Posbility: 0.0009
+Next Token :  1, Posbility: 0.0025
+Next Token :  i, Posbility: 0.0025
+Next Token :  1), Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0066
+Next Token :  >=, Posbility: 0.0486
+Next Token :  <=, Posbility: 0.1318
+Next Token :  =, Posbility: 0.2168
+Next Token :  , Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  <=, Posbility: 0.0005
+Next Token : ≥, Posbility: 0.0005
+Next Token : ≤, Posbility: 0.0012
+Next Token : >, Posbility: 0.3203
+Next Token : <, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0008
+Next Token :   , Posbility: 0.0011
+Next Token :  0, Posbility: 0.0013
+Next Token : >, Posbility: 0.0471
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : Int, Posbility: 0.0001
+Next Token : (, Posbility: 0.0012
+Next Token : arr, Posbility: 0.0012
+Next Token : val, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0000
+Next Token :  ||, Posbility: 0.0000
+Next Token :  to, Posbility: 0.0000
+Next Token :  then, Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : for, Posbility: 0.0000
+Next Token : tol, Posbility: 0.0000
+Next Token : of, Posbility: 0.0000
+Next Token :  to, Posbility: 0.0000
+Next Token : to, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : find, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : Find, Posbility: 0.0000
+Next Token :  find, Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : look, Posbility: 0.0000
+Next Token : search, Posbility: 0.0000
+Next Token : found, Posbility: 0.0000
+Next Token : locate, Posbility: 0.0000
+Next Token : find, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0031
+Next Token :  &&, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0051
+Next Token :  ||, Posbility: 0.0066
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0029
+Next Token :  i, Posbility: 0.0276
+Next Token : 
+, Posbility: 0.1235
+Next Token :  left, Posbility: 0.1235
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0027
+Next Token : (0,, Posbility: 0.0034
+Next Token : let, Posbility: 0.0064
+Next Token : 
+, Posbility: 0.0226
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  i, Posbility: 0.0017
+Next Token : 
+, Posbility: 0.0078
+Next Token : arr, Posbility: 0.0165
+Next Token : left, Posbility: 0.2578
+Next Token : i, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1,, Posbility: 0.0005
+Next Token : -1,, Posbility: 0.0065
+Next Token :  +, Posbility: 0.0481
+Next Token : ,, Posbility: 0.3555
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0000
+Next Token : +1,, Posbility: 0.0001
+Next Token : −, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0006
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  i, Posbility: 0.0001
+Next Token :  1, Posbility: 0.0006
+Next Token :  1), Posbility: 0.0009
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0000
+Next Token : 1,0, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : 2,, Posbility: 0.0032
+Next Token : 1,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0011
+Next Token :  right, Posbility: 0.0026
+Next Token :  [, Posbility: 0.0043
+Next Token :  left, Posbility: 0.0466
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : val, Posbility: 0.0015
+Next Token : append, Posbility: 0.0024
+Next Token : Array, Posbility: 0.0051
+Next Token : (, Posbility: 0.0084
+Next Token : arr, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0024
+Next Token : );, Posbility: 0.0051
+Next Token : ., Posbility: 0.0084
+Next Token :  , Posbility: 0.0137
+Next Token : ), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0004
+Next Token :   , Posbility: 0.0013
+Next Token :  , Posbility: 0.0105
+Next Token :  else, Posbility: 0.0415
+Next Token : 
+, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :                         , Posbility: 0.0001
+Next Token :    , Posbility: 0.0003
+Next Token :       , Posbility: 0.0009
+Next Token :     , Posbility: 0.0019
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : let, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0002
+Next Token : //, Posbility: 0.0003
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0054
+Next Token :  i, Posbility: 0.0167
+Next Token : 
+, Posbility: 0.0400
+Next Token :  , Posbility: 0.2949
+Next Token :  left, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : recursion, Posbility: 0.0000
+Next Token : deletion, Posbility: 0.0000
+Next Token : insert, Posbility: 0.0000
+Next Token : injection, Posbility: 0.0000
+Next Token : insertion, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion
+ score:False
+Error type: noerr
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token :  point, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : pair, Posbility: 0.0000
+Next Token : pt, Posbility: 0.0000
+Next Token : points, Posbility: 0.0000
+Next Token : part, Posbility: 0.0001
+Next Token : point, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0007
+Next Token :  ((, Posbility: 0.0063
+Next Token : (, Posbility: 0.0471
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Next Token : val, Posbility: 0.0001
+Next Token : arr, Posbility: 0.0757
+Next Token : (, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : i, Posbility: 0.0011
+Next Token : List, Posbility: 0.0045
+Next Token : Arr, Posbility: 0.0051
+Next Token : Array, Posbility: 0.0177
+Next Token : arr, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  0, Posbility: 0.0014
+Next Token : :, Posbility: 0.0023
+Next Token : ), Posbility: 0.0070
+Next Token :  , Posbility: 0.4316
+Next Token : ., Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0004
+Next Token : (0,, Posbility: 0.0004
+Next Token : [0, Posbility: 0.0012
+Next Token :  , Posbility: 0.0019
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0059
+Next Token : Array, Posbility: 0.0066
+Next Token : (, Posbility: 0.0140
+Next Token : 0, Posbility: 0.0918
+Next Token : i, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1, Posbility: 0.0007
+Next Token : ), Posbility: 0.0009
+Next Token : -1), Posbility: 0.0084
+Next Token :  +, Posbility: 0.0177
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0000
+Next Token : :, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token : −, Posbility: 0.0002
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0018
+Next Token :  1),, Posbility: 0.0048
+Next Token :  1, Posbility: 0.0131
+Next Token :  1)), Posbility: 0.2637
+Next Token :  1), Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1)
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0153
+Next Token :  >=, Posbility: 0.0173
+Next Token :  +, Posbility: 0.0325
+Next Token : ::, Posbility: 0.0776
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0569
+Next Token : ., Posbility: 0.0830
+Next Token : <, Posbility: 0.1748
+Next Token : ::, Posbility: 0.2891
+Next Token : >, Posbility: 0.3711
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) >
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0005
+Next Token : ?, Posbility: 0.0005
+Next Token :  ?, Posbility: 0.0010
+Next Token :  i, Posbility: 0.0013
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : vals, Posbility: 0.0000
+Next Token : (, Posbility: 0.0011
+Next Token : arr, Posbility: 0.0293
+Next Token : val, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token :  to, Posbility: 0.0000
+Next Token :  ?, Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : find, Posbility: 0.0000
+Next Token : in, Posbility: 0.0000
+Next Token :  to, Posbility: 0.0000
+Next Token : found, Posbility: 0.0000
+Next Token : to, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0000
+Next Token : Find, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :  find, Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : locate, Posbility: 0.0000
+Next Token : search, Posbility: 0.0000
+Next Token : look, Posbility: 0.0000
+Next Token : found, Posbility: 0.0000
+Next Token : find, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0028
+Next Token : ,, Posbility: 0.0046
+Next Token :  , Posbility: 0.0267
+Next Token :  ?, Posbility: 0.4180
+Next Token : ), Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0049
+Next Token :  ((, Posbility: 0.0082
+Next Token : 
+, Posbility: 0.0119
+Next Token :  i, Posbility: 0.0222
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0003
+Next Token : arr, Posbility: 0.0188
+Next Token : val, Posbility: 0.1787
+Next Token : (, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0011
+Next Token : i, Posbility: 0.0221
+Next Token : arr, Posbility: 0.0364
+Next Token : val, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : ), Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : in, Posbility: 0.0000
+Next Token :  to, Posbility: 0.0000
+Next Token : not, Posbility: 0.0000
+Next Token : of, Posbility: 0.0000
+Next Token : to, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  find, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : Find, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : check, Posbility: 0.0000
+Next Token : locate, Posbility: 0.0000
+Next Token : search, Posbility: 0.0000
+Next Token : found, Posbility: 0.0000
+Next Token : find, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0014
+Next Token : ,, Posbility: 0.0039
+Next Token :  , Posbility: 0.0292
+Next Token : ), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (1, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0021
+Next Token :  i, Posbility: 0.0035
+Next Token :  ((, Posbility: 0.0139
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : arr, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token : (0), Posbility: 0.0002
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0001
+Next Token :  i, Posbility: 0.0001
+Next Token : arr, Posbility: 0.0002
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0009
+Next Token :  =, Posbility: 0.0014
+Next Token : -1), Posbility: 0.0024
+Next Token :  +, Posbility: 0.0292
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) (i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0000
+Next Token : +1), Posbility: 0.0001
+Next Token : /, Posbility: 0.0002
+Next Token : −, Posbility: 0.0002
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) (i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token :  1, Posbility: 0.0003
+Next Token :  1);, Posbility: 0.0067
+Next Token :  2), Posbility: 0.0067
+Next Token :  1), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) (i - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0032
+Next Token :  in, Posbility: 0.0067
+Next Token :  , Posbility: 0.0142
+Next Token : 
+, Posbility: 0.3652
+Next Token : 
+
+, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to locate the left insertion point for a specified value in sorted order. https://www.w3resource.com/-exercises/data-structures-and-algorithms/-data-structure-exercise-24.php *)
+let rec left_insertion_point (arr : int list) (val_to_find : int) (i : int) =
+  if i = 0 then (i, arr)
+  else if arr.(i - 1) < val_to_find then (i - 1, arr)
+  else left_insertion_point (arr.(i - 1) > val_to_find) (val_to_find) (i - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :53.02386927604675
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

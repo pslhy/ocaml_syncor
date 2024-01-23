@@ -1,0 +1,971 @@
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let
+Next Token :  rec, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec
+Next Token :  , Posbility: 0.3594
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec 
+Next Token : product, Posbility: 0.1992
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product
+Next Token : _, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_
+Next Token : pair, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair 
+Next Token : x, Posbility: 0.2246
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair x
+Next Token : s, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs
+Next Token :  =, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+
+Next Token :   , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  
+Next Token : match, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match 
+Next Token : x, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] ->
+Next Token :  , Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> 
+Next Token : (, Posbility: 0.2168
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (
+Next Token : None, Posbility: 0.2158
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None
+Next Token : ,, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None,
+Next Token :  None, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None
+Next Token : ), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  |
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | 
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x
+Next Token :  , Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x 
+Next Token : ::, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x ::
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: 
+Next Token : x, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: x
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+
+Next Token :       , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      
+Next Token : let, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let
+Next Token :  , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let 
+Next Token : (, Posbility: 0.2285
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (
+Next Token : p, Posbility: 0.2344
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p
+Next Token : ,, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p,
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, 
+Next Token : q, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q
+Next Token : ), Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q)
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) =
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = 
+Next Token : product, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_
+Next Token : pair, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair 
+Next Token : x, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs
+Next Token :  in, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+
+Next Token :       , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      
+Next Token : if, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if 
+Next Token : p, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p
+Next Token :  *, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p *
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * 
+Next Token : q, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q 
+Next Token : >, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q >
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > 
+Next Token : x, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x
+Next Token :  *, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x *
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * 
+Next Token : q, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q
+Next Token :  then, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then 
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (
+Next Token : Some, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some 
+Next Token : x, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x
+Next Token : ,, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x,
+Next Token :  Some, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some 
+Next Token : p, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p
+Next Token : ), Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p)
+Next Token :  else, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else 
+Next Token : (, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (
+Next Token : Some, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some 
+Next Token : p, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p,
+Next Token :  Some, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some 
+Next Token : q, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q
+Next Token : ), Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+Next Token : 
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+
+Next Token :   , Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  
+Next Token : |, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  |
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | 
+Next Token : _, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ 
+Next Token : ->, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ ->
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ -> 
+Next Token : (, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ -> (
+Next Token : None, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ -> (None
+Next Token : ,, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ -> (None,
+Next Token :  None, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ -> (None, None
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find a pair with highest product from a given array of integers. *)
+let rec product_pair xs =
+  match xs with
+  | [] -> (None, None)
+  | x :: xs ->
+      let (p, q) = product_pair xs in
+      if p * q > x * q then (Some x, Some p) else (Some p, Some q)
+  | _ -> (None, None)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.328859806060791
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

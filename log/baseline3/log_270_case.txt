@@ -1,0 +1,1308 @@
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let 
+Next Token : union, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union
+Next Token :  , Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union 
+Next Token : (, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (
+Next Token : x, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x
+Next Token : ,, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x,
+Next Token :  , Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, 
+Next Token : y, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y)
+Next Token :  =, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+Next Token : 
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  
+Next Token : let, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let
+Next Token :  , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let 
+Next Token : x, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x
+Next Token : _, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_
+Next Token : set, Posbility: 0.1167
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set =
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = 
+Next Token : Set, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set
+Next Token : ., Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.
+Next Token : make, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make 
+Next Token : x, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x
+Next Token :  in, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  
+Next Token : let, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let 
+Next Token : y, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = 
+Next Token : Set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.
+Next Token : make, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make 
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  
+Next Token : let, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let 
+Next Token : x, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x
+Next Token : _, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_
+Next Token : set, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set
+Next Token : _, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_
+Next Token : union, Posbility: 0.1260
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union
+Next Token : _, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_
+Next Token : y, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y
+Next Token : _, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set
+Next Token :  =, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set =
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = 
+Next Token : Set, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.
+Next Token : union, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union 
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  
+Next Token : let, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let
+Next Token :  , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let 
+Next Token : x, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x
+Next Token : _, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_
+Next Token : set, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set
+Next Token : _, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_
+Next Token : union, Posbility: 0.2451
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_
+Next Token : y, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_
+Next Token : set, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set
+Next Token : _, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_
+Next Token : sorted, Posbility: 0.3047
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted =
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = 
+Next Token : Set, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.
+Next Token : sort, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort 
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_
+Next Token : union, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  
+Next Token : let, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let 
+Next Token : x, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x
+Next Token : _, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_
+Next Token : set, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set
+Next Token : _, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_
+Next Token : union, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_
+Next Token : y, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_
+Next Token : set, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set
+Next Token : _, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_
+Next Token : sorted, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted
+Next Token : _, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_
+Next Token : set, Posbility: 0.0923
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set
+Next Token :  =, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set =
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = 
+Next Token : Set, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.
+Next Token : to, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_
+Next Token : list, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_
+Next Token : union, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set
+Next Token : _, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_
+Next Token : sorted, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  
+Next Token : x, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_
+Next Token : union, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_set
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_set_
+Next Token : sorted, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_set_sorted
+Next Token : _, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_set_sorted_
+Next Token : set, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_set_sorted_set
+Next Token : 
+, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the union of the elements of two given tuples and output them in sorted order. *)
+let union (x, y) =
+  let x_set = Set.make x in
+  let y_set = Set.make y in
+  let x_set_union_y_set = Set.union x_set y_set in
+  let x_set_union_y_set_sorted = Set.sort x_set_union_y_set in
+  let x_set_union_y_set_sorted_set = Set.to_list x_set_union_y_set_sorted in
+  x_set_union_y_set_sorted_set
+
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :5.629273414611816
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

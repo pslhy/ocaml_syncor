@@ -1,0 +1,1998 @@
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0243
+Next Token :  is, Posbility: 0.0354
+Next Token :  count, Posbility: 0.0581
+Next Token :  rec, Posbility: 0.2949
+Next Token :  , Posbility: 0.3789
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0303
+Next Token : print, Posbility: 0.0388
+Next Token : write, Posbility: 0.0388
+Next Token : n, Posbility: 0.0498
+Next Token : prime, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : count, Posbility: 0.0064
+Next Token :  , Posbility: 0.0106
+Next Token :  =, Posbility: 0.0173
+Next Token : s, Posbility: 0.3496
+Next Token : _, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0435
+Next Token : less, Posbility: 0.0559
+Next Token : number, Posbility: 0.0635
+Next Token : numbers, Posbility: 0.1719
+Next Token : count, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0149
+Next Token :  num, Posbility: 0.0217
+Next Token : _, Posbility: 0.1250
+Next Token :  =, Posbility: 0.2988
+Next Token :  , Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0039
+Next Token : p, Posbility: 0.0135
+Next Token : (, Posbility: 0.0222
+Next Token : x, Posbility: 0.0996
+Next Token : n, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0017
+Next Token :  ~, Posbility: 0.0017
+Next Token : 
+, Posbility: 0.0031
+Next Token :  , Posbility: 0.0058
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0098
+Next Token :  ..., Posbility: 0.0126
+Next Token :  match, Posbility: 0.0143
+Next Token :  , Posbility: 0.1357
+Next Token : 
+, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0079
+Next Token : 	, Posbility: 0.0115
+Next Token :    , Posbility: 0.0167
+Next Token :     , Posbility: 0.1396
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0121
+Next Token : (, Posbility: 0.0258
+Next Token : if, Posbility: 0.1016
+Next Token : match, Posbility: 0.1152
+Next Token : let, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  open, Posbility: 0.0109
+Next Token :  is, Posbility: 0.0295
+Next Token :  count, Posbility: 0.0295
+Next Token :  , Posbility: 0.2793
+Next Token :  rec, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0238
+Next Token :  is, Posbility: 0.0444
+Next Token :  count, Posbility: 0.1206
+Next Token :  loop, Posbility: 0.2256
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0366
+Next Token : helper, Posbility: 0.0771
+Next Token : p, Posbility: 0.0879
+Next Token : f, Posbility: 0.1445
+Next Token : prime, Posbility: 0.2383
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0062
+Next Token :  , Posbility: 0.0277
+Next Token :  =, Posbility: 0.0277
+Next Token : s, Posbility: 0.3379
+Next Token : _, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0200
+Next Token : helper, Posbility: 0.0227
+Next Token : check, Posbility: 0.0258
+Next Token : test, Posbility: 0.0330
+Next Token : count, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0369
+Next Token :  acc, Posbility: 0.0474
+Next Token :  =, Posbility: 0.0781
+Next Token :  , Posbility: 0.3496
+Next Token : _, Posbility: 0.3496
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : loop, Posbility: 0.0474
+Next Token : iter, Posbility: 0.0688
+Next Token : rec, Posbility: 0.1465
+Next Token : helper, Posbility: 0.1875
+Next Token : aux, Posbility: 0.2129
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  num, Posbility: 0.0243
+Next Token :  acc, Posbility: 0.0354
+Next Token :  i, Posbility: 0.0454
+Next Token :  =, Posbility: 0.0962
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : prime, Posbility: 0.0212
+Next Token : (, Posbility: 0.0310
+Next Token : p, Posbility: 0.0352
+Next Token : x, Posbility: 0.0398
+Next Token : n, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0327
+Next Token :  i, Posbility: 0.0420
+Next Token :  acc, Posbility: 0.0693
+Next Token :  , Posbility: 0.2412
+Next Token :  =, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0013
+Next Token :  function, Posbility: 0.0039
+Next Token :  match, Posbility: 0.0044
+Next Token :  , Posbility: 0.0289
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0031
+Next Token :    , Posbility: 0.0050
+Next Token :       , Posbility: 0.0137
+Next Token :   , Posbility: 0.0176
+Next Token :     , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0069
+Next Token : n, Posbility: 0.0101
+Next Token : let, Posbility: 0.0845
+Next Token : match, Posbility: 0.2598
+Next Token : if, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token :  0, Posbility: 0.0015
+Next Token :  !, Posbility: 0.0024
+Next Token :  not, Posbility: 0.0031
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Ref, Posbility: 0.0013
+Next Token : Is, Posbility: 0.0016
+Next Token : Int, Posbility: 0.0072
+Next Token : (, Posbility: 0.0286
+Next Token : n, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0150
+Next Token :  ==, Posbility: 0.0669
+Next Token :  , Posbility: 0.3008
+Next Token :  =, Posbility: 0.3008
+Next Token :  <=, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0014
+Next Token : 1, Posbility: 0.0038
+Next Token :  , Posbility: 0.2100
+Next Token :  0, Posbility: 0.2100
+Next Token :  1, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token :  , Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0024
+Next Token :  ||, Posbility: 0.0085
+Next Token :  then, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0109
+Next Token : 
+, Posbility: 0.0801
+Next Token :  , Posbility: 0.0801
+Next Token :  1, Posbility: 0.2178
+Next Token :  0, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : L, Posbility: 0.0018
+Next Token :   , Posbility: 0.0033
+Next Token :  , Posbility: 0.0091
+Next Token :  else, Posbility: 0.3398
+Next Token : 
+, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0003
+Next Token :   , Posbility: 0.0005
+Next Token :       , Posbility: 0.0009
+Next Token :    , Posbility: 0.0124
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : |, Posbility: 0.0001
+Next Token : if, Posbility: 0.0004
+Next Token : let, Posbility: 0.0005
+Next Token : elif, Posbility: 0.0032
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token :  match, Posbility: 0.0026
+Next Token :  {, Posbility: 0.0080
+Next Token : 
+, Posbility: 0.2656
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0024
+Next Token : n, Posbility: 0.0040
+Next Token : let, Posbility: 0.0058
+Next Token : 
+, Posbility: 0.0066
+Next Token : if, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  O, Posbility: 0.0053
+Next Token :  !, Posbility: 0.0145
+Next Token :  not, Posbility: 0.0396
+Next Token :  is, Posbility: 0.0947
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0126
+Next Token : Int, Posbility: 0.0236
+Next Token : Is, Posbility: 0.0236
+Next Token : (, Posbility: 0.0640
+Next Token : n, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0645
+Next Token :  mod, Posbility: 0.0645
+Next Token :  =, Posbility: 0.1982
+Next Token :  %, Posbility: 0.2539
+Next Token :  , Posbility: 0.2871
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0117
+Next Token : /, Posbility: 0.0117
+Next Token : %%, Posbility: 0.0525
+Next Token : >, Posbility: 0.2676
+Next Token : <, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  100, Posbility: 0.0317
+Next Token :  10, Posbility: 0.0461
+Next Token :  0, Posbility: 0.0461
+Next Token : >, Posbility: 0.3008
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 5, Posbility: 0.0391
+Next Token : 1000, Posbility: 0.0500
+Next Token : n, Posbility: 0.0569
+Next Token : 3, Posbility: 0.0728
+Next Token : 2, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0034
+Next Token : 
+, Posbility: 0.0049
+Next Token :  *, Posbility: 0.0049
+Next Token :  ||, Posbility: 0.0408
+Next Token :  then, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0371
+Next Token :  , Posbility: 0.1011
+Next Token :  0, Posbility: 0.1011
+Next Token :  1, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0021
+Next Token :  +, Posbility: 0.0040
+Next Token :  else, Posbility: 0.0095
+Next Token :  , Posbility: 0.0122
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0002
+Next Token :       , Posbility: 0.0004
+Next Token :         , Posbility: 0.0005
+Next Token :    , Posbility: 0.0028
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0001
+Next Token : //, Posbility: 0.0002
+Next Token : let, Posbility: 0.0002
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0012
+Next Token :  match, Posbility: 0.0022
+Next Token :  {, Posbility: 0.0143
+Next Token : 
+, Posbility: 0.2871
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0070
+Next Token : 
+, Posbility: 0.0103
+Next Token : n, Posbility: 0.0192
+Next Token : let, Posbility: 0.0247
+Next Token : if, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  O, Posbility: 0.0077
+Next Token :  !, Posbility: 0.0164
+Next Token :  is, Posbility: 0.0569
+Next Token :  not, Posbility: 0.0732
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0211
+Next Token : Int, Posbility: 0.0238
+Next Token : Is, Posbility: 0.0238
+Next Token : (, Posbility: 0.0942
+Next Token : n, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0552
+Next Token :  =, Posbility: 0.1167
+Next Token :  , Posbility: 0.1494
+Next Token :  mod, Posbility: 0.2178
+Next Token :  %, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n %
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0001
+Next Token :  10, Posbility: 0.0003
+Next Token :  1, Posbility: 0.0009
+Next Token :  4, Posbility: 0.0015
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 5, Posbility: 0.0004
+Next Token : (, Posbility: 0.0008
+Next Token : n, Posbility: 0.0019
+Next Token : 3, Posbility: 0.0036
+Next Token : 2, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !=, Posbility: 0.0046
+Next Token :  , Posbility: 0.0125
+Next Token :  ===, Posbility: 0.0141
+Next Token :  =, Posbility: 0.3633
+Next Token :  ==, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 ==
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : 0, Posbility: 0.0009
+Next Token :  1, Posbility: 0.0179
+Next Token :  0, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0019
+Next Token :  &&, Posbility: 0.0137
+Next Token :  ||, Posbility: 0.0176
+Next Token :  then, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token :  0, Posbility: 0.0957
+Next Token : 
+, Posbility: 0.0957
+Next Token :  1, Posbility: 0.0957
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0176
+Next Token : (, Posbility: 0.0289
+Next Token : n, Posbility: 0.1299
+Next Token : 2, Posbility: 0.2139
+Next Token : prime, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : co, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : number, Posbility: 0.0000
+Next Token : n, Posbility: 0.0001
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0003
+Next Token :  (1, Posbility: 0.0004
+Next Token : (, Posbility: 0.0005
+Next Token :  , Posbility: 0.0179
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : plus, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0000
+Next Token : aux, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0005
+Next Token :  (1, Posbility: 0.0020
+Next Token :  ((, Posbility: 0.0043
+Next Token : (, Posbility: 0.0596
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : /, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0002
+Next Token : div, Posbility: 0.0002
+Next Token : n, Posbility: 0.0757
+Next Token : (, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : floor, Posbility: 0.0010
+Next Token :  , Posbility: 0.0015
+Next Token : 2, Posbility: 0.0025
+Next Token : div, Posbility: 0.0031
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0260
+Next Token :  +, Posbility: 0.0260
+Next Token : -2, Posbility: 0.0260
+Next Token : -1), Posbility: 0.0430
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : −, Posbility: 0.0007
+Next Token : //, Posbility: 0.0016
+Next Token : -2, Posbility: 0.0020
+Next Token : /, Posbility: 0.1816
+Next Token : -, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0018
+Next Token :  1, Posbility: 0.0018
+Next Token :  1);, Posbility: 0.0018
+Next Token :  2), Posbility: 0.2656
+Next Token :  1), Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0087
+Next Token :  *, Posbility: 0.0087
+Next Token :  else, Posbility: 0.0234
+Next Token : 
+, Posbility: 0.4707
+Next Token :  +, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0033
+Next Token :  0, Posbility: 0.0240
+Next Token :  1, Posbility: 0.4844
+Next Token :  , Posbility: 0.4844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0046
+Next Token : (, Posbility: 0.0126
+Next Token : n, Posbility: 0.0342
+Next Token : 2, Posbility: 0.2520
+Next Token : prime, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0000
+Next Token : check, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token :  (1, Posbility: 0.0001
+Next Token :  1, Posbility: 0.0002
+Next Token :  , Posbility: 0.0059
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : adj, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0000
+Next Token : aux, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0008
+Next Token :  (1, Posbility: 0.0022
+Next Token : (, Posbility: 0.0028
+Next Token :  ((, Posbility: 0.0085
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (1), Posbility: 0.0003
+Next Token : (2), Posbility: 0.0014
+Next Token : 2, Posbility: 0.0019
+Next Token : n, Posbility: 0.0292
+Next Token : (, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token : floor, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0012
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0008
+Next Token : -2, Posbility: 0.0008
+Next Token : /, Posbility: 0.0022
+Next Token :  +, Posbility: 0.1182
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0006
+Next Token : -2, Posbility: 0.0026
+Next Token : //, Posbility: 0.0090
+Next Token : -, Posbility: 0.4941
+Next Token : /, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n /
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2), Posbility: 0.0009
+Next Token :  3), Posbility: 0.0009
+Next Token :  2);, Posbility: 0.0025
+Next Token :  , Posbility: 0.0067
+Next Token :  2), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *, Posbility: 0.0038
+Next Token :  , Posbility: 0.0081
+Next Token :  +, Posbility: 0.0220
+Next Token :  else, Posbility: 0.0282
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0003
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0009
+Next Token :   , Posbility: 0.0017
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0001
+Next Token : |, Posbility: 0.0003
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0016
+Next Token :  0, Posbility: 0.0024
+Next Token :  1, Posbility: 0.0045
+Next Token : 
+, Posbility: 0.0200
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0061
+Next Token : 2, Posbility: 0.0061
+Next Token : n, Posbility: 0.0166
+Next Token : if, Posbility: 0.0452
+Next Token : prime, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : co, Posbility: 0.0000
+Next Token : counts, Posbility: 0.0000
+Next Token : counter, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0000
+Next Token :  ((, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0025
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : adj, Posbility: 0.0000
+Next Token : extra, Posbility: 0.0000
+Next Token : ax, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0000
+Next Token : aux, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0001
+Next Token :  (1, Posbility: 0.0003
+Next Token : (, Posbility: 0.0019
+Next Token :  ((, Posbility: 0.0028
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (`, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : prime, Posbility: 0.0000
+Next Token : n, Posbility: 0.0140
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : prime, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : 3, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0006
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -2, Posbility: 0.0004
+Next Token :  *, Posbility: 0.0009
+Next Token : -1), Posbility: 0.0031
+Next Token :  +, Posbility: 0.0085
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0000
+Next Token : −, Posbility: 0.0001
+Next Token : -2, Posbility: 0.0002
+Next Token : /, Posbility: 0.0041
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0008
+Next Token :  2);, Posbility: 0.0061
+Next Token :  1);, Posbility: 0.0449
+Next Token :  2), Posbility: 0.0449
+Next Token :  1), Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0073
+Next Token :  *, Posbility: 0.0073
+Next Token : 
+
+, Posbility: 0.0120
+Next Token : 
+, Posbility: 0.3105
+Next Token :  +, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0018
+Next Token :  (1, Posbility: 0.0018
+Next Token :  1;, Posbility: 0.0049
+Next Token :  1, Posbility: 0.2656
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0009
+Next Token : (, Posbility: 0.0064
+Next Token : 2, Posbility: 0.0175
+Next Token : n, Posbility: 0.0175
+Next Token : prime, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0000
+Next Token : counts, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 0.0059
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : extra, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ax, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0000
+Next Token : aux, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :  (((, Posbility: 0.0002
+Next Token : (, Posbility: 0.0011
+Next Token :  ((, Posbility: 0.0259
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : floor, Posbility: 0.0000
+Next Token : div, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0001
+Next Token : n, Posbility: 0.0025
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0002
+Next Token : floor, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0004
+Next Token : 3, Posbility: 0.0009
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  >>, Posbility: 0.0002
+Next Token :  *, Posbility: 0.0007
+Next Token : /, Posbility: 0.0008
+Next Token :  +, Posbility: 0.0110
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0000
+Next Token : -2, Posbility: 0.0000
+Next Token : //, Posbility: 0.0002
+Next Token : -, Posbility: 0.0293
+Next Token : /, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n /
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2), Posbility: 0.0003
+Next Token :  3), Posbility: 0.0007
+Next Token :  , Posbility: 0.1064
+Next Token :  2);, Posbility: 0.1064
+Next Token :  2), Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *, Posbility: 0.0080
+Next Token : 
+
+, Posbility: 0.0168
+Next Token :  , Posbility: 0.0459
+Next Token : 
+, Posbility: 0.2061
+Next Token :  +, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0008
+Next Token : 1, Posbility: 0.0008
+Next Token :  1;, Posbility: 0.0159
+Next Token :  , Posbility: 0.1172
+Next Token :  1, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  , Posbility: 0.0030
+Next Token : 
+
+, Posbility: 0.0220
+Next Token :  in, Posbility: 0.0361
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0004
+Next Token :    , Posbility: 0.0024
+Next Token :     , Posbility: 0.0136
+Next Token :  , Posbility: 0.0288
+Next Token :   , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0008
+Next Token : then, Posbility: 0.0010
+Next Token : end, Posbility: 0.0016
+Next Token :  in, Posbility: 0.0058
+Next Token : in, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token :   , Posbility: 0.0023
+Next Token : 
+
+, Posbility: 0.0043
+Next Token :  , Posbility: 0.0596
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token :       , Posbility: 0.0006
+Next Token :    , Posbility: 0.0021
+Next Token :     , Posbility: 0.0228
+Next Token :   , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0053
+Next Token : (, Posbility: 0.0099
+Next Token : if, Posbility: 0.0270
+Next Token : let, Posbility: 0.0393
+Next Token : prime, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0000
+Next Token :  count, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : num, Posbility: 0.0000
+Next Token : counts, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_count
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  1, Posbility: 0.0000
+Next Token :  ~, Posbility: 0.0000
+Next Token :  , Posbility: 0.0013
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_count_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : AUX, Posbility: 0.0000
+Next Token : Aux, Posbility: 0.0000
+Next Token : ax, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0000
+Next Token : aux, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_count_aux
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  0, Posbility: 0.0010
+Next Token :  ~, Posbility: 0.0012
+Next Token : (, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_count_aux 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 10000, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : Int, Posbility: 0.0000
+Next Token : (, Posbility: 0.0293
+Next Token : n, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_count_aux n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0065
+Next Token : ), Posbility: 0.0107
+Next Token :  , Posbility: 0.0107
+Next Token : 
+, Posbility: 0.3555
+Next Token : 
+
+, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number. *)
+let prime_count n =
+  let rec prime_count_aux n =
+    if n <= 1 then 0
+    else if n < 2 then 1
+    else if n % 2 == 0 then prime_count_aux (n - 1) + prime_count_aux (n / 2)
+    else prime_count_aux (n - 1) + prime_count_aux (n / 2) + 1
+  in
+  prime_count_aux n
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :52.4999258518219
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

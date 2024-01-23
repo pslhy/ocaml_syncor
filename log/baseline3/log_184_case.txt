@@ -1,0 +1,847 @@
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let
+Next Token :  rec, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec
+Next Token :  , Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec 
+Next Token : f, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f 
+Next Token : n, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n
+Next Token :  =, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+Next Token : 
+, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  
+Next Token : if, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if 
+Next Token : n, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n
+Next Token :  , Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n 
+Next Token : <, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n <
+Next Token :  , Posbility: 0.3965
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 
+Next Token : 2, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2
+Next Token :  then, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then
+Next Token :  , Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then 
+Next Token : n, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+Next Token : 
+, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else 
+Next Token : if, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if 
+Next Token : n, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n
+Next Token :  %, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n %
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 
+Next Token : 2, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2
+Next Token :  ==, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 ==
+Next Token :  0, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0
+Next Token :  then, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then 
+Next Token : f, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f 
+Next Token : (, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (
+Next Token : n, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n 
+Next Token : /, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n /
+Next Token :  2), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2)
+Next Token :  +, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) +
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + 
+Next Token : f, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f 
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n 
+Next Token : /, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n /
+Next Token :  3), Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3)
+Next Token :  +, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) +
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + 
+Next Token : f, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n 
+Next Token : /, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n /
+Next Token :  4), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4)
+Next Token :  +, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) +
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + 
+Next Token : f, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f 
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n 
+Next Token : /, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n /
+Next Token :  5), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else 
+Next Token : f, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f 
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n 
+Next Token : /, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n /
+Next Token :  2), Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2)
+Next Token :  +, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) +
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + 
+Next Token : f, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n 
+Next Token : /, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n /
+Next Token :  3), Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3)
+Next Token :  +, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) +
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + 
+Next Token : f, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n 
+Next Token : /, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n /
+Next Token :  4), Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4)
+Next Token :  +, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) +
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + 
+Next Token : f, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n 
+Next Token : /, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n /
+Next Token :  5), Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+Next Token :  +, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) +
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + 
+Next Token : f, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f 
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (n
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (n 
+Next Token : /, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (n /
+Next Token :  , Posbility: 0.3965
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (n / 
+Next Token : 6, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (n / 6
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n). *)
+let rec f n =
+  if n < 2 then n
+  else if n % 2 == 0 then f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5)
+  else f (n / 2) + f (n / 3) + f (n / 4) + f (n / 5) + f (n / 6)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.100526571273804
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

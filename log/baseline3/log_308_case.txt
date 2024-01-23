@@ -1,0 +1,465 @@
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let
+Next Token :  rec, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec
+Next Token :  , Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec 
+Next Token : luc, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec luc
+Next Token : id, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid
+Next Token : _, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_
+Next Token : numbers, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers
+Next Token :  , Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers 
+Next Token : n, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n
+Next Token :  =, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  
+Next Token : if, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if 
+Next Token : n, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n
+Next Token :  , Posbility: 0.3008
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n 
+Next Token : <, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n <
+Next Token :  0, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0
+Next Token :  then, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then
+Next Token :  [], Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+Next Token : 
+, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else 
+Next Token : if, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if 
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n
+Next Token :  =, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n =
+Next Token :  0, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then
+Next Token :  , Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then 
+Next Token : [0], Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else 
+Next Token : if, Posbility: 0.3438
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if 
+Next Token : n, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n
+Next Token :  =, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n =
+Next Token :  1, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1
+Next Token :  then, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then 
+Next Token : [1], Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else 
+Next Token : luc, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else luc
+Next Token : id, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_
+Next Token : numbers, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers 
+Next Token : (, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n -
+Next Token :  1), Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n - 1)
+Next Token :  ++, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n - 1) ++
+Next Token :  [, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n - 1) ++ [
+Next Token : n, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n - 1) ++ [n
+Next Token : ], Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to get all lucid numbers smaller than or equal to a given integer. *)
+let rec lucid_numbers n =
+  if n < 0 then []
+  else if n = 0 then [0]
+  else if n = 1 then [1]
+  else lucid_numbers (n - 1) ++ [n]
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.7392117977142334
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

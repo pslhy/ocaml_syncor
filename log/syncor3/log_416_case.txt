@@ -1,0 +1,394 @@
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  right, Posbility: 0.0217
+Next Token :  left, Posbility: 0.0588
+Next Token :  rotate, Posbility: 0.1416
+Next Token :  rec, Posbility: 0.2334
+Next Token :  , Posbility: 0.3848
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0154
+Next Token : d, Posbility: 0.0198
+Next Token : rotation, Posbility: 0.0325
+Next Token : r, Posbility: 0.0417
+Next Token : rot, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rot
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0356
+Next Token : left, Posbility: 0.0457
+Next Token : r, Posbility: 0.0752
+Next Token : _, Posbility: 0.1592
+Next Token : l, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0122
+Next Token : _, Posbility: 0.1689
+Next Token :  =, Posbility: 0.1689
+Next Token : 32, Posbility: 0.2773
+Next Token :  , Posbility: 0.2773
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0107
+Next Token : (, Posbility: 0.0376
+Next Token : x, Posbility: 0.2158
+Next Token : n, Posbility: 0.2158
+Next Token : d, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  num, Posbility: 0.0383
+Next Token :  a, Posbility: 0.0630
+Next Token :  k, Posbility: 0.0718
+Next Token :  =, Posbility: 0.0918
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0047
+Next Token : s, Posbility: 0.0047
+Next Token : m, Posbility: 0.0047
+Next Token : n, Posbility: 0.2578
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token : s, Posbility: 0.0009
+Next Token :  i, Posbility: 0.0017
+Next Token :  , Posbility: 0.0139
+Next Token :  =, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (*, Posbility: 0.0052
+Next Token :  (((, Posbility: 0.0111
+Next Token :  ((, Posbility: 0.0723
+Next Token : 
+, Posbility: 0.4160
+Next Token :  , Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0449
+Next Token : 
+, Posbility: 0.0840
+Next Token : let, Posbility: 0.1079
+Next Token : x, Posbility: 0.2021
+Next Token : (, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Int, Posbility: 0.0086
+Next Token : let, Posbility: 0.0161
+Next Token :  , Posbility: 0.0339
+Next Token : d, Posbility: 0.0923
+Next Token : x, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  &, Posbility: 0.0048
+Next Token :  *, Posbility: 0.0079
+Next Token :  , Posbility: 0.0148
+Next Token : <, Posbility: 0.0315
+Next Token :  <<, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x <<
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  16), Posbility: 0.0003
+Next Token :  1), Posbility: 0.0004
+Next Token :   , Posbility: 0.0005
+Next Token :  ((, Posbility: 0.0013
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0003
+Next Token : 32), Posbility: 0.0007
+Next Token : 32, Posbility: 0.0007
+Next Token : (, Posbility: 0.0292
+Next Token : d, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : )^(, Posbility: 0.0008
+Next Token :  &, Posbility: 0.0029
+Next Token :  , Posbility: 0.0217
+Next Token :  |, Posbility: 0.0461
+Next Token : ), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  >>, Posbility: 0.0036
+Next Token :  +, Posbility: 0.0208
+Next Token :  &, Posbility: 0.0208
+Next Token :  , Posbility: 0.2539
+Next Token :  |, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0003
+Next Token :  (((, Posbility: 0.0008
+Next Token : >, Posbility: 0.0040
+Next Token :  ((, Posbility: 0.0140
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | ((
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  bit, Posbility: 0.0030
+Next Token :  shift, Posbility: 0.0034
+Next Token :  int, Posbility: 0.0049
+Next Token :  ((, Posbility: 0.0282
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0082
+Next Token : Bits, Posbility: 0.0093
+Next Token : x, Posbility: 0.0105
+Next Token : Int, Posbility: 0.0684
+Next Token : (, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0134
+Next Token : _, Posbility: 0.0152
+Next Token : Int, Posbility: 0.0172
+Next Token : let, Posbility: 0.0366
+Next Token : x, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  <<, Posbility: 0.0016
+Next Token :  as, Posbility: 0.0030
+Next Token :  , Posbility: 0.0135
+Next Token :  &, Posbility: 0.0325
+Next Token :  >>, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (<, Posbility: 0.0008
+Next Token : (, Posbility: 0.0013
+Next Token :  ~, Posbility: 0.0021
+Next Token :  ((, Posbility: 0.0178
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0029
+Next Token : 31, Posbility: 0.0048
+Next Token : -, Posbility: 0.0115
+Next Token : 32, Posbility: 0.2617
+Next Token : (, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 0, Posbility: 0.0013
+Next Token : -, Posbility: 0.0039
+Next Token : 31, Posbility: 0.0039
+Next Token : 64, Posbility: 0.0121
+Next Token : 32, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : −, Posbility: 0.0003
+Next Token : u, Posbility: 0.0005
+Next Token :  –, Posbility: 0.0010
+Next Token : -, Posbility: 0.1475
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0000
+Next Token : /, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0005
+Next Token : −, Posbility: 0.0005
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32 -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2*, Posbility: 0.0000
+Next Token :  1, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token : d, Posbility: 0.0025
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32 - 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : abs, Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0001
+Next Token : (, Posbility: 0.0019
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32 - d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0376
+Next Token : )));, Posbility: 0.0481
+Next Token : ))), Posbility: 0.1680
+Next Token : ));, Posbility: 0.2773
+Next Token : )), Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32 - d))
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0135
+Next Token :  , Posbility: 0.0253
+Next Token :  in, Posbility: 0.0535
+Next Token : 
+, Posbility: 0.2119
+Next Token : 
+
+, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |> (x >> (32 - d))
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :15.098754644393921
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

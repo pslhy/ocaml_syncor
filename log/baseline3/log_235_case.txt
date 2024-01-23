@@ -1,0 +1,324 @@
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let
+Next Token :  rec, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec 
+Next Token : cube, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cube
+Next Token : s, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes
+Next Token :  , Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes 
+Next Token : x, Posbility: 0.3027
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes x
+Next Token : s, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs
+Next Token :  =, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+Next Token : 
+, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  
+Next Token : match, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match 
+Next Token : x, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] ->
+Next Token :  [], Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  |
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | 
+Next Token : x, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x 
+Next Token : ::, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x ::
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: 
+Next Token : x, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> 
+Next Token : x, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x 
+Next Token : ::, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x ::
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: 
+Next Token : cube, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: cube
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: cubes
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: cubes 
+Next Token : x, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: cubes x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find cubes of individual elements in a list. *)
+let rec cubes xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: cubes xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.3698668479919434
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,84 @@
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let 
+Next Token : swap, Posbility: 0.1807
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap
+Next Token :  , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap 
+Next Token : x, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y =
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = 
+Next Token : (, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = (
+Next Token : y, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = (y
+Next Token : ,, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = (y,
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = (y, 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = (y, x
+Next Token : ), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in two numbers and returns a tuple with the second number and then the first number. *)
+let swap x y = (y, x)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.7414369583129883
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

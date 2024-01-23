@@ -1,0 +1,1404 @@
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0383
+Next Token :  find, Posbility: 0.0718
+Next Token :  large, Posbility: 0.1187
+Next Token :  , Posbility: 0.1719
+Next Token :  rec, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0250
+Next Token :  large, Posbility: 0.0679
+Next Token :  max, Posbility: 0.0771
+Next Token :  find, Posbility: 0.2695
+Next Token :  , Posbility: 0.3047
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0251
+Next Token : select, Posbility: 0.0366
+Next Token : f, Posbility: 0.0532
+Next Token : prod, Posbility: 0.0684
+Next Token : product, Posbility: 0.1641
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0182
+Next Token : -, Posbility: 0.0562
+Next Token :  =, Posbility: 0.0815
+Next Token :  , Posbility: 0.1187
+Next Token : _, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : lists, Posbility: 0.0287
+Next Token : max, Posbility: 0.0325
+Next Token : count, Posbility: 0.0417
+Next Token : of, Posbility: 0.1650
+Next Token : list, Posbility: 0.2715
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0197
+Next Token :  l, Posbility: 0.0532
+Next Token : _, Posbility: 0.1865
+Next Token :  =, Posbility: 0.3066
+Next Token :  , Posbility: 0.3066
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : prod, Posbility: 0.0376
+Next Token : lst, Posbility: 0.0481
+Next Token : x, Posbility: 0.1152
+Next Token : (, Posbility: 0.1904
+Next Token : n, Posbility: 0.2773
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0417
+Next Token :  list, Posbility: 0.0417
+Next Token :  l, Posbility: 0.1138
+Next Token :  =, Posbility: 0.2715
+Next Token :  , Posbility: 0.3496
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0576
+Next Token : m, Posbility: 0.0654
+Next Token : lst, Posbility: 0.0742
+Next Token : (, Posbility: 0.1079
+Next Token : x, Posbility: 0.2578
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0062
+Next Token : 1, Posbility: 0.0090
+Next Token :  =, Posbility: 0.0747
+Next Token :  , Posbility: 0.3809
+Next Token : s, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0050
+Next Token : _, Posbility: 0.0056
+Next Token : 1, Posbility: 0.0153
+Next Token :  =, Posbility: 0.2109
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0011
+Next Token : ls, Posbility: 0.0011
+Next Token : prod, Posbility: 0.0013
+Next Token : x, Posbility: 0.0045
+Next Token : y, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :  =, Posbility: 0.0012
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0063
+Next Token :  acc, Posbility: 0.0118
+Next Token :  i, Posbility: 0.0172
+Next Token :  , Posbility: 0.0874
+Next Token :  =, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :  function, Posbility: 0.0067
+Next Token :  match, Posbility: 0.0388
+Next Token :  , Posbility: 0.0640
+Next Token : 
+, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0040
+Next Token :    , Posbility: 0.0066
+Next Token : 	, Posbility: 0.0096
+Next Token :     , Posbility: 0.1035
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0062
+Next Token : List, Posbility: 0.0115
+Next Token : let, Posbility: 0.1406
+Next Token : if, Posbility: 0.2637
+Next Token : match, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0017
+Next Token :  [, Posbility: 0.0021
+Next Token :  String, Posbility: 0.0066
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0081
+Next Token : (, Posbility: 0.0408
+Next Token : n, Posbility: 0.1611
+Next Token : List, Posbility: 0.1826
+Next Token : x, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0003
+Next Token :  with, Posbility: 0.0004
+Next Token :  , Posbility: 0.0006
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0048
+Next Token :  @, Posbility: 0.0078
+Next Token :  , Posbility: 0.0129
+Next Token : ,, Posbility: 0.2598
+Next Token :  with, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0012
+Next Token :  , Posbility: 0.0066
+Next Token :  [, Posbility: 0.0140
+Next Token :  [], Posbility: 0.1035
+Next Token : 
+, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :       , Posbility: 0.0020
+Next Token :    , Posbility: 0.0022
+Next Token :     , Posbility: 0.0947
+Next Token :   , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : None, Posbility: 0.0002
+Next Token : (, Posbility: 0.0003
+Next Token : [, Posbility: 0.0172
+Next Token : [], Posbility: 0.0413
+Next Token : |, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0030
+Next Token :  nil, Posbility: 0.0064
+Next Token :  [, Posbility: 0.0135
+Next Token :  , Posbility: 0.0223
+Next Token :  [], Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0045
+Next Token :  when, Posbility: 0.0075
+Next Token :  as, Posbility: 0.0096
+Next Token :  |, Posbility: 0.0913
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0004
+Next Token : if, Posbility: 0.0009
+Next Token : _, Posbility: 0.0013
+Next Token : ::, Posbility: 0.0022
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fail, Posbility: 0.0090
+Next Token :  [], Posbility: 0.0588
+Next Token : 
+, Posbility: 0.0967
+Next Token :  match, Posbility: 0.0967
+Next Token :  , Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0107
+Next Token : product, Posbility: 0.0256
+Next Token : (, Posbility: 0.0422
+Next Token : return, Posbility: 0.0894
+Next Token : y, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ,, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0004
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0041
+Next Token :  @, Posbility: 0.0077
+Next Token :  , Posbility: 0.0210
+Next Token :  |, Posbility: 0.0569
+Next Token : 
+, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : when, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0111
+Next Token :  a, Posbility: 0.0162
+Next Token :  [], Posbility: 0.0439
+Next Token :  [, Posbility: 0.1055
+Next Token :  , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0315
+Next Token : hd, Posbility: 0.0315
+Next Token : h, Posbility: 0.0356
+Next Token : _, Posbility: 0.2061
+Next Token : x, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0067
+Next Token : :, Posbility: 0.0087
+Next Token : s, Posbility: 0.0640
+Next Token : ::, Posbility: 0.2871
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0002
+Next Token : x, Posbility: 0.0004
+Next Token : :, Posbility: 0.0017
+Next Token : ->, Posbility: 0.0076
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  new, Posbility: 0.0015
+Next Token :  tx, Posbility: 0.0015
+Next Token :  [], Posbility: 0.0022
+Next Token :  rest, Posbility: 0.1050
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : xl, Posbility: 0.0067
+Next Token : tail, Posbility: 0.0076
+Next Token : y, Posbility: 0.0160
+Next Token : _, Posbility: 0.0718
+Next Token : x, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0007
+Next Token : _, Posbility: 0.0019
+Next Token : x, Posbility: 0.0031
+Next Token : ', Posbility: 0.0066
+Next Token : s, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0291
+Next Token : _, Posbility: 0.0374
+Next Token : 1, Posbility: 0.0479
+Next Token : ', Posbility: 0.0791
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : x, Posbility: 0.0001
+Next Token : ::, Posbility: 0.0008
+Next Token : if, Posbility: 0.0012
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0027
+Next Token :  [, Posbility: 0.0035
+Next Token :  match, Posbility: 0.0332
+Next Token :  , Posbility: 0.3574
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0040
+Next Token :   , Posbility: 0.0231
+Next Token :      , Posbility: 0.0297
+Next Token :       , Posbility: 0.4102
+Next Token :     , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0198
+Next Token : product, Posbility: 0.0325
+Next Token : if, Posbility: 0.1455
+Next Token : match, Posbility: 0.2402
+Next Token : let, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0184
+Next Token :  l, Posbility: 0.0184
+Next Token :  max, Posbility: 0.0303
+Next Token :  rec, Posbility: 0.1357
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0415
+Next Token : p, Posbility: 0.0532
+Next Token : prod, Posbility: 0.0684
+Next Token : x, Posbility: 0.1855
+Next Token : y, Posbility: 0.3926
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0102
+Next Token : 1, Posbility: 0.0168
+Next Token : _, Posbility: 0.0459
+Next Token : s, Posbility: 0.1602
+Next Token :  =, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0023
+Next Token :  first, Posbility: 0.0030
+Next Token : 
+, Posbility: 0.0172
+Next Token :  match, Posbility: 0.0195
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0050
+Next Token : x, Posbility: 0.0226
+Next Token : y, Posbility: 0.0371
+Next Token : List, Posbility: 0.0479
+Next Token : product, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Next Token :  list, Posbility: 0.0001
+Next Token :  , Posbility: 0.0474
+Next Token : _, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token : one, Posbility: 0.0001
+Next Token : n, Posbility: 0.0002
+Next Token : of, Posbility: 0.0006
+Next Token : list, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0008
+Next Token :  0, Posbility: 0.0014
+Next Token :  (1, Posbility: 0.0023
+Next Token :  1, Posbility: 0.0752
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0014
+Next Token : y, Posbility: 0.0018
+Next Token : x, Posbility: 0.0023
+Next Token : (, Posbility: 0.0471
+Next Token : n, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0010
+Next Token :  1, Posbility: 0.0017
+Next Token :  -1, Posbility: 0.0019
+Next Token : -1, Posbility: 0.0085
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0004
+Next Token : ([], Posbility: 0.0012
+Next Token : (, Posbility: 0.0630
+Next Token : y, Posbility: 0.4668
+Next Token : x, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0003
+Next Token :  [], Posbility: 0.0003
+Next Token :  , Posbility: 0.0374
+Next Token : s, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0004
+Next Token :  ~, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0048
+Next Token :  [], Posbility: 0.0752
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0003
+Next Token : ([], Posbility: 0.0005
+Next Token : x, Posbility: 0.0040
+Next Token : (, Posbility: 0.0067
+Next Token : y, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  in, Posbility: 0.0012
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0005
+Next Token :  , Posbility: 0.0024
+Next Token :  |, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0291
+Next Token :  in, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0001
+Next Token :   , Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.0067
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0002
+Next Token :   , Posbility: 0.0006
+Next Token :       , Posbility: 0.0011
+Next Token :    , Posbility: 0.0179
+Next Token :     , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : product, Posbility: 0.0500
+Next Token : x, Posbility: 0.0566
+Next Token : let, Posbility: 0.1543
+Next Token : match, Posbility: 0.2539
+Next Token : if, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Integer, Posbility: 0.0039
+Next Token :  int, Posbility: 0.0044
+Next Token :  String, Posbility: 0.0093
+Next Token :  not, Posbility: 0.0119
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : product, Posbility: 0.0337
+Next Token : (, Posbility: 0.0713
+Next Token : x, Posbility: 0.1514
+Next Token : y, Posbility: 0.2490
+Next Token : n, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0222
+Next Token :  >=, Posbility: 0.0776
+Next Token :  <=, Posbility: 0.1641
+Next Token :  =, Posbility: 0.2695
+Next Token :  , Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : /, Posbility: 0.0011
+Next Token : x, Posbility: 0.0029
+Next Token : -, Posbility: 0.0070
+Next Token : <, Posbility: 0.4316
+Next Token : >, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n >
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  10, Posbility: 0.0036
+Next Token :  100, Posbility: 0.0036
+Next Token :  1, Posbility: 0.1182
+Next Token :  , Posbility: 0.3203
+Next Token :  0, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0123
+Next Token :  and, Posbility: 0.0260
+Next Token :  &&, Posbility: 0.0908
+Next Token :  then, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0040
+Next Token :  [, Posbility: 0.0085
+Next Token :  Some, Posbility: 0.0381
+Next Token : 
+, Posbility: 0.4102
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0488
+Next Token : y, Posbility: 0.1328
+Next Token : (, Posbility: 0.2188
+Next Token : product, Posbility: 0.2188
+Next Token : x, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  @, Posbility: 0.0045
+Next Token : ::, Posbility: 0.0058
+Next Token : 
+, Posbility: 0.0107
+Next Token :  , Posbility: 0.1021
+Next Token :  *, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  first, Posbility: 0.0003
+Next Token :  find, Posbility: 0.0003
+Next Token :  max, Posbility: 0.0005
+Next Token : :, Posbility: 0.0005
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0017
+Next Token : prod, Posbility: 0.0017
+Next Token : (, Posbility: 0.0349
+Next Token : product, Posbility: 0.2578
+Next Token : y, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0139
+Next Token :  |, Posbility: 0.0229
+Next Token :  , Posbility: 0.0486
+Next Token : 
+, Posbility: 0.3594
+Next Token :  else, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0009
+Next Token :  0, Posbility: 0.0031
+Next Token :  [], Posbility: 0.0040
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0046
+Next Token : if, Posbility: 0.0077
+Next Token : product, Posbility: 0.0344
+Next Token : x, Posbility: 0.2539
+Next Token : y, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0092
+Next Token :  , Posbility: 0.0171
+Next Token :  in, Posbility: 0.0464
+Next Token : 
+
+, Posbility: 0.1836
+Next Token : 
+, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : val, Posbility: 0.0031
+Next Token : end, Posbility: 0.0122
+Next Token :     , Posbility: 0.0400
+Next Token : let, Posbility: 0.0515
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0017
+Next Token : 
+, Posbility: 0.0022
+Next Token : in, Posbility: 0.1138
+Next Token : ;, Posbility: 0.1289
+Next Token : |, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0012
+Next Token :  ?, Posbility: 0.0017
+Next Token :  [, Posbility: 0.0088
+Next Token :  [], Posbility: 0.1768
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0024
+Next Token : (, Posbility: 0.0031
+Next Token : y, Posbility: 0.1152
+Next Token : x, Posbility: 0.2773
+Next Token : _, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0010
+Next Token : x, Posbility: 0.0012
+Next Token : ,, Posbility: 0.0013
+Next Token :  as, Posbility: 0.0015
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0001
+Next Token : x, Posbility: 0.0005
+Next Token : if, Posbility: 0.0016
+Next Token : ::, Posbility: 0.0674
+Next Token : ->, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0277
+Next Token : 
+, Posbility: 0.0967
+Next Token :  [], Posbility: 0.1240
+Next Token :  fail, Posbility: 0.1240
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : assert, Posbility: 0.1250
+Next Token : x, Posbility: 0.1611
+Next Token : raise, Posbility: 0.1611
+Next Token : product, Posbility: 0.1826
+Next Token : y, Posbility: 0.1826
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _ -> y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0002
+Next Token :  , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0036
+Next Token : 
+
+, Posbility: 0.0075
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _ -> ys
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0030
+Next Token :  , Posbility: 0.0092
+Next Token :  in, Posbility: 0.0598
+Next Token : 
+, Posbility: 0.2676
+Next Token : 
+
+, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the specified number of largest products from two given lists, selecting one factor from each list. *)
+let rec product_list n xs ys =
+  match xs with
+  | [] -> ys
+  | x :: xs ->
+    let y = product_list n xs ys in
+    if n > 0 then x * y else y
+  | _ -> ys
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :38.698925256729126
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

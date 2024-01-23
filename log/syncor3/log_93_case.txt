@@ -1,0 +1,644 @@
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  calc, Posbility: 0.0047
+Next Token :  loop, Posbility: 0.0069
+Next Token :  sum, Posbility: 0.1562
+Next Token :  , Posbility: 0.2002
+Next Token :  rec, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0093
+Next Token :  count, Posbility: 0.0105
+Next Token :  loop, Posbility: 0.0776
+Next Token :  sum, Posbility: 0.3477
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0505
+Next Token : n, Posbility: 0.0942
+Next Token : f, Posbility: 0.1211
+Next Token : add, Posbility: 0.1367
+Next Token : fi, Posbility: 0.1992
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fi
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : zz, Posbility: 0.0059
+Next Token : bb, Posbility: 0.0098
+Next Token : bs, Posbility: 0.0161
+Next Token : bo, Posbility: 0.0723
+Next Token : b, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0305
+Next Token : (, Posbility: 0.0444
+Next Token : on, Posbility: 0.2256
+Next Token :  , Posbility: 0.2891
+Next Token : _, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0327
+Next Token : rec, Posbility: 0.0371
+Next Token : helper, Posbility: 0.0476
+Next Token : iter, Posbility: 0.1289
+Next Token : sum, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0144
+Next Token :  i, Posbility: 0.0645
+Next Token :  =, Posbility: 0.1367
+Next Token : _, Posbility: 0.1748
+Next Token :  , Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0103
+Next Token : :, Posbility: 0.0133
+Next Token : (, Posbility: 0.0410
+Next Token : x, Posbility: 0.0864
+Next Token : n, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0050
+Next Token :  acc, Posbility: 0.0106
+Next Token :  , Posbility: 0.0781
+Next Token :  i, Posbility: 0.1289
+Next Token :  =, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0022
+Next Token :  fun, Posbility: 0.0022
+Next Token :  match, Posbility: 0.0645
+Next Token :  , Posbility: 0.1367
+Next Token : 
+, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0020
+Next Token :    , Posbility: 0.0053
+Next Token : 	, Posbility: 0.0068
+Next Token :     , Posbility: 0.0830
+Next Token :   , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0046
+Next Token : (, Posbility: 0.0077
+Next Token : let, Posbility: 0.0645
+Next Token : match, Posbility: 0.3691
+Next Token : if, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token : (, Posbility: 0.0006
+Next Token :  i, Posbility: 0.0009
+Next Token :  not, Posbility: 0.0012
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0003
+Next Token : Eq, Posbility: 0.0003
+Next Token : Int, Posbility: 0.0007
+Next Token : (, Posbility: 0.0228
+Next Token : n, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0096
+Next Token :  ==, Posbility: 0.0708
+Next Token :  , Posbility: 0.1934
+Next Token :  =, Posbility: 0.1934
+Next Token :  <=, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0022
+Next Token : 2, Posbility: 0.0022
+Next Token :  , Posbility: 0.3281
+Next Token :  0, Posbility: 0.3281
+Next Token :  1, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token :  , Posbility: 0.0024
+Next Token :  ||, Posbility: 0.0028
+Next Token : 
+, Posbility: 0.0075
+Next Token :  then, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token :  0, Posbility: 0.0132
+Next Token :  1, Posbility: 0.0972
+Next Token : 
+, Posbility: 0.1602
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0071
+Next Token : return, Posbility: 0.0118
+Next Token : (, Posbility: 0.0134
+Next Token : 
+, Posbility: 0.0151
+Next Token : n, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0043
+Next Token :  *, Posbility: 0.0117
+Next Token :  , Posbility: 0.0669
+Next Token :  else, Posbility: 0.3398
+Next Token : 
+, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0003
+Next Token :       , Posbility: 0.0003
+Next Token :     , Posbility: 0.0015
+Next Token :  , Posbility: 0.0015
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : then, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0002
+Next Token : let, Posbility: 0.0006
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0008
+Next Token :   , Posbility: 0.0016
+Next Token :  {, Posbility: 0.0062
+Next Token : 
+, Posbility: 0.0664
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0023
+Next Token : (, Posbility: 0.0167
+Next Token : if, Posbility: 0.0167
+Next Token : n, Posbility: 0.0454
+Next Token : fi, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : bs, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : bo, Posbility: 0.0000
+Next Token : bb, Posbility: 0.0000
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : (, Posbility: 0.0004
+Next Token :  , Posbility: 0.0009
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : i, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : add, Posbility: 0.0000
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0011
+Next Token :  (1, Posbility: 0.0021
+Next Token :  ((, Posbility: 0.0031
+Next Token : (, Posbility: 0.1465
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (`, Posbility: 0.0000
+Next Token : fi, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Next Token : n, Posbility: 0.0293
+Next Token : (, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : succ, Posbility: 0.0004
+Next Token :  , Posbility: 0.0028
+Next Token : 2, Posbility: 0.0045
+Next Token : fi, Posbility: 0.0059
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0051
+Next Token :  +, Posbility: 0.0231
+Next Token : -2, Posbility: 0.0625
+Next Token : -1), Posbility: 0.1328
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : −, Posbility: 0.0001
+Next Token : //, Posbility: 0.0003
+Next Token : /, Posbility: 0.0007
+Next Token : -2, Posbility: 0.0012
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0017
+Next Token :  2*, Posbility: 0.0126
+Next Token :  , Posbility: 0.0344
+Next Token :  1), Posbility: 0.2539
+Next Token :  2), Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  ++, Posbility: 0.0015
+Next Token :  *, Posbility: 0.0025
+Next Token :  , Posbility: 0.0040
+Next Token :  +, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0003
+Next Token :  ((, Posbility: 0.0004
+Next Token :   , Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0015
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0003
+Next Token : f, Posbility: 0.0003
+Next Token : n, Posbility: 0.0064
+Next Token : (, Posbility: 0.0471
+Next Token : fi, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : zz, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : bo, Posbility: 0.0000
+Next Token : bb, Posbility: 0.0000
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  (*, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0008
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : add, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0004
+Next Token :  ((, Posbility: 0.0017
+Next Token :  (1, Posbility: 0.0022
+Next Token : (, Posbility: 0.0052
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 3, Posbility: 0.0001
+Next Token : fi, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0002
+Next Token : n, Posbility: 0.0179
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : if, Posbility: 0.0000
+Next Token : fi, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0005
+Next Token : -2, Posbility: 0.0005
+Next Token :  -4, Posbility: 0.0012
+Next Token : -4, Posbility: 0.0085
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : -3, Posbility: 0.0002
+Next Token : -2, Posbility: 0.0002
+Next Token : /, Posbility: 0.0003
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1);, Posbility: 0.0493
+Next Token :  3), Posbility: 0.0493
+Next Token :  4, Posbility: 0.1338
+Next Token :  4), Posbility: 0.3652
+Next Token :  1), Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0129
+Next Token :  +, Posbility: 0.0146
+Next Token :  , Posbility: 0.0188
+Next Token : 
+, Posbility: 0.2295
+Next Token : 
+
+, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib_sum n =
+  if n <= 1 then n
+  else fib_sum (n - 2) + fib_sum (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :20.726008892059326
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

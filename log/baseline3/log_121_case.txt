@@ -1,0 +1,2058 @@
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let
+Next Token :  rec, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec
+Next Token :  , Posbility: 0.2432
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec 
+Next Token : b, Posbility: 0.0884
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec b
+Next Token : seq, Posbility: 0.1475
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq
+Next Token :  , Posbility: 0.2734
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq 
+Next Token : (, Posbility: 0.2168
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (
+Next Token : a, Posbility: 0.1807
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a 
+Next Token : :, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a :
+Next Token :  int, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int
+Next Token :  list, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list)
+Next Token :  , Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) 
+Next Token : (, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (
+Next Token : i, Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i 
+Next Token : :, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i :
+Next Token :  int, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int
+Next Token : ), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int)
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) 
+Next Token : (, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (
+Next Token : j, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j 
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j :
+Next Token :  int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int)
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) 
+Next Token : (, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (
+Next Token : sum, Posbility: 0.1108
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum 
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum :
+Next Token :  int, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int
+Next Token : ), Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int)
+Next Token :  =, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  
+Next Token : if, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if
+Next Token :  i, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i
+Next Token :  , Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i 
+Next Token : >, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i >
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > 
+Next Token : j, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j
+Next Token :  then, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+Next Token : 
+, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+
+Next Token :     , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    
+Next Token : sum, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+Next Token : 
+, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+
+Next Token :     , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    
+Next Token : let, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let
+Next Token :  , Posbility: 0.4688
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let 
+Next Token : m, Posbility: 0.1484
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m
+Next Token :  =, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m =
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = 
+Next Token : (, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (
+Next Token : i, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i
+Next Token :  +, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i +
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + 
+Next Token : j, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j
+Next Token : ), Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j)
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) 
+Next Token : /, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) /
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 
+Next Token : 2, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+
+Next Token :     , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    
+Next Token : let, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let
+Next Token :  , Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let 
+Next Token : s, Posbility: 0.2637
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s
+Next Token :  =, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s =
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = 
+Next Token : b, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = b
+Next Token : seq, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (
+Next Token : a, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a 
+Next Token : :, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a :
+Next Token :  int, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int
+Next Token :  list, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list
+Next Token : ), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list)
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) 
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (
+Next Token : i, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i
+Next Token :  +, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i +
+Next Token :  1), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1)
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) 
+Next Token : (, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (
+Next Token : j, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j -
+Next Token :  1), Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1)
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) 
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (
+Next Token : sum, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum
+Next Token :  +, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum +
+Next Token :  a, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a
+Next Token : ., Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.
+Next Token : [, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[
+Next Token : i, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i
+Next Token : ]), Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i])
+Next Token :  in, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    
+Next Token : let, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let 
+Next Token : t, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t =
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = 
+Next Token : b, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = b
+Next Token : seq, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (
+Next Token : a, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a 
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a :
+Next Token :  int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int
+Next Token :  list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list)
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) 
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (
+Next Token : i, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i
+Next Token :  +, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i +
+Next Token :  1), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1)
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) 
+Next Token : (, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (
+Next Token : m, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m -
+Next Token :  1), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1)
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) 
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (
+Next Token : sum, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum
+Next Token :  +, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum +
+Next Token :  a, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.
+Next Token : [, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[
+Next Token : i, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i
+Next Token : ]), Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i])
+Next Token :  in, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    
+Next Token : let, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let 
+Next Token : u, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u =
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = b
+Next Token : seq, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (
+Next Token : a, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a 
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a :
+Next Token :  int, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int
+Next Token :  list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list)
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (
+Next Token : m, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m
+Next Token :  +, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m +
+Next Token :  1), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1)
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (
+Next Token : j, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j -
+Next Token :  1), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (
+Next Token : sum, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum
+Next Token :  +, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum +
+Next Token :  a, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.
+Next Token : [, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[
+Next Token : j, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j
+Next Token : ]), Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j])
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+
+Next Token :     , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    
+Next Token : if, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if 
+Next Token : s, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s 
+Next Token : >, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s >
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > 
+Next Token : t, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t
+Next Token :  then, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then 
+Next Token : s, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s
+Next Token :  else, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else 
+Next Token : if, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if 
+Next Token : t, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t 
+Next Token : >, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t >
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > 
+Next Token : u, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u then
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u then 
+Next Token : t, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u then t
+Next Token :  else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u then t else
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u then t else 
+Next Token : u, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing. *)
+let rec bseq (a : int list) (i : int) (j : int) (sum : int) =
+  if i > j then
+    sum
+  else
+    let m = (i + j) / 2 in
+    let s = bseq (a : int list) (i + 1) (j - 1) (sum + a.[i]) in
+    let t = bseq (a : int list) (i + 1) (m - 1) (sum + a.[i]) in
+    let u = bseq (a : int list) (m + 1) (j - 1) (sum + a.[j]) in
+    if s > t then s else if t > u then t else u
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :7.25903844833374
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

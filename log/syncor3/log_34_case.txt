@@ -1,0 +1,509 @@
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  even, Posbility: 0.0211
+Next Token :  word, Posbility: 0.0211
+Next Token :  check, Posbility: 0.1562
+Next Token :  , Posbility: 0.2578
+Next Token :  is, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Length, Posbility: 0.0024
+Next Token : Even, Posbility: 0.0039
+Next Token : odd, Posbility: 0.0064
+Next Token : O, Posbility: 0.0176
+Next Token : _, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : len, Posbility: 0.0036
+Next Token : word, Posbility: 0.0161
+Next Token : length, Posbility: 0.0208
+Next Token : even, Posbility: 0.0439
+Next Token : odd, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0292
+Next Token :  len, Posbility: 0.0292
+Next Token :  =, Posbility: 0.1309
+Next Token :  , Posbility: 0.3555
+Next Token : _, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : string, Posbility: 0.0056
+Next Token : or, Posbility: 0.0081
+Next Token : len, Posbility: 0.0674
+Next Token : word, Posbility: 0.1113
+Next Token : length, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0223
+Next Token : _, Posbility: 0.0608
+Next Token :  word, Posbility: 0.1001
+Next Token :  , Posbility: 0.2715
+Next Token :  =, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0226
+Next Token :  fun, Posbility: 0.1011
+Next Token :  , Posbility: 0.1475
+Next Token : 
+, Posbility: 0.2432
+Next Token :  function, Posbility: 0.4531
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  String, Posbility: 0.0092
+Next Token :  word, Posbility: 0.0092
+Next Token : (, Posbility: 0.0284
+Next Token :  , Posbility: 0.2383
+Next Token : 
+, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0130
+Next Token : 	, Posbility: 0.0167
+Next Token : |, Posbility: 0.0659
+Next Token :     , Posbility: 0.1396
+Next Token :   , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : {, Posbility: 0.0010
+Next Token : x, Posbility: 0.0011
+Next Token : let, Posbility: 0.0022
+Next Token : (, Posbility: 0.0075
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0262
+Next Token :  true, Posbility: 0.0262
+Next Token :  0, Posbility: 0.1172
+Next Token :  [], Posbility: 0.3184
+Next Token :  , Posbility: 0.3184
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0583
+Next Token : Length, Posbility: 0.0850
+Next Token : _, Posbility: 0.1396
+Next Token : x, Posbility: 0.1396
+Next Token : Word, Posbility: 0.1396
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Length, Posbility: 0.0254
+Next Token : _, Posbility: 0.0781
+Next Token : (, Posbility: 0.1289
+Next Token :  , Posbility: 0.2412
+Next Token : ., Posbility: 0.3105
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : of, Posbility: 0.0283
+Next Token : is, Posbility: 0.0410
+Next Token : Word, Posbility: 0.0410
+Next Token : Length, Posbility: 0.2090
+Next Token : length, Posbility: 0.2676
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  <=, Posbility: 0.0262
+Next Token : (, Posbility: 0.0554
+Next Token :  ==, Posbility: 0.0554
+Next Token :  =, Posbility: 0.3613
+Next Token :  , Posbility: 0.3613
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.length 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.length =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.length ==
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.length(
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.length <=
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0294
+Next Token :  =, Posbility: 0.0801
+Next Token : (, Posbility: 0.0908
+Next Token :  , Posbility: 0.2461
+Next Token : ., Posbility: 0.3594
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Zero, Posbility: 0.0439
+Next Token : Length, Posbility: 0.0564
+Next Token : One, Posbility: 0.0564
+Next Token : Even, Posbility: 0.1050
+Next Token : O, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.O
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0011
+Next Token : d, Posbility: 0.0024
+Next Token : (, Posbility: 0.0027
+Next Token :  , Posbility: 0.0177
+Next Token : dd, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0239
+Next Token :  i, Posbility: 0.0239
+Next Token :  when, Posbility: 0.0308
+Next Token :  l, Posbility: 0.0396
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0061
+Next Token : ::, Posbility: 0.0079
+Next Token : (), Posbility: 0.0079
+Next Token : _, Posbility: 0.1582
+Next Token : ->, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0250
+Next Token :  ", Posbility: 0.0679
+Next Token :  , Posbility: 0.1855
+Next Token :  True, Posbility: 0.1855
+Next Token :  true, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0005
+Next Token :  |, Posbility: 0.0012
+Next Token :   , Posbility: 0.0019
+Next Token :  , Posbility: 0.0067
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 	, Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :    , Posbility: 0.0001
+Next Token :     , Posbility: 0.0002
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0002
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  word, Posbility: 0.0006
+Next Token :  len, Posbility: 0.0010
+Next Token :  other, Posbility: 0.0019
+Next Token :  otherwise, Posbility: 0.0031
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Length, Posbility: 0.0008
+Next Token : x, Posbility: 0.0016
+Next Token : length, Posbility: 0.0030
+Next Token : _, Posbility: 0.2656
+Next Token : Word, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token : Length, Posbility: 0.0001
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Len, Posbility: 0.0001
+Next Token : Empty, Posbility: 0.0001
+Next Token : length, Posbility: 0.0002
+Next Token : _, Posbility: 0.0006
+Next Token : Length, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : [", Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Length, Posbility: 0.0013
+Next Token : Pair, Posbility: 0.0015
+Next Token : _, Posbility: 0.0017
+Next Token : Not, Posbility: 0.0051
+Next Token : Even, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length.Even
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0006
+Next Token :  when, Posbility: 0.0008
+Next Token :    , Posbility: 0.0009
+Next Token :   , Posbility: 0.0028
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length.Even 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : if, Posbility: 0.0001
+Next Token : _, Posbility: 0.0005
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length.Even ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  true, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token :  , Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0009
+Next Token :  false, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length.Even -> false
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0041
+Next Token :  , Posbility: 0.0060
+Next Token :  in, Posbility: 0.0237
+Next Token : 
+, Posbility: 0.4180
+Next Token : 
+
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to check whether the length of the word is odd or not. *)
+let is_odd_length = function
+  | Word.Length.Odd -> true
+  | Word.Length.Even -> false
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :17.579586267471313
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

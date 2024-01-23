@@ -1,0 +1,1601 @@
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  two, Posbility: 0.0201
+Next Token :  first, Posbility: 0.0332
+Next Token :  get, Posbility: 0.0547
+Next Token :  rec, Posbility: 0.3145
+Next Token :  , Posbility: 0.3145
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0267
+Next Token : head, Posbility: 0.0442
+Next Token : pp, Posbility: 0.0500
+Next Token : split, Posbility: 0.1060
+Next Token : p, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0337
+Next Token : 1, Posbility: 0.0432
+Next Token :  , Posbility: 0.1035
+Next Token :  =, Posbility: 0.2197
+Next Token : _, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0466
+Next Token : first, Posbility: 0.0466
+Next Token : start, Posbility: 0.0530
+Next Token : word, Posbility: 0.0874
+Next Token : words, Posbility: 0.3047
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0097
+Next Token :  a, Posbility: 0.0205
+Next Token : _, Posbility: 0.0718
+Next Token :  , Posbility: 0.1523
+Next Token :  =, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0388
+Next Token :  fun, Posbility: 0.0500
+Next Token :  function, Posbility: 0.1060
+Next Token :  , Posbility: 0.2236
+Next Token : 
+, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0101
+Next Token : [, Posbility: 0.0115
+Next Token :    , Posbility: 0.0167
+Next Token :     , Posbility: 0.1235
+Next Token :   , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0211
+Next Token : fun, Posbility: 0.0508
+Next Token : [, Posbility: 0.0649
+Next Token : List, Posbility: 0.2930
+Next Token : let, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0166
+Next Token :  words, Posbility: 0.0398
+Next Token :  open, Posbility: 0.0452
+Next Token :  , Posbility: 0.2295
+Next Token :  rec, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  words, Posbility: 0.0315
+Next Token :  find, Posbility: 0.0457
+Next Token :  rec, Posbility: 0.0664
+Next Token :  loop, Posbility: 0.1245
+Next Token :  , Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : split, Posbility: 0.0535
+Next Token : f, Posbility: 0.0605
+Next Token : aux, Posbility: 0.0684
+Next Token : helper, Posbility: 0.1865
+Next Token : p, Posbility: 0.2715
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0040
+Next Token : 1, Posbility: 0.0066
+Next Token :  , Posbility: 0.0203
+Next Token :  =, Posbility: 0.0381
+Next Token : _, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : split, Posbility: 0.0142
+Next Token : rec, Posbility: 0.0233
+Next Token : word, Posbility: 0.0300
+Next Token : helper, Posbility: 0.1729
+Next Token : words, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0181
+Next Token :  acc, Posbility: 0.0630
+Next Token :  =, Posbility: 0.0918
+Next Token : _, Posbility: 0.2832
+Next Token :  , Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0625
+Next Token : x, Posbility: 0.0908
+Next Token : w, Posbility: 0.0908
+Next Token : p, Posbility: 0.1167
+Next Token : (, Posbility: 0.1924
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : l, Posbility: 0.0471
+Next Token : word, Posbility: 0.0471
+Next Token : w, Posbility: 0.0605
+Next Token : p, Posbility: 0.0884
+Next Token : words, Posbility: 0.2402
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0405
+Next Token : :, Posbility: 0.0520
+Next Token : ,, Posbility: 0.0669
+Next Token : ), Posbility: 0.0669
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : remaining, Posbility: 0.0077
+Next Token : idx, Posbility: 0.0087
+Next Token : p, Posbility: 0.0162
+Next Token : ::, Posbility: 0.0208
+Next Token : :, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  [, Posbility: 0.0236
+Next Token :  list, Posbility: 0.0439
+Next Token :  String, Posbility: 0.0564
+Next Token :  , Posbility: 0.2520
+Next Token :  string, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *), Posbility: 0.0154
+Next Token : ), Posbility: 0.0254
+Next Token :  array, Posbility: 0.0254
+Next Token :  , Posbility: 0.0688
+Next Token :  list, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *), Posbility: 0.0012
+Next Token :  *, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0036
+Next Token :  , Posbility: 0.0052
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0092
+Next Token :  acc, Posbility: 0.0104
+Next Token :  result, Posbility: 0.0134
+Next Token :  , Posbility: 0.2695
+Next Token :  =, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0009
+Next Token :  function, Posbility: 0.0015
+Next Token :  match, Posbility: 0.0066
+Next Token :  , Posbility: 0.0123
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0018
+Next Token :      , Posbility: 0.0020
+Next Token :       , Posbility: 0.0248
+Next Token :   , Posbility: 0.0408
+Next Token :     , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0046
+Next Token : List, Posbility: 0.0067
+Next Token : let, Posbility: 0.0557
+Next Token : if, Posbility: 0.3203
+Next Token : match, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0018
+Next Token :  strings, Posbility: 0.0018
+Next Token :  String, Posbility: 0.1650
+Next Token :  , Posbility: 0.2393
+Next Token :  words, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0009
+Next Token :  =, Posbility: 0.0009
+Next Token :  , Posbility: 0.0015
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0013
+Next Token :  , Posbility: 0.0015
+Next Token :  [, Posbility: 0.0019
+Next Token :  [], Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0005
+Next Token :         , Posbility: 0.0006
+Next Token :   , Posbility: 0.0008
+Next Token :       , Posbility: 0.0674
+Next Token :     , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : |[, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : [, Posbility: 0.0052
+Next Token : [], Posbility: 0.0075
+Next Token : |, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0009
+Next Token :  nil, Posbility: 0.0050
+Next Token :  [, Posbility: 0.0135
+Next Token :  , Posbility: 0.0287
+Next Token :  [], Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0030
+Next Token :    , Posbility: 0.0050
+Next Token :  =>, Posbility: 0.0050
+Next Token :  |, Posbility: 0.0136
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Next Token : →, Posbility: 0.0002
+Next Token : ::, Posbility: 0.0015
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0608
+Next Token :  "", Posbility: 0.0608
+Next Token :  None, Posbility: 0.1001
+Next Token :  [], Posbility: 0.1650
+Next Token :  , Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.1001
+Next Token : return, Posbility: 0.1289
+Next Token : (", Posbility: 0.1289
+Next Token : raise, Posbility: 0.1650
+Next Token : (, Posbility: 0.1875
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : String, Posbility: 0.0527
+Next Token :  , Posbility: 0.0674
+Next Token : (),, Posbility: 0.1260
+Next Token : words, Posbility: 0.1260
+Next Token : None, Posbility: 0.1436
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ;, Posbility: 0.0010
+Next Token : ., Posbility: 0.0024
+Next Token : ), Posbility: 0.0027
+Next Token :  , Posbility: 0.0123
+Next Token : ,, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ", Posbility: 0.0128
+Next Token : None, Posbility: 0.0211
+Next Token :  , Posbility: 0.0947
+Next Token :  words, Posbility: 0.0947
+Next Token :  None, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ),, Posbility: 0.0005
+Next Token :  , Posbility: 0.0010
+Next Token : ,, Posbility: 0.0017
+Next Token : );, Posbility: 0.0067
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0015
+Next Token :   , Posbility: 0.0035
+Next Token :  |, Posbility: 0.0065
+Next Token :  , Posbility: 0.0084
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Next Token :    , Posbility: 0.0002
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0000
+Next Token : let, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  letter, Posbility: 0.0070
+Next Token :  [], Posbility: 0.0192
+Next Token :  word, Posbility: 0.0217
+Next Token :  [, Posbility: 0.1816
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : w, Posbility: 0.0593
+Next Token : head, Posbility: 0.1108
+Next Token : x, Posbility: 0.1611
+Next Token : hd, Posbility: 0.1611
+Next Token : _, Posbility: 0.2354
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0094
+Next Token :  as, Posbility: 0.0120
+Next Token :  when, Posbility: 0.0476
+Next Token : ::, Posbility: 0.0610
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0007
+Next Token : :, Posbility: 0.0018
+Next Token : if, Posbility: 0.0593
+Next Token : ->, Posbility: 0.4395
+Next Token : ::, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  new, Posbility: 0.0089
+Next Token :  [], Posbility: 0.0396
+Next Token :  rest, Posbility: 0.1377
+Next Token :  words, Posbility: 0.1377
+Next Token :  , Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : ws, Posbility: 0.0820
+Next Token : x, Posbility: 0.1055
+Next Token : w, Posbility: 0.1196
+Next Token : tail, Posbility: 0.1196
+Next Token : _, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0066
+Next Token : words, Posbility: 0.0108
+Next Token :  when, Posbility: 0.0139
+Next Token :  as, Posbility: 0.0623
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0004
+Next Token : if, Posbility: 0.0031
+Next Token : ::, Posbility: 0.0371
+Next Token : ->, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0022
+Next Token :  {, Posbility: 0.0036
+Next Token :  match, Posbility: 0.0181
+Next Token :  , Posbility: 0.1943
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0039
+Next Token :     , Posbility: 0.0057
+Next Token :        , Posbility: 0.0083
+Next Token :       , Posbility: 0.3125
+Next Token :         , Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0040
+Next Token : if, Posbility: 0.0481
+Next Token : (, Posbility: 0.1309
+Next Token : match, Posbility: 0.1309
+Next Token : let, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  letter, Posbility: 0.0220
+Next Token :  rec, Posbility: 0.0410
+Next Token :  word, Posbility: 0.0596
+Next Token :  first, Posbility: 0.1621
+Next Token :  , Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0557
+Next Token : head, Posbility: 0.0718
+Next Token : w, Posbility: 0.0811
+Next Token : (, Posbility: 0.1943
+Next Token : p, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0134
+Next Token : 0, Posbility: 0.0134
+Next Token : 1, Posbility: 0.0366
+Next Token : _, Posbility: 0.4453
+Next Token :  =, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  first, Posbility: 0.0220
+Next Token : 
+, Posbility: 0.0361
+Next Token :  words, Posbility: 0.0464
+Next Token :  String, Posbility: 0.2676
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0164
+Next Token : Array, Posbility: 0.0186
+Next Token : head, Posbility: 0.0271
+Next Token : Char, Posbility: 0.1377
+Next Token : List, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : _, Posbility: 0.0003
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : first, Posbility: 0.0688
+Next Token : find, Posbility: 0.1289
+Next Token : mem, Posbility: 0.1465
+Next Token : hd, Posbility: 0.1660
+Next Token : head, Posbility: 0.1875
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : words, Posbility: 0.0034
+Next Token : (, Posbility: 0.0039
+Next Token : _, Posbility: 0.0532
+Next Token :  , Posbility: 0.0879
+Next Token :  words, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0015
+Next Token :  |, Posbility: 0.0031
+Next Token :  =, Posbility: 0.0051
+Next Token : 
+, Posbility: 0.0139
+Next Token :  in, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (*, Posbility: 0.0004
+Next Token :   , Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0019
+Next Token :  , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :             , Posbility: 0.0007
+Next Token :           , Posbility: 0.0017
+Next Token :       , Posbility: 0.0019
+Next Token :        , Posbility: 0.0075
+Next Token :         , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0635
+Next Token : match, Posbility: 0.1045
+Next Token : (, Posbility: 0.1719
+Next Token : if, Posbility: 0.1719
+Next Token : let, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  words, Posbility: 0.0145
+Next Token :  l, Posbility: 0.0211
+Next Token :  next, Posbility: 0.0349
+Next Token :  rest, Posbility: 0.0737
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0371
+Next Token : r, Posbility: 0.0371
+Next Token : s, Posbility: 0.0540
+Next Token : p, Posbility: 0.1885
+Next Token : q, Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0021
+Next Token : 1, Posbility: 0.0024
+Next Token : words, Posbility: 0.0027
+Next Token : _, Posbility: 0.0075
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0027
+Next Token : 
+, Posbility: 0.0417
+Next Token :  words, Posbility: 0.0417
+Next Token :  String, Posbility: 0.0537
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0015
+Next Token : Seq, Posbility: 0.0028
+Next Token : (, Posbility: 0.0262
+Next Token : p, Posbility: 0.0806
+Next Token : List, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : 2., Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : last, Posbility: 0.0205
+Next Token : rev, Posbility: 0.0299
+Next Token : init, Posbility: 0.0383
+Next Token : drop, Posbility: 0.0493
+Next Token : tail, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : words, Posbility: 0.0006
+Next Token : (, Posbility: 0.0011
+Next Token :  , Posbility: 0.0121
+Next Token : _, Posbility: 0.0226
+Next Token :  words, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0008
+Next Token :  with, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0019
+Next Token :  =, Posbility: 0.0019
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0001
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0010
+Next Token : 
+
+, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0004
+Next Token :           , Posbility: 0.0005
+Next Token :       , Posbility: 0.0012
+Next Token :        , Posbility: 0.0028
+Next Token :         , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0605
+Next Token : if, Posbility: 0.1001
+Next Token : match, Posbility: 0.1001
+Next Token : let, Posbility: 0.2715
+Next Token : (, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : match, Posbility: 0.0027
+Next Token : p, Posbility: 0.0073
+Next Token :  Some, Posbility: 0.0120
+Next Token : 
+, Posbility: 0.0154
+Next Token : Some, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  (*, Posbility: 0.0017
+Next Token :  String, Posbility: 0.0022
+Next Token :  ((, Posbility: 0.0078
+Next Token : (, Posbility: 0.0737
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : (', Posbility: 0.0007
+Next Token : (", Posbility: 0.0018
+Next Token : q, Posbility: 0.0131
+Next Token : (, Posbility: 0.2637
+Next Token : p, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0226
+Next Token : _, Posbility: 0.0226
+Next Token : ), Posbility: 0.0226
+Next Token : ),, Posbility: 0.1670
+Next Token : ,, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Some, Posbility: 0.0020
+Next Token : 
+, Posbility: 0.0033
+Next Token :  None, Posbility: 0.0033
+Next Token :  , Posbility: 0.1797
+Next Token :  Some, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token :  (*, Posbility: 0.0002
+Next Token : (, Posbility: 0.0028
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : List, Posbility: 0.0003
+Next Token : p, Posbility: 0.0025
+Next Token : (, Posbility: 0.0067
+Next Token : q, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token : ),, Posbility: 0.0024
+Next Token : ,, Posbility: 0.0040
+Next Token : );, Posbility: 0.0066
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0057
+Next Token :  |, Posbility: 0.0226
+Next Token : 
+
+, Posbility: 0.0371
+Next Token :  in, Posbility: 0.0786
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0344
+Next Token :         , Posbility: 0.0388
+Next Token :    , Posbility: 0.1196
+Next Token :     , Posbility: 0.2539
+Next Token :   , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0005
+Next Token : let, Posbility: 0.0006
+Next Token : end, Posbility: 0.0012
+Next Token :  in, Posbility: 0.0046
+Next Token : in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0000
+Next Token :   , Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0040
+Next Token :  , Posbility: 0.0096
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0005
+Next Token :       , Posbility: 0.0006
+Next Token :    , Posbility: 0.0012
+Next Token :     , Posbility: 0.0059
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0085
+Next Token : (, Posbility: 0.0109
+Next Token : fun, Posbility: 0.0262
+Next Token : let, Posbility: 0.0630
+Next Token : p, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+  p
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+  p_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Words, Posbility: 0.0000
+Next Token : lines, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : word, Posbility: 0.0000
+Next Token : words, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+  p_words
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [, Posbility: 0.0591
+Next Token : 
+
+, Posbility: 0.1416
+Next Token : 
+, Posbility: 0.1416
+Next Token :  , Posbility: 0.2061
+Next Token :  [], Posbility: 0.3398
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+  p_words []
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  >>, Posbility: 0.0066
+Next Token :  , Posbility: 0.0157
+Next Token :  =, Posbility: 0.0801
+Next Token : 
+, Posbility: 0.4082
+Next Token : 
+
+, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to return two words from a list of words starting with letter 'p'. *)
+let p_words =
+  let rec p_words (words : string list) =
+    match words with
+    | [] -> (None, None)
+    | _ :: _ ->
+        let p = List.head words in
+        let q = List.tail words in
+        (Some p, Some q)
+  in
+  p_words []
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :41.04196763038635
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

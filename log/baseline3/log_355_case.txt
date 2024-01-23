@@ -1,0 +1,275 @@
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let
+Next Token :  rec, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec
+Next Token :  , Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec 
+Next Token : fi, Posbility: 0.2129
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fi
+Next Token : b, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fib
+Next Token : on, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibon
+Next Token : acc, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacc
+Next Token : i, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci
+Next Token :  , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci 
+Next Token : n, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n
+Next Token :  =, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+Next Token : 
+, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  
+Next Token : if, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if 
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n
+Next Token :  =, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n =
+Next Token :  0, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0
+Next Token :  then, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then
+Next Token :  0, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0
+Next Token :  else, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else 
+Next Token : fi, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fib
+Next Token : on, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibon
+Next Token : acc, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacc
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci 
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n -
+Next Token :  1), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1)
+Next Token :  +, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) +
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + 
+Next Token : fi, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fib
+Next Token : on, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibon
+Next Token : acc, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacc
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci 
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci (n
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci (n 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci (n -
+Next Token :  2), Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the index of the first occurrence of a given number in a sorted array. *)
+let rec fibonacci n =
+  if n = 0 then 0 else fibonacci (n - 1) + fibonacci (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4181976318359375
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

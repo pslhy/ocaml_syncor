@@ -1,0 +1,370 @@
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let
+Next Token :  rec, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec 
+Next Token : prod, Posbility: 0.1709
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod
+Next Token : _, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_
+Next Token : sub, Posbility: 0.2168
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sub
+Next Token : list, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist 
+Next Token : (, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (
+Next Token : l, Posbility: 0.1367
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l 
+Next Token : :, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l :
+Next Token :  int, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int
+Next Token :  list, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list
+Next Token : ), Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list)
+Next Token :  , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) 
+Next Token : :, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) :
+Next Token :  int, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int
+Next Token :  =, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+Next Token : 
+, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+
+Next Token :   , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  
+Next Token : match, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match
+Next Token :  l, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l
+Next Token :  with, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+Next Token : 
+, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+
+Next Token :   , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  
+Next Token : |, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  |
+Next Token :  [], Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | []
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] ->
+Next Token :  0, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  |
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | 
+Next Token : x, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x 
+Next Token : ::, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x ::
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: 
+Next Token : x, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: x
+Next Token : s, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs 
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs ->
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> 
+Next Token : x, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x
+Next Token :  *, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x *
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * 
+Next Token : prod, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod_
+Next Token : sub, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod_sub
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod_sublist
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod_sublist 
+Next Token : x, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod_sublist x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find sum of products of all possible sublists of a given list. https://www.geeksforgeeks.org/sum-of-products-of-all-possible-subarrays/ *)
+let rec prod_sublist (l : int list) : int =
+  match l with
+  | [] -> 0
+  | x :: xs -> x * prod_sublist xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.5941855907440186
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

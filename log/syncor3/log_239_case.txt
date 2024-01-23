@@ -1,0 +1,593 @@
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  amount, Posbility: 0.0253
+Next Token :  get, Posbility: 0.0471
+Next Token :  rec, Posbility: 0.0688
+Next Token :  loss, Posbility: 0.3086
+Next Token :  , Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0277
+Next Token : write, Posbility: 0.0312
+Next Token : sales, Posbility: 0.0403
+Next Token : profit, Posbility: 0.0752
+Next Token : sale, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Loss, Posbility: 0.0120
+Next Token : (, Posbility: 0.0287
+Next Token :  , Posbility: 0.0474
+Next Token :  =, Posbility: 0.1001
+Next Token : _, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : price, Posbility: 0.0166
+Next Token : with, Posbility: 0.0273
+Next Token : has, Posbility: 0.0398
+Next Token : amount, Posbility: 0.0742
+Next Token : loss, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0264
+Next Token :  amount, Posbility: 0.1040
+Next Token :  , Posbility: 0.2207
+Next Token :  =, Posbility: 0.2832
+Next Token : _, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : on, Posbility: 0.0145
+Next Token : func, Posbility: 0.0165
+Next Token : calc, Posbility: 0.0240
+Next Token : if, Posbility: 0.0449
+Next Token : amount, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0262
+Next Token :  a, Posbility: 0.0262
+Next Token :  amount, Posbility: 0.1177
+Next Token :  =, Posbility: 0.2832
+Next Token :  , Posbility: 0.4121
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : money, Posbility: 0.0306
+Next Token : s, Posbility: 0.0447
+Next Token : (, Posbility: 0.2002
+Next Token : x, Posbility: 0.2002
+Next Token : sale, Posbility: 0.2002
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  am, Posbility: 0.0076
+Next Token :  , Posbility: 0.0635
+Next Token :  amount, Posbility: 0.1348
+Next Token :  =, Posbility: 0.1953
+Next Token : _, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : info, Posbility: 0.0102
+Next Token : am, Posbility: 0.0148
+Next Token : value, Posbility: 0.0190
+Next Token : price, Posbility: 0.0315
+Next Token : amount, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0091
+Next Token :  loss, Posbility: 0.0091
+Next Token :  amount, Posbility: 0.0219
+Next Token :  , Posbility: 0.0981
+Next Token :  =, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0020
+Next Token : 
+
+, Posbility: 0.0062
+Next Token :  match, Posbility: 0.0669
+Next Token :  , Posbility: 0.0972
+Next Token : 
+, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0062
+Next Token :    , Posbility: 0.0130
+Next Token : 	, Posbility: 0.0130
+Next Token :     , Posbility: 0.1396
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0297
+Next Token : sale, Posbility: 0.0625
+Next Token : let, Posbility: 0.1328
+Next Token : if, Posbility: 0.3184
+Next Token : match, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  P, Posbility: 0.0013
+Next Token :  loss, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0021
+Next Token :  String, Posbility: 0.0095
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Float, Posbility: 0.0009
+Next Token : sales, Posbility: 0.0011
+Next Token : (, Posbility: 0.0073
+Next Token : Sale, Posbility: 0.0254
+Next Token : sale, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  amount, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : ., Posbility: 0.0012
+Next Token :  with, Posbility: 0.0015
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : type, Posbility: 0.0002
+Next Token : status, Posbility: 0.0002
+Next Token : loss, Posbility: 0.0003
+Next Token : value, Posbility: 0.0004
+Next Token : amount, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0015
+Next Token :  %, Posbility: 0.0015
+Next Token : ., Posbility: 0.0024
+Next Token :  , Posbility: 0.0066
+Next Token :  with, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0017
+Next Token :  {, Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0031
+Next Token :  , Posbility: 0.0052
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0009
+Next Token :       , Posbility: 0.0027
+Next Token :    , Posbility: 0.0058
+Next Token :     , Posbility: 0.1309
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0005
+Next Token : Some, Posbility: 0.0005
+Next Token : (, Posbility: 0.0009
+Next Token : 0, Posbility: 0.0109
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0129
+Next Token :  None, Posbility: 0.0240
+Next Token :  Some, Posbility: 0.0654
+Next Token :  , Posbility: 0.3320
+Next Token :  0, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0063
+Next Token :  =>, Posbility: 0.0219
+Next Token :  |, Posbility: 0.0464
+Next Token : ., Posbility: 0.0525
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0005
+Next Token : _, Posbility: 0.0008
+Next Token : if, Posbility: 0.0013
+Next Token : ::, Posbility: 0.0059
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0089
+Next Token : 
+, Posbility: 0.0242
+Next Token :  0.0, Posbility: 0.0242
+Next Token :  , Posbility: 0.1084
+Next Token :  0, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0047
+Next Token : L, Posbility: 0.0054
+Next Token :  , Posbility: 0.0273
+Next Token :  |, Posbility: 0.0352
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :     , Posbility: 0.0002
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0128
+Next Token :  loss, Posbility: 0.0145
+Next Token :  positive, Posbility: 0.0187
+Next Token :  1, Posbility: 0.1216
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0162
+Next Token : n, Posbility: 0.0267
+Next Token : sale, Posbility: 0.0728
+Next Token : x, Posbility: 0.1201
+Next Token : _, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0027
+Next Token :   , Posbility: 0.0039
+Next Token :  otherwise, Posbility: 0.0044
+Next Token :  when, Posbility: 0.0253
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0005
+Next Token :  =>, Posbility: 0.0007
+Next Token : ::, Posbility: 0.0008
+Next Token : if, Posbility: 0.0598
+Next Token : ->, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0361
+Next Token :  match, Posbility: 0.0527
+Next Token : 
+, Posbility: 0.0596
+Next Token :  1, Posbility: 0.1260
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Sale, Posbility: 0.0118
+Next Token : if, Posbility: 0.0530
+Next Token : -, Posbility: 0.0874
+Next Token : (, Posbility: 0.1631
+Next Token : sale, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Amount, Posbility: 0.0003
+Next Token :  *, Posbility: 0.0004
+Next Token :  , Posbility: 0.0005
+Next Token : ., Posbility: 0.0008
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : cost, Posbility: 0.0005
+Next Token : price, Posbility: 0.0009
+Next Token : loss, Posbility: 0.0012
+Next Token : value, Posbility: 0.0015
+Next Token : amount, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale_amount
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0110
+Next Token : 
+, Posbility: 0.1348
+Next Token : 
+
+, Posbility: 0.1963
+Next Token :  *, Posbility: 0.1963
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale_amount 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ^, Posbility: 0.0063
+Next Token : <, Posbility: 0.0415
+Next Token : >, Posbility: 0.0532
+Next Token : /, Posbility: 0.1445
+Next Token : -, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale_amount -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0498
+Next Token :  0.01, Posbility: 0.0820
+Next Token :  100, Posbility: 0.1055
+Next Token :  , Posbility: 0.2227
+Next Token :  1, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale_amount - 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0059
+Next Token : _, Posbility: 0.0206
+Next Token :  , Posbility: 0.0234
+Next Token : 
+, Posbility: 0.3223
+Next Token : 
+
+, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function that gives loss amount on a sale if the given amount has loss else return 0. *)
+let sale_loss_amount sale_amount =
+  match sale_amount with
+  | 0 -> 0
+  | _ -> sale_amount - 1
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :18.751564025878906
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

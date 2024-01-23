@@ -1,0 +1,967 @@
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0243
+Next Token :  find, Posbility: 0.0752
+Next Token :  , Posbility: 0.0850
+Next Token :  k, Posbility: 0.1094
+Next Token :  rec, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0273
+Next Token :  loop, Posbility: 0.0352
+Next Token :  k, Posbility: 0.2295
+Next Token :  find, Posbility: 0.2295
+Next Token :  , Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : quick, Posbility: 0.0312
+Next Token : f, Posbility: 0.0457
+Next Token : helper, Posbility: 0.1094
+Next Token : nth, Posbility: 0.1240
+Next Token : fi, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fi
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0037
+Next Token : bb, Posbility: 0.0037
+Next Token : bs, Posbility: 0.0078
+Next Token : bo, Posbility: 0.0579
+Next Token : b, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fib
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0254
+Next Token : (, Posbility: 0.0325
+Next Token :  , Posbility: 0.1455
+Next Token : _, Posbility: 0.1875
+Next Token : on, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibon
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0005
+Next Token : a, Posbility: 0.0008
+Next Token : ac, Posbility: 0.0075
+Next Token : aci, Posbility: 0.0096
+Next Token : acc, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacc
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token : il, Posbility: 0.0003
+Next Token : y, Posbility: 0.0008
+Next Token : is, Posbility: 0.0015
+Next Token : i, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0447
+Next Token :  =, Posbility: 0.0835
+Next Token : _, Posbility: 0.1768
+Next Token :  k, Posbility: 0.2012
+Next Token :  , Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0166
+Next Token : :, Posbility: 0.0275
+Next Token : x, Posbility: 0.0452
+Next Token : (, Posbility: 0.0659
+Next Token : n, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0032
+Next Token :  i, Posbility: 0.0087
+Next Token :  k, Posbility: 0.0266
+Next Token :  , Posbility: 0.0498
+Next Token :  =, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0016
+Next Token :  function, Posbility: 0.0030
+Next Token :  match, Posbility: 0.0674
+Next Token :  , Posbility: 0.0981
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0045
+Next Token :    , Posbility: 0.0065
+Next Token : 	, Posbility: 0.0074
+Next Token :     , Posbility: 0.1157
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0027
+Next Token : n, Posbility: 0.0056
+Next Token : let, Posbility: 0.0284
+Next Token : if, Posbility: 0.4453
+Next Token : match, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0002
+Next Token :  {, Posbility: 0.0003
+Next Token :  [, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0017
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Fib, Posbility: 0.0003
+Next Token : List, Posbility: 0.0009
+Next Token : Int, Posbility: 0.0015
+Next Token : (, Posbility: 0.0052
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0005
+Next Token :  , Posbility: 0.0009
+Next Token :  %, Posbility: 0.0009
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0009
+Next Token :   , Posbility: 0.0012
+Next Token :  0, Posbility: 0.0019
+Next Token :  , Posbility: 0.0022
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0003
+Next Token :       , Posbility: 0.0012
+Next Token :    , Posbility: 0.0018
+Next Token :     , Posbility: 0.0674
+Next Token :   , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0002
+Next Token : [, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0013
+Next Token : 0, Posbility: 0.0229
+Next Token : |, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0,, Posbility: 0.0060
+Next Token :  -1, Posbility: 0.0060
+Next Token :  , Posbility: 0.0444
+Next Token :  1, Posbility: 0.0444
+Next Token :  0, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0054
+Next Token :   , Posbility: 0.0089
+Next Token :  =>, Posbility: 0.0654
+Next Token :  |, Posbility: 0.1079
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0002
+Next Token : →, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0005
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0033
+Next Token :  , Posbility: 0.0240
+Next Token :  1, Posbility: 0.4824
+Next Token :  0, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token : L, Posbility: 0.0016
+Next Token :  , Posbility: 0.0050
+Next Token :  |, Posbility: 0.0369
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : |, Posbility: 0.0000
+Next Token :  |, Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : let, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0003
+Next Token :  k, Posbility: 0.0009
+Next Token :  i, Posbility: 0.0023
+Next Token :  , Posbility: 0.0471
+Next Token :  1, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0006
+Next Token :  as, Posbility: 0.0012
+Next Token :  |, Posbility: 0.0097
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0000
+Next Token : <, Posbility: 0.0000
+Next Token : →, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  0, Posbility: 0.0003
+Next Token :  , Posbility: 0.0067
+Next Token :  1, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0007
+Next Token :  , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : let, Posbility: 0.0002
+Next Token : else, Posbility: 0.0007
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0036
+Next Token :  N, Posbility: 0.0077
+Next Token :  k, Posbility: 0.0269
+Next Token :  i, Posbility: 0.0569
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0051
+Next Token : x, Posbility: 0.0620
+Next Token : 2, Posbility: 0.0796
+Next Token : _, Posbility: 0.3145
+Next Token : n, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0016
+Next Token : _, Posbility: 0.0024
+Next Token :  +, Posbility: 0.0031
+Next Token :  when, Posbility: 0.0121
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0005
+Next Token : <, Posbility: 0.0008
+Next Token : -, Posbility: 0.0014
+Next Token : if, Posbility: 0.0330
+Next Token : ->, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0011
+Next Token :  1, Posbility: 0.0018
+Next Token :  match, Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0289
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Fib, Posbility: 0.0023
+Next Token : if, Posbility: 0.0062
+Next Token : (, Posbility: 0.0168
+Next Token : n, Posbility: 0.0459
+Next Token : fi, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : bn, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : bb, Posbility: 0.0000
+Next Token : bo, Posbility: 0.0000
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fib
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  on, Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token : on, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibon
+ score:False
+Error type: noerr
+---------------------------
+Next Token : a, Posbility: 0.0000
+Next Token :  acc, Posbility: 0.0000
+Next Token : ac, Posbility: 0.0000
+Next Token : aci, Posbility: 0.0001
+Next Token : acc, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacc
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : ii, Posbility: 0.0000
+Next Token : is, Posbility: 0.0000
+Next Token : if, Posbility: 0.0000
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0004
+Next Token :  (1, Posbility: 0.0006
+Next Token :  ((, Posbility: 0.0006
+Next Token : (, Posbility: 0.0952
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ([, Posbility: 0.0000
+Next Token : (`, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : n, Posbility: 0.0474
+Next Token : (, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : add, Posbility: 0.0001
+Next Token : succ, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0005
+Next Token :  , Posbility: 0.0032
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  –, Posbility: 0.0033
+Next Token : -2, Posbility: 0.0054
+Next Token :  +, Posbility: 0.0089
+Next Token : -1), Posbility: 0.1777
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : +1), Posbility: 0.0001
+Next Token : -2, Posbility: 0.0002
+Next Token : −, Posbility: 0.0019
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token :  1, Posbility: 0.0003
+Next Token :  3), Posbility: 0.0003
+Next Token :  2), Posbility: 0.0474
+Next Token :  1), Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  *, Posbility: 0.0015
+Next Token :  ++, Posbility: 0.0015
+Next Token :  , Posbility: 0.0067
+Next Token :  +, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fi, Posbility: 0.0000
+Next Token :  1, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0002
+Next Token :   , Posbility: 0.0003
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0000
+Next Token : if, Posbility: 0.0000
+Next Token : (, Posbility: 0.0009
+Next Token : n, Posbility: 0.0009
+Next Token : fi, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : bn, Posbility: 0.0000
+Next Token : bu, Posbility: 0.0000
+Next Token : bb, Posbility: 0.0000
+Next Token : bo, Posbility: 0.0000
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fib
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token :  on, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : on, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibon
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ack, Posbility: 0.0000
+Next Token : aci, Posbility: 0.0000
+Next Token :  acc, Posbility: 0.0000
+Next Token : ac, Posbility: 0.0000
+Next Token : acc, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacc
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : ia, Posbility: 0.0000
+Next Token : if, Posbility: 0.0000
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token :  (1, Posbility: 0.0000
+Next Token :  ((, Posbility: 0.0002
+Next Token : (, Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (-1), Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0000
+Next Token : n, Posbility: 0.0067
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1), Posbility: 0.0002
+Next Token :  -1), Posbility: 0.0002
+Next Token :  +, Posbility: 0.0003
+Next Token : -2, Posbility: 0.0003
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -3, Posbility: 0.0000
+Next Token : /, Posbility: 0.0000
+Next Token : −, Posbility: 0.0000
+Next Token : -2, Posbility: 0.0019
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2), Posbility: 0.0001
+Next Token :  1), Posbility: 0.0009
+Next Token :  2);, Posbility: 0.0009
+Next Token :  , Posbility: 0.0025
+Next Token :  2), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0013
+Next Token :  , Posbility: 0.0041
+Next Token :  in, Posbility: 0.0391
+Next Token : 
+, Posbility: 0.2559
+Next Token : 
+
+, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n - 2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :27.758622884750366
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

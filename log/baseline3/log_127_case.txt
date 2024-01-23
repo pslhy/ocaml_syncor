@@ -1,0 +1,1047 @@
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let
+Next Token :  rec, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec 
+Next Token : insert, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert
+Next Token : _, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_
+Next Token : before, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before
+Next Token : _, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_
+Next Token : list, Posbility: 0.2021
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list 
+Next Token : lst, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst 
+Next Token : e, Posbility: 0.2090
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e
+Next Token :  =, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+Next Token : 
+, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+
+Next Token :   , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  
+Next Token : match, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match 
+Next Token : lst, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  |
+Next Token :  [], Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | []
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] ->
+Next Token :  [, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [
+Next Token : e, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e
+Next Token : ], Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  |
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | 
+Next Token : x, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x 
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x ::
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: 
+Next Token : x, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: x
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs ->
+Next Token :  , Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> 
+Next Token : x, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x 
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x ::
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: 
+Next Token : insert, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_
+Next Token : before, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list 
+Next Token : x, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs 
+Next Token : e, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+Next Token : 
+, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+
+Next Token : let, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let
+Next Token :  rec, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec 
+Next Token : insert, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_
+Next Token : before, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before
+Next Token : _, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_
+Next Token : list, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list
+Next Token : _, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_
+Next Token : rec, Posbility: 0.0952
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec 
+Next Token : lst, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst 
+Next Token : e, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e
+Next Token :  =, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+Next Token : 
+, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  
+Next Token : match, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match 
+Next Token : lst, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst
+Next Token :  with, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  |
+Next Token :  [], Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | []
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] ->
+Next Token :  [, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [
+Next Token : e, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e
+Next Token : ], Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  |
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | 
+Next Token : x, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x 
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x ::
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: 
+Next Token : x, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs ->
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> 
+Next Token : x, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x 
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x ::
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: 
+Next Token : insert, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_
+Next Token : before, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_
+Next Token : rec, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_rec
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_rec 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_rec x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_rec xs
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_rec xs 
+Next Token : e, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list and an element and inserts the element before each element in the list, and returns the resulting list. *)
+let rec insert_before_list lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list xs e
+let rec insert_before_list_rec lst e =
+  match lst with
+  | [] -> [e]
+  | x :: xs -> x :: insert_before_list_rec xs e
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.581794738769531
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

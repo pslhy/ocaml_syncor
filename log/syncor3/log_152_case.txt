@@ -1,0 +1,1185 @@
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  contains, Posbility: 0.0442
+Next Token :  find, Posbility: 0.0640
+Next Token :  , Posbility: 0.1748
+Next Token :  is, Posbility: 0.1748
+Next Token :  rec, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  check, Posbility: 0.0359
+Next Token :  search, Posbility: 0.0408
+Next Token :  find, Posbility: 0.1611
+Next Token :  is, Posbility: 0.2070
+Next Token :  , Posbility: 0.2344
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : lookup, Posbility: 0.0403
+Next Token : f, Posbility: 0.0457
+Next Token : mem, Posbility: 0.0457
+Next Token : fi, Posbility: 0.0588
+Next Token : helper, Posbility: 0.1245
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0175
+Next Token : _, Posbility: 0.0325
+Next Token : (, Posbility: 0.0781
+Next Token :  =, Posbility: 0.1650
+Next Token :  , Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : lst, Posbility: 0.0420
+Next Token : :, Posbility: 0.0889
+Next Token : x, Posbility: 0.0889
+Next Token : (, Posbility: 0.1875
+Next Token : arr, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0601
+Next Token :  element, Posbility: 0.0991
+Next Token :  i, Posbility: 0.0991
+Next Token :  el, Posbility: 0.0991
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : idx, Posbility: 0.0688
+Next Token : elt, Posbility: 0.0884
+Next Token : elem, Posbility: 0.1289
+Next Token : x, Posbility: 0.1455
+Next Token : e, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  pos, Posbility: 0.0347
+Next Token :  el, Posbility: 0.0393
+Next Token :  i, Posbility: 0.0571
+Next Token :  , Posbility: 0.1377
+Next Token :  =, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0028
+Next Token :  {, Posbility: 0.0032
+Next Token :  match, Posbility: 0.0386
+Next Token :  , Posbility: 0.0718
+Next Token : 
+, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0041
+Next Token :    , Posbility: 0.0126
+Next Token : 	, Posbility: 0.0162
+Next Token :     , Posbility: 0.1738
+Next Token :   , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0100
+Next Token : List, Posbility: 0.0145
+Next Token : let, Posbility: 0.1377
+Next Token : if, Posbility: 0.3750
+Next Token : match, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Hash, Posbility: 0.0011
+Next Token :  [, Posbility: 0.0021
+Next Token :  !, Posbility: 0.0024
+Next Token :  String, Posbility: 0.0177
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Arr, Posbility: 0.0383
+Next Token : e, Posbility: 0.1338
+Next Token : Array, Posbility: 0.1719
+Next Token : List, Posbility: 0.2207
+Next Token : arr, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token : ,, Posbility: 0.0007
+Next Token :  =, Posbility: 0.0007
+Next Token : ., Posbility: 0.0041
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0027
+Next Token :  , Posbility: 0.0045
+Next Token :  [, Posbility: 0.0107
+Next Token :  [], Posbility: 0.0137
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0005
+Next Token :    , Posbility: 0.0015
+Next Token :       , Posbility: 0.0018
+Next Token :     , Posbility: 0.0845
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0002
+Next Token : |[, Posbility: 0.0002
+Next Token : [], Posbility: 0.0122
+Next Token : [, Posbility: 0.0177
+Next Token : |, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  null, Posbility: 0.0007
+Next Token :  nil, Posbility: 0.0038
+Next Token :  , Posbility: 0.0170
+Next Token :  [, Posbility: 0.0461
+Next Token :  [], Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0030
+Next Token :    , Posbility: 0.0039
+Next Token :  |, Posbility: 0.0082
+Next Token :  =>, Posbility: 0.0136
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0003
+Next Token : →, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0006
+Next Token : if, Posbility: 0.0007
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0364
+Next Token :  [, Posbility: 0.0364
+Next Token :  False, Posbility: 0.0364
+Next Token :  false, Posbility: 0.0991
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (-1,, Posbility: 0.0286
+Next Token : #, Posbility: 0.0471
+Next Token : (0,, Posbility: 0.0535
+Next Token : return, Posbility: 0.1279
+Next Token : (, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : e, Posbility: 0.0118
+Next Token :  false, Posbility: 0.0194
+Next Token : False, Posbility: 0.0320
+Next Token : true, Posbility: 0.0679
+Next Token : false, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0005
+Next Token : ;, Posbility: 0.0005
+Next Token : ,0, Posbility: 0.0095
+Next Token :  , Posbility: 0.0227
+Next Token : ,, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0054
+Next Token : -1), Posbility: 0.0308
+Next Token :  0), Posbility: 0.0654
+Next Token :  , Posbility: 0.0840
+Next Token :  -1), Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token :  |, Posbility: 0.0031
+Next Token : ,, Posbility: 0.0045
+Next Token :  , Posbility: 0.0066
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0000
+Next Token : [, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0082
+Next Token :  el, Posbility: 0.0175
+Next Token :  a, Posbility: 0.0225
+Next Token :  [, Posbility: 0.1660
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0630
+Next Token : hd, Posbility: 0.0806
+Next Token : _, Posbility: 0.1934
+Next Token : e, Posbility: 0.1934
+Next Token : x, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0040
+Next Token : :, Posbility: 0.0204
+Next Token : s, Posbility: 0.0381
+Next Token : ::, Posbility: 0.2490
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0001
+Next Token : :, Posbility: 0.0040
+Next Token : if, Posbility: 0.0085
+Next Token : ->, Posbility: 0.0096
+Next Token : ::, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  list, Posbility: 0.0015
+Next Token :  [], Posbility: 0.0045
+Next Token :  a, Posbility: 0.0051
+Next Token :  rest, Posbility: 0.1162
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : y, Posbility: 0.0347
+Next Token : tail, Posbility: 0.0444
+Next Token : t, Posbility: 0.0444
+Next Token : _, Posbility: 0.1211
+Next Token : x, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0011
+Next Token :  , Posbility: 0.0014
+Next Token : _, Posbility: 0.0014
+Next Token : ', Posbility: 0.0291
+Next Token : s, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0022
+Next Token :  @, Posbility: 0.0022
+Next Token :  =>, Posbility: 0.0058
+Next Token :  when, Posbility: 0.1172
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0003
+Next Token : :, Posbility: 0.0003
+Next Token : if, Posbility: 0.0045
+Next Token : ::, Posbility: 0.0203
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0024
+Next Token :   , Posbility: 0.0040
+Next Token :  match, Posbility: 0.0297
+Next Token :  , Posbility: 0.3613
+Next Token : 
+, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0041
+Next Token :   , Posbility: 0.0112
+Next Token :      , Posbility: 0.0128
+Next Token :     , Posbility: 0.4219
+Next Token :       , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : e, Posbility: 0.0061
+Next Token : (, Posbility: 0.0272
+Next Token : match, Posbility: 0.0737
+Next Token : let, Posbility: 0.3320
+Next Token : if, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  equal, Posbility: 0.0013
+Next Token :  not, Posbility: 0.0017
+Next Token :  String, Posbility: 0.0031
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : E, Posbility: 0.0012
+Next Token : eq, Posbility: 0.0012
+Next Token : (, Posbility: 0.0146
+Next Token : x, Posbility: 0.4863
+Next Token : e, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  equal, Posbility: 0.0011
+Next Token :  ===, Posbility: 0.0029
+Next Token :  ==, Posbility: 0.0354
+Next Token :  , Posbility: 0.0454
+Next Token :  =, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  Some, Posbility: 0.0003
+Next Token :  first, Posbility: 0.0005
+Next Token :  First, Posbility: 0.0005
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0008
+Next Token : Array, Posbility: 0.0008
+Next Token : hd, Posbility: 0.0019
+Next Token : head, Posbility: 0.0123
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0008
+Next Token :  , Posbility: 0.0012
+Next Token :  ||, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0032
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Some, Posbility: 0.0020
+Next Token :  ((, Posbility: 0.0023
+Next Token :  true, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.1807
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0009
+Next Token : helper, Posbility: 0.0083
+Next Token : return, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0137
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : True, Posbility: 0.0007
+Next Token : false, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0022
+Next Token :  true, Posbility: 0.0022
+Next Token : true, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  !, Posbility: 0.0000
+Next Token :  @, Posbility: 0.0000
+Next Token : ,0, Posbility: 0.0007
+Next Token :  , Posbility: 0.0028
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1), Posbility: 0.0019
+Next Token :  index, Posbility: 0.0019
+Next Token :  , Posbility: 0.0137
+Next Token :  0);, Posbility: 0.0176
+Next Token :  0), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token :  |, Posbility: 0.0018
+Next Token :  , Posbility: 0.0282
+Next Token :  else, Posbility: 0.0282
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0004
+Next Token :   , Posbility: 0.0005
+Next Token :     , Posbility: 0.0012
+Next Token :      , Posbility: 0.0017
+Next Token :       , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : |, Posbility: 0.0001
+Next Token : let, Posbility: 0.0002
+Next Token : elif, Posbility: 0.0002
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token :  match, Posbility: 0.0023
+Next Token :  {, Posbility: 0.0093
+Next Token : 
+, Posbility: 0.2402
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0131
+Next Token : let, Posbility: 0.0354
+Next Token : if, Posbility: 0.0586
+Next Token : (, Posbility: 0.1592
+Next Token : helper, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0003
+Next Token : _, Posbility: 0.0004
+Next Token : (, Posbility: 0.0110
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : y, Posbility: 0.0000
+Next Token : e, Posbility: 0.0003
+Next Token : arr, Posbility: 0.0009
+Next Token : (, Posbility: 0.0179
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token :  , Posbility: 0.0006
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  1, Posbility: 0.0002
+Next Token :  ((, Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0010
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : f, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : x, Posbility: 0.0003
+Next Token : (, Posbility: 0.0229
+Next Token : e, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0139
+Next Token : ), Posbility: 0.0157
+Next Token : ;, Posbility: 0.0483
+Next Token : 
+
+, Posbility: 0.2168
+Next Token : 
+, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0294
+Next Token :     , Posbility: 0.0294
+Next Token : 
+
+, Posbility: 0.0332
+Next Token : in, Posbility: 0.2793
+Next Token :   , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0111
+Next Token : end, Posbility: 0.0143
+Next Token : 
+, Posbility: 0.0221
+Next Token : ;, Posbility: 0.1533
+Next Token : |, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0038
+Next Token :  ?, Posbility: 0.0063
+Next Token :  [, Posbility: 0.0284
+Next Token :  [], Posbility: 0.0874
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0041
+Next Token : (, Posbility: 0.0060
+Next Token : e, Posbility: 0.0444
+Next Token : x, Posbility: 0.2256
+Next Token : _, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0013
+Next Token : x, Posbility: 0.0019
+Next Token : ::, Posbility: 0.0027
+Next Token :  =>, Posbility: 0.0058
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0003
+Next Token :  =>, Posbility: 0.0005
+Next Token : if, Posbility: 0.0021
+Next Token : ::, Posbility: 0.0371
+Next Token : ->, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  un, Posbility: 0.0077
+Next Token :  error, Posbility: 0.0126
+Next Token : 
+, Posbility: 0.0342
+Next Token :  fail, Posbility: 0.0439
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : panic, Posbility: 0.0138
+Next Token : raise, Posbility: 0.0177
+Next Token : assert, Posbility: 0.0425
+Next Token : helper, Posbility: 0.2158
+Next Token : (, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0004
+Next Token : helper, Posbility: 0.0004
+Next Token :  false, Posbility: 0.0005
+Next Token : true, Posbility: 0.0109
+Next Token : false, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1,, Posbility: 0.0000
+Next Token : ), Posbility: 0.0001
+Next Token : ,0, Posbility: 0.0002
+Next Token :  , Posbility: 0.0017
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0), Posbility: 0.0009
+Next Token : -1), Posbility: 0.0009
+Next Token :  , Posbility: 0.0025
+Next Token :  -1, Posbility: 0.0067
+Next Token :  -1), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false, -1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0048
+Next Token :  in, Posbility: 0.0069
+Next Token :  , Posbility: 0.0188
+Next Token : 
+, Posbility: 0.3320
+Next Token : 
+
+, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false, -1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :32.33827233314514
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

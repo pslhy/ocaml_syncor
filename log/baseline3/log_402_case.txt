@@ -1,0 +1,3527 @@
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let
+Next Token :  rgb, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb
+Next Token : _, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_
+Next Token : to, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_
+Next Token : h, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_h
+Next Token : sv, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv
+Next Token :  , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv 
+Next Token : (, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (
+Next Token : r, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r
+Next Token : ,, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r,
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, 
+Next Token : g, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g,
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b)
+Next Token :  =, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+Next Token : 
+, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+
+Next Token :   , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  
+Next Token : let, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let 
+Next Token : r, Posbility: 0.2334
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r
+Next Token : _, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_
+Next Token : max, Posbility: 0.1855
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max
+Next Token :  =, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max =
+Next Token :  , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = 
+Next Token : if, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if 
+Next Token : r, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r 
+Next Token : >, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r >
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 
+Next Token : 255, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255
+Next Token :  then, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 
+Next Token : 255, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255
+Next Token :  else, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else 
+Next Token : r, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r
+Next Token : ;, Posbility: 0.2402
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+Next Token : 
+, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+
+Next Token :   , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  
+Next Token : let, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let 
+Next Token : r, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_
+Next Token : min, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min =
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = 
+Next Token : if, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if 
+Next Token : r, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r 
+Next Token : <, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r <
+Next Token :  0, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then
+Next Token :  0, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0
+Next Token :  else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else 
+Next Token : r, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r
+Next Token : ;, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+Next Token : 
+, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  
+Next Token : let, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let 
+Next Token : g, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_
+Next Token : max, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = 
+Next Token : if, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if 
+Next Token : g, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g 
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g >
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 
+Next Token : 255, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 
+Next Token : 255, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255
+Next Token :  else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else 
+Next Token : g, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g
+Next Token : ;, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  
+Next Token : let, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let 
+Next Token : g, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = 
+Next Token : if, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if 
+Next Token : g, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g <
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0
+Next Token :  else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else 
+Next Token : g, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g
+Next Token : ;, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  
+Next Token : let, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let 
+Next Token : b, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = 
+Next Token : if, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if 
+Next Token : b, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b 
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b >
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 
+Next Token : 255, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 
+Next Token : 255, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255
+Next Token :  else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b
+Next Token : ;, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  
+Next Token : let, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = 
+Next Token : if, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b <
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0
+Next Token :  else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b
+Next Token : ;, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+Next Token : 
+, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  
+Next Token : let, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let 
+Next Token : r, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r
+Next Token : _, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_
+Next Token : delta, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta =
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = 
+Next Token : r, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max -
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - 
+Next Token : r, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min
+Next Token : ;, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  
+Next Token : let, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let 
+Next Token : g, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_
+Next Token : delta, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = 
+Next Token : g, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max -
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - 
+Next Token : g, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min
+Next Token : ;, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  
+Next Token : let, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_
+Next Token : delta, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max -
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - 
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min
+Next Token : ;, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  
+Next Token : let, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let 
+Next Token : h, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h
+Next Token :  =, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h =
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = 
+Next Token : if, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if 
+Next Token : r, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_
+Next Token : delta, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta
+Next Token :  ==, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta ==
+Next Token :  0, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0
+Next Token :  then, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then
+Next Token :  0, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0
+Next Token :  else, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else 
+Next Token : (, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (
+Next Token : g, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_
+Next Token : delta, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta 
+Next Token : /, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta /
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / 
+Next Token : r, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_
+Next Token : delta, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta
+Next Token : );, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  
+Next Token : let, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let 
+Next Token : s, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s
+Next Token :  =, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s =
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = 
+Next Token : if, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if 
+Next Token : r, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_
+Next Token : delta, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta
+Next Token :  ==, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta ==
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0
+Next Token :  then, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then
+Next Token :  0, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0
+Next Token :  else, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else 
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (
+Next Token : b, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_
+Next Token : delta, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta 
+Next Token : /, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta /
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / 
+Next Token : r, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_
+Next Token : delta, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta
+Next Token : );, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  
+Next Token : let, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let
+Next Token :  v, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v =
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = 
+Next Token : if, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if 
+Next Token : r, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_
+Next Token : delta, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta
+Next Token :  ==, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta ==
+Next Token :  0, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then
+Next Token :  0, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0
+Next Token :  else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else 
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (
+Next Token : b, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_
+Next Token : delta, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta 
+Next Token : /, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta /
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / 
+Next Token : r, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_
+Next Token : delta, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta
+Next Token : );, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  
+Next Token : (, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (
+Next Token : h, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h
+Next Token : ,, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h,
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h, 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h, s
+Next Token : ,, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h, s,
+Next Token :  v, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h, s, v
+Next Token : ), Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/ *)
+let rgb_to_hsv (r, g, b) =
+  let r_max = if r > 255 then 255 else r;
+  let r_min = if r < 0 then 0 else r;
+  let g_max = if g > 255 then 255 else g;
+  let g_min = if g < 0 then 0 else g;
+  let b_max = if b > 255 then 255 else b;
+  let b_min = if b < 0 then 0 else b;
+  let r_delta = r_max - r_min;
+  let g_delta = g_max - g_min;
+  let b_delta = b_max - b_min;
+  let h = if r_delta == 0 then 0 else (g_delta / r_delta);
+  let s = if r_delta == 0 then 0 else (b_delta / r_delta);
+  let v = if r_delta == 0 then 0 else (b_delta / r_delta);
+  (h, s, v)
+Error type: synerr_continue
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :9.530338048934937
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

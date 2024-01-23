@@ -1,0 +1,539 @@
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let
+Next Token :  count, Posbility: 0.2676
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count
+Next Token : _, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_
+Next Token : equal, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal
+Next Token : _, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_
+Next Token : numbers, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers
+Next Token :  , Posbility: 0.3828
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers 
+Next Token : x, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x
+Next Token :  , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y 
+Next Token : z, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z
+Next Token :  =, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+
+Next Token :   , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  
+Next Token : let, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let
+Next Token :  , Posbility: 0.3535
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let 
+Next Token : x, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x
+Next Token : _, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_
+Next Token : count, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count
+Next Token :  =, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count =
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = 
+Next Token : x, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x 
+Next Token : -, Posbility: 0.2002
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x -
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - 
+Next Token : y, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y
+Next Token :  in, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+Next Token : 
+, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  
+Next Token : let, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let 
+Next Token : y, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count =
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = 
+Next Token : y, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y -
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - 
+Next Token : z, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  
+Next Token : let, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let 
+Next Token : z, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count =
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = 
+Next Token : z, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z -
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - 
+Next Token : x, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x
+Next Token :  in, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  
+Next Token : x, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count
+Next Token :  +, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count +
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + 
+Next Token : y, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count
+Next Token :  +, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count +
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count + 
+Next Token : z, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count + z
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count + z_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count + z_count
+Next Token : 
+, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to count the number of equal numbers from three given integers. *)
+let count_equal_numbers x y z =
+  let x_count = x - y in
+  let y_count = y - z in
+  let z_count = z - x in
+  x_count + y_count + z_count
+
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.0214474201202393
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

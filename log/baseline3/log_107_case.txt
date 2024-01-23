@@ -1,0 +1,291 @@
+code:
+ (* Write a function to find minimum of three numbers. *)
+let
+Next Token :  , Posbility: 0.3457
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let 
+Next Token : min, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min
+Next Token : 3, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 
+Next Token : x, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y 
+Next Token : z, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+Next Token : 
+, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+
+Next Token :   , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  
+Next Token : let, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let 
+Next Token : min, Posbility: 0.1924
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min
+Next Token :  =, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min =
+Next Token :  , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = 
+Next Token : x, Posbility: 0.2471
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x 
+Next Token : <, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x <
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < 
+Next Token : y, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y
+Next Token :  ?, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ?
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? 
+Next Token : x, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x 
+Next Token : :, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x :
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : 
+Next Token : y, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y
+Next Token :  in, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  
+Next Token : if, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if 
+Next Token : min, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min 
+Next Token : <, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min <
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < 
+Next Token : z, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z
+Next Token :  then, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z then
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z then 
+Next Token : min, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z then min
+Next Token :  else, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z then min else
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z then min else 
+Next Token : z, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find minimum of three numbers. *)
+let min3 x y z =
+  let min = x < y ? x : y in
+  if min < z then min else z
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4014294147491455
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

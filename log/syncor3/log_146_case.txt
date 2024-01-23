@@ -1,0 +1,814 @@
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  compare, Posbility: 0.0132
+Next Token :  tuple, Posbility: 0.0219
+Next Token :  sub, Posbility: 0.0461
+Next Token :  rec, Posbility: 0.3008
+Next Token :  , Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0282
+Next Token : minus, Posbility: 0.0361
+Next Token : (, Posbility: 0.0525
+Next Token : diff, Posbility: 0.0596
+Next Token : subtract, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0120
+Next Token : 2, Posbility: 0.0120
+Next Token :  =, Posbility: 0.1465
+Next Token :  , Posbility: 0.1885
+Next Token : _, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : with, Posbility: 0.0259
+Next Token : pairs, Posbility: 0.0293
+Next Token : by, Posbility: 0.0796
+Next Token : elements, Posbility: 0.0903
+Next Token : tuple, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuple
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0147
+Next Token :  , Posbility: 0.1089
+Next Token : _, Posbility: 0.1787
+Next Token :  =, Posbility: 0.1787
+Next Token : s, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  tuple, Posbility: 0.0378
+Next Token : _, Posbility: 0.0430
+Next Token :  a, Posbility: 0.1030
+Next Token :  =, Posbility: 0.2793
+Next Token :  , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0110
+Next Token : tup, Posbility: 0.0182
+Next Token : x, Posbility: 0.1963
+Next Token : t, Posbility: 0.2852
+Next Token : (, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : left, Posbility: 0.0228
+Next Token : tuple, Posbility: 0.0425
+Next Token : t, Posbility: 0.1680
+Next Token : x, Posbility: 0.1904
+Next Token : a, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0096
+Next Token : _, Posbility: 0.0204
+Next Token :  , Posbility: 0.0231
+Next Token : 1,, Posbility: 0.0708
+Next Token : ,, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : _, Posbility: 0.0010
+Next Token : a, Posbility: 0.0010
+Next Token :  a, Posbility: 0.0093
+Next Token : b, Posbility: 0.1455
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : d, Posbility: 0.0005
+Next Token : c, Posbility: 0.0005
+Next Token : x, Posbility: 0.0007
+Next Token : _, Posbility: 0.0067
+Next Token : b, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0025
+Next Token :  , Posbility: 0.0040
+Next Token : ):, Posbility: 0.0040
+Next Token : ), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0018
+Next Token :  a, Posbility: 0.0048
+Next Token :  , Posbility: 0.0659
+Next Token :  =, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0121
+Next Token :  match, Posbility: 0.0137
+Next Token :  a, Posbility: 0.0371
+Next Token :  , Posbility: 0.2422
+Next Token : 
+, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0052
+Next Token :    , Posbility: 0.0126
+Next Token : 	, Posbility: 0.0126
+Next Token :     , Posbility: 0.1738
+Next Token :   , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : a, Posbility: 0.0109
+Next Token : List, Posbility: 0.0139
+Next Token : match, Posbility: 0.0708
+Next Token : (, Posbility: 0.1699
+Next Token : let, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  tuple, Posbility: 0.0176
+Next Token :  open, Posbility: 0.0255
+Next Token :  a, Posbility: 0.1299
+Next Token :  rec, Posbility: 0.2139
+Next Token :  , Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : t, Posbility: 0.0383
+Next Token : f, Posbility: 0.0493
+Next Token : diff, Posbility: 0.0635
+Next Token : x, Posbility: 0.0918
+Next Token : (, Posbility: 0.2500
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : first, Posbility: 0.0200
+Next Token : _, Posbility: 0.0330
+Next Token : c, Posbility: 0.0374
+Next Token : x, Posbility: 0.1895
+Next Token : a, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ',, Posbility: 0.0549
+Next Token : 0,, Posbility: 0.1494
+Next Token : ,, Posbility: 0.1914
+Next Token : _, Posbility: 0.2461
+Next Token : 1,, Posbility: 0.2793
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : b, Posbility: 0.0066
+Next Token : a, Posbility: 0.0109
+Next Token :  ..., Posbility: 0.0181
+Next Token :  , Posbility: 0.3613
+Next Token :  a, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 3, Posbility: 0.0037
+Next Token : 2),, Posbility: 0.0048
+Next Token : 2, Posbility: 0.0167
+Next Token : 2,, Posbility: 0.2617
+Next Token : 2), Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0003
+Next Token :  be, Posbility: 0.0009
+Next Token :   , Posbility: 0.0010
+Next Token :  , Posbility: 0.0025
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0063
+Next Token :  match, Posbility: 0.0173
+Next Token : 
+, Posbility: 0.0286
+Next Token :  , Posbility: 0.3477
+Next Token :  a, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0033
+Next Token : ;, Posbility: 0.0055
+Next Token : 
+, Posbility: 0.0217
+Next Token : ,, Posbility: 0.0359
+Next Token :  in, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0010
+Next Token :  (*, Posbility: 0.0024
+Next Token :   , Posbility: 0.0057
+Next Token :  , Posbility: 0.0289
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0003
+Next Token :    , Posbility: 0.0005
+Next Token :       , Posbility: 0.0012
+Next Token :     , Posbility: 0.0076
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0014
+Next Token : a, Posbility: 0.0023
+Next Token : match, Posbility: 0.0042
+Next Token : (, Posbility: 0.0747
+Next Token : let, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0005
+Next Token :  ((, Posbility: 0.0010
+Next Token :  [, Posbility: 0.0015
+Next Token :  a, Posbility: 0.0022
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0001
+Next Token : c, Posbility: 0.0002
+Next Token : diff, Posbility: 0.0003
+Next Token : b, Posbility: 0.0036
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token : c, Posbility: 0.0005
+Next Token : _, Posbility: 0.0051
+Next Token : a, Posbility: 0.0228
+Next Token : b, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1), Posbility: 0.0001
+Next Token : 3,, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0002
+Next Token : 2,, Posbility: 0.0003
+Next Token : 1,, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  a, Posbility: 0.0002
+Next Token : b, Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : ,, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : _, Posbility: 0.0032
+Next Token : b, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0003
+Next Token : 2,, Posbility: 0.0003
+Next Token : 2), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0001
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Next Token :  in, Posbility: 0.0004
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  a, Posbility: 0.0007
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0000
+Next Token : B, Posbility: 0.0000
+Next Token : Tuple, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :   , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0006
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token :   , Posbility: 0.0005
+Next Token :  , Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0097
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0006
+Next Token :       , Posbility: 0.0008
+Next Token :  , Posbility: 0.0015
+Next Token :     , Posbility: 0.0041
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0081
+Next Token : match, Posbility: 0.0092
+Next Token : a, Posbility: 0.0133
+Next Token : let, Posbility: 0.4395
+Next Token : (, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0120
+Next Token :  a, Posbility: 0.0135
+Next Token : Tuple, Posbility: 0.0175
+Next Token : (, Posbility: 0.1650
+Next Token : a, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1',, Posbility: 0.0107
+Next Token : 2, Posbility: 0.0156
+Next Token : 2,, Posbility: 0.0156
+Next Token : 1, Posbility: 0.3535
+Next Token : 1,, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0026
+Next Token : a, Posbility: 0.0037
+Next Token : b, Posbility: 0.0048
+Next Token :  a, Posbility: 0.4297
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0012
+Next Token : subtract, Posbility: 0.0014
+Next Token : Tuple, Posbility: 0.0026
+Next Token : (, Posbility: 0.3438
+Next Token : b, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 2), Posbility: 0.0422
+Next Token : 2),, Posbility: 0.0422
+Next Token : 1,, Posbility: 0.0698
+Next Token : 1),, Posbility: 0.4004
+Next Token : 1), Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0085
+Next Token :  --, Posbility: 0.0123
+Next Token : 
+
+, Posbility: 0.0486
+Next Token : 
+, Posbility: 0.1318
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ->, Posbility: 0.0217
+Next Token : ;, Posbility: 0.0247
+Next Token : :, Posbility: 0.0859
+Next Token : ::, Posbility: 0.3008
+Next Token : -, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0009
+Next Token : -, Posbility: 0.0010
+Next Token : ., Posbility: 0.0027
+Next Token :  a, Posbility: 0.0417
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : !(, Posbility: 0.0000
+Next Token : ab, Posbility: 0.0000
+Next Token : Tuple, Posbility: 0.0000
+Next Token : b, Posbility: 0.0076
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Next Token :  a, Posbility: 0.0011
+Next Token : b, Posbility: 0.0293
+Next Token : a, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (a
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0005
+Next Token : 1,, Posbility: 0.0140
+Next Token : 2,, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (a2,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  a, Posbility: 0.0001
+Next Token : b, Posbility: 0.0015
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (a2, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ab, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (a2, b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 2, Posbility: 0.0011
+Next Token : 1), Posbility: 0.0014
+Next Token : 2),, Posbility: 0.0065
+Next Token : 2);, Posbility: 0.0291
+Next Token : 2), Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (a2, b2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0168
+Next Token :  in, Posbility: 0.0190
+Next Token :  , Posbility: 0.0190
+Next Token : 
+, Posbility: 0.4336
+Next Token : 
+
+, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a function that takes in two tuples and subtracts the elements of the first tuple by the elements of the second tuple with the same index. *)
+let subtract_tuples (a, b) =
+  let (a1, a2) = a in
+  let (b1, b2) = b in
+  (a1, b1) - (a2, b2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :25.347192525863647
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

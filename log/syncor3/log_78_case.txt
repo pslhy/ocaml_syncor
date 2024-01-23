@@ -1,0 +1,1408 @@
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0265
+Next Token :  find, Posbility: 0.0923
+Next Token :  , Posbility: 0.1523
+Next Token :  max, Posbility: 0.1953
+Next Token :  rec, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0232
+Next Token :  get, Posbility: 0.0262
+Next Token :  , Posbility: 0.2490
+Next Token :  max, Posbility: 0.2490
+Next Token :  find, Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0126
+Next Token :  , Posbility: 0.0162
+Next Token : max, Posbility: 0.0209
+Next Token : Max, Posbility: 0.0344
+Next Token : _, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : maximum, Posbility: 0.0118
+Next Token : most, Posbility: 0.0151
+Next Token : freq, Posbility: 0.0283
+Next Token : item, Posbility: 0.0466
+Next Token : max, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0081
+Next Token : i, Posbility: 0.0081
+Next Token :  =, Posbility: 0.0593
+Next Token :  , Posbility: 0.1611
+Next Token : _, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : count, Posbility: 0.0179
+Next Token : f, Posbility: 0.0231
+Next Token : item, Posbility: 0.1035
+Next Token : frequency, Posbility: 0.2188
+Next Token : freq, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0095
+Next Token : (, Posbility: 0.0259
+Next Token : _, Posbility: 0.2451
+Next Token :  =, Posbility: 0.2451
+Next Token :  , Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : item, Posbility: 0.0293
+Next Token : x, Posbility: 0.0898
+Next Token : lst, Posbility: 0.1309
+Next Token : (, Posbility: 0.1904
+Next Token : freq, Posbility: 0.2451
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0286
+Next Token :  , Posbility: 0.0776
+Next Token :  =, Posbility: 0.1641
+Next Token : _, Posbility: 0.2715
+Next Token : s, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0162
+Next Token :  acc, Posbility: 0.0209
+Next Token :  list, Posbility: 0.0344
+Next Token :  , Posbility: 0.1543
+Next Token :  =, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :  function, Posbility: 0.0127
+Next Token :  match, Posbility: 0.0270
+Next Token :  , Posbility: 0.0571
+Next Token : 
+, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0043
+Next Token :    , Posbility: 0.0092
+Next Token : 	, Posbility: 0.0104
+Next Token :     , Posbility: 0.1436
+Next Token :   , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0077
+Next Token : List, Posbility: 0.0208
+Next Token : if, Posbility: 0.2871
+Next Token : match, Posbility: 0.3262
+Next Token : let, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  open, Posbility: 0.0159
+Next Token :  len, Posbility: 0.0261
+Next Token :  , Posbility: 0.2188
+Next Token :  max, Posbility: 0.2188
+Next Token :  rec, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0718
+Next Token :  rec, Posbility: 0.1050
+Next Token :  loop, Posbility: 0.1187
+Next Token :  find, Posbility: 0.1729
+Next Token :  , Posbility: 0.2520
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : inner, Posbility: 0.0359
+Next Token : f, Posbility: 0.0593
+Next Token : dfs, Posbility: 0.0593
+Next Token : aux, Posbility: 0.1826
+Next Token : helper, Posbility: 0.1826
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0415
+Next Token :  max, Posbility: 0.0874
+Next Token :  i, Posbility: 0.0874
+Next Token :  =, Posbility: 0.1445
+Next Token :  , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0322
+Next Token : item, Posbility: 0.0322
+Next Token : f, Posbility: 0.0364
+Next Token : (, Posbility: 0.0684
+Next Token : freq, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0038
+Next Token : _, Posbility: 0.0102
+Next Token :  , Posbility: 0.0168
+Next Token :  =, Posbility: 0.0277
+Next Token : s, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0410
+Next Token :  acc, Posbility: 0.0674
+Next Token :  i, Posbility: 0.1113
+Next Token :  , Posbility: 0.3027
+Next Token :  =, Posbility: 0.3027
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0010
+Next Token :  match, Posbility: 0.0024
+Next Token :  function, Posbility: 0.0121
+Next Token :  , Posbility: 0.0156
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0015
+Next Token :    , Posbility: 0.0040
+Next Token :       , Posbility: 0.0095
+Next Token :   , Posbility: 0.0122
+Next Token :     , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0049
+Next Token : List, Posbility: 0.0103
+Next Token : let, Posbility: 0.1260
+Next Token : match, Posbility: 0.3418
+Next Token : if, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Not, Posbility: 0.0094
+Next Token :  String, Posbility: 0.0156
+Next Token :  !, Posbility: 0.0256
+Next Token :  not, Posbility: 0.0698
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Seq, Posbility: 0.0200
+Next Token : (, Posbility: 0.0330
+Next Token : Array, Posbility: 0.1475
+Next Token : List, Posbility: 0.3125
+Next Token : freq, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0003
+Next Token :  >=, Posbility: 0.0003
+Next Token :  =, Posbility: 0.0017
+Next Token :  , Posbility: 0.0032
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0145
+Next Token :  ==, Posbility: 0.0306
+Next Token :  , Posbility: 0.0649
+Next Token : ., Posbility: 0.0649
+Next Token :  =, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  nil, Posbility: 0.0015
+Next Token :  0, Posbility: 0.0040
+Next Token :  [, Posbility: 0.0040
+Next Token :  , Posbility: 0.0109
+Next Token :  [], Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  , Posbility: 0.0031
+Next Token :  ||, Posbility: 0.0137
+Next Token : 
+, Posbility: 0.0225
+Next Token :  then, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0299
+Next Token :  None, Posbility: 0.0493
+Next Token :  0, Posbility: 0.1040
+Next Token : 
+, Posbility: 0.2832
+Next Token :  , Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0737
+Next Token : freq, Posbility: 0.0947
+Next Token : (, Posbility: 0.1074
+Next Token : (0,, Posbility: 0.1074
+Next Token : return, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0386
+Next Token :  0, Posbility: 0.1050
+Next Token :  [], Posbility: 0.1050
+Next Token :  None, Posbility: 0.2852
+Next Token :  , Posbility: 0.2852
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : #, Posbility: 0.0208
+Next Token : (, Posbility: 0.0933
+Next Token : (0,, Posbility: 0.1357
+Next Token : (), Posbility: 0.2236
+Next Token : freq, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  in, Posbility: 0.0012
+Next Token : _, Posbility: 0.0013
+Next Token :  , Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0036
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0403
+Next Token :  else, Posbility: 0.0586
+Next Token :  , Posbility: 0.0850
+Next Token : ;, Posbility: 0.0850
+Next Token : 
+, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0007
+Next Token :         , Posbility: 0.0008
+Next Token :       , Posbility: 0.0056
+Next Token :    , Posbility: 0.0596
+Next Token :     , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0027
+Next Token : elif, Posbility: 0.0045
+Next Token : if, Posbility: 0.0176
+Next Token : let, Posbility: 0.1147
+Next Token : else, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0012
+Next Token :  match, Posbility: 0.0091
+Next Token :  {, Posbility: 0.0461
+Next Token : 
+, Posbility: 0.3008
+Next Token :  , Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0143
+Next Token : freq, Posbility: 0.0162
+Next Token : let, Posbility: 0.0267
+Next Token : begin, Posbility: 0.0267
+Next Token : if, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0022
+Next Token :  !, Posbility: 0.0048
+Next Token :  String, Posbility: 0.0061
+Next Token :  not, Posbility: 0.0452
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0088
+Next Token : Freq, Posbility: 0.0165
+Next Token : List, Posbility: 0.0211
+Next Token : (, Posbility: 0.0239
+Next Token : freq, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0003
+Next Token : (, Posbility: 0.0008
+Next Token :  =, Posbility: 0.0013
+Next Token :  , Posbility: 0.0019
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [0]., Posbility: 0.0165
+Next Token : [0], Posbility: 0.0576
+Next Token :  , Posbility: 0.1221
+Next Token :  =, Posbility: 0.3320
+Next Token : ., Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [0, Posbility: 0.0125
+Next Token : [, Posbility: 0.0339
+Next Token : (, Posbility: 0.0559
+Next Token : (0), Posbility: 0.0630
+Next Token : [0], Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0]
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0330
+Next Token :  <=, Posbility: 0.0330
+Next Token :  >=, Posbility: 0.0894
+Next Token :  =, Posbility: 0.3125
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ->, Posbility: 0.0004
+Next Token : ≥, Posbility: 0.0006
+Next Token : /, Posbility: 0.0020
+Next Token : <, Posbility: 0.0845
+Next Token : >, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] >
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0016
+Next Token :  1, Posbility: 0.0074
+Next Token :  max, Posbility: 0.0422
+Next Token :  0, Posbility: 0.0894
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : frequency, Posbility: 0.0011
+Next Token : Freq, Posbility: 0.0027
+Next Token : (, Posbility: 0.0039
+Next Token : helper, Posbility: 0.0369
+Next Token : freq, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freq
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0002
+Next Token :  in, Posbility: 0.0002
+Next Token : _, Posbility: 0.0003
+Next Token :  then, Posbility: 0.0032
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0015
+Next Token : [0], Posbility: 0.0024
+Next Token :  then, Posbility: 0.0045
+Next Token : [1], Posbility: 0.0066
+Next Token : ., Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (1), Posbility: 0.0043
+Next Token : [0], Posbility: 0.0071
+Next Token : (, Posbility: 0.0171
+Next Token : [, Posbility: 0.0282
+Next Token : [1], Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1]
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0031
+Next Token :  ||, Posbility: 0.0040
+Next Token :  , Posbility: 0.0045
+Next Token : 
+, Posbility: 0.0074
+Next Token :  then, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0020
+Next Token :  {, Posbility: 0.0029
+Next Token :  1, Posbility: 0.0042
+Next Token : 
+, Posbility: 0.2637
+Next Token :  , Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0120
+Next Token : 
+, Posbility: 0.0154
+Next Token : freq, Posbility: 0.2412
+Next Token : return, Posbility: 0.3086
+Next Token : helper, Posbility: 0.3965
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0097
+Next Token :  (1, Posbility: 0.0097
+Next Token : (, Posbility: 0.0125
+Next Token :  [, Posbility: 0.2500
+Next Token :  , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [0, Posbility: 0.0020
+Next Token : ([], Posbility: 0.0033
+Next Token : ([, Posbility: 0.0145
+Next Token : freq, Posbility: 0.4805
+Next Token : (, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : helper, Posbility: 0.0095
+Next Token : cons, Posbility: 0.0138
+Next Token : Array, Posbility: 0.0200
+Next Token : List, Posbility: 0.1157
+Next Token : freq, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freq
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token :  , Posbility: 0.0004
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : @, Posbility: 0.0075
+Next Token :  [, Posbility: 0.0124
+Next Token :  @, Posbility: 0.0159
+Next Token :  , Posbility: 0.4648
+Next Token : ., Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [2]), Posbility: 0.0337
+Next Token : [0]), Posbility: 0.0435
+Next Token : [1]), Posbility: 0.1514
+Next Token : [0, Posbility: 0.2832
+Next Token : [, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2));, Posbility: 0.0031
+Next Token : 2, Posbility: 0.0228
+Next Token : 2., Posbility: 0.1318
+Next Token : 1, Posbility: 0.1494
+Next Token : 1., Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0010
+Next Token : ], Posbility: 0.0034
+Next Token : ],, Posbility: 0.0050
+Next Token : ]), Posbility: 0.0415
+Next Token : ., Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ]);, Posbility: 0.0066
+Next Token : ], Posbility: 0.0298
+Next Token : ],, Posbility: 0.0630
+Next Token : -1], Posbility: 0.1177
+Next Token : ]), Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..])
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..-1]
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..],
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..]
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : @, Posbility: 0.0177
+Next Token :  +, Posbility: 0.0258
+Next Token :  |, Posbility: 0.0258
+Next Token :  @, Posbility: 0.0292
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..] 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..] @
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..] |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..] +
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..]@
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1..]);
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0018
+Next Token :  +, Posbility: 0.0026
+Next Token :  , Posbility: 0.0152
+Next Token :  else, Posbility: 0.2373
+Next Token : 
+, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :           , Posbility: 0.0007
+Next Token :   , Posbility: 0.0036
+Next Token :       , Posbility: 0.0040
+Next Token :         , Posbility: 0.0045
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : elif, Posbility: 0.0001
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  then, Posbility: 0.0003
+Next Token :   , Posbility: 0.0010
+Next Token :  {, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0085
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0046
+Next Token : freq, Posbility: 0.0126
+Next Token : return, Posbility: 0.0342
+Next Token : if, Posbility: 0.2539
+Next Token : helper, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0011
+Next Token : (, Posbility: 0.0021
+Next Token :  ((, Posbility: 0.0154
+Next Token :  [, Posbility: 0.0199
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Freq, Posbility: 0.0004
+Next Token : ([], Posbility: 0.0048
+Next Token : ([, Posbility: 0.0214
+Next Token : freq, Posbility: 0.2617
+Next Token : (, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : helper, Posbility: 0.0016
+Next Token : Freq, Posbility: 0.0027
+Next Token : Array, Posbility: 0.0050
+Next Token : List, Posbility: 0.0176
+Next Token : freq, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freq
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : [0, Posbility: 0.0008
+Next Token : ), Posbility: 0.0012
+Next Token : [, Posbility: 0.0017
+Next Token :  , Posbility: 0.0075
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [2:, Posbility: 0.0173
+Next Token : [1]), Posbility: 0.0197
+Next Token : [0]), Posbility: 0.0369
+Next Token : [0, Posbility: 0.3086
+Next Token : [, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0031
+Next Token : 1, Posbility: 0.0036
+Next Token : freq, Posbility: 0.0205
+Next Token : 1., Posbility: 0.3633
+Next Token : 2., Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ]., Posbility: 0.0017
+Next Token : ], Posbility: 0.0024
+Next Token : ]);, Posbility: 0.0181
+Next Token : ., Posbility: 0.1040
+Next Token : ]), Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0048
+Next Token :  +, Posbility: 0.0090
+Next Token :  in, Posbility: 0.0245
+Next Token : 
+
+, Posbility: 0.0315
+Next Token : 
+, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0008
+Next Token :    , Posbility: 0.0017
+Next Token :  , Posbility: 0.0040
+Next Token :     , Posbility: 0.0075
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0007
+Next Token :  in, Posbility: 0.0028
+Next Token : helper, Posbility: 0.0172
+Next Token : end, Posbility: 0.0364
+Next Token : in, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0002
+Next Token :   , Posbility: 0.0034
+Next Token : 
+
+, Posbility: 0.0117
+Next Token :  , Posbility: 0.0525
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0005
+Next Token : let, Posbility: 0.0005
+Next Token :    , Posbility: 0.0015
+Next Token :     , Posbility: 0.0140
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0082
+Next Token : freq, Posbility: 0.0082
+Next Token : if, Posbility: 0.0369
+Next Token : let, Posbility: 0.0776
+Next Token : helper, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+  helper
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0025
+Next Token : 
+, Posbility: 0.0046
+Next Token :  [, Posbility: 0.0266
+Next Token :  [], Posbility: 0.0723
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+  helper 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (), Posbility: 0.0003
+Next Token : List, Posbility: 0.0003
+Next Token : ([], Posbility: 0.0023
+Next Token : (, Posbility: 0.0471
+Next Token : freq, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+  helper freq
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+  helper freqs
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0067
+Next Token : ;, Posbility: 0.0067
+Next Token :  =, Posbility: 0.0067
+Next Token : 
+, Posbility: 0.3633
+Next Token : 
+
+, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec find_max_freq freqs =
+  let rec helper freqs =
+    if freqs = [] then return freqs
+    else if freqs.[0] > freqs.[1] then helper (freqs.[1.])
+    else helper (freqs.[2.])
+  in
+  helper freqs
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :41.49070596694946
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

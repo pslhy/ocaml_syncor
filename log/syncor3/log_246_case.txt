@@ -1,0 +1,706 @@
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  string, Posbility: 0.0107
+Next Token :  is, Posbility: 0.0155
+Next Token :  , Posbility: 0.1895
+Next Token :  rec, Posbility: 0.2754
+Next Token :  remove, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0019
+Next Token :  , Posbility: 0.0031
+Next Token :  =, Posbility: 0.0051
+Next Token : Upper, Posbility: 0.0138
+Next Token : _, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : all, Posbility: 0.0298
+Next Token : substring, Posbility: 0.0337
+Next Token : up, Posbility: 0.0491
+Next Token : upper, Posbility: 0.1709
+Next Token : uppercase, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0349
+Next Token : s, Posbility: 0.0952
+Next Token :  , Posbility: 0.1572
+Next Token :  =, Posbility: 0.2578
+Next Token : _, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : char, Posbility: 0.0097
+Next Token : sub, Posbility: 0.0097
+Next Token : substr, Posbility: 0.0206
+Next Token : strings, Posbility: 0.0206
+Next Token : substring, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substring
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0059
+Next Token : _, Posbility: 0.0160
+Next Token :  , Posbility: 0.0435
+Next Token :  =, Posbility: 0.0435
+Next Token : s, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  string, Posbility: 0.0312
+Next Token : _, Posbility: 0.0403
+Next Token :  str, Posbility: 0.0854
+Next Token :  =, Posbility: 0.2314
+Next Token :  , Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0035
+Next Token : st, Posbility: 0.0074
+Next Token : (, Posbility: 0.0422
+Next Token : x, Posbility: 0.0544
+Next Token : s, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0034
+Next Token :  ~, Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0050
+Next Token :  , Posbility: 0.0223
+Next Token :  =, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0059
+Next Token :  match, Posbility: 0.0086
+Next Token :  String, Posbility: 0.0086
+Next Token :  , Posbility: 0.0815
+Next Token : 
+, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0074
+Next Token : let, Posbility: 0.0074
+Next Token :    , Posbility: 0.0139
+Next Token :     , Posbility: 0.1025
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : String, Posbility: 0.0189
+Next Token : s, Posbility: 0.0215
+Next Token : List, Posbility: 0.0312
+Next Token : match, Posbility: 0.0454
+Next Token : let, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0297
+Next Token :  open, Posbility: 0.0432
+Next Token :  remove, Posbility: 0.0432
+Next Token :  rec, Posbility: 0.2197
+Next Token :  , Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0304
+Next Token : r, Posbility: 0.0442
+Next Token : upper, Posbility: 0.0442
+Next Token : uppercase, Posbility: 0.1060
+Next Token : s, Posbility: 0.1543
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0674
+Next Token : ', Posbility: 0.0674
+Next Token : s, Posbility: 0.0762
+Next Token : _, Posbility: 0.2070
+Next Token :  =, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  string, Posbility: 0.0064
+Next Token : 
+, Posbility: 0.0106
+Next Token :  remove, Posbility: 0.0106
+Next Token :  , Posbility: 0.3516
+Next Token :  String, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token : (, Posbility: 0.0010
+Next Token : _, Posbility: 0.0019
+Next Token : s, Posbility: 0.0019
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : of, Posbility: 0.0334
+Next Token : lowercase, Posbility: 0.0801
+Next Token : trim, Posbility: 0.1167
+Next Token : down, Posbility: 0.1318
+Next Token : to, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Upper, Posbility: 0.0002
+Next Token : lowercase, Posbility: 0.0002
+Next Token : list, Posbility: 0.0005
+Next Token : Lower, Posbility: 0.0006
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : array, Posbility: 0.0547
+Next Token : lower, Posbility: 0.0618
+Next Token : string, Posbility: 0.0898
+Next Token : list, Posbility: 0.2451
+Next Token : lowercase, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0013
+Next Token :  ~, Posbility: 0.0031
+Next Token :  in, Posbility: 0.0291
+Next Token : _, Posbility: 0.2148
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : @@, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0001
+Next Token : (, Posbility: 0.0059
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0013
+Next Token :  =, Posbility: 0.0013
+Next Token :  |, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0140
+Next Token :  in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (*, Posbility: 0.0011
+Next Token :   , Posbility: 0.0057
+Next Token :  , Posbility: 0.0107
+Next Token : 
+
+, Posbility: 0.0137
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0005
+Next Token :  , Posbility: 0.0005
+Next Token :       , Posbility: 0.0007
+Next Token :     , Posbility: 0.0036
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0374
+Next Token : List, Posbility: 0.0425
+Next Token : match, Posbility: 0.0425
+Next Token : String, Posbility: 0.0481
+Next Token : let, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  open, Posbility: 0.0199
+Next Token :  remove, Posbility: 0.0255
+Next Token :  len, Posbility: 0.0371
+Next Token :  rec, Posbility: 0.1670
+Next Token :  , Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0342
+Next Token : substring, Posbility: 0.0386
+Next Token : n, Posbility: 0.0498
+Next Token : uppercase, Posbility: 0.0498
+Next Token : s, Posbility: 0.2520
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0143
+Next Token : ,, Posbility: 0.0183
+Next Token : 1, Posbility: 0.0208
+Next Token : _, Posbility: 0.0933
+Next Token :  =, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ", Posbility: 0.0115
+Next Token :  remove, Posbility: 0.0315
+Next Token : 
+, Posbility: 0.0518
+Next Token :  , Posbility: 0.2324
+Next Token :  String, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Split, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : s, Posbility: 0.0003
+Next Token : _, Posbility: 0.0006
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : trim, Posbility: 0.0603
+Next Token : replace, Posbility: 0.0771
+Next Token : split, Posbility: 0.1128
+Next Token : sub, Posbility: 0.1641
+Next Token : remove, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ', Posbility: 0.0029
+Next Token :  ~, Posbility: 0.0037
+Next Token :  ", Posbility: 0.0454
+Next Token :  , Posbility: 0.2041
+Next Token : _, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : at, Posbility: 0.0374
+Next Token : all, Posbility: 0.0425
+Next Token : suffix, Posbility: 0.0425
+Next Token : prefix, Posbility: 0.1152
+Next Token : substring, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ', Posbility: 0.0071
+Next Token : _, Posbility: 0.0320
+Next Token :  ", Posbility: 0.0527
+Next Token : s, Posbility: 0.2363
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (', Posbility: 0.0042
+Next Token : (", Posbility: 0.0048
+Next Token : (, Posbility: 0.0277
+Next Token : '^, Posbility: 0.0315
+Next Token : s, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0330
+Next Token :  , Posbility: 0.0544
+Next Token :  "#, Posbility: 0.0898
+Next Token :  ', Posbility: 0.1152
+Next Token :  ", Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token : abc, Posbility: 0.0173
+Next Token : a, Posbility: 0.0325
+Next Token : ABC, Posbility: 0.1133
+Next Token : [, Posbility: 0.1865
+Next Token : A, Posbility: 0.2119
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token : ., Posbility: 0.0109
+Next Token :  , Posbility: 0.0229
+Next Token : a, Posbility: 0.1030
+Next Token : ", Posbility: 0.3594
+Next Token : -, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token : G, Posbility: 0.0012
+Next Token : z, Posbility: 0.0020
+Next Token : H, Posbility: 0.0034
+Next Token : Za, Posbility: 0.0525
+Next Token : Z, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token :  ", Posbility: 0.0062
+Next Token : ";, Posbility: 0.0070
+Next Token : _, Posbility: 0.0090
+Next Token : \, Posbility: 0.0116
+Next Token : ", Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z"
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  "", Posbility: 0.0087
+Next Token :  , Posbility: 0.0391
+Next Token :  ", Posbility: 0.0391
+Next Token :  0, Posbility: 0.1060
+Next Token :  in, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0003
+Next Token :   , Posbility: 0.0010
+Next Token :  , Posbility: 0.0074
+Next Token : 
+
+, Posbility: 0.0123
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0001
+Next Token :       , Posbility: 0.0002
+Next Token :     , Posbility: 0.0012
+Next Token :  , Posbility: 0.0067
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0153
+Next Token : if, Posbility: 0.0369
+Next Token : String, Posbility: 0.0884
+Next Token : let, Posbility: 0.3496
+Next Token : s, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+  s
+ score:False
+Error type: noerr
+---------------------------
+Next Token : , Posbility: 0.0053
+Next Token :  |, Posbility: 0.0210
+Next Token :  =, Posbility: 0.0732
+Next Token : 
+
+, Posbility: 0.3281
+Next Token : 
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+  s
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0239
+Next Token : 
+
+, Posbility: 0.0347
+Next Token : let, Posbility: 0.0574
+Next Token : ```, Posbility: 0.0649
+Next Token : ;, Posbility: 0.2129
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+  s
+;
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0022
+Next Token : ;&, Posbility: 0.0022
+Next Token : ;, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+  s
+;;
+ score:False
+Error type: noerr
+---------------------------
+Next Token : <, Posbility: 0.0004
+Next Token :  , Posbility: 0.0017
+Next Token : ;, Posbility: 0.0020
+Next Token : 
+, Posbility: 0.2412
+Next Token : 
+
+, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to remove uppercase substrings from a given string. *)
+let remove_uppercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "A-Z" in
+  s
+;;
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :21.96832275390625
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

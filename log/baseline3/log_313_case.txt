@@ -1,0 +1,316 @@
+code:
+ (* Write a  function to find nth bell number. *)
+let
+Next Token :  rec, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec 
+Next Token : nth, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth
+Next Token : _, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_
+Next Token : bell, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell
+Next Token : _, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_
+Next Token : number, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number 
+Next Token : n, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n
+Next Token :  =, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+Next Token : 
+, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+
+Next Token :   , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  
+Next Token : if, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if 
+Next Token : n, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n
+Next Token :  =, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n =
+Next Token :  0, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then
+Next Token :  1, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+Next Token : 
+, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else 
+Next Token : nth, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_
+Next Token : bell, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number 
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n 
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n -
+Next Token :  1), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1)
+Next Token :  +, Posbility: 0.4531
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) +
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + 
+Next Token : nth, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_
+Next Token : bell, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number 
+Next Token : (, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number (
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number (n
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number (n 
+Next Token : -, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number (n -
+Next Token :  2), Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find nth bell number. *)
+let rec nth_bell_number n =
+  if n = 0 then 1
+  else nth_bell_number (n - 1) + nth_bell_number (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.423927068710327
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

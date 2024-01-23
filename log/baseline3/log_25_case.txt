@@ -1,0 +1,290 @@
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let
+Next Token :  rec, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec
+Next Token :  , Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec 
+Next Token : bell, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell
+Next Token : _, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_
+Next Token : partition, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition
+Next Token :  , Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition 
+Next Token : n, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n
+Next Token :  =, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+Next Token : 
+, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  
+Next Token : if, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if 
+Next Token : n, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n 
+Next Token : <, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n <
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 
+Next Token : 2, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then
+Next Token :  1, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+Next Token : 
+, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else 
+Next Token : bell, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_
+Next Token : partition, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (
+Next Token : n, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n 
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n -
+Next Token :  1), Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1)
+Next Token :  +, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) +
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + 
+Next Token : bell, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_
+Next Token : partition, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition 
+Next Token : (, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition (
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition (n
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition (n 
+Next Token : -, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition (n -
+Next Token :  2), Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n < 2 then 1
+  else bell_partition (n - 1) + bell_partition (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.419516086578369
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

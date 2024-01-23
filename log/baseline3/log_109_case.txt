@@ -1,0 +1,959 @@
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let
+Next Token :  rec, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec
+Next Token :  , Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec 
+Next Token : swap, Posbility: 0.1279
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap
+Next Token : _, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_
+Next Token : neg, Posbility: 0.0820
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg
+Next Token : _, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_
+Next Token : pos, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos 
+Next Token : arr, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr 
+Next Token : n, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+Next Token : 
+, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  
+Next Token : if, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if 
+Next Token : n, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n
+Next Token :  =, Posbility: 0.4688
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n =
+Next Token :  0, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0
+Next Token :  then, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then 
+Next Token : arr, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+Next Token : 
+, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else 
+Next Token : if, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if 
+Next Token : arr, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr
+Next Token : ., Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.
+Next Token : [0], Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0]
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] 
+Next Token : <, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] <
+Next Token :  0, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0
+Next Token :  then, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+Next Token : 
+, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+
+Next Token :     , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    
+Next Token : let, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let
+Next Token :  , Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let 
+Next Token : swap, Posbility: 0.1260
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swap
+Next Token : ped, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped
+Next Token :  =, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped =
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = 
+Next Token : arr, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr
+Next Token : ., Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.
+Next Token : [, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[
+Next Token : n, Posbility: 0.3848
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n
+Next Token : ], Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n]
+Next Token :  in, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    
+Next Token : arr, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr
+Next Token : ., Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.
+Next Token : [, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n
+Next Token : ], Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n]
+Next Token :  , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] 
+Next Token : <, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <
+Next Token : -, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <-
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- 
+Next Token : arr, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.
+Next Token : [0];, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    
+Next Token : arr, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr
+Next Token : ., Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.
+Next Token : [0], Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0]
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <-
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- 
+Next Token : swap, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swap
+Next Token : ped, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped
+Next Token : ;, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    
+Next Token : swap, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_
+Next Token : neg, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_
+Next Token : pos, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos 
+Next Token : arr, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr 
+Next Token : (, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n -
+Next Token :  1), Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else 
+Next Token : swap, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_
+Next Token : neg, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_
+Next Token : pos, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos 
+Next Token : arr, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr 
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr (n
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr (n 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr (n -
+Next Token :  1), Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved. *)
+let rec swap_neg_pos arr n =
+  if n = 0 then arr
+  else if arr.[0] < 0 then
+    let swapped = arr.[n] in
+    arr.[n] <- arr.[0];
+    arr.[0] <- swapped;
+    swap_neg_pos arr (n - 1)
+  else swap_neg_pos arr (n - 1)
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.512405872344971
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

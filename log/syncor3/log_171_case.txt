@@ -1,0 +1,1552 @@
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0181
+Next Token :  rotate, Posbility: 0.0337
+Next Token :  find, Posbility: 0.0491
+Next Token :  , Posbility: 0.1719
+Next Token :  rec, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0200
+Next Token :  loop, Posbility: 0.0422
+Next Token :  find, Posbility: 0.1475
+Next Token :  rotate, Posbility: 0.1895
+Next Token :  , Posbility: 0.3535
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fi, Posbility: 0.0233
+Next Token : nth, Posbility: 0.0383
+Next Token : f, Posbility: 0.0493
+Next Token : rotation, Posbility: 0.1040
+Next Token : rot, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0444
+Next Token : ating, Posbility: 0.0569
+Next Token : (, Posbility: 0.0732
+Next Token :  , Posbility: 0.1758
+Next Token : _, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : search, Posbility: 0.0374
+Next Token : iter, Posbility: 0.0374
+Next Token : elem, Posbility: 0.0544
+Next Token : index, Posbility: 0.1016
+Next Token : find, Posbility: 0.1309
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0303
+Next Token :  i, Posbility: 0.0640
+Next Token :  =, Posbility: 0.0640
+Next Token :  , Posbility: 0.3691
+Next Token : _, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : after, Posbility: 0.0471
+Next Token : elem, Posbility: 0.0879
+Next Token : index, Posbility: 0.1445
+Next Token : at, Posbility: 0.1445
+Next Token : element, Posbility: 0.1445
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  index, Posbility: 0.0376
+Next Token :  i, Posbility: 0.0481
+Next Token :  =, Posbility: 0.0481
+Next Token : _, Posbility: 0.2773
+Next Token :  , Posbility: 0.4570
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0378
+Next Token : s, Posbility: 0.0430
+Next Token : x, Posbility: 0.1167
+Next Token : n, Posbility: 0.1699
+Next Token : (, Posbility: 0.1924
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : list, Posbility: 0.0369
+Next Token : x, Posbility: 0.0537
+Next Token : index, Posbility: 0.0537
+Next Token : n, Posbility: 0.0781
+Next Token : i, Posbility: 0.1138
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ::, Posbility: 0.0115
+Next Token : _, Posbility: 0.0189
+Next Token : :, Posbility: 0.0513
+Next Token :  , Posbility: 0.2305
+Next Token : ,, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  v, Posbility: 0.0206
+Next Token : n, Posbility: 0.0265
+Next Token : j, Posbility: 0.0339
+Next Token :  l, Posbility: 0.0437
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : rot, Posbility: 0.0422
+Next Token : s, Posbility: 0.0544
+Next Token : x, Posbility: 0.0791
+Next Token : n, Posbility: 0.1895
+Next Token : j, Posbility: 0.2432
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0018
+Next Token :  =, Posbility: 0.0018
+Next Token :  , Posbility: 0.0131
+Next Token : ,, Posbility: 0.2617
+Next Token : ), Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  index, Posbility: 0.0220
+Next Token :  i, Posbility: 0.0361
+Next Token :  acc, Posbility: 0.0596
+Next Token :  =, Posbility: 0.2676
+Next Token :  , Posbility: 0.4414
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0396
+Next Token : s, Posbility: 0.0508
+Next Token : x, Posbility: 0.0952
+Next Token : n, Posbility: 0.1221
+Next Token : (, Posbility: 0.2930
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : s, Posbility: 0.0332
+Next Token : l, Posbility: 0.0427
+Next Token : a, Posbility: 0.0483
+Next Token : n, Posbility: 0.0623
+Next Token : x, Posbility: 0.0703
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0147
+Next Token : :, Posbility: 0.0400
+Next Token :  , Posbility: 0.1089
+Next Token : ,, Posbility: 0.2949
+Next Token : s, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0081
+Next Token : :, Posbility: 0.0220
+Next Token : ), Posbility: 0.0598
+Next Token :  , Posbility: 0.4414
+Next Token : ,, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  k, Posbility: 0.0186
+Next Token :  acc, Posbility: 0.0306
+Next Token :  rotate, Posbility: 0.0306
+Next Token :  i, Posbility: 0.0505
+Next Token :  , Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : _, Posbility: 0.0503
+Next Token : rotation, Posbility: 0.0571
+Next Token : n, Posbility: 0.0732
+Next Token : rot, Posbility: 0.1367
+Next Token : y, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, y
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0001
+Next Token : _, Posbility: 0.0012
+Next Token : ,, Posbility: 0.0019
+Next Token : ), Posbility: 0.0067
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0018
+Next Token : _, Posbility: 0.0018
+Next Token : ):, Posbility: 0.0049
+Next Token : ,, Posbility: 0.2656
+Next Token : ), Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0150
+Next Token :  acc, Posbility: 0.0247
+Next Token :  i, Posbility: 0.0247
+Next Token :  , Posbility: 0.3008
+Next Token :  =, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0012
+Next Token : 
+
+, Posbility: 0.0033
+Next Token :  , Posbility: 0.0349
+Next Token :  match, Posbility: 0.0510
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0035
+Next Token : match, Posbility: 0.0045
+Next Token : 	, Posbility: 0.0058
+Next Token :     , Posbility: 0.1162
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : i, Posbility: 0.0066
+Next Token : (, Posbility: 0.0140
+Next Token : let, Posbility: 0.0713
+Next Token : if, Posbility: 0.3613
+Next Token : match, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0021
+Next Token :  [, Posbility: 0.0035
+Next Token :  String, Posbility: 0.0045
+Next Token :  i, Posbility: 0.4570
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0179
+Next Token : List, Posbility: 0.0486
+Next Token : (, Posbility: 0.1924
+Next Token : x, Posbility: 0.2793
+Next Token : j, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0058
+Next Token :  >=, Posbility: 0.0084
+Next Token :  %, Posbility: 0.0178
+Next Token :  , Posbility: 0.1689
+Next Token :  with, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0012
+Next Token :   , Posbility: 0.0017
+Next Token : 
+
+, Posbility: 0.0017
+Next Token :  , Posbility: 0.0025
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0004
+Next Token :       , Posbility: 0.0016
+Next Token :    , Posbility: 0.0023
+Next Token :     , Posbility: 0.0752
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0003
+Next Token : -1, Posbility: 0.0003
+Next Token : [, Posbility: 0.0006
+Next Token : 0, Posbility: 0.0124
+Next Token : |, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0130
+Next Token :  i, Posbility: 0.0354
+Next Token :  , Posbility: 0.0962
+Next Token :  -1, Posbility: 0.0962
+Next Token :  0, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0090
+Next Token :  |, Posbility: 0.0102
+Next Token :  when, Posbility: 0.0168
+Next Token :  =>, Posbility: 0.0244
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0003
+Next Token : →, Posbility: 0.0004
+Next Token : -, Posbility: 0.0004
+Next Token : if, Posbility: 0.0028
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0157
+Next Token :  Some, Posbility: 0.0294
+Next Token :  i, Posbility: 0.0703
+Next Token : 
+, Posbility: 0.1494
+Next Token :  , Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0278
+Next Token : if, Posbility: 0.0315
+Next Token : return, Posbility: 0.0520
+Next Token : (, Posbility: 0.2324
+Next Token : x, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0003
+Next Token : _, Posbility: 0.0005
+Next Token :  , Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0015
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0444
+Next Token :  [, Posbility: 0.0645
+Next Token : 
+, Posbility: 0.2559
+Next Token : ., Posbility: 0.2559
+Next Token : [, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0050
+Next Token : x, Posbility: 0.0093
+Next Token : j, Posbility: 0.0106
+Next Token :  i, Posbility: 0.0173
+Next Token : i, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0048
+Next Token :  , Posbility: 0.0131
+Next Token : ],, Posbility: 0.0131
+Next Token : ];, Posbility: 0.0356
+Next Token : ], Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0012
+Next Token :   , Posbility: 0.0026
+Next Token :  |, Posbility: 0.0090
+Next Token :  , Posbility: 0.0520
+Next Token : 
+, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : else, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0002
+Next Token : (, Posbility: 0.0003
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0261
+Next Token :  0, Posbility: 0.0334
+Next Token :  i, Posbility: 0.0432
+Next Token :  1, Posbility: 0.1934
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0078
+Next Token : x, Posbility: 0.0240
+Next Token : n, Posbility: 0.0952
+Next Token : j, Posbility: 0.2012
+Next Token : _, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0015
+Next Token :  then, Posbility: 0.0024
+Next Token :   , Posbility: 0.0058
+Next Token :  when, Posbility: 0.0139
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : →, Posbility: 0.0001
+Next Token : -, Posbility: 0.0002
+Next Token : if, Posbility: 0.0076
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0039
+Next Token :  i, Posbility: 0.0057
+Next Token :  match, Posbility: 0.0094
+Next Token : 
+, Posbility: 0.2139
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0364
+Next Token : (, Posbility: 0.0466
+Next Token : let, Posbility: 0.0530
+Next Token : y, Posbility: 0.0679
+Next Token : rot, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : (, Posbility: 0.0007
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : next, Posbility: 0.0000
+Next Token : element, Posbility: 0.0001
+Next Token : rec, Posbility: 0.0001
+Next Token : get, Posbility: 0.0002
+Next Token : find, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  i, Posbility: 0.0000
+Next Token :  element, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : value, Posbility: 0.0000
+Next Token : next, Posbility: 0.0000
+Next Token : elem, Posbility: 0.0001
+Next Token : index, Posbility: 0.0001
+Next Token : element, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  i, Posbility: 0.0037
+Next Token :  (1, Posbility: 0.0037
+Next Token : (, Posbility: 0.0276
+Next Token :  ((, Posbility: 0.0454
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : y, Posbility: 0.0003
+Next Token : (0,, Posbility: 0.0014
+Next Token : x, Posbility: 0.0024
+Next Token : j, Posbility: 0.0292
+Next Token : (, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : rot, Posbility: 0.0042
+Next Token : mod, Posbility: 0.0047
+Next Token : x, Posbility: 0.0272
+Next Token : j, Posbility: 0.1387
+Next Token : i, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1,, Posbility: 0.0278
+Next Token : +1,, Posbility: 0.0459
+Next Token : ,, Posbility: 0.2061
+Next Token :  , Posbility: 0.2637
+Next Token :  +, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1),, Posbility: 0.0054
+Next Token :  1, Posbility: 0.0244
+Next Token :  i, Posbility: 0.0403
+Next Token :  1), Posbility: 0.1094
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2,, Posbility: 0.0047
+Next Token : y, Posbility: 0.0060
+Next Token : (, Posbility: 0.0184
+Next Token : j, Posbility: 0.0732
+Next Token : 1,, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0007
+Next Token :  1), Posbility: 0.0007
+Next Token :  i, Posbility: 0.0024
+Next Token :  0), Posbility: 0.0067
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0007
+Next Token : x, Posbility: 0.0014
+Next Token : y, Posbility: 0.0014
+Next Token : (, Posbility: 0.0752
+Next Token : j, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0017
+Next Token :  -1), Posbility: 0.0017
+Next Token : ), Posbility: 0.0095
+Next Token : -1), Posbility: 0.0139
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : minus, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0001
+Next Token : /, Posbility: 0.0001
+Next Token : −, Posbility: 0.0019
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0024
+Next Token :  i, Posbility: 0.0024
+Next Token :  2), Posbility: 0.0024
+Next Token :  , Posbility: 0.0066
+Next Token :  1), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0013
+Next Token :  [, Posbility: 0.0017
+Next Token :  ((, Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : j, Posbility: 0.0002
+Next Token : ([, Posbility: 0.0002
+Next Token : y, Posbility: 0.0243
+Next Token : (, Posbility: 0.4863
+Next Token : x, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0011
+Next Token : ,, Posbility: 0.0058
+Next Token : 
+
+, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0107
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0001
+Next Token : x, Posbility: 0.0009
+Next Token : (, Posbility: 0.0025
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token : ), Posbility: 0.0025
+Next Token :  , Posbility: 0.0067
+Next Token : 
+
+, Posbility: 0.3691
+Next Token : 
+, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : *, Posbility: 0.0145
+Next Token : ;, Posbility: 0.0176
+Next Token : (, Posbility: 0.0211
+Next Token : let, Posbility: 0.3516
+Next Token :   , Posbility: 0.3750
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0036
+Next Token : ;, Posbility: 0.0151
+Next Token : in, Posbility: 0.0151
+Next Token : end, Posbility: 0.0171
+Next Token : |, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0144
+Next Token :  -1, Posbility: 0.0184
+Next Token :  i, Posbility: 0.0344
+Next Token :  0, Posbility: 0.1064
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0056
+Next Token : x, Posbility: 0.0118
+Next Token : n, Posbility: 0.0284
+Next Token : j, Posbility: 0.0874
+Next Token : _, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0008
+Next Token : i, Posbility: 0.0009
+Next Token :   , Posbility: 0.0026
+Next Token :  as, Posbility: 0.0664
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : end, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0002
+Next Token : ::, Posbility: 0.0012
+Next Token : if, Posbility: 0.0028
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0132
+Next Token :  error, Posbility: 0.0219
+Next Token : 
+, Posbility: 0.0461
+Next Token :  fail, Posbility: 0.1611
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0212
+Next Token : raise, Posbility: 0.0349
+Next Token : assert, Posbility: 0.0576
+Next Token : x, Posbility: 0.0654
+Next Token : rot, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 1, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : element, Posbility: 0.0001
+Next Token : rec, Posbility: 0.0001
+Next Token : rotate, Posbility: 0.0001
+Next Token : get, Posbility: 0.0001
+Next Token : find, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  element, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : elem, Posbility: 0.0000
+Next Token : last, Posbility: 0.0000
+Next Token : first, Posbility: 0.0001
+Next Token : index, Posbility: 0.0001
+Next Token : element, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0015
+Next Token :  i, Posbility: 0.0015
+Next Token :  ((, Posbility: 0.0025
+Next Token :  (1, Posbility: 0.0025
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (-1,, Posbility: 0.0013
+Next Token : j, Posbility: 0.0022
+Next Token : (1,, Posbility: 0.0096
+Next Token : (0,, Posbility: 0.1177
+Next Token : (, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 0, Posbility: 0.0020
+Next Token : -, Posbility: 0.0029
+Next Token : x, Posbility: 0.0103
+Next Token : j, Posbility: 0.0461
+Next Token : i, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0004
+Next Token : -1,, Posbility: 0.0011
+Next Token : ,, Posbility: 0.1001
+Next Token :  +, Posbility: 0.4473
+Next Token :  , Posbility: 0.4473
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0001
+Next Token : −, Posbility: 0.0002
+Next Token : +1,, Posbility: 0.0002
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token :  1), Posbility: 0.0000
+Next Token :  i, Posbility: 0.0025
+Next Token :  1, Posbility: 0.0041
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0003
+Next Token : (, Posbility: 0.0012
+Next Token : 2,, Posbility: 0.0019
+Next Token : j, Posbility: 0.0032
+Next Token : 1,, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0005
+Next Token :  2), Posbility: 0.0005
+Next Token :  1), Posbility: 0.0040
+Next Token :  0), Posbility: 0.0109
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0007
+Next Token : 3, Posbility: 0.0007
+Next Token : (, Posbility: 0.0012
+Next Token : y, Posbility: 0.0015
+Next Token : j, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  %, Posbility: 0.0002
+Next Token : ), Posbility: 0.0635
+Next Token :  +, Posbility: 0.4688
+Next Token :  , Posbility: 0.4688
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -2, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0001
+Next Token : ), Posbility: 0.0003
+Next Token : +1), Posbility: 0.0032
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0009
+Next Token :  i, Posbility: 0.0009
+Next Token :  , Posbility: 0.0025
+Next Token :  2), Posbility: 0.0067
+Next Token :  1), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :   , Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : z, Posbility: 0.0001
+Next Token : reverse, Posbility: 0.0002
+Next Token : (, Posbility: 0.0069
+Next Token : y, Posbility: 0.3750
+Next Token : x, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : ', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token : ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Next Token : ., Posbility: 0.0003
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) xs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : rev, Posbility: 0.0000
+Next Token : reverse, Posbility: 0.0000
+Next Token : x, Posbility: 0.0001
+Next Token : (, Posbility: 0.0015
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) xs y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) xs ys
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0015
+Next Token :  +, Posbility: 0.0019
+Next Token :  , Posbility: 0.0068
+Next Token : 
+, Posbility: 0.3691
+Next Token : 
+
+, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to find element at a given index after number of rotations. *)
+let rec rot_find_element (i, j) (xs, ys) =
+  match j with
+  | 0 -> xs[i]
+  | _ -> rot_find_element (i + 1, j - 1) xs ys
+  | _ -> rot_find_element (i - 1, j - 1) xs ys
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :45.27884125709534
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

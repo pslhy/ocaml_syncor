@@ -1,0 +1,431 @@
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let
+Next Token :  major, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let major
+Next Token : ity, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority
+Next Token : _, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_
+Next Token : element, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element 
+Next Token : x, Posbility: 0.3359
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x 
+Next Token : n, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n 
+Next Token : e, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+Next Token : 
+, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  
+Next Token : let, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let
+Next Token :  , Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let 
+Next Token : n, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n
+Next Token : _, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_
+Next Token : major, Posbility: 0.1021
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_major
+Next Token : ity, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority
+Next Token :  =, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority =
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = 
+Next Token : n, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n 
+Next Token : /, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n /
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 
+Next Token : 2, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2
+Next Token :  in, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  
+Next Token : let, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let
+Next Token :  , Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let 
+Next Token : n, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n
+Next Token : _, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_
+Next Token : count, Posbility: 0.0659
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count
+Next Token :  =, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count =
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = 
+Next Token : Array, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.
+Next Token : count, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count 
+Next Token : x, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x 
+Next Token : e, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e
+Next Token :  in, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  
+Next Token : if, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if 
+Next Token : n, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_
+Next Token : count, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count 
+Next Token : >, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count >
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > 
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_
+Next Token : major, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_major
+Next Token : ity, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_majority
+Next Token :  then, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_majority then
+Next Token :  true, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_majority then true
+Next Token :  else, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_majority then true else
+Next Token :  false, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a sorted array, its length (n), and an element and returns whether the element is the majority element in the given sorted array. (The majority element is the element that occurs more than n/2 times.) *)
+let majority_element x n e =
+  let n_majority = n / 2 in
+  let n_count = Array.count x e in
+  if n_count > n_majority then true else false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.8698606491088867
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

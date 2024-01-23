@@ -1,0 +1,401 @@
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let
+Next Token :  remove, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove
+Next Token : _, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_
+Next Token : lowercase, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase
+Next Token : _, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_
+Next Token : substring, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substring
+Next Token : s, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings
+Next Token :  , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings 
+Next Token : s, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+Next Token : 
+, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+
+Next Token :   , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  
+Next Token : let, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let
+Next Token :  , Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let 
+Next Token : s, Posbility: 0.1797
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s
+Next Token :  =, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s =
+Next Token :  String, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.
+Next Token : to, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_
+Next Token : lowercase, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase 
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s
+Next Token :  in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  
+Next Token : let, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let
+Next Token :  , Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let 
+Next Token : s, Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s
+Next Token :  =, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s =
+Next Token :  String, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.
+Next Token : remove, Posbility: 0.2930
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove
+Next Token : _, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_
+Next Token : substring, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring 
+Next Token : s, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s
+Next Token :  ", Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "
+Next Token : a, Posbility: 0.1982
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a
+Next Token : ", Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a"
+Next Token :  ", Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "
+Next Token : e, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e
+Next Token : ", Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e"
+Next Token :  ", Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "
+Next Token : i, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i
+Next Token : ", Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i"
+Next Token :  ", Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "
+Next Token : o, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o
+Next Token : ", Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o"
+Next Token :  ", Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "
+Next Token : u, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u
+Next Token : ", Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u"
+Next Token :  in, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+  
+Next Token : s, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+  s
+Next Token : 
+, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+  s
+
+Next Token : ;, Posbility: 0.2090
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+  s
+;
+Next Token : ;, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove lowercase substrings from a given string. *)
+let remove_lowercase_substrings s =
+  let s = String.to_lowercase s in
+  let s = String.remove_substring s "a" "e" "i" "o" "u" in
+  s
+;;
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.7212281227111816
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

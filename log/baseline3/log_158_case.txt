@@ -1,0 +1,238 @@
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let
+Next Token :  rec, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec
+Next Token :  , Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec 
+Next Token : f, Posbility: 0.0708
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f
+Next Token :  k, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k
+Next Token :  , Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k 
+Next Token : x, Posbility: 0.2578
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x
+Next Token :  =, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+Next Token : 
+, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+
+Next Token :   , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  
+Next Token : if, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if
+Next Token :  k, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k
+Next Token :  =, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k =
+Next Token :  0, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0
+Next Token :  then, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then 
+Next Token : x, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+Next Token : 
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else
+Next Token :  , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else 
+Next Token : f, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f
+Next Token :  , Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f 
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (
+Next Token : k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k -
+Next Token :  1), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1)
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) 
+Next Token : (, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (
+Next Token : x, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x
+Next Token :  , Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x 
+Next Token : ::, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x ::
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: 
+Next Token : x, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: x
+Next Token : ), Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the largest sum of a contiguous array in the modified array which is formed by repeating the given array k times. *)
+let rec f k x =
+  if k = 0 then x
+  else f (k - 1) (x :: x)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.3903679847717285
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

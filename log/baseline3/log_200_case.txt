@@ -1,0 +1,877 @@
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let
+Next Token :  rec, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec
+Next Token :  , Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec 
+Next Token : min, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min
+Next Token : _, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_
+Next Token : of, Posbility: 0.1221
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of
+Next Token : _, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_
+Next Token : list, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list 
+Next Token : lst, Posbility: 0.2324
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst
+Next Token :  =, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+Next Token : 
+, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  
+Next Token : match, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match 
+Next Token : lst, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  |
+Next Token :  [], Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | []
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] ->
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> 
+Next Token : raise, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise
+Next Token :  Not, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_
+Next Token : found, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+Next Token : 
+, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  |
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | 
+Next Token : hd, Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd 
+Next Token : ::, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd ::
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: 
+Next Token : tl, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl 
+Next Token : ->, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+Next Token : 
+, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+
+Next Token :     , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    
+Next Token : let, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let 
+Next Token : hd, Posbility: 0.2080
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd
+Next Token : _, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_
+Next Token : min, Posbility: 0.1904
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min
+Next Token :  =, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min =
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = 
+Next Token : min, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_
+Next Token : of, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_
+Next Token : list, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list 
+Next Token : hd, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    
+Next Token : if, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if 
+Next Token : hd, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min 
+Next Token : <, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min <
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < 
+Next Token : min, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min
+Next Token : _, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_
+Next Token : of, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list 
+Next Token : tl, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl
+Next Token :  then, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then 
+Next Token : hd, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd
+Next Token : _, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min
+Next Token :  else, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else 
+Next Token : min, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list 
+Next Token : tl, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+Next Token : 
+, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+
+Next Token :   , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  
+Next Token : |, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  |
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | 
+Next Token : hd, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd 
+Next Token : ::, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd ::
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd :: 
+Next Token : tl, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd :: tl
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd :: tl 
+Next Token : ->, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd :: tl ->
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd :: tl -> 
+Next Token : hd, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to find the minimum value in a given heterogeneous list. *)
+let rec min_of_list lst =
+  match lst with
+  | [] -> raise Not_found
+  | hd :: tl ->
+    let hd_min = min_of_list hd in
+    if hd_min < min_of_list tl then hd_min else min_of_list tl
+  | hd :: tl -> hd
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.678603410720825
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

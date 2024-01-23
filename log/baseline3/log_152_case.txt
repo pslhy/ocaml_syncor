@@ -1,0 +1,627 @@
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let
+Next Token :  rec, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec
+Next Token :  , Posbility: 0.2344
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec 
+Next Token : helper, Posbility: 0.1245
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper
+Next Token :  , Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper 
+Next Token : arr, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr 
+Next Token : e, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e
+Next Token :  =, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+Next Token : 
+, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+
+Next Token :   , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  
+Next Token : match, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match 
+Next Token : arr, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  
+Next Token : |, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  |
+Next Token :  [], Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | []
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] ->
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> 
+Next Token : (, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (
+Next Token : false, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false
+Next Token : ,, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false,
+Next Token :  -1), Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  |
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | 
+Next Token : x, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x 
+Next Token : ::, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x ::
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: 
+Next Token : x, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: x
+Next Token : s, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs 
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+
+Next Token :       , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      
+Next Token : if, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if 
+Next Token : e, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e
+Next Token :  =, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e =
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = 
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then 
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (
+Next Token : true, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true,
+Next Token :  0), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+
+Next Token :       , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else 
+Next Token : helper, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper 
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs 
+Next Token : e, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+Next Token : 
+, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+
+Next Token :   , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  
+Next Token : |, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  |
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | 
+Next Token : _, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ 
+Next Token : ->, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ ->
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> 
+Next Token : (, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (
+Next Token : false, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false,
+Next Token :  -1), Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found). *)
+let rec helper arr e =
+  match arr with
+  | [] -> (false, -1)
+  | x :: xs ->
+      if e = x then (true, 0)
+      else helper xs e
+  | _ -> (false, -1)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.0613794326782227
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

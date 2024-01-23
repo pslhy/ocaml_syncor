@@ -1,0 +1,519 @@
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0498
+Next Token :  direct, Posbility: 0.0498
+Next Token :  , Posbility: 0.1738
+Next Token :  para, Posbility: 0.1738
+Next Token :  rec, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0249
+Next Token :  direct, Posbility: 0.0674
+Next Token :  para, Posbility: 0.1426
+Next Token :  find, Posbility: 0.1836
+Next Token :  , Posbility: 0.3027
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : deriv, Posbility: 0.0198
+Next Token : d, Posbility: 0.0254
+Next Token : dir, Posbility: 0.0537
+Next Token : solve, Posbility: 0.0537
+Next Token : f, Posbility: 0.0781
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0215
+Next Token :  i, Posbility: 0.0312
+Next Token : (, Posbility: 0.0400
+Next Token :  =, Posbility: 0.1089
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0317
+Next Token : p, Posbility: 0.0864
+Next Token : n, Posbility: 0.1108
+Next Token : (, Posbility: 0.2070
+Next Token : x, Posbility: 0.2656
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0142
+Next Token :  i, Posbility: 0.0208
+Next Token : 0, Posbility: 0.0388
+Next Token :  =, Posbility: 0.3672
+Next Token :  , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0145
+Next Token : d, Posbility: 0.0164
+Next Token : n, Posbility: 0.0238
+Next Token : x, Posbility: 0.0393
+Next Token : y, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0067
+Next Token :  k, Posbility: 0.0076
+Next Token :  a, Posbility: 0.0141
+Next Token :  , Posbility: 0.4121
+Next Token :  =, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0024
+Next Token :  function, Posbility: 0.0045
+Next Token :  match, Posbility: 0.0376
+Next Token :  , Posbility: 0.0898
+Next Token : 
+, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0035
+Next Token :    , Posbility: 0.0075
+Next Token : 	, Posbility: 0.0085
+Next Token :     , Posbility: 0.1030
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0156
+Next Token : (, Posbility: 0.0200
+Next Token : let, Posbility: 0.1016
+Next Token : match, Posbility: 0.2441
+Next Token : if, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0018
+Next Token :  0, Posbility: 0.0027
+Next Token :  Not, Posbility: 0.0030
+Next Token :  not, Posbility: 0.0154
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0025
+Next Token : abs, Posbility: 0.0061
+Next Token : (, Posbility: 0.0845
+Next Token : y, Posbility: 0.2598
+Next Token : x, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.1055
+Next Token :  >=, Posbility: 0.1055
+Next Token :  <=, Posbility: 0.1055
+Next Token :  , Posbility: 0.2871
+Next Token :  =, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0045
+Next Token :  1, Posbility: 0.0200
+Next Token :  0.0, Posbility: 0.0542
+Next Token :  , Posbility: 0.2432
+Next Token :  0, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0135
+Next Token :  ||, Posbility: 0.0287
+Next Token :  and, Posbility: 0.1279
+Next Token :  &&, Posbility: 0.3496
+Next Token :  then, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0052
+Next Token :  {, Posbility: 0.0075
+Next Token :  0, Posbility: 0.0381
+Next Token : 
+, Posbility: 0.3203
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0396
+Next Token : x, Posbility: 0.0576
+Next Token : (, Posbility: 0.0840
+Next Token : return, Posbility: 0.0840
+Next Token : y, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0104
+Next Token :  =, Posbility: 0.0221
+Next Token :  , Posbility: 0.0771
+Next Token :  else, Posbility: 0.3457
+Next Token : 
+, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0003
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0007
+Next Token :     , Posbility: 0.0015
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : then, Posbility: 0.0002
+Next Token : let, Posbility: 0.0003
+Next Token : if, Posbility: 0.0006
+Next Token : elif, Posbility: 0.0008
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0019
+Next Token :  match, Posbility: 0.0019
+Next Token :  {, Posbility: 0.0205
+Next Token : 
+, Posbility: 0.1943
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0464
+Next Token : x, Posbility: 0.0525
+Next Token : y, Posbility: 0.0864
+Next Token : if, Posbility: 0.1826
+Next Token : f, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0036
+Next Token : (, Posbility: 0.0269
+Next Token :  (1, Posbility: 0.0269
+Next Token :  ((, Posbility: 0.0344
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : f, Posbility: 0.0073
+Next Token : -, Posbility: 0.0136
+Next Token : y, Posbility: 0.0371
+Next Token : x, Posbility: 0.1885
+Next Token : (, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 2, Posbility: 0.0349
+Next Token : f, Posbility: 0.0349
+Next Token : y, Posbility: 0.0508
+Next Token : -, Posbility: 0.1221
+Next Token : x, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0037
+Next Token : +1), Posbility: 0.0101
+Next Token :  +, Posbility: 0.0454
+Next Token : -1), Posbility: 0.2041
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0002
+Next Token : ^, Posbility: 0.0003
+Next Token : −, Posbility: 0.0013
+Next Token : /, Posbility: 0.0036
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1),, Posbility: 0.0009
+Next Token :  1, Posbility: 0.0030
+Next Token :  2), Posbility: 0.0082
+Next Token :  , Posbility: 0.0288
+Next Token :  1), Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0024
+Next Token :  (1, Posbility: 0.0031
+Next Token :  ((, Posbility: 0.0051
+Next Token :  0, Posbility: 0.0074
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0028
+Next Token : f, Posbility: 0.0186
+Next Token : x, Posbility: 0.0210
+Next Token : y, Posbility: 0.2559
+Next Token : (, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0250
+Next Token : f, Posbility: 0.0283
+Next Token : 2, Posbility: 0.0771
+Next Token : x, Posbility: 0.1118
+Next Token : y, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (y
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : *, Posbility: 0.0044
+Next Token : +1), Posbility: 0.0044
+Next Token :  *, Posbility: 0.0884
+Next Token :  , Posbility: 0.2402
+Next Token :  +, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (y +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2), Posbility: 0.0106
+Next Token :  1, Posbility: 0.0137
+Next Token :  1);, Posbility: 0.0176
+Next Token :  1), Posbility: 0.3516
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (y + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0364
+Next Token : 2, Posbility: 0.0530
+Next Token : (, Posbility: 0.0991
+Next Token : y, Posbility: 0.1270
+Next Token : x, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (y + x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : *, Posbility: 0.0108
+Next Token : );, Posbility: 0.0203
+Next Token :  , Posbility: 0.0703
+Next Token :  *, Posbility: 0.1025
+Next Token : ), Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (y + x)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0084
+Next Token :  in, Posbility: 0.0139
+Next Token :  , Posbility: 0.1162
+Next Token : 
+, Posbility: 0.3164
+Next Token : 
+
+, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the directrix of a parabola. *)
+let rec f x y =
+  if x = 0 then y
+  else f (x - 1) (y + x)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :17.06244421005249
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

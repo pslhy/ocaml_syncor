@@ -1,0 +1,688 @@
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0140
+Next Token :  find, Posbility: 0.0713
+Next Token :  , Posbility: 0.1328
+Next Token :  first, Posbility: 0.2812
+Next Token :  rec, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0245
+Next Token :  is, Posbility: 0.0278
+Next Token :  first, Posbility: 0.1602
+Next Token :  find, Posbility: 0.2334
+Next Token :  , Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : digits, Posbility: 0.0422
+Next Token : dig, Posbility: 0.0542
+Next Token : f, Posbility: 0.0894
+Next Token : fi, Posbility: 0.1299
+Next Token : digit, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0154
+Next Token : 1, Posbility: 0.0198
+Next Token :  =, Posbility: 0.2119
+Next Token :  , Posbility: 0.2402
+Next Token : _, Posbility: 0.3965
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : at, Posbility: 0.0199
+Next Token : finder, Posbility: 0.0289
+Next Token : rec, Posbility: 0.0422
+Next Token : count, Posbility: 0.0479
+Next Token : of, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0034
+Next Token :  num, Posbility: 0.0056
+Next Token :  =, Posbility: 0.0253
+Next Token :  , Posbility: 0.1133
+Next Token : _, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : a, Posbility: 0.0132
+Next Token : int, Posbility: 0.0972
+Next Token : n, Posbility: 0.1816
+Next Token : num, Posbility: 0.2061
+Next Token : number, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0165
+Next Token :  a, Posbility: 0.0187
+Next Token : _, Posbility: 0.0510
+Next Token :  =, Posbility: 0.1777
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : digit, Posbility: 0.0121
+Next Token : d, Posbility: 0.0374
+Next Token : (, Posbility: 0.0422
+Next Token : x, Posbility: 0.1016
+Next Token : n, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  num, Posbility: 0.0072
+Next Token :  i, Posbility: 0.0104
+Next Token :  acc, Posbility: 0.0134
+Next Token :  , Posbility: 0.1846
+Next Token :  =, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0043
+Next Token :  {, Posbility: 0.0071
+Next Token :  match, Posbility: 0.0674
+Next Token :  , Posbility: 0.0869
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0062
+Next Token : 	, Posbility: 0.0115
+Next Token :    , Posbility: 0.0148
+Next Token :     , Posbility: 0.1396
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0047
+Next Token : (, Posbility: 0.0145
+Next Token : let, Posbility: 0.0947
+Next Token : match, Posbility: 0.3730
+Next Token : if, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0030
+Next Token :  not, Posbility: 0.0038
+Next Token :  String, Posbility: 0.0117
+Next Token :  int, Posbility: 0.0151
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Char, Posbility: 0.0040
+Next Token : let, Posbility: 0.0046
+Next Token : Int, Posbility: 0.0298
+Next Token : (, Posbility: 0.0713
+Next Token : n, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0214
+Next Token :  ==, Posbility: 0.0352
+Next Token :  <=, Posbility: 0.0581
+Next Token :  , Posbility: 0.4297
+Next Token :  =, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0009
+Next Token :  , Posbility: 0.0065
+Next Token :  10, Posbility: 0.0065
+Next Token :  1, Posbility: 0.0177
+Next Token :  0, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0019
+Next Token :  , Posbility: 0.0051
+Next Token :  ||, Posbility: 0.0065
+Next Token : 
+, Posbility: 0.0177
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0;, Posbility: 0.0064
+Next Token : 
+, Posbility: 0.1289
+Next Token :  , Posbility: 0.1289
+Next Token :  1, Posbility: 0.3516
+Next Token :  0, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0023
+Next Token :   , Posbility: 0.0048
+Next Token :  , Posbility: 0.0116
+Next Token :  else, Posbility: 0.3379
+Next Token : 
+, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0004
+Next Token :    , Posbility: 0.0005
+Next Token :  , Posbility: 0.0013
+Next Token :     , Posbility: 0.0032
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : then, Posbility: 0.0005
+Next Token : if, Posbility: 0.0006
+Next Token : let, Posbility: 0.0012
+Next Token : elif, Posbility: 0.0036
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0034
+Next Token :  {, Posbility: 0.0253
+Next Token :  1, Posbility: 0.0287
+Next Token : 
+, Posbility: 0.1875
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : digit, Posbility: 0.0396
+Next Token : let, Posbility: 0.0576
+Next Token : (, Posbility: 0.1562
+Next Token : n, Posbility: 0.2012
+Next Token : if, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  mod, Posbility: 0.0019
+Next Token :  is, Posbility: 0.0021
+Next Token :  string, Posbility: 0.0024
+Next Token :  int, Posbility: 0.0095
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rem, Posbility: 0.0025
+Next Token : Int, Posbility: 0.0054
+Next Token : let, Posbility: 0.0079
+Next Token : (, Posbility: 0.0659
+Next Token : n, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0276
+Next Token :  %, Posbility: 0.0583
+Next Token :  mod, Posbility: 0.0962
+Next Token :  =, Posbility: 0.3359
+Next Token :  , Posbility: 0.4316
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0023
+Next Token : %%, Posbility: 0.0134
+Next Token : /, Posbility: 0.0322
+Next Token : >, Posbility: 0.1123
+Next Token : <, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0037
+Next Token :  0, Posbility: 0.0165
+Next Token :  , Posbility: 0.0271
+Next Token :  100, Posbility: 0.0447
+Next Token :  10, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0007
+Next Token :  , Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0025
+Next Token :   , Posbility: 0.0028
+Next Token :  then, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  0, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0298
+Next Token :  1, Posbility: 0.3633
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Char, Posbility: 0.0053
+Next Token : Digit, Posbility: 0.0128
+Next Token : digit, Posbility: 0.0239
+Next Token : (, Posbility: 0.0349
+Next Token : n, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0029
+Next Token :  else, Posbility: 0.0070
+Next Token :  %, Posbility: 0.0277
+Next Token :  , Posbility: 0.0356
+Next Token : 
+, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token :    , Posbility: 0.0002
+Next Token :       , Posbility: 0.0003
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : let, Posbility: 0.0001
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0019
+Next Token :  {, Posbility: 0.0125
+Next Token :  1, Posbility: 0.0161
+Next Token : 
+, Posbility: 0.0815
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0273
+Next Token : (, Posbility: 0.0352
+Next Token : n, Posbility: 0.0957
+Next Token : if, Posbility: 0.1084
+Next Token : digit, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 1, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  +, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : at, Posbility: 0.0000
+Next Token : for, Posbility: 0.0000
+Next Token : from, Posbility: 0.0000
+Next Token : one, Posbility: 0.0000
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ((, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0004
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : num, Posbility: 0.0000
+Next Token : digit, Posbility: 0.0000
+Next Token : n, Posbility: 0.0001
+Next Token : next, Posbility: 0.0001
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0012
+Next Token :  (1, Posbility: 0.0029
+Next Token :  ((, Posbility: 0.0165
+Next Token : (, Posbility: 0.0737
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : /, Posbility: 0.0002
+Next Token : floor, Posbility: 0.0003
+Next Token : div, Posbility: 0.0003
+Next Token : n, Posbility: 0.0032
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : mod, Posbility: 0.0043
+Next Token : floor, Posbility: 0.0056
+Next Token :  , Posbility: 0.0118
+Next Token : div, Posbility: 0.0151
+Next Token : n, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : %, Posbility: 0.0027
+Next Token :  mod, Posbility: 0.0119
+Next Token : /, Posbility: 0.0535
+Next Token :  %, Posbility: 0.0879
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : DIV, Posbility: 0.0017
+Next Token : //, Posbility: 0.0112
+Next Token : div, Posbility: 0.0442
+Next Token : -, Posbility: 0.1543
+Next Token : /, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number (n /
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0022
+Next Token :  100), Posbility: 0.0035
+Next Token : 10, Posbility: 0.0058
+Next Token :  10, Posbility: 0.1172
+Next Token :  10), Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number (n / 10)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0437
+Next Token :  *, Posbility: 0.1050
+Next Token :  +, Posbility: 0.2227
+Next Token : 
+, Posbility: 0.2852
+Next Token : 
+
+, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n = 0 then 0
+  else if n < 10 then n
+  else digit_of_number (n / 10)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :21.498539209365845
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

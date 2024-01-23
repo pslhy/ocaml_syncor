@@ -1,0 +1,1404 @@
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0115
+Next Token :  find, Posbility: 0.1089
+Next Token :  , Posbility: 0.1396
+Next Token :  first, Posbility: 0.2305
+Next Token :  rec, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  search, Posbility: 0.0306
+Next Token :  loop, Posbility: 0.0306
+Next Token :  first, Posbility: 0.1211
+Next Token :  find, Posbility: 0.2910
+Next Token :  , Posbility: 0.3301
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0126
+Next Token : head, Posbility: 0.0237
+Next Token : fi, Posbility: 0.0442
+Next Token : f, Posbility: 0.0645
+Next Token : odd, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0109
+Next Token :  , Posbility: 0.0811
+Next Token :  =, Posbility: 0.0811
+Next Token : s, Posbility: 0.1177
+Next Token : _, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0752
+Next Token : numbers, Posbility: 0.0752
+Next Token : first, Posbility: 0.0850
+Next Token : list, Posbility: 0.0962
+Next Token : number, Posbility: 0.1797
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0197
+Next Token :  ?, Posbility: 0.0197
+Next Token :  =, Posbility: 0.1455
+Next Token :  , Posbility: 0.3086
+Next Token : _, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : search, Posbility: 0.0874
+Next Token : finder, Posbility: 0.0874
+Next Token : list, Posbility: 0.0991
+Next Token : rec, Posbility: 0.1123
+Next Token : of, Posbility: 0.1123
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0063
+Next Token :  list, Posbility: 0.0063
+Next Token :  =, Posbility: 0.0171
+Next Token :  , Posbility: 0.0281
+Next Token : _, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : the, Posbility: 0.0092
+Next Token : int, Posbility: 0.0118
+Next Token : a, Posbility: 0.0151
+Next Token : numbers, Posbility: 0.0220
+Next Token : list, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0229
+Next Token : _, Posbility: 0.0378
+Next Token :  l, Posbility: 0.1025
+Next Token :  =, Posbility: 0.1318
+Next Token :  , Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : nums, Posbility: 0.0486
+Next Token : (, Posbility: 0.1318
+Next Token : n, Posbility: 0.1699
+Next Token : lst, Posbility: 0.1699
+Next Token : x, Posbility: 0.2178
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0049
+Next Token :  l, Posbility: 0.0071
+Next Token :  , Posbility: 0.0674
+Next Token : s, Posbility: 0.3887
+Next Token :  =, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0024
+Next Token :  {, Posbility: 0.0027
+Next Token :  , Posbility: 0.0693
+Next Token :  match, Posbility: 0.0693
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0054
+Next Token : 	, Posbility: 0.0130
+Next Token :    , Posbility: 0.0147
+Next Token :     , Posbility: 0.1396
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0060
+Next Token : List, Posbility: 0.0210
+Next Token : let, Posbility: 0.1064
+Next Token : if, Posbility: 0.2256
+Next Token : match, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token :  O, Posbility: 0.0011
+Next Token :  !, Posbility: 0.0027
+Next Token :  String, Posbility: 0.0122
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0027
+Next Token : Seq, Posbility: 0.0045
+Next Token : (, Posbility: 0.0084
+Next Token : List, Posbility: 0.2158
+Next Token : x, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token :  =, Posbility: 0.0005
+Next Token :  @, Posbility: 0.0009
+Next Token :  , Posbility: 0.0015
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0017
+Next Token :  , Posbility: 0.0060
+Next Token :  [, Posbility: 0.0098
+Next Token :  [], Posbility: 0.0928
+Next Token : 
+, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token :       , Posbility: 0.0022
+Next Token :    , Posbility: 0.0041
+Next Token :     , Posbility: 0.1055
+Next Token :   , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Nil, Posbility: 0.0003
+Next Token : (, Posbility: 0.0005
+Next Token : [, Posbility: 0.0337
+Next Token : [], Posbility: 0.0918
+Next Token : |, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0023
+Next Token :  nil, Posbility: 0.0104
+Next Token :  [, Posbility: 0.0171
+Next Token :  , Posbility: 0.0282
+Next Token :  [], Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0050
+Next Token :    , Posbility: 0.0064
+Next Token :  =>, Posbility: 0.0105
+Next Token :  |, Posbility: 0.0135
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0002
+Next Token : -, Posbility: 0.0005
+Next Token : →, Posbility: 0.0005
+Next Token : ::, Posbility: 0.0009
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0820
+Next Token :  fail, Posbility: 0.0820
+Next Token :  error, Posbility: 0.1348
+Next Token :  None, Posbility: 0.1348
+Next Token :  , Posbility: 0.3672
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : print, Posbility: 0.0447
+Next Token : return, Posbility: 0.0574
+Next Token : x, Posbility: 0.0737
+Next Token : (), Posbility: 0.1562
+Next Token : raise, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0085
+Next Token : _, Posbility: 0.0295
+Next Token :  ", Posbility: 0.0486
+Next Token :  , Posbility: 0.2793
+Next Token :  Not, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  found, Posbility: 0.0007
+Next Token : Even, Posbility: 0.0007
+Next Token : In, Posbility: 0.0010
+Next Token : found, Posbility: 0.0019
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : even, Posbility: 0.0077
+Next Token : Found, Posbility: 0.0077
+Next Token : a, Posbility: 0.0087
+Next Token : reached, Posbility: 0.0099
+Next Token : found, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0432
+Next Token :  ", Posbility: 0.0488
+Next Token : _, Posbility: 0.0488
+Next Token :  , Posbility: 0.1035
+Next Token : 
+, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0003
+Next Token :  , Posbility: 0.0005
+Next Token : ;, Posbility: 0.0007
+Next Token :     , Posbility: 0.0012
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0049
+Next Token :  a, Posbility: 0.0063
+Next Token :  [], Posbility: 0.0219
+Next Token :  [, Posbility: 0.2080
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0366
+Next Token : h, Posbility: 0.0415
+Next Token : hd, Posbility: 0.0879
+Next Token : _, Posbility: 0.1641
+Next Token : x, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0049
+Next Token : s, Posbility: 0.0081
+Next Token : :, Posbility: 0.0598
+Next Token :  , Posbility: 0.3438
+Next Token : ::, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : l, Posbility: 0.0161
+Next Token : rest, Posbility: 0.0234
+Next Token : y, Posbility: 0.1729
+Next Token : _, Posbility: 0.1963
+Next Token : x, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0018
+Next Token :  , Posbility: 0.0023
+Next Token : _, Posbility: 0.0030
+Next Token : ', Posbility: 0.0366
+Next Token : s, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0022
+Next Token : ::, Posbility: 0.0028
+Next Token :   , Posbility: 0.0036
+Next Token :  when, Posbility: 0.0938
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0002
+Next Token : :, Posbility: 0.0002
+Next Token : if, Posbility: 0.0058
+Next Token : ::, Posbility: 0.0178
+Next Token : ->, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0031
+Next Token :   , Posbility: 0.0040
+Next Token :  match, Posbility: 0.0229
+Next Token :  , Posbility: 0.3594
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0032
+Next Token :   , Posbility: 0.0112
+Next Token :      , Posbility: 0.0144
+Next Token :     , Posbility: 0.4199
+Next Token :       , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0176
+Next Token : odd, Posbility: 0.0479
+Next Token : match, Posbility: 0.1011
+Next Token : let, Posbility: 0.2139
+Next Token : if, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  not, Posbility: 0.0327
+Next Token :  is, Posbility: 0.0420
+Next Token :  String, Posbility: 0.0476
+Next Token :  int, Posbility: 0.1006
+Next Token :  , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : odd, Posbility: 0.0210
+Next Token : Is, Posbility: 0.0393
+Next Token : Int, Posbility: 0.1553
+Next Token : (, Posbility: 0.1992
+Next Token : x, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0304
+Next Token :  =, Posbility: 0.1357
+Next Token :  , Posbility: 0.1357
+Next Token :  mod, Posbility: 0.1357
+Next Token :  %, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x %
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0002
+Next Token :  4, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0005
+Next Token : =, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Two, Posbility: 0.0002
+Next Token : 3, Posbility: 0.0004
+Next Token : (, Posbility: 0.0006
+Next Token : Int, Posbility: 0.0006
+Next Token : 2, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ===, Posbility: 0.0065
+Next Token :  !=, Posbility: 0.0259
+Next Token :  , Posbility: 0.0903
+Next Token :  ==, Posbility: 0.1914
+Next Token :  =, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0012
+Next Token :  0;, Posbility: 0.0012
+Next Token :  , Posbility: 0.0090
+Next Token :  1, Posbility: 0.4922
+Next Token :  0, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0016
+Next Token :  with, Posbility: 0.0027
+Next Token : 
+, Posbility: 0.0137
+Next Token :  , Posbility: 0.0137
+Next Token :  then, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Some, Posbility: 0.0019
+Next Token :  !, Posbility: 0.0025
+Next Token :  None, Posbility: 0.0041
+Next Token : 
+, Posbility: 0.2871
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0097
+Next Token : return, Posbility: 0.0097
+Next Token : raise, Posbility: 0.0125
+Next Token : x, Posbility: 0.0718
+Next Token : odd, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : ness, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : n, Posbility: 0.0000
+Next Token : numbers, Posbility: 0.0001
+Next Token : of, Posbility: 0.0001
+Next Token : num, Posbility: 0.0003
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  of, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : from, Posbility: 0.0000
+Next Token : rec, Posbility: 0.0000
+Next Token : for, Posbility: 0.0000
+Next Token : in, Posbility: 0.0000
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  list, Posbility: 0.0001
+Next Token :  , Posbility: 0.0004
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : rest, Posbility: 0.0000
+Next Token : next, Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0003
+Next Token : (, Posbility: 0.0140
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : y, Posbility: 0.0001
+Next Token : (, Posbility: 0.0179
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :  else, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0004
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0037
+Next Token :  , Posbility: 0.0048
+Next Token : ;, Posbility: 0.0070
+Next Token :  else, Posbility: 0.4883
+Next Token : 
+, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0009
+Next Token :   , Posbility: 0.0013
+Next Token :     , Posbility: 0.0017
+Next Token :      , Posbility: 0.0022
+Next Token :       , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0001
+Next Token : |, Posbility: 0.0002
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0017
+Next Token :   , Posbility: 0.0046
+Next Token :  {, Posbility: 0.0068
+Next Token : 
+, Posbility: 0.0825
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0066
+Next Token : raise, Posbility: 0.0108
+Next Token : if, Posbility: 0.0203
+Next Token : x, Posbility: 0.0703
+Next Token : odd, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : of, Posbility: 0.0000
+Next Token : next, Posbility: 0.0000
+Next Token : numbers, Posbility: 0.0000
+Next Token : num, Posbility: 0.0001
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  of, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : for, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : from, Posbility: 0.0000
+Next Token : in, Posbility: 0.0000
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  list, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : first, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : last, Posbility: 0.0000
+Next Token : next, Posbility: 0.0000
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0010
+Next Token :  ((, Posbility: 0.0022
+Next Token : (, Posbility: 0.0036
+Next Token :  [, Posbility: 0.0036
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : y, Posbility: 0.0001
+Next Token : tail, Posbility: 0.0002
+Next Token : ([, Posbility: 0.0003
+Next Token : (, Posbility: 0.3770
+Next Token : x, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0024
+Next Token : ::, Posbility: 0.0031
+Next Token : 
+
+, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0109
+Next Token : s, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  >>, Posbility: 0.0090
+Next Token :  , Posbility: 0.0103
+Next Token : ;, Posbility: 0.0192
+Next Token : 
+
+, Posbility: 0.4355
+Next Token : 
+, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0115
+Next Token :     , Posbility: 0.0315
+Next Token :       , Posbility: 0.0356
+Next Token : let, Posbility: 0.0752
+Next Token :   , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : in, Posbility: 0.0067
+Next Token : 
+, Posbility: 0.0104
+Next Token : end, Posbility: 0.0104
+Next Token : ;, Posbility: 0.1533
+Next Token : |, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  nil, Posbility: 0.0057
+Next Token :  0, Posbility: 0.0122
+Next Token :  [, Posbility: 0.0227
+Next Token :  [], Posbility: 0.0618
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0093
+Next Token : odd, Posbility: 0.0105
+Next Token : y, Posbility: 0.0119
+Next Token : x, Posbility: 0.3477
+Next Token : _, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0019
+Next Token :   , Posbility: 0.0021
+Next Token : x, Posbility: 0.0024
+Next Token : ::, Posbility: 0.0095
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0002
+Next Token : x, Posbility: 0.0006
+Next Token : if, Posbility: 0.0008
+Next Token : ::, Posbility: 0.0420
+Next Token : ->, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  error, Posbility: 0.0070
+Next Token :  not, Posbility: 0.0090
+Next Token :  fail, Posbility: 0.0247
+Next Token : 
+, Posbility: 0.1104
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : assert, Posbility: 0.0187
+Next Token : (), Posbility: 0.0272
+Next Token : x, Posbility: 0.0309
+Next Token : odd, Posbility: 0.1562
+Next Token : raise, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ -> raise
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0008
+Next Token :  ", Posbility: 0.0031
+Next Token : _, Posbility: 0.0050
+Next Token :  , Posbility: 0.0289
+Next Token :  Not, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ -> raise Not
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  supported, Posbility: 0.0000
+Next Token :  a, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token :  found, Posbility: 0.0004
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ -> raise Not_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : expected, Posbility: 0.0002
+Next Token : done, Posbility: 0.0003
+Next Token : implement, Posbility: 0.0003
+Next Token : list, Posbility: 0.0004
+Next Token : found, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ -> raise Not_found
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0070
+Next Token :  (*, Posbility: 0.0070
+Next Token :  , Posbility: 0.0192
+Next Token : 
+, Posbility: 0.2988
+Next Token : 
+
+, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find the first odd number in a given list of numbers. *)
+let rec odd_number_of_list x =
+  match x with
+  | [] -> raise Not_found
+  | x::xs ->
+      if x % 2 = 0 then odd_number_of_list xs
+      else odd_number_of_list xs
+  | _ -> raise Not_found
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :38.28882122039795
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

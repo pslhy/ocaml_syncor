@@ -1,0 +1,1223 @@
+code:
+ (* Write a  function to set the left most unset bit. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  bit, Posbility: 0.0260
+Next Token :  left, Posbility: 0.0334
+Next Token :  rec, Posbility: 0.1318
+Next Token :  , Posbility: 0.2793
+Next Token :  set, Posbility: 0.3594
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : L, Posbility: 0.0076
+Next Token : bit, Posbility: 0.0098
+Next Token : l, Posbility: 0.0126
+Next Token :  =, Posbility: 0.0161
+Next Token : _, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : first, Posbility: 0.0679
+Next Token : ls, Posbility: 0.0679
+Next Token : bit, Posbility: 0.1118
+Next Token : l, Posbility: 0.1846
+Next Token : left, Posbility: 0.2363
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_left
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0018
+Next Token :  most, Posbility: 0.0018
+Next Token :  =, Posbility: 0.0131
+Next Token : _, Posbility: 0.2637
+Next Token : most, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0013
+Next Token : (, Posbility: 0.0057
+Next Token :  , Posbility: 0.0254
+Next Token :  =, Posbility: 0.1138
+Next Token : _, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : un, Posbility: 0.0061
+Next Token : one, Posbility: 0.0061
+Next Token : set, Posbility: 0.0101
+Next Token : bit, Posbility: 0.0452
+Next Token : unset, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0126
+Next Token :  bit, Posbility: 0.0126
+Next Token :  , Posbility: 0.0208
+Next Token :  =, Posbility: 0.2520
+Next Token : _, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0009
+Next Token : flag, Posbility: 0.0010
+Next Token : bits, Posbility: 0.0040
+Next Token : bit, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0403
+Next Token : _, Posbility: 0.0518
+Next Token :  l, Posbility: 0.0518
+Next Token :  =, Posbility: 0.2324
+Next Token :  , Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0310
+Next Token : (, Posbility: 0.0659
+Next Token : b, Posbility: 0.0957
+Next Token : n, Posbility: 0.1787
+Next Token : x, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  bits, Posbility: 0.0070
+Next Token : s, Posbility: 0.0090
+Next Token :  i, Posbility: 0.0190
+Next Token :  , Posbility: 0.1094
+Next Token :  =, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0045
+Next Token :  (*, Posbility: 0.0074
+Next Token :  ((, Posbility: 0.0139
+Next Token :  , Posbility: 0.2773
+Next Token : 
+, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0115
+Next Token : let, Posbility: 0.0115
+Next Token :    , Posbility: 0.0214
+Next Token :     , Posbility: 0.1230
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0205
+Next Token : if, Posbility: 0.0713
+Next Token : x, Posbility: 0.1514
+Next Token : (, Posbility: 0.1709
+Next Token : let, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0364
+Next Token :  l, Posbility: 0.0364
+Next Token :  mask, Posbility: 0.0771
+Next Token :  rec, Posbility: 0.1123
+Next Token :  , Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0469
+Next Token : b, Posbility: 0.0532
+Next Token : n, Posbility: 0.0776
+Next Token : y, Posbility: 0.1641
+Next Token : x, Posbility: 0.2383
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0452
+Next Token : 1, Posbility: 0.0452
+Next Token : _, Posbility: 0.1230
+Next Token : ', Posbility: 0.1787
+Next Token :  =, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0062
+Next Token :  int, Posbility: 0.0062
+Next Token :  ((, Posbility: 0.0103
+Next Token :  ~, Posbility: 0.0103
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0075
+Next Token : if, Posbility: 0.0231
+Next Token : Int, Posbility: 0.0261
+Next Token : (, Posbility: 0.0913
+Next Token : x, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  with, Posbility: 0.0476
+Next Token :  +, Posbility: 0.1289
+Next Token :  , Posbility: 0.1289
+Next Token :  &, Posbility: 0.1289
+Next Token :  |, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0168
+Next Token :  (1, Posbility: 0.0245
+Next Token :  0, Posbility: 0.1250
+Next Token :  , Posbility: 0.2061
+Next Token : >, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  String, Posbility: 0.0209
+Next Token :  ((, Posbility: 0.0209
+Next Token :  set, Posbility: 0.0344
+Next Token :  int, Posbility: 0.0566
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0510
+Next Token : Bits, Posbility: 0.0579
+Next Token : Set, Posbility: 0.0742
+Next Token : (, Posbility: 0.1572
+Next Token : Int, Posbility: 0.2012
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 16, Posbility: 0.0056
+Next Token : 32_, Posbility: 0.0251
+Next Token : ., Posbility: 0.0532
+Next Token : 64, Posbility: 0.0603
+Next Token : 32, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bits, Posbility: 0.0004
+Next Token : Extra, Posbility: 0.0005
+Next Token :  , Posbility: 0.0019
+Next Token : x, Posbility: 0.0109
+Next Token : ., Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : shift, Posbility: 0.0288
+Next Token : set, Posbility: 0.0693
+Next Token : of, Posbility: 0.1006
+Next Token : zero, Posbility: 0.1289
+Next Token : to, Posbility: 0.2129
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0007
+Next Token : int, Posbility: 0.0012
+Next Token : string, Posbility: 0.0015
+Next Token : Bits, Posbility: 0.0015
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : bytes, Posbility: 0.0156
+Next Token : uint, Posbility: 0.0544
+Next Token : bits, Posbility: 0.0898
+Next Token : string, Posbility: 0.2441
+Next Token : int, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 8, Posbility: 0.0330
+Next Token :  in, Posbility: 0.0698
+Next Token :  , Posbility: 0.0791
+Next Token : 32, Posbility: 0.2432
+Next Token : 64, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0078
+Next Token :  , Posbility: 0.0145
+Next Token :  >>, Posbility: 0.0187
+Next Token :  |, Posbility: 0.0396
+Next Token :  in, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0031
+Next Token :   , Posbility: 0.0052
+Next Token :  , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0003
+Next Token :       , Posbility: 0.0008
+Next Token :  , Posbility: 0.0013
+Next Token :     , Posbility: 0.0022
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0256
+Next Token : Int, Posbility: 0.0615
+Next Token : (, Posbility: 0.1016
+Next Token : x, Posbility: 0.1670
+Next Token : let, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  bit, Posbility: 0.0194
+Next Token :  v, Posbility: 0.0220
+Next Token :  rec, Posbility: 0.0220
+Next Token :  mask, Posbility: 0.0679
+Next Token :  , Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ms, Posbility: 0.0221
+Next Token : b, Posbility: 0.0284
+Next Token : n, Posbility: 0.0322
+Next Token : y, Posbility: 0.0601
+Next Token : x, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0047
+Next Token : ,, Posbility: 0.0053
+Next Token : _, Posbility: 0.0164
+Next Token : ', Posbility: 0.0393
+Next Token :  =, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0080
+Next Token :  ((, Posbility: 0.0080
+Next Token : 
+, Posbility: 0.0132
+Next Token :  ~, Posbility: 0.0132
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0042
+Next Token : if, Posbility: 0.0069
+Next Token : (, Posbility: 0.0840
+Next Token : Int, Posbility: 0.1572
+Next Token : x, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  *, Posbility: 0.0115
+Next Token :  , Posbility: 0.0850
+Next Token :  +, Posbility: 0.0850
+Next Token :  &, Posbility: 0.1396
+Next Token :  |, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ~, Posbility: 0.0011
+Next Token :  0, Posbility: 0.0017
+Next Token :  , Posbility: 0.0066
+Next Token : >>, Posbility: 0.0108
+Next Token : >, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  System, Posbility: 0.0023
+Next Token :  ((, Posbility: 0.0030
+Next Token :  int, Posbility: 0.0104
+Next Token :  String, Posbility: 0.0133
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Sys, Posbility: 0.0079
+Next Token : Bits, Posbility: 0.0214
+Next Token : Bit, Posbility: 0.0275
+Next Token : (, Posbility: 0.0311
+Next Token : Int, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 16, Posbility: 0.0004
+Next Token : 64_, Posbility: 0.0013
+Next Token : ., Posbility: 0.0018
+Next Token : 32, Posbility: 0.0471
+Next Token : 64, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Ext, Posbility: 0.0002
+Next Token : Extensions, Posbility: 0.0002
+Next Token : X, Posbility: 0.0003
+Next Token : x, Posbility: 0.0006
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : set, Posbility: 0.0623
+Next Token : and, Posbility: 0.0708
+Next Token : of, Posbility: 0.0908
+Next Token : to, Posbility: 0.1030
+Next Token : shift, Posbility: 0.1924
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0063
+Next Token : l, Posbility: 0.0063
+Next Token :  left, Posbility: 0.0063
+Next Token :  , Posbility: 0.0104
+Next Token : _, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0018
+Next Token : l, Posbility: 0.0048
+Next Token : bits, Posbility: 0.0079
+Next Token : right, Posbility: 0.2598
+Next Token : left, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  by, Posbility: 0.0400
+Next Token :  63, Posbility: 0.1235
+Next Token : _, Posbility: 0.2031
+Next Token :  1, Posbility: 0.2031
+Next Token :  , Posbility: 0.3359
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 31, Posbility: 0.0874
+Next Token : 8, Posbility: 0.0991
+Next Token : (, Posbility: 0.1123
+Next Token : 64, Posbility: 0.1270
+Next Token : 32, Posbility: 0.1631
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token :  >>, Posbility: 0.0011
+Next Token :  , Posbility: 0.0044
+Next Token :  |, Posbility: 0.0415
+Next Token :  in, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0010
+Next Token :   , Posbility: 0.0028
+Next Token :  , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0002
+Next Token :       , Posbility: 0.0002
+Next Token :     , Posbility: 0.0005
+Next Token :  , Posbility: 0.0028
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0217
+Next Token : (, Posbility: 0.0591
+Next Token : Int, Posbility: 0.0859
+Next Token : x, Posbility: 0.3008
+Next Token : let, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  one, Posbility: 0.0019
+Next Token :  v, Posbility: 0.0024
+Next Token :  rec, Posbility: 0.0024
+Next Token :  mask, Posbility: 0.0051
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0021
+Next Token : ms, Posbility: 0.0021
+Next Token : (, Posbility: 0.0024
+Next Token : y, Posbility: 0.0040
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0008
+Next Token : ,, Posbility: 0.0008
+Next Token : _, Posbility: 0.0009
+Next Token : ', Posbility: 0.0009
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0008
+Next Token :  1, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0019
+Next Token :  ~, Posbility: 0.0025
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 32, Posbility: 0.0004
+Next Token : if, Posbility: 0.0028
+Next Token : (, Posbility: 0.0128
+Next Token : Int, Posbility: 0.0830
+Next Token : x, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  or, Posbility: 0.0006
+Next Token :  , Posbility: 0.0106
+Next Token :  +, Posbility: 0.0137
+Next Token :  &, Posbility: 0.0154
+Next Token :  |, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0000
+Next Token : ~, Posbility: 0.0001
+Next Token : >>, Posbility: 0.0004
+Next Token :  , Posbility: 0.0006
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  to, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :  String, Posbility: 0.0003
+Next Token :  int, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0003
+Next Token : Bits, Posbility: 0.0003
+Next Token : UInt, Posbility: 0.0004
+Next Token : (, Posbility: 0.0019
+Next Token : Int, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 16, Posbility: 0.0001
+Next Token : 64_, Posbility: 0.0002
+Next Token : ., Posbility: 0.0004
+Next Token : 32, Posbility: 0.0229
+Next Token : 64, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : ext, Posbility: 0.0000
+Next Token : Ext, Posbility: 0.0000
+Next Token : x, Posbility: 0.0001
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0898
+Next Token : to, Posbility: 0.1016
+Next Token : add, Posbility: 0.1680
+Next Token : or, Posbility: 0.1680
+Next Token : shift, Posbility: 0.1904
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >>, Posbility: 0.0001
+Next Token : r, Posbility: 0.0001
+Next Token :  right, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0002
+Next Token : r, Posbility: 0.0003
+Next Token : rig, Posbility: 0.0005
+Next Token : left, Posbility: 0.1191
+Next Token : right, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  30, Posbility: 0.0047
+Next Token : _, Posbility: 0.0099
+Next Token :  1, Posbility: 0.0942
+Next Token :  63, Posbility: 0.1553
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 62, Posbility: 0.0089
+Next Token : (, Posbility: 0.0114
+Next Token : 64, Posbility: 0.0398
+Next Token : 31, Posbility: 0.0845
+Next Token : 32, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0003
+Next Token :  |, Posbility: 0.0008
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 0.0012
+Next Token :  , Posbility: 0.0025
+Next Token : 
+
+, Posbility: 0.0032
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : end, Posbility: 0.0001
+Next Token : let, Posbility: 0.0002
+Next Token :     , Posbility: 0.0004
+Next Token :  , Posbility: 0.0028
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0197
+Next Token : (, Posbility: 0.0471
+Next Token : Int, Posbility: 0.1001
+Next Token : let, Posbility: 0.3496
+Next Token : x, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0150
+Next Token :  =, Posbility: 0.0217
+Next Token : 
+, Posbility: 0.2061
+Next Token : 
+
+, Posbility: 0.3398
+Next Token :  |, Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0007
+Next Token :  0, Posbility: 0.0022
+Next Token : >>, Posbility: 0.0024
+Next Token :  , Posbility: 0.0040
+Next Token : >, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  to, Posbility: 0.0003
+Next Token :  fun, Posbility: 0.0003
+Next Token :  int, Posbility: 0.0015
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bit, Posbility: 0.0002
+Next Token : Bits, Posbility: 0.0002
+Next Token : UInt, Posbility: 0.0002
+Next Token : (, Posbility: 0.0019
+Next Token : Int, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 16, Posbility: 0.0000
+Next Token : 64_, Posbility: 0.0002
+Next Token : ., Posbility: 0.0005
+Next Token : 32, Posbility: 0.0474
+Next Token : 64, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : Ext, Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Next Token : ext, Posbility: 0.0000
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0381
+Next Token : truncate, Posbility: 0.0381
+Next Token : add, Posbility: 0.0713
+Next Token : or, Posbility: 0.1338
+Next Token : to, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64.to
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : uint, Posbility: 0.0000
+Next Token :  int, Posbility: 0.0000
+Next Token : Int, Posbility: 0.0001
+Next Token : int, Posbility: 0.0006
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64.to_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : long, Posbility: 0.0003
+Next Token : bits, Posbility: 0.0003
+Next Token : string, Posbility: 0.0009
+Next Token : uint, Posbility: 0.0067
+Next Token : int, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64.to_int
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0008
+Next Token : 32), Posbility: 0.0008
+Next Token : 64, Posbility: 0.0010
+Next Token : 32_, Posbility: 0.0025
+Next Token : 32, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64.to_int32
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0068
+Next Token :  |, Posbility: 0.0237
+Next Token :  in, Posbility: 0.1060
+Next Token : 
+, Posbility: 0.3711
+Next Token : 
+
+, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a  function to set the left most unset bit. *)
+let set_leftmost_unset_bit x =
+  let x = x |> Int32.to_int64 in
+  let x = x |> Int64.shift_left 32 in
+  let x = x |> Int64.shift_right 32 in
+  x |> Int64.to_int32
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :37.25613808631897
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

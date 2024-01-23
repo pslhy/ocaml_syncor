@@ -1,0 +1,222 @@
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let
+Next Token :  rec, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec
+Next Token :  per, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec per
+Next Token : rin, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin
+Next Token : _, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_
+Next Token : sum, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum 
+Next Token : n, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n
+Next Token :  =, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  
+Next Token : if, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if 
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n
+Next Token :  =, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n =
+Next Token :  0, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then
+Next Token :  0, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+Next Token : 
+, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else 
+Next Token : n, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n
+Next Token :  +, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n +
+Next Token :  per, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + per
+Next Token : rin, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin
+Next Token : _, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_
+Next Token : sum, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum 
+Next Token : (, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (
+Next Token : n, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n -
+Next Token :  1), Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to calculate the sum of perrin numbers. *)
+let rec perrin_sum n =
+  if n = 0 then 0
+  else n + perrin_sum (n - 1)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.1408073902130127
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

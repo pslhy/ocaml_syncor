@@ -1,0 +1,1142 @@
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0135
+Next Token :  tuple, Posbility: 0.0222
+Next Token :  , Posbility: 0.1865
+Next Token :  count, Posbility: 0.1865
+Next Token :  rec, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0104
+Next Token :  find, Posbility: 0.0172
+Next Token :  loop, Posbility: 0.0221
+Next Token :  , Posbility: 0.2090
+Next Token :  count, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0041
+Next Token : -, Posbility: 0.0161
+Next Token :  , Posbility: 0.1050
+Next Token :  =, Posbility: 0.1191
+Next Token : _, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elements, Posbility: 0.0569
+Next Token : oc, Posbility: 0.0825
+Next Token : list, Posbility: 0.0938
+Next Token : tuple, Posbility: 0.0938
+Next Token : all, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0134
+Next Token :  a, Posbility: 0.0172
+Next Token :  =, Posbility: 0.2090
+Next Token :  , Posbility: 0.3438
+Next Token : _, Posbility: 0.3438
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elem, Posbility: 0.0576
+Next Token : oc, Posbility: 0.0654
+Next Token : tuple, Posbility: 0.0654
+Next Token : in, Posbility: 0.1377
+Next Token : elements, Posbility: 0.2930
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0099
+Next Token : (, Posbility: 0.0347
+Next Token :  =, Posbility: 0.1206
+Next Token : _, Posbility: 0.3281
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : t, Posbility: 0.0625
+Next Token : lst, Posbility: 0.0913
+Next Token : :, Posbility: 0.1035
+Next Token : x, Posbility: 0.1504
+Next Token : (, Posbility: 0.1504
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : lst, Posbility: 0.0371
+Next Token : acc, Posbility: 0.0613
+Next Token : x, Posbility: 0.0786
+Next Token : l, Posbility: 0.1011
+Next Token : list, Posbility: 0.1299
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0320
+Next Token : _, Posbility: 0.0527
+Next Token : 1,, Posbility: 0.0679
+Next Token : ,, Posbility: 0.3906
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0006
+Next Token : (, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0151
+Next Token : ::, Posbility: 0.0410
+Next Token : :, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list :
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  int, Posbility: 0.0579
+Next Token :  string, Posbility: 0.0654
+Next Token :  ', Posbility: 0.1572
+Next Token :  list, Posbility: 0.1777
+Next Token :  , Posbility: 0.3770
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : T, Posbility: 0.0488
+Next Token : (', Posbility: 0.0630
+Next Token : (, Posbility: 0.1035
+Next Token : List, Posbility: 0.1934
+Next Token : t, Posbility: 0.2480
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  list, Posbility: 0.0164
+Next Token : _, Posbility: 0.0305
+Next Token :  , Posbility: 0.0444
+Next Token : list, Posbility: 0.1992
+Next Token : ), Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0111
+Next Token :  acc, Posbility: 0.0161
+Next Token :  list, Posbility: 0.0266
+Next Token :  , Posbility: 0.4160
+Next Token :  =, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0035
+Next Token :  function, Posbility: 0.0058
+Next Token :  match, Posbility: 0.0488
+Next Token :  , Posbility: 0.0625
+Next Token : 
+, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0066
+Next Token :    , Posbility: 0.0159
+Next Token : 	, Posbility: 0.0159
+Next Token :     , Posbility: 0.1709
+Next Token :   , Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0107
+Next Token : List, Posbility: 0.0137
+Next Token : let, Posbility: 0.1299
+Next Token : if, Posbility: 0.1475
+Next Token : match, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0016
+Next Token :  [, Posbility: 0.0024
+Next Token :  String, Posbility: 0.0031
+Next Token :  , Posbility: 0.1299
+Next Token :  list, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  , Posbility: 0.0005
+Next Token : ., Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0025
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0040
+Next Token :  {, Posbility: 0.0051
+Next Token :  , Posbility: 0.0058
+Next Token :  [], Posbility: 0.0074
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0007
+Next Token :       , Posbility: 0.0025
+Next Token :    , Posbility: 0.0037
+Next Token :     , Posbility: 0.0942
+Next Token :   , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0004
+Next Token : (, Posbility: 0.0009
+Next Token : [, Posbility: 0.0096
+Next Token : [], Posbility: 0.0109
+Next Token : |, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0054
+Next Token :  nil, Posbility: 0.0166
+Next Token :  [, Posbility: 0.0452
+Next Token :  , Posbility: 0.2031
+Next Token :  [], Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0071
+Next Token :    , Posbility: 0.0081
+Next Token :  |, Posbility: 0.0092
+Next Token :  =>, Posbility: 0.0104
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0004
+Next Token : →, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0022
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0256
+Next Token :  1, Posbility: 0.0256
+Next Token :  0, Posbility: 0.1895
+Next Token :  [], Posbility: 0.1895
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : #, Posbility: 0.0369
+Next Token : ([], Posbility: 0.0474
+Next Token : (, Posbility: 0.1289
+Next Token : (), Posbility: 0.2119
+Next Token : (0,, Posbility: 0.3496
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0128
+Next Token : []), Posbility: 0.0239
+Next Token :  0), Posbility: 0.0649
+Next Token :  list, Posbility: 0.1069
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0080
+Next Token : List, Posbility: 0.0217
+Next Token : t, Posbility: 0.0359
+Next Token : ()), Posbility: 0.1611
+Next Token : []), Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ,, Posbility: 0.0027
+Next Token :   , Posbility: 0.0050
+Next Token :  |, Posbility: 0.0050
+Next Token :  , Posbility: 0.0198
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token : end, Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : let, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  element, Posbility: 0.0107
+Next Token :  a, Posbility: 0.0138
+Next Token :  [], Posbility: 0.0293
+Next Token :  [, Posbility: 0.1309
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0679
+Next Token : h, Posbility: 0.0679
+Next Token : hd, Posbility: 0.1118
+Next Token : _, Posbility: 0.2373
+Next Token : x, Posbility: 0.3047
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0030
+Next Token : :, Posbility: 0.0093
+Next Token : s, Posbility: 0.0223
+Next Token : ::, Posbility: 0.2119
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0002
+Next Token : x, Posbility: 0.0002
+Next Token : :, Posbility: 0.0052
+Next Token : ->, Posbility: 0.0123
+Next Token : ::, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  [], Posbility: 0.0160
+Next Token :  list, Posbility: 0.0205
+Next Token :  l, Posbility: 0.0233
+Next Token :  rest, Posbility: 0.1514
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0244
+Next Token : y, Posbility: 0.0244
+Next Token : tail, Posbility: 0.0518
+Next Token : _, Posbility: 0.1240
+Next Token : x, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0011
+Next Token :  , Posbility: 0.0015
+Next Token : _, Posbility: 0.0040
+Next Token : ', Posbility: 0.0139
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  @, Posbility: 0.0013
+Next Token :   , Posbility: 0.0039
+Next Token :  =>, Posbility: 0.0039
+Next Token :  when, Posbility: 0.0255
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0004
+Next Token :  =>, Posbility: 0.0005
+Next Token : if, Posbility: 0.0011
+Next Token : ::, Posbility: 0.0330
+Next Token : ->, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0061
+Next Token :  (1, Posbility: 0.0165
+Next Token :  count, Posbility: 0.0737
+Next Token :  , Posbility: 0.3301
+Next Token : 
+, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0056
+Next Token :   , Posbility: 0.0092
+Next Token :      , Posbility: 0.0105
+Next Token :     , Posbility: 0.3926
+Next Token :       , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0113
+Next Token : count, Posbility: 0.0211
+Next Token : match, Posbility: 0.0306
+Next Token : (, Posbility: 0.1216
+Next Token : let, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0132
+Next Token :  res, Posbility: 0.0219
+Next Token :  rec, Posbility: 0.0762
+Next Token :  count, Posbility: 0.1836
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : t, Posbility: 0.0154
+Next Token : x, Posbility: 0.0608
+Next Token : n, Posbility: 0.0608
+Next Token : c, Posbility: 0.0781
+Next Token : (, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : num, Posbility: 0.0251
+Next Token : x, Posbility: 0.0366
+Next Token : c, Posbility: 0.1279
+Next Token : n, Posbility: 0.1641
+Next Token : count, Posbility: 0.3066
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0,, Posbility: 0.0112
+Next Token :  , Posbility: 0.0184
+Next Token : 1,, Posbility: 0.0391
+Next Token : _, Posbility: 0.1367
+Next Token : ,, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  elements, Posbility: 0.0420
+Next Token :  list, Posbility: 0.0537
+Next Token :  new, Posbility: 0.0688
+Next Token :  rest, Posbility: 0.1875
+Next Token :  , Posbility: 0.3965
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : rem, Posbility: 0.0369
+Next Token : _, Posbility: 0.0608
+Next Token : remaining, Posbility: 0.0781
+Next Token : tail, Posbility: 0.2129
+Next Token : x, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : rest, Posbility: 0.0023
+Next Token : list, Posbility: 0.0070
+Next Token : ), Posbility: 0.0132
+Next Token : _, Posbility: 0.0280
+Next Token : s, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : s, Posbility: 0.0181
+Next Token : 2), Posbility: 0.0383
+Next Token : '), Posbility: 0.0811
+Next Token : _, Posbility: 0.3633
+Next Token : ), Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0004
+Next Token : =, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0008
+Next Token :   , Posbility: 0.0017
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0022
+Next Token :  rec, Posbility: 0.0022
+Next Token : 
+, Posbility: 0.0447
+Next Token :  , Posbility: 0.0447
+Next Token :  count, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  all, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  +, Posbility: 0.0004
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0003
+Next Token : element, Posbility: 0.0003
+Next Token : elements, Posbility: 0.0006
+Next Token : one, Posbility: 0.0012
+Next Token : all, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :  elements, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0000
+Next Token : elt, Posbility: 0.0000
+Next Token : elem, Posbility: 0.0001
+Next Token : element, Posbility: 0.0006
+Next Token : elements, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0005
+Next Token : _, Posbility: 0.0015
+Next Token :  list, Posbility: 0.0017
+Next Token : (, Posbility: 0.0046
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : lst, Posbility: 0.0000
+Next Token : y, Posbility: 0.0001
+Next Token : t, Posbility: 0.0003
+Next Token : (, Posbility: 0.0293
+Next Token : x, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  in, Posbility: 0.0004
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :   , Posbility: 0.0009
+Next Token : ;, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0179
+Next Token :  in, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  count, Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0006
+Next Token :  , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :           , Posbility: 0.0005
+Next Token :     , Posbility: 0.0008
+Next Token :         , Posbility: 0.0017
+Next Token :      , Posbility: 0.0022
+Next Token :       , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0089
+Next Token : if, Posbility: 0.0146
+Next Token : count, Posbility: 0.0188
+Next Token : let, Posbility: 0.1396
+Next Token : (, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  count, Posbility: 0.0099
+Next Token : (, Posbility: 0.0112
+Next Token : x, Posbility: 0.0144
+Next Token : 1, Posbility: 0.0444
+Next Token : count, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +, Posbility: 0.0062
+Next Token :  , Posbility: 0.0170
+Next Token : ,, Posbility: 0.0170
+Next Token : +1,, Posbility: 0.0280
+Next Token :  +, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1,, Posbility: 0.0005
+Next Token :  1), Posbility: 0.0019
+Next Token :  1, Posbility: 0.0040
+Next Token :  count, Posbility: 0.0040
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0003
+Next Token : (, Posbility: 0.0010
+Next Token : List, Posbility: 0.0010
+Next Token : x, Posbility: 0.0067
+Next Token : 1,, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 1,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0044
+Next Token :  count, Posbility: 0.0152
+Next Token :  list, Posbility: 0.0195
+Next Token :  [, Posbility: 0.3066
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 1, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : t, Posbility: 0.0026
+Next Token : []), Posbility: 0.0038
+Next Token : List, Posbility: 0.0043
+Next Token : (, Posbility: 0.0413
+Next Token : x, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 1, x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0005
+Next Token : ::, Posbility: 0.0020
+Next Token : ), Posbility: 0.0104
+Next Token :  , Posbility: 0.0527
+Next Token : s, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 1, xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0009
+Next Token : )), Posbility: 0.0015
+Next Token :  , Posbility: 0.0051
+Next Token : );, Posbility: 0.0227
+Next Token : ), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 1, xs)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0034
+Next Token :  , Posbility: 0.0056
+Next Token :  in, Posbility: 0.0106
+Next Token : 
+, Posbility: 0.3945
+Next Token : 
+
+, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to count the occurence of all elements of list in a tuple. *)
+let rec count_all_elements (list : t) =
+  match list with
+  | [] -> (0, [])
+  | x :: xs ->
+      let (count, xs) = count_all_elements xs in
+      (count + 1, xs)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :32.78068828582764
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

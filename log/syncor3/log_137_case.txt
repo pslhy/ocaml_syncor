@@ -1,0 +1,337 @@
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  calc, Posbility: 0.0381
+Next Token :  calculate, Posbility: 0.0491
+Next Token :  get, Posbility: 0.0491
+Next Token :  rec, Posbility: 0.0491
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0098
+Next Token : cal, Posbility: 0.0111
+Next Token : print, Posbility: 0.0126
+Next Token : age, Posbility: 0.0820
+Next Token : dog, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0167
+Next Token : year, Posbility: 0.0190
+Next Token : Year, Posbility: 0.0403
+Next Token : s, Posbility: 0.2314
+Next Token : _, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : yr, Posbility: 0.0069
+Next Token : to, Posbility: 0.0349
+Next Token : in, Posbility: 0.0396
+Next Token : age, Posbility: 0.1216
+Next Token : year, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_year
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0023
+Next Token :  , Posbility: 0.0167
+Next Token : _, Posbility: 0.0167
+Next Token :  =, Posbility: 0.0457
+Next Token : s, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  year, Posbility: 0.0108
+Next Token : (, Posbility: 0.0123
+Next Token : _, Posbility: 0.1689
+Next Token :  , Posbility: 0.2793
+Next Token :  =, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  100, Posbility: 0.0194
+Next Token :  fun, Posbility: 0.0194
+Next Token :  function, Posbility: 0.0679
+Next Token : 
+, Posbility: 0.2695
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0403
+Next Token : let, Posbility: 0.0586
+Next Token : 
+, Posbility: 0.0664
+Next Token : 365, Posbility: 0.0664
+Next Token : (, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 2, Posbility: 0.0240
+Next Token : 365, Posbility: 0.0330
+Next Token : 
+, Posbility: 0.0510
+Next Token : function, Posbility: 0.0742
+Next Token : fun, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  days, Posbility: 0.0140
+Next Token :  a, Posbility: 0.0229
+Next Token :  years, Posbility: 0.0261
+Next Token :  year, Posbility: 0.0625
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0566
+Next Token : h, Posbility: 0.0566
+Next Token : (, Posbility: 0.0938
+Next Token : age, Posbility: 0.1357
+Next Token : dog, Posbility: 0.2246
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : year, Posbility: 0.0087
+Next Token : ), Posbility: 0.0111
+Next Token :  , Posbility: 0.1055
+Next Token : s, Posbility: 0.2236
+Next Token : _, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : name, Posbility: 0.0388
+Next Token : weight, Posbility: 0.0388
+Next Token : birth, Posbility: 0.0388
+Next Token : age, Posbility: 0.2871
+Next Token : year, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_year
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0014
+Next Token : ), Posbility: 0.0023
+Next Token : _, Posbility: 0.0170
+Next Token :  , Posbility: 0.0461
+Next Token : s, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0114
+Next Token :  =>, Posbility: 0.0129
+Next Token : ), Posbility: 0.0659
+Next Token : _, Posbility: 0.1226
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0117
+Next Token : (, Posbility: 0.0280
+Next Token : dog, Posbility: 0.0317
+Next Token : (), Posbility: 0.0408
+Next Token : ->, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0037
+Next Token :  fun, Posbility: 0.0089
+Next Token :  {, Posbility: 0.0089
+Next Token : 
+, Posbility: 0.2930
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0103
+Next Token : 
+, Posbility: 0.0248
+Next Token : let, Posbility: 0.0280
+Next Token : (, Posbility: 0.1108
+Next Token : dog, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0001
+Next Token : s, Posbility: 0.0006
+Next Token :  , Posbility: 0.0006
+Next Token :  *, Posbility: 0.0006
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : y, Posbility: 0.0002
+Next Token : month, Posbility: 0.0003
+Next Token : height, Posbility: 0.0009
+Next Token : age, Posbility: 0.0025
+Next Token : year, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_year
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token :  *, Posbility: 0.0002
+Next Token :  , Posbility: 0.0004
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : *, Posbility: 0.0099
+Next Token :  +, Posbility: 0.0566
+Next Token : ), Posbility: 0.0938
+Next Token :  , Posbility: 0.2539
+Next Token :  *, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  100), Posbility: 0.0141
+Next Token :  10), Posbility: 0.0160
+Next Token :  24, Posbility: 0.0233
+Next Token :  12, Posbility: 0.1182
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 36, Posbility: 0.0052
+Next Token : (, Posbility: 0.0092
+Next Token : dog, Posbility: 0.0134
+Next Token : 365, Posbility: 0.2100
+Next Token : 7, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 7
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0195
+Next Token : ., Posbility: 0.0284
+Next Token :  *, Posbility: 0.0322
+Next Token :  , Posbility: 0.0601
+Next Token : ), Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 7)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0071
+Next Token :  *, Posbility: 0.0170
+Next Token :  , Posbility: 0.0762
+Next Token : 
+, Posbility: 0.3027
+Next Token : 
+
+, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to calculate a dog's age in dog's years. *)
+let dog_years = (fun dog_years -> dog_years * 7)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :12.546618938446045
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

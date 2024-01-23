@@ -1,0 +1,1071 @@
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0114
+Next Token :  find, Posbility: 0.0114
+Next Token :  surface, Posbility: 0.1777
+Next Token :  rec, Posbility: 0.2598
+Next Token :  , Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rad, Posbility: 0.0237
+Next Token : s, Posbility: 0.0938
+Next Token : radius, Posbility: 0.1367
+Next Token : pi, Posbility: 0.1543
+Next Token : sphere, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Area, Posbility: 0.0162
+Next Token : Surface, Posbility: 0.0304
+Next Token :  , Posbility: 0.0442
+Next Token :  =, Posbility: 0.0645
+Next Token : _, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : radius, Posbility: 0.0073
+Next Token : s, Posbility: 0.0093
+Next Token : volume, Posbility: 0.0287
+Next Token : surface, Posbility: 0.3965
+Next Token : area, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0334
+Next Token :  S, Posbility: 0.0378
+Next Token : _, Posbility: 0.0486
+Next Token :  =, Posbility: 0.2471
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0371
+Next Token : x, Posbility: 0.0476
+Next Token : (, Posbility: 0.1006
+Next Token : radius, Posbility: 0.1660
+Next Token : r, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0011
+Next Token :  a, Posbility: 0.0012
+Next Token :  ~, Posbility: 0.0030
+Next Token :  , Posbility: 0.0466
+Next Token :  =, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  4, Posbility: 0.0087
+Next Token :  2.0, Posbility: 0.0098
+Next Token :  2*, Posbility: 0.0112
+Next Token :  , Posbility: 0.3691
+Next Token : 
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0043
+Next Token : 	, Posbility: 0.0090
+Next Token :    , Posbility: 0.0149
+Next Token :     , Posbility: 0.1416
+Next Token :   , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 4.0, Posbility: 0.0165
+Next Token : r, Posbility: 0.0272
+Next Token : 2, Posbility: 0.0309
+Next Token : (, Posbility: 0.0542
+Next Token : let, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  area, Posbility: 0.0149
+Next Token :  v, Posbility: 0.0216
+Next Token :  a, Posbility: 0.0356
+Next Token :  rec, Posbility: 0.2051
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0260
+Next Token : phi, Posbility: 0.0295
+Next Token : s, Posbility: 0.1030
+Next Token : r, Posbility: 0.2178
+Next Token : pi, Posbility: 0.2793
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token :  , Posbility: 0.0021
+Next Token : 2, Posbility: 0.0051
+Next Token : _, Posbility: 0.0084
+Next Token :  =, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0096
+Next Token :  Math, Posbility: 0.0109
+Next Token :  math, Posbility: 0.0262
+Next Token :  float, Posbility: 0.0337
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0043
+Next Token : (, Posbility: 0.0125
+Next Token : 4.0, Posbility: 0.0361
+Next Token : 3.14, Posbility: 0.3633
+Next Token : 3.14159, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 26, Posbility: 0.0623
+Next Token : 27, Posbility: 0.0801
+Next Token : 2, Posbility: 0.1162
+Next Token : 265, Posbility: 0.1689
+Next Token : 2653, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 59,, Posbility: 0.0008
+Next Token : 5898, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0019
+Next Token :  in, Posbility: 0.0090
+Next Token : 5897, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0019
+Next Token :  in, Posbility: 0.0075
+Next Token : 
+, Posbility: 0.0085
+Next Token : 931, Posbility: 0.0317
+Next Token : 932, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  in, Posbility: 0.0010
+Next Token : 385, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0040
+Next Token : 384, Posbility: 0.0122
+Next Token : 3846, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159265358979323846
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 264, Posbility: 0.0267
+Next Token : 3, Posbility: 0.1055
+Next Token :  in, Posbility: 0.1196
+Next Token : 
+, Posbility: 0.2871
+Next Token : 2643, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 385, Posbility: 0.0020
+Next Token : 384, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0108
+Next Token : 3, Posbility: 0.0108
+Next Token : 383, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643383
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0015
+Next Token :  , Posbility: 0.0019
+Next Token : 591, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0156
+Next Token : 2795, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0043
+Next Token : 
+
+, Posbility: 0.0052
+Next Token :  , Posbility: 0.0140
+Next Token : 
+, Posbility: 0.0806
+Next Token : 0, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159265358979323846264338327950
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 287, Posbility: 0.0039
+Next Token : 286, Posbility: 0.0060
+Next Token : 
+, Posbility: 0.0099
+Next Token : 288, Posbility: 0.1069
+Next Token : 2884, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643383279502884
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : L, Posbility: 0.0396
+Next Token : 1972, Posbility: 0.0576
+Next Token : 
+, Posbility: 0.0894
+Next Token : 197, Posbility: 0.2578
+Next Token : 1971, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 4, Posbility: 0.0110
+Next Token : 
+, Posbility: 0.0117
+Next Token :  , Posbility: 0.0182
+Next Token : 0, Posbility: 0.0361
+Next Token : 6939, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159265358979323846264338327950288419716939
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0024
+Next Token : 919, Posbility: 0.0028
+Next Token : 961, Posbility: 0.0038
+Next Token : 952, Posbility: 0.0055
+Next Token : 9375, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643383279502884197169399375
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 100, Posbility: 0.0109
+Next Token : 105, Posbility: 0.0109
+Next Token : 10, Posbility: 0.0383
+Next Token : 1, Posbility: 0.3203
+Next Token : 1058, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 9, Posbility: 0.0067
+Next Token : 2096, Posbility: 0.0081
+Next Token : 4, Posbility: 0.0125
+Next Token : 2, Posbility: 0.0767
+Next Token : 2097, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159265358979323846264338327950288419716939937510582097
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 486, Posbility: 0.0118
+Next Token : 46, Posbility: 0.0162
+Next Token : 4, Posbility: 0.0388
+Next Token : 494, Posbility: 0.0532
+Next Token : 4944, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643383279502884197169399375105820974944
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 259, Posbility: 0.0010
+Next Token : 59, Posbility: 0.0012
+Next Token : 593, Posbility: 0.0047
+Next Token : 591, Posbility: 0.0127
+Next Token : 592, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643383279502884197169399375105820974944592
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0067
+Next Token :  , Posbility: 0.0081
+Next Token : 308, Posbility: 0.0151
+Next Token : 
+, Posbility: 0.0410
+Next Token : 3078, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1641, Posbility: 0.0083
+Next Token : 163, Posbility: 0.0176
+Next Token : 164, Posbility: 0.0894
+Next Token : 16, Posbility: 0.1572
+Next Token : 1640, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159265358979323846264338327950288419716939937510582097494459230781640
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 528, Posbility: 0.0007
+Next Token : 672, Posbility: 0.0020
+Next Token : 629, Posbility: 0.0021
+Next Token : 62, Posbility: 0.0139
+Next Token : 628, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.14159265358979323846264338327950288419716939937510582097494459230781640628
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 670, Posbility: 0.0017
+Next Token : 418, Posbility: 0.0018
+Next Token : 621, Posbility: 0.0126
+Next Token : 620, Posbility: 0.0195
+Next Token : 6208, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.141592653589793238462643383279502884197169399375105820974944592307816406286208
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 9967, Posbility: 0.0023
+Next Token : 448, Posbility: 0.0036
+Next Token : 8824, Posbility: 0.0046
+Next Token : 994, Posbility: 0.0052
+Next Token : 9986, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 314, Posbility: 0.0047
+Next Token : 282, Posbility: 0.0065
+Next Token : 319, Posbility: 0.0073
+Next Token : 281, Posbility: 0.0371
+Next Token : 280, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 378, Posbility: 0.0044
+Next Token : 328, Posbility: 0.0050
+Next Token : 484, Posbility: 0.0053
+Next Token : 349, Posbility: 0.0057
+Next Token : 348, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 422, Posbility: 0.0060
+Next Token : 
+
+, Posbility: 0.0105
+Next Token : 2002, Posbility: 0.0105
+Next Token : 2534, Posbility: 0.1748
+Next Token : 
+, Posbility: 0.2246
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0056
+Next Token :       , Posbility: 0.0072
+Next Token :      , Posbility: 0.0134
+Next Token :     , Posbility: 0.0221
+Next Token :   , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0077
+Next Token : (, Posbility: 0.0237
+Next Token : return, Posbility: 0.0391
+Next Token : let, Posbility: 0.0728
+Next Token : in, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Math, Posbility: 0.0034
+Next Token :  2.0, Posbility: 0.0050
+Next Token :   , Posbility: 0.0327
+Next Token :  , Posbility: 0.1875
+Next Token : 
+, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0010
+Next Token :       , Posbility: 0.0016
+Next Token :    , Posbility: 0.0049
+Next Token :     , Posbility: 0.0469
+Next Token :   , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 4, Posbility: 0.0630
+Next Token : pi, Posbility: 0.1177
+Next Token : (, Posbility: 0.1943
+Next Token : 4.0, Posbility: 0.2490
+Next Token : let, Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0127
+Next Token :  area, Posbility: 0.0209
+Next Token :  a, Posbility: 0.0442
+Next Token :  rec, Posbility: 0.1357
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : t, Posbility: 0.0270
+Next Token : sr, Posbility: 0.0347
+Next Token : x, Posbility: 0.0393
+Next Token : s, Posbility: 0.1758
+Next Token : r, Posbility: 0.2266
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0146
+Next Token : 3, Posbility: 0.0310
+Next Token :  =, Posbility: 0.1572
+Next Token : _, Posbility: 0.2295
+Next Token : 2, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0015
+Next Token :  , Posbility: 0.0019
+Next Token : pi, Posbility: 0.0035
+Next Token : _, Posbility: 0.0051
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2*, Posbility: 0.0019
+Next Token :  float, Posbility: 0.0021
+Next Token :  1.0, Posbility: 0.0031
+Next Token :  2.0, Posbility: 0.0066
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2., Posbility: 0.0036
+Next Token : 2, Posbility: 0.0053
+Next Token : pow, Posbility: 0.0099
+Next Token : (, Posbility: 0.0728
+Next Token : r, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0139
+Next Token : ^2, Posbility: 0.0332
+Next Token :  , Posbility: 0.0623
+Next Token : *, Posbility: 0.1025
+Next Token :  *, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  2.0, Posbility: 0.0003
+Next Token : r, Posbility: 0.0008
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2., Posbility: 0.0000
+Next Token : pi, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0003
+Next Token : (, Posbility: 0.0009
+Next Token : r, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0080
+Next Token :  , Posbility: 0.0132
+Next Token :  *, Posbility: 0.0317
+Next Token : 
+, Posbility: 0.4355
+Next Token :  in, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (*, Posbility: 0.0002
+Next Token :   , Posbility: 0.0006
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.0140
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0003
+Next Token :       , Posbility: 0.0012
+Next Token :     , Posbility: 0.0019
+Next Token :  , Posbility: 0.0075
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0413
+Next Token : 4.0, Posbility: 0.0530
+Next Token : (, Posbility: 0.1123
+Next Token : pi, Posbility: 0.1631
+Next Token : let, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0188
+Next Token :  rec, Posbility: 0.0310
+Next Token :  area, Posbility: 0.0352
+Next Token :  a, Posbility: 0.0957
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : phi, Posbility: 0.0374
+Next Token : t, Posbility: 0.0422
+Next Token : pi, Posbility: 0.0422
+Next Token : r, Posbility: 0.1895
+Next Token : s, Posbility: 0.2148
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0172
+Next Token : ina, Posbility: 0.0194
+Next Token : qr, Posbility: 0.0249
+Next Token : 2, Posbility: 0.1436
+Next Token :  =, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2.0, Posbility: 0.0238
+Next Token :  1.0, Posbility: 0.0393
+Next Token :  1, Posbility: 0.1064
+Next Token :  4, Posbility: 0.1367
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0625
+Next Token : 2, Posbility: 0.1709
+Next Token : (, Posbility: 0.2188
+Next Token : 4.0, Posbility: 0.2480
+Next Token : pi, Posbility: 0.2480
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0021
+Next Token : *, Posbility: 0.0050
+Next Token : /, Posbility: 0.0137
+Next Token :  , Posbility: 0.3125
+Next Token :  *, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2.0, Posbility: 0.0034
+Next Token :  (1, Posbility: 0.0034
+Next Token :  ((, Posbility: 0.0044
+Next Token :  4, Posbility: 0.0288
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pow, Posbility: 0.0042
+Next Token : 4.0, Posbility: 0.0078
+Next Token : 2, Posbility: 0.0088
+Next Token : (, Posbility: 0.1768
+Next Token : r, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^2, Posbility: 0.0018
+Next Token : 2., Posbility: 0.0021
+Next Token :  , Posbility: 0.0039
+Next Token :  *, Posbility: 0.0366
+Next Token : 2, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : /, Posbility: 0.0043
+Next Token : 
+, Posbility: 0.0133
+Next Token :  , Posbility: 0.0466
+Next Token :  *, Posbility: 0.0986
+Next Token :  in, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2 in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0001
+Next Token :   , Posbility: 0.0005
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.0067
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2 in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0005
+Next Token :       , Posbility: 0.0009
+Next Token :     , Posbility: 0.0028
+Next Token :  , Posbility: 0.0124
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2 in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : in, Posbility: 0.0086
+Next Token : 2, Posbility: 0.0125
+Next Token : (, Posbility: 0.0265
+Next Token : let, Posbility: 0.1050
+Next Token : s, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2 in
+  s
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0264
+Next Token :  *, Posbility: 0.0339
+Next Token :  , Posbility: 0.1338
+Next Token : 
+
+, Posbility: 0.3223
+Next Token : 
+, Posbility: 0.4688
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2 in
+  s
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0317
+Next Token :   , Posbility: 0.0408
+Next Token : ```, Posbility: 0.0591
+Next Token : let, Posbility: 0.1611
+Next Token : 
+
+, Posbility: 0.1611
+---------------------------
+code:
+ (* Write a function to find the surface area of a sphere. *)
+let sphere_area r =
+  let pi = 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348
+  in
+  let r2 = r * r in
+  let s = pi * r2 in
+  s
+
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :31.370798349380493
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,1293 @@
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  unique, Posbility: 0.0225
+Next Token :  only, Posbility: 0.0371
+Next Token :  find, Posbility: 0.1465
+Next Token :  , Posbility: 0.1885
+Next Token :  rec, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0269
+Next Token :  loop, Posbility: 0.0344
+Next Token :  count, Posbility: 0.0344
+Next Token :  , Posbility: 0.2891
+Next Token :  find, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0029
+Next Token : 1, Posbility: 0.0080
+Next Token :  , Posbility: 0.0132
+Next Token :  =, Posbility: 0.0150
+Next Token : _, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : element, Posbility: 0.0518
+Next Token : first, Posbility: 0.0586
+Next Token : only, Posbility: 0.1406
+Next Token : one, Posbility: 0.1807
+Next Token : unique, Posbility: 0.2314
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  element, Posbility: 0.0137
+Next Token : (, Posbility: 0.0374
+Next Token :  , Posbility: 0.2148
+Next Token :  =, Posbility: 0.2148
+Next Token : _, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : one, Posbility: 0.0332
+Next Token : in, Posbility: 0.0376
+Next Token : elem, Posbility: 0.0427
+Next Token : sorted, Posbility: 0.0623
+Next Token : element, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0128
+Next Token : (, Posbility: 0.0347
+Next Token : _, Posbility: 0.1562
+Next Token :  =, Posbility: 0.1562
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0308
+Next Token : lst, Posbility: 0.0737
+Next Token : (, Posbility: 0.1768
+Next Token : x, Posbility: 0.1768
+Next Token : arr, Posbility: 0.3301
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0046
+Next Token :  i, Posbility: 0.0125
+Next Token :  a, Posbility: 0.0141
+Next Token :  , Posbility: 0.0557
+Next Token :  =, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0041
+Next Token :  {, Posbility: 0.0047
+Next Token :  match, Posbility: 0.0344
+Next Token :  , Posbility: 0.0569
+Next Token : 
+, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0055
+Next Token : 	, Posbility: 0.0103
+Next Token :    , Posbility: 0.0117
+Next Token :     , Posbility: 0.1416
+Next Token :   , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fun, Posbility: 0.0059
+Next Token : (, Posbility: 0.0097
+Next Token : if, Posbility: 0.2207
+Next Token : let, Posbility: 0.2500
+Next Token : match, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0009
+Next Token :  !, Posbility: 0.0019
+Next Token :  [, Posbility: 0.0021
+Next Token :  String, Posbility: 0.0035
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Arr, Posbility: 0.0121
+Next Token : (, Posbility: 0.0200
+Next Token : List, Posbility: 0.0698
+Next Token : Array, Posbility: 0.1016
+Next Token : arr, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0015
+Next Token : ., Posbility: 0.0024
+Next Token :  @, Posbility: 0.0024
+Next Token :  |, Posbility: 0.0066
+Next Token :  with, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0034
+Next Token :  {, Posbility: 0.0034
+Next Token :  [, Posbility: 0.0117
+Next Token :  [], Posbility: 0.0464
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :    , Posbility: 0.0016
+Next Token :       , Posbility: 0.0018
+Next Token :     , Posbility: 0.0674
+Next Token :   , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : [, Posbility: 0.0197
+Next Token : [], Posbility: 0.0325
+Next Token : |, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  null, Posbility: 0.0007
+Next Token :  nil, Posbility: 0.0038
+Next Token :  , Posbility: 0.0172
+Next Token :  [, Posbility: 0.0364
+Next Token :  [], Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0063
+Next Token :    , Posbility: 0.0103
+Next Token :  |, Posbility: 0.0103
+Next Token :  =>, Posbility: 0.0170
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0003
+Next Token : →, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0017
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0420
+Next Token : 
+, Posbility: 0.0693
+Next Token :  error, Posbility: 0.1885
+Next Token :  fail, Posbility: 0.3105
+Next Token :  , Posbility: 0.3105
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0304
+Next Token : Error, Posbility: 0.0500
+Next Token : (), Posbility: 0.0645
+Next Token : assert, Posbility: 0.0938
+Next Token : raise, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise
+ score:False
+Error type: noerr
+---------------------------
+Next Token : not, Posbility: 0.0100
+Next Token : _, Posbility: 0.0239
+Next Token :  ", Posbility: 0.0649
+Next Token :  , Posbility: 0.3750
+Next Token :  Not, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not
+ score:False
+Error type: noerr
+---------------------------
+Next Token : In, Posbility: 0.0011
+Next Token :  found, Posbility: 0.0013
+Next Token : found, Posbility: 0.0021
+Next Token : Unique, Posbility: 0.0031
+Next Token : _, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : unique, Posbility: 0.0067
+Next Token : Found, Posbility: 0.0067
+Next Token : reached, Posbility: 0.0076
+Next Token : a, Posbility: 0.0086
+Next Token : found, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (), Posbility: 0.0255
+Next Token : _, Posbility: 0.0422
+Next Token :  ", Posbility: 0.0542
+Next Token :  , Posbility: 0.0693
+Next Token : 
+, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :           , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |_|, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  el, Posbility: 0.0054
+Next Token :  [], Posbility: 0.0069
+Next Token :  a, Posbility: 0.0398
+Next Token :  [, Posbility: 0.2930
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0214
+Next Token : hd, Posbility: 0.0310
+Next Token : head, Posbility: 0.0579
+Next Token : _, Posbility: 0.3770
+Next Token : x, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0085
+Next Token : :, Posbility: 0.0160
+Next Token : s, Posbility: 0.0298
+Next Token : ::, Posbility: 0.2490
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0004
+Next Token : :, Posbility: 0.0023
+Next Token : if, Posbility: 0.0167
+Next Token : ->, Posbility: 0.0659
+Next Token : ::, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0031
+Next Token :  a, Posbility: 0.0074
+Next Token :  [], Posbility: 0.0107
+Next Token :  rest, Posbility: 0.1021
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0320
+Next Token : tail, Posbility: 0.0466
+Next Token : y, Posbility: 0.0527
+Next Token : _, Posbility: 0.2363
+Next Token : x, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0009
+Next Token : _, Posbility: 0.0024
+Next Token :  , Posbility: 0.0031
+Next Token : ', Posbility: 0.0289
+Next Token : s, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0011
+Next Token :   , Posbility: 0.0035
+Next Token :  =>, Posbility: 0.0051
+Next Token :  when, Posbility: 0.1167
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0004
+Next Token : if, Posbility: 0.0066
+Next Token : ::, Posbility: 0.0178
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0128
+Next Token :  match, Posbility: 0.0271
+Next Token :  find, Posbility: 0.0349
+Next Token :  , Posbility: 0.2002
+Next Token : 
+, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0054
+Next Token :      , Posbility: 0.0129
+Next Token :   , Posbility: 0.0166
+Next Token :       , Posbility: 0.3340
+Next Token :     , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : find, Posbility: 0.0110
+Next Token : (, Posbility: 0.0126
+Next Token : match, Posbility: 0.1050
+Next Token : let, Posbility: 0.4160
+Next Token : if, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0118
+Next Token :  String, Posbility: 0.0220
+Next Token :  is, Posbility: 0.0249
+Next Token :  not, Posbility: 0.0679
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0186
+Next Token : Array, Posbility: 0.0347
+Next Token : List, Posbility: 0.0571
+Next Token : (, Posbility: 0.0645
+Next Token : x, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  in, Posbility: 0.0095
+Next Token :  ==, Posbility: 0.0479
+Next Token : s, Posbility: 0.1016
+Next Token :  , Posbility: 0.2148
+Next Token :  =, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0016
+Next Token :  First, Posbility: 0.0021
+Next Token :  Car, Posbility: 0.0024
+Next Token :  first, Posbility: 0.0107
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0143
+Next Token : Array, Posbility: 0.0143
+Next Token : arr, Posbility: 0.0344
+Next Token : head, Posbility: 0.1060
+Next Token : x, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  &&, Posbility: 0.0004
+Next Token : [0], Posbility: 0.0005
+Next Token :  , Posbility: 0.0012
+Next Token : ', Posbility: 0.0015
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0214
+Next Token : ', Posbility: 0.0214
+Next Token :  then, Posbility: 0.0742
+Next Token : ., Posbility: 0.4277
+Next Token : [0], Posbility: 0.4277
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0]
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0035
+Next Token :  ||, Posbility: 0.0035
+Next Token :  &&, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0085
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Some, Posbility: 0.0023
+Next Token :  {, Posbility: 0.0048
+Next Token :  find, Posbility: 0.1807
+Next Token : 
+, Posbility: 0.2988
+Next Token :  , Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0198
+Next Token : (, Posbility: 0.0287
+Next Token : arr, Posbility: 0.0325
+Next Token : return, Posbility: 0.2119
+Next Token : x, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0127
+Next Token :  , Posbility: 0.0732
+Next Token :  else, Posbility: 0.0938
+Next Token : s, Posbility: 0.1064
+Next Token : 
+, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :      , Posbility: 0.0003
+Next Token :   , Posbility: 0.0004
+Next Token :       , Posbility: 0.0007
+Next Token :    , Posbility: 0.0012
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : |, Posbility: 0.0001
+Next Token : let, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0002
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0067
+Next Token :  rec, Posbility: 0.0075
+Next Token : 
+, Posbility: 0.1514
+Next Token :  , Posbility: 0.2197
+Next Token :  find, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  1, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token :  unique, Posbility: 0.0001
+Next Token :  , Posbility: 0.0008
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : one, Posbility: 0.0000
+Next Token : element, Posbility: 0.0001
+Next Token : uniq, Posbility: 0.0001
+Next Token : first, Posbility: 0.0001
+Next Token : unique, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token :  element, Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ele, Posbility: 0.0000
+Next Token : elt, Posbility: 0.0000
+Next Token : elements, Posbility: 0.0000
+Next Token : elem, Posbility: 0.0001
+Next Token : element, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0004
+Next Token :  ~, Posbility: 0.0011
+Next Token :  [, Posbility: 0.0050
+Next Token : (, Posbility: 0.0369
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Array, Posbility: 0.0002
+Next Token : ([, Posbility: 0.0009
+Next Token : arr, Posbility: 0.0112
+Next Token : x, Posbility: 0.3730
+Next Token : (, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Arr, Posbility: 0.0058
+Next Token : List, Posbility: 0.0066
+Next Token : Array, Posbility: 0.0427
+Next Token : arr, Posbility: 0.0623
+Next Token : x, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0018
+Next Token : :, Posbility: 0.0048
+Next Token : ::, Posbility: 0.0215
+Next Token : s, Posbility: 0.2617
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : x, Posbility: 0.0002
+Next Token : :, Posbility: 0.0067
+Next Token : ::, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0001
+Next Token :  rest, Posbility: 0.0001
+Next Token :  drop, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0002
+Next Token : tail, Posbility: 0.0003
+Next Token : (, Posbility: 0.0025
+Next Token : arr, Posbility: 0.0025
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1), Posbility: 0.0000
+Next Token : );, Posbility: 0.0000
+Next Token : ), Posbility: 0.0001
+Next Token :  , Posbility: 0.0003
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1), Posbility: 0.0003
+Next Token : [1:], Posbility: 0.0003
+Next Token :  , Posbility: 0.0106
+Next Token : );, Posbility: 0.0289
+Next Token : ), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0024
+Next Token :  *, Posbility: 0.0027
+Next Token :  , Posbility: 0.0073
+Next Token : 
+
+, Posbility: 0.3105
+Next Token : 
+, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0078
+Next Token : end, Posbility: 0.0393
+Next Token :     , Posbility: 0.0571
+Next Token : let, Posbility: 0.0830
+Next Token :   , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : in, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0138
+Next Token : end, Posbility: 0.0845
+Next Token : ;, Posbility: 0.2031
+Next Token : |, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0049
+Next Token :  ?, Posbility: 0.0072
+Next Token :  [, Posbility: 0.0415
+Next Token :  [], Posbility: 0.0684
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0036
+Next Token : (, Posbility: 0.0059
+Next Token : y, Posbility: 0.0160
+Next Token : x, Posbility: 0.4121
+Next Token : _, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0027
+Next Token :  as, Posbility: 0.0031
+Next Token : x, Posbility: 0.0039
+Next Token : ::, Posbility: 0.0121
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0008
+Next Token : if, Posbility: 0.0037
+Next Token : x, Posbility: 0.0042
+Next Token : ::, Posbility: 0.2910
+Next Token : ->, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  not, Posbility: 0.0139
+Next Token :  find, Posbility: 0.0178
+Next Token :  fail, Posbility: 0.0378
+Next Token : 
+, Posbility: 0.1318
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0073
+Next Token : arr, Posbility: 0.0073
+Next Token : (), Posbility: 0.0199
+Next Token : assert, Posbility: 0.0479
+Next Token : raise, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ -> raise
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0007
+Next Token :  ", Posbility: 0.0039
+Next Token : _, Posbility: 0.0057
+Next Token :  , Posbility: 0.0289
+Next Token :  Not, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ -> raise Not
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  a, Posbility: 0.0000
+Next Token :  unique, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  found, Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ -> raise Not_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : done, Posbility: 0.0003
+Next Token : implement, Posbility: 0.0005
+Next Token : sorted, Posbility: 0.0007
+Next Token : unique, Posbility: 0.0012
+Next Token : found, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ -> raise Not_found
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0047
+Next Token : ), Posbility: 0.0077
+Next Token :  , Posbility: 0.0127
+Next Token : 
+, Posbility: 0.2539
+Next Token : 
+
+, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find the element that appears only once in a sorted array. *)
+let rec find_unique_element arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+    if x = xs[0] then x
+    else find_unique_element (x :: xs)
+  | _ -> raise Not_found
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :35.88019013404846
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

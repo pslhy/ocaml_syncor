@@ -1,0 +1,214 @@
+code:
+ (* Write a function to convert a list to a tuple. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  make, Posbility: 0.0732
+Next Token :  to, Posbility: 0.0938
+Next Token :  list, Posbility: 0.0938
+Next Token :  rec, Posbility: 0.2559
+Next Token :  , Posbility: 0.2559
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : cons, Posbility: 0.0408
+Next Token : mk, Posbility: 0.0461
+Next Token : (, Posbility: 0.0525
+Next Token : tup, Posbility: 0.0525
+Next Token : f, Posbility: 0.0674
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0134
+Next Token : 1, Posbility: 0.0222
+Next Token : st, Posbility: 0.1445
+Next Token :  =, Posbility: 0.2383
+Next Token :  , Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ls, Posbility: 0.0223
+Next Token : (, Posbility: 0.0474
+Next Token : lst, Posbility: 0.0608
+Next Token : :, Posbility: 0.1001
+Next Token : x, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0018
+Next Token :  l, Posbility: 0.0018
+Next Token :  , Posbility: 0.0767
+Next Token :  =, Posbility: 0.3418
+Next Token : s, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0003
+Next Token :   , Posbility: 0.0008
+Next Token :  ~, Posbility: 0.0008
+Next Token :  , Posbility: 0.0123
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0073
+Next Token :  match, Posbility: 0.0176
+Next Token :  [, Posbility: 0.0199
+Next Token : 
+, Posbility: 0.4531
+Next Token :  , Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0605
+Next Token : let, Posbility: 0.0879
+Next Token : List, Posbility: 0.0996
+Next Token : x, Posbility: 0.2715
+Next Token : (, Posbility: 0.3066
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : ,, Posbility: 0.0267
+Next Token : Tuple, Posbility: 0.0267
+Next Token :  , Posbility: 0.0825
+Next Token : List, Posbility: 0.1748
+Next Token : x, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ::, Posbility: 0.0039
+Next Token : :, Posbility: 0.0050
+Next Token : ,, Posbility: 0.0374
+Next Token :  , Posbility: 0.0894
+Next Token : s, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0041
+Next Token :  @, Posbility: 0.0067
+Next Token : ,0, Posbility: 0.0110
+Next Token :  , Posbility: 0.1729
+Next Token : ,, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [],, Posbility: 0.0098
+Next Token :  nil, Posbility: 0.0125
+Next Token : x, Posbility: 0.0125
+Next Token : ), Posbility: 0.3652
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0182
+Next Token : ), Posbility: 0.0342
+Next Token : ()), Posbility: 0.2520
+Next Token : []), Posbility: 0.2852
+Next Token : x, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs, x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ', Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : ,, Posbility: 0.0002
+Next Token : ), Posbility: 0.0017
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs, xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : );, Posbility: 0.0058
+Next Token :  @, Posbility: 0.0075
+Next Token :  , Posbility: 0.0159
+Next Token : ,, Posbility: 0.0713
+Next Token : ), Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs, xs)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0146
+Next Token :  in, Posbility: 0.0212
+Next Token :  , Posbility: 0.0576
+Next Token : 
+, Posbility: 0.3770
+Next Token : 
+
+, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to convert a list to a tuple. *)
+let f xs = (xs, xs)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :8.357930421829224
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

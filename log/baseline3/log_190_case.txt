@@ -1,0 +1,318 @@
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let
+Next Token :  rec, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec
+Next Token :  , Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec 
+Next Token : digits, Posbility: 0.2520
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits
+Next Token : _, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_
+Next Token : sum, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum
+Next Token :  , Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum 
+Next Token : n, Posbility: 0.2178
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n
+Next Token :  =, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+Next Token : 
+, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+
+Next Token :   , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  
+Next Token : match, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match 
+Next Token : n, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n
+Next Token :  with, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  
+Next Token : |, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  |
+Next Token :  0, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 ->
+Next Token :  0, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+Next Token : 
+, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  |
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | 
+Next Token : n, Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n 
+Next Token : ->, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n ->
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> 
+Next Token : n, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n
+Next Token :  *, Posbility: 0.2988
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n *
+Next Token :  10, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10
+Next Token :  +, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 +
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + 
+Next Token : digits, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum 
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum (
+Next Token : n, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum (n
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum (n 
+Next Token : /, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum (n /
+Next Token :  10), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to compute the sum of digits of each number of a given list. *)
+let rec digits_sum n =
+  match n with
+  | 0 -> 0
+  | n -> n * 10 + digits_sum (n / 10)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.527132511138916
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

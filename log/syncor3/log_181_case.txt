@@ -1,0 +1,502 @@
+code:
+ (* Write a function to find the n'th lucas number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  factor, Posbility: 0.0031
+Next Token :  get, Posbility: 0.0108
+Next Token :  find, Posbility: 0.0139
+Next Token :  , Posbility: 0.3164
+Next Token :  rec, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0102
+Next Token :  rec, Posbility: 0.0131
+Next Token :  loop, Posbility: 0.0216
+Next Token :  find, Posbility: 0.0277
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0120
+Next Token : fi, Posbility: 0.0198
+Next Token : nth, Posbility: 0.0417
+Next Token : n, Posbility: 0.0688
+Next Token : luc, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec luc
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : asc, Posbility: 0.0010
+Next Token : _, Posbility: 0.0013
+Next Token : ass, Posbility: 0.0017
+Next Token : a, Posbility: 0.0028
+Next Token : as, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0058
+Next Token : (, Posbility: 0.0549
+Next Token :  =, Posbility: 0.0620
+Next Token : _, Posbility: 0.3164
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0107
+Next Token : m, Posbility: 0.0155
+Next Token : x, Posbility: 0.0199
+Next Token : (, Posbility: 0.0786
+Next Token : n, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0114
+Next Token :  k, Posbility: 0.0309
+Next Token :  i, Posbility: 0.0309
+Next Token :  , Posbility: 0.1572
+Next Token :  =, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0056
+Next Token :  function, Posbility: 0.0064
+Next Token :  match, Posbility: 0.0535
+Next Token :  , Posbility: 0.0884
+Next Token : 
+, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0043
+Next Token : 	, Posbility: 0.0049
+Next Token :    , Posbility: 0.0092
+Next Token :     , Posbility: 0.1436
+Next Token :   , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0062
+Next Token : n, Posbility: 0.0101
+Next Token : let, Posbility: 0.0747
+Next Token : match, Posbility: 0.3359
+Next Token : if, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token :  N, Posbility: 0.0007
+Next Token :  !, Posbility: 0.0008
+Next Token :  not, Posbility: 0.0012
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0004
+Next Token : let, Posbility: 0.0004
+Next Token : Int, Posbility: 0.0013
+Next Token : (, Posbility: 0.0159
+Next Token : n, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0047
+Next Token :  ==, Posbility: 0.0942
+Next Token :  , Posbility: 0.0942
+Next Token :  <=, Posbility: 0.0942
+Next Token :  =, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0004
+Next Token : 1, Posbility: 0.0004
+Next Token :  , Posbility: 0.0242
+Next Token :  1, Posbility: 0.4863
+Next Token :  0, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  with, Posbility: 0.0014
+Next Token :  , Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0136
+Next Token :  ||, Posbility: 0.0225
+Next Token :  then, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1;, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.1201
+Next Token :  , Posbility: 0.1201
+Next Token :  0, Posbility: 0.1982
+Next Token :  1, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0016
+Next Token :  +, Posbility: 0.0019
+Next Token :  , Posbility: 0.0156
+Next Token : 
+, Posbility: 0.4551
+Next Token :  else, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token :  (1, Posbility: 0.0020
+Next Token :  {, Posbility: 0.0080
+Next Token : 
+, Posbility: 0.3398
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0067
+Next Token : 2, Posbility: 0.0262
+Next Token : n, Posbility: 0.0298
+Next Token : (, Posbility: 0.0491
+Next Token : luc, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else luc
+ score:False
+Error type: noerr
+---------------------------
+Next Token : asi, Posbility: 0.0000
+Next Token :  as, Posbility: 0.0000
+Next Token : ass, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Next Token : as, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0011
+Next Token :  (1, Posbility: 0.0026
+Next Token :  ((, Posbility: 0.0033
+Next Token : (, Posbility: 0.0752
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : (`, Posbility: 0.0001
+Next Token : n, Posbility: 0.0420
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : succ, Posbility: 0.0015
+Next Token :  , Posbility: 0.0035
+Next Token : luc, Posbility: 0.0035
+Next Token : 2, Posbility: 0.0058
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1, Posbility: 0.0054
+Next Token : +1), Posbility: 0.0089
+Next Token :  +, Posbility: 0.0396
+Next Token : -1), Posbility: 0.1377
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0001
+Next Token : ^, Posbility: 0.0002
+Next Token : /, Posbility: 0.0004
+Next Token : −, Posbility: 0.0012
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0024
+Next Token :  1, Posbility: 0.0024
+Next Token :  1);, Posbility: 0.0024
+Next Token :  2), Posbility: 0.0066
+Next Token :  1), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0067
+Next Token :  ++, Posbility: 0.0111
+Next Token :  , Posbility: 0.0640
+Next Token :  *, Posbility: 0.2871
+Next Token :  +, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0007
+Next Token :   , Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0015
+Next Token :  1, Posbility: 0.0041
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Luc, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0065
+Next Token : n, Posbility: 0.0107
+Next Token : (, Posbility: 0.0176
+Next Token : luc, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + luc
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  as, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Next Token : ash, Posbility: 0.0000
+Next Token : ass, Posbility: 0.0000
+Next Token : as, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  0, Posbility: 0.0003
+Next Token :  (1, Posbility: 0.0009
+Next Token :  ((, Posbility: 0.0022
+Next Token : (, Posbility: 0.0028
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (-1), Posbility: 0.0001
+Next Token : (--, Posbility: 0.0001
+Next Token : (0), Posbility: 0.0004
+Next Token : n, Posbility: 0.0374
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : luc, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : 2, Posbility: 0.0013
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : );, Posbility: 0.0008
+Next Token : ), Posbility: 0.0058
+Next Token : -1), Posbility: 0.0058
+Next Token :  +, Posbility: 0.1172
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0003
+Next Token : -2, Posbility: 0.0004
+Next Token : ^, Posbility: 0.0006
+Next Token : /, Posbility: 0.0012
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0118
+Next Token :  1);, Posbility: 0.0118
+Next Token :  1), Posbility: 0.0874
+Next Token :  2);, Posbility: 0.2373
+Next Token :  2), Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0087
+Next Token :  , Posbility: 0.0143
+Next Token :  in, Posbility: 0.0267
+Next Token : 
+, Posbility: 0.3262
+Next Token : 
+
+, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the n'th lucas number. *)
+let rec lucas n =
+  if n = 0 then 1 else lucas (n - 1) + lucas (n - 2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :17.202443599700928
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

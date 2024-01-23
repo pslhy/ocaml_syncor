@@ -1,0 +1,441 @@
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let
+Next Token :  remove, Posbility: 0.3535
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove
+Next Token : _, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_
+Next Token : parent, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parent
+Next Token : h, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenth
+Next Token : es, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthes
+Next Token : is, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis
+Next Token :  , Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis 
+Next Token : s, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+Next Token : 
+, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  
+Next Token : let, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let
+Next Token :  , Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let 
+Next Token : s, Posbility: 0.2617
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s
+Next Token :  =, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s =
+Next Token :  String, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.
+Next Token : trim, Posbility: 0.2344
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim
+Next Token :  , Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim 
+Next Token : s, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  
+Next Token : let, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let
+Next Token :  , Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let 
+Next Token : s, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s
+Next Token :  =, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s =
+Next Token :  String, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.
+Next Token : remove, Posbility: 0.2275
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove
+Next Token : _, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_
+Next Token : prefix, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix 
+Next Token : s, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s
+Next Token :  ", Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "
+Next Token : (", Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "("
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  
+Next Token : let, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let 
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s =
+Next Token :  String, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.
+Next Token : remove, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_
+Next Token : suffix, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s 
+Next Token : "), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")
+Next Token : ", Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")"
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+  
+Next Token : s, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+  s
+Next Token : 
+, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+  s
+
+Next Token : ;, Posbility: 0.1348
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+  s
+;
+Next Token : ;, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove the parenthesis and what is inbetween them from a string. *)
+let remove_parenthesis s =
+  let s = String.trim s in
+  let s = String.remove_prefix s "(" in
+  let s = String.remove_suffix s ")" in
+  s
+;;
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.7680861949920654
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

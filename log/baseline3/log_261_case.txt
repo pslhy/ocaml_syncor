@@ -1,0 +1,139 @@
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let
+Next Token :  , Posbility: 0.2773
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let 
+Next Token : lowercase, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase
+Next Token :  =, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase =
+Next Token :  String, Posbility: 0.2676
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.
+Next Token : map, Posbility: 0.2441
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map 
+Next Token : (, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (
+Next Token : fun, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun 
+Next Token : c, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c ->
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> 
+Next Token : c, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c 
+Next Token : ^, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^
+Next Token :  ', Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ '
+Next Token : a, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a
+Next Token : ', Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a'
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a' 
+Next Token : ^, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a' ^
+Next Token :  ', Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a' ^ '
+Next Token : A, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a' ^ 'A
+Next Token : '), Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to convert the given string to lower case. *)
+let lowercase = String.map (fun c -> c ^ 'a' ^ 'A')
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.022923707962036
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

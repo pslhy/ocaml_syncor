@@ -1,0 +1,999 @@
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0454
+Next Token :  find, Posbility: 0.0581
+Next Token :  side, Posbility: 0.0747
+Next Token :  , Posbility: 0.2031
+Next Token :  rec, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  side, Posbility: 0.0325
+Next Token :  is, Posbility: 0.0535
+Next Token :  rec, Posbility: 0.0535
+Next Token :  find, Posbility: 0.1865
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0359
+Next Token : tri, Posbility: 0.0461
+Next Token : solve, Posbility: 0.0522
+Next Token : f, Posbility: 0.0674
+Next Token : triangle, Posbility: 0.2344
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Side, Posbility: 0.0277
+Next Token : s, Posbility: 0.0315
+Next Token : (, Posbility: 0.0457
+Next Token :  , Posbility: 0.2051
+Next Token : _, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sum, Posbility: 0.0138
+Next Token : area, Posbility: 0.0138
+Next Token : length, Posbility: 0.0201
+Next Token : third, Posbility: 0.0376
+Next Token : side, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0742
+Next Token :  =, Posbility: 0.0952
+Next Token : _, Posbility: 0.2021
+Next Token : s, Posbility: 0.2598
+Next Token :  , Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0491
+Next Token : t, Posbility: 0.0554
+Next Token : (, Posbility: 0.1709
+Next Token : x, Posbility: 0.1934
+Next Token : n, Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0159
+Next Token :  a, Posbility: 0.0204
+Next Token :  side, Posbility: 0.0297
+Next Token :  , Posbility: 0.1934
+Next Token :  =, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0028
+Next Token :  {, Posbility: 0.0036
+Next Token :  match, Posbility: 0.0344
+Next Token :  , Posbility: 0.0645
+Next Token : 
+, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0050
+Next Token :    , Posbility: 0.0072
+Next Token : 	, Posbility: 0.0082
+Next Token :     , Posbility: 0.1279
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0070
+Next Token : (, Posbility: 0.0102
+Next Token : let, Posbility: 0.0669
+Next Token : match, Posbility: 0.2637
+Next Token : if, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0008
+Next Token :  is, Posbility: 0.0008
+Next Token :  !, Posbility: 0.0008
+Next Token :  not, Posbility: 0.0024
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0006
+Next Token : 2, Posbility: 0.0007
+Next Token : Int, Posbility: 0.0021
+Next Token : (, Posbility: 0.0291
+Next Token : n, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0095
+Next Token :  ==, Posbility: 0.0703
+Next Token :  , Posbility: 0.1914
+Next Token :  <=, Posbility: 0.1914
+Next Token :  =, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0021
+Next Token :  4, Posbility: 0.0021
+Next Token :  , Posbility: 0.0415
+Next Token :  1, Posbility: 0.1133
+Next Token :  0, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  or, Posbility: 0.0014
+Next Token :  , Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0175
+Next Token :  ||, Posbility: 0.0175
+Next Token :  then, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Some, Posbility: 0.0233
+Next Token :  1, Posbility: 0.1348
+Next Token : 
+, Posbility: 0.1729
+Next Token :  , Posbility: 0.2217
+Next Token :  0, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0040
+Next Token :  |, Posbility: 0.0058
+Next Token :  , Posbility: 0.0159
+Next Token :  else, Posbility: 0.3613
+Next Token : 
+, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0004
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0007
+Next Token :     , Posbility: 0.0019
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |, Posbility: 0.0004
+Next Token : let, Posbility: 0.0009
+Next Token : if, Posbility: 0.0017
+Next Token : elif, Posbility: 0.0075
+Next Token : else, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0026
+Next Token :  1, Posbility: 0.0033
+Next Token :  {, Posbility: 0.0190
+Next Token : 
+, Posbility: 0.1592
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0162
+Next Token : triangle, Posbility: 0.0391
+Next Token : (, Posbility: 0.0569
+Next Token : n, Posbility: 0.1543
+Next Token : if, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0004
+Next Token :   , Posbility: 0.0005
+Next Token :  0, Posbility: 0.0007
+Next Token :  not, Posbility: 0.0009
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0003
+Next Token : odd, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0015
+Next Token : (, Posbility: 0.0124
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  %, Posbility: 0.0076
+Next Token :  ==, Posbility: 0.0098
+Next Token :  <=, Posbility: 0.0126
+Next Token :  , Posbility: 0.0723
+Next Token :  =, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0003
+Next Token :  4, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0009
+Next Token :  , Posbility: 0.0179
+Next Token :  1, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :  or, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0017
+Next Token :  ||, Posbility: 0.0075
+Next Token :  then, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0073
+Next Token : 
+, Posbility: 0.0121
+Next Token :  0, Posbility: 0.1147
+Next Token :  , Posbility: 0.3105
+Next Token :  1, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0039
+Next Token :  +, Posbility: 0.0093
+Next Token :  , Posbility: 0.0135
+Next Token :  else, Posbility: 0.0197
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token :     , Posbility: 0.0004
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |, Posbility: 0.0000
+Next Token : elif, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : let, Posbility: 0.0002
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0019
+Next Token :  2*, Posbility: 0.0021
+Next Token :  {, Posbility: 0.0178
+Next Token : 
+, Posbility: 0.1025
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0532
+Next Token : 2, Posbility: 0.0603
+Next Token : n, Posbility: 0.1855
+Next Token : triangle, Posbility: 0.1855
+Next Token : if, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0005
+Next Token :  even, Posbility: 0.0005
+Next Token :  not, Posbility: 0.0006
+Next Token :  O, Posbility: 0.0007
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : odd, Posbility: 0.0004
+Next Token : let, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0019
+Next Token : (, Posbility: 0.0096
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0049
+Next Token :  mod, Posbility: 0.0091
+Next Token :  %, Posbility: 0.0117
+Next Token :  , Posbility: 0.0317
+Next Token :  =, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0003
+Next Token :  4, Posbility: 0.0009
+Next Token :  0, Posbility: 0.0009
+Next Token :  -1, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 6, Posbility: 0.0001
+Next Token : 5, Posbility: 0.0003
+Next Token : n, Posbility: 0.0010
+Next Token : 3, Posbility: 0.0059
+Next Token : 2, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Next Token :  ||, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0013
+Next Token :  then, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0055
+Next Token :  -1, Posbility: 0.0150
+Next Token :  1, Posbility: 0.0405
+Next Token :  0, Posbility: 0.1104
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : triangle, Posbility: 0.0046
+Next Token : (, Posbility: 0.0067
+Next Token : n, Posbility: 0.0302
+Next Token : 3, Posbility: 0.0498
+Next Token : 2, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0027
+Next Token :  *, Posbility: 0.0039
+Next Token :  else, Posbility: 0.0120
+Next Token :  , Posbility: 0.0287
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :           , Posbility: 0.0003
+Next Token :      , Posbility: 0.0003
+Next Token :       , Posbility: 0.0006
+Next Token :     , Posbility: 0.0022
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |, Posbility: 0.0001
+Next Token : -, Posbility: 0.0002
+Next Token : //, Posbility: 0.0002
+Next Token : let, Posbility: 0.0003
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0016
+Next Token :  then, Posbility: 0.0023
+Next Token :  {, Posbility: 0.0135
+Next Token : 
+, Posbility: 0.1279
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0552
+Next Token : let, Posbility: 0.0708
+Next Token : n, Posbility: 0.1504
+Next Token : if, Posbility: 0.1924
+Next Token : triangle, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : [, Posbility: 0.0001
+Next Token : Side, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : half, Posbility: 0.0000
+Next Token : area, Posbility: 0.0000
+Next Token : base, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : side, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0011
+Next Token :  (1, Posbility: 0.0165
+Next Token :  ((, Posbility: 0.0211
+Next Token : (, Posbility: 0.0574
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0007
+Next Token : 2, Posbility: 0.0013
+Next Token : n, Posbility: 0.0474
+Next Token : (, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0004
+Next Token : 3, Posbility: 0.0013
+Next Token :  , Posbility: 0.0017
+Next Token : 2, Posbility: 0.0040
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -3, Posbility: 0.0046
+Next Token : -2, Posbility: 0.0075
+Next Token :  +, Posbility: 0.0097
+Next Token : -1), Posbility: 0.0918
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : -2, Posbility: 0.0001
+Next Token : −, Posbility: 0.0010
+Next Token : /, Posbility: 0.0052
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0022
+Next Token :  1, Posbility: 0.0022
+Next Token :  2), Posbility: 0.0447
+Next Token :  3), Posbility: 0.0447
+Next Token :  1), Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0064
+Next Token :  , Posbility: 0.0106
+Next Token :  *, Posbility: 0.0176
+Next Token :  +, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0009
+Next Token :  2*, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0066
+Next Token :  1, Posbility: 0.0109
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0024
+Next Token : 2, Posbility: 0.0064
+Next Token : (, Posbility: 0.0175
+Next Token : n, Posbility: 0.0175
+Next Token : triangle, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : base, Posbility: 0.0000
+Next Token : side, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (((, Posbility: 0.0001
+Next Token :  (1, Posbility: 0.0013
+Next Token : (, Posbility: 0.0032
+Next Token :  ((, Posbility: 0.0041
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (2), Posbility: 0.0000
+Next Token : 3, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0005
+Next Token : n, Posbility: 0.0140
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : 3, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0012
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0001
+Next Token : -1), Posbility: 0.0003
+Next Token : -2, Posbility: 0.0003
+Next Token :  +, Posbility: 0.0179
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0001
+Next Token : -3, Posbility: 0.0001
+Next Token : -2, Posbility: 0.0009
+Next Token : /, Posbility: 0.0019
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0022
+Next Token :  3), Posbility: 0.0061
+Next Token :  1), Posbility: 0.0447
+Next Token :  2);, Posbility: 0.0447
+Next Token :  2), Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0157
+Next Token :  , Posbility: 0.0201
+Next Token :  +, Posbility: 0.1914
+Next Token : 
+, Posbility: 0.2461
+Next Token : 
+
+, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the third side of a right angled triangle. *)
+let rec triangle_side n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else if n = 2 then 2
+  else triangle_side (n - 1) + triangle_side (n - 2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :29.054991245269775
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

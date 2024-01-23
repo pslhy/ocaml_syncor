@@ -1,0 +1,2129 @@
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0132
+Next Token :  k, Posbility: 0.0461
+Next Token :  , Posbility: 0.1260
+Next Token :  rec, Posbility: 0.3418
+Next Token :  remove, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : K, Posbility: 0.0055
+Next Token :  , Posbility: 0.0131
+Next Token :  =, Posbility: 0.0168
+Next Token :  k, Posbility: 0.0190
+Next Token : _, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : all, Posbility: 0.0654
+Next Token : long, Posbility: 0.0742
+Next Token : length, Posbility: 0.0840
+Next Token : words, Posbility: 0.2285
+Next Token : k, Posbility: 0.2285
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0079
+Next Token : len, Posbility: 0.0214
+Next Token :  , Posbility: 0.0579
+Next Token :  =, Posbility: 0.1572
+Next Token : _, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : char, Posbility: 0.0237
+Next Token : word, Posbility: 0.0237
+Next Token : len, Posbility: 0.1748
+Next Token : words, Posbility: 0.1748
+Next Token : length, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0297
+Next Token :  words, Posbility: 0.0297
+Next Token :  , Posbility: 0.0806
+Next Token :  =, Posbility: 0.2188
+Next Token : _, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : in, Posbility: 0.0082
+Next Token : string, Posbility: 0.0120
+Next Token : strings, Posbility: 0.0154
+Next Token : word, Posbility: 0.0537
+Next Token : words, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0258
+Next Token : _, Posbility: 0.0703
+Next Token :  =, Posbility: 0.1484
+Next Token :  k, Posbility: 0.1904
+Next Token :  , Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0275
+Next Token : length, Posbility: 0.0352
+Next Token : n, Posbility: 0.0581
+Next Token : (, Posbility: 0.0659
+Next Token : s, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0050
+Next Token :  len, Posbility: 0.0093
+Next Token :  , Posbility: 0.0781
+Next Token :  =, Posbility: 0.1289
+Next Token :  k, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  words, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0034
+Next Token : _, Posbility: 0.0056
+Next Token :  , Posbility: 0.0250
+Next Token :  =, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0080
+Next Token :  match, Posbility: 0.0090
+Next Token :  String, Posbility: 0.0090
+Next Token :  , Posbility: 0.1250
+Next Token : 
+, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0074
+Next Token : let, Posbility: 0.0095
+Next Token :    , Posbility: 0.0108
+Next Token :     , Posbility: 0.1025
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : String, Posbility: 0.0101
+Next Token : (, Posbility: 0.0188
+Next Token : match, Posbility: 0.0310
+Next Token : List, Posbility: 0.0659
+Next Token : let, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0364
+Next Token :  open, Posbility: 0.0364
+Next Token :  words, Posbility: 0.0986
+Next Token :  rec, Posbility: 0.2695
+Next Token :  , Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0381
+Next Token : n, Posbility: 0.0432
+Next Token : split, Posbility: 0.0488
+Next Token : length, Posbility: 0.1035
+Next Token : s, Posbility: 0.1504
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0354
+Next Token : 1, Posbility: 0.0515
+Next Token : s, Posbility: 0.0752
+Next Token : _, Posbility: 0.1592
+Next Token :  =, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0047
+Next Token :  [, Posbility: 0.0047
+Next Token :  S, Posbility: 0.0047
+Next Token :  , Posbility: 0.2559
+Next Token :  String, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0009
+Next Token :  , Posbility: 0.0017
+Next Token : s, Posbility: 0.0017
+Next Token : _, Posbility: 0.0019
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : of, Posbility: 0.0518
+Next Token : split, Posbility: 0.0854
+Next Token : down, Posbility: 0.0967
+Next Token : trim, Posbility: 0.2051
+Next Token : to, Posbility: 0.2324
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0002
+Next Token : Lower, Posbility: 0.0003
+Next Token : List, Posbility: 0.0006
+Next Token : list, Posbility: 0.0017
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : char, Posbility: 0.0256
+Next Token : string, Posbility: 0.0786
+Next Token : lowercase, Posbility: 0.0786
+Next Token : array, Posbility: 0.1670
+Next Token : list, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0010
+Next Token : (, Posbility: 0.0015
+Next Token :  ~, Posbility: 0.0024
+Next Token : _, Posbility: 0.0258
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Str, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : (, Posbility: 0.0097
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token :  |, Posbility: 0.0009
+Next Token :  , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0075
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (*, Posbility: 0.0002
+Next Token :   , Posbility: 0.0031
+Next Token :  , Posbility: 0.0045
+Next Token : 
+
+, Posbility: 0.0096
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0003
+Next Token : let, Posbility: 0.0003
+Next Token :    , Posbility: 0.0004
+Next Token :     , Posbility: 0.0022
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : String, Posbility: 0.0135
+Next Token : match, Posbility: 0.0175
+Next Token : s, Posbility: 0.0198
+Next Token : List, Posbility: 0.1455
+Next Token : let, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0430
+Next Token :  len, Posbility: 0.0430
+Next Token :  words, Posbility: 0.0708
+Next Token :  rec, Posbility: 0.1924
+Next Token :  , Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0248
+Next Token : filtered, Posbility: 0.0317
+Next Token : n, Posbility: 0.0762
+Next Token : length, Posbility: 0.1260
+Next Token : s, Posbility: 0.2070
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0347
+Next Token : 1, Posbility: 0.0393
+Next Token : _, Posbility: 0.1377
+Next Token : ', Posbility: 0.1553
+Next Token :  =, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  remove, Posbility: 0.0107
+Next Token :  [, Posbility: 0.0292
+Next Token : 
+, Posbility: 0.1021
+Next Token :  String, Posbility: 0.2158
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0154
+Next Token : Seq, Posbility: 0.0289
+Next Token : Array, Posbility: 0.1006
+Next Token : s, Posbility: 0.1143
+Next Token : List, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Utils, Posbility: 0.0001
+Next Token : s, Posbility: 0.0003
+Next Token : (, Posbility: 0.0004
+Next Token : _, Posbility: 0.0013
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : iter, Posbility: 0.0146
+Next Token : rev, Posbility: 0.0510
+Next Token : remove, Posbility: 0.0845
+Next Token : map, Posbility: 0.1226
+Next Token : filter, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0165
+Next Token :  !, Posbility: 0.0271
+Next Token :  ~, Posbility: 0.0396
+Next Token : _, Posbility: 0.0835
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : !(, Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0013
+Next Token : f, Posbility: 0.0021
+Next Token : s, Posbility: 0.0369
+Next Token : (, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : f, Posbility: 0.0101
+Next Token : String, Posbility: 0.0242
+Next Token : fn, Posbility: 0.0273
+Next Token : function, Posbility: 0.0654
+Next Token : fun, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0300
+Next Token :  l, Posbility: 0.0496
+Next Token :  v, Posbility: 0.0496
+Next Token :  word, Posbility: 0.0496
+Next Token :  , Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0427
+Next Token : s, Posbility: 0.0703
+Next Token : c, Posbility: 0.0703
+Next Token : w, Posbility: 0.1914
+Next Token : x, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ->, Posbility: 0.0007
+Next Token :  k, Posbility: 0.0007
+Next Token : s, Posbility: 0.0009
+Next Token :  i, Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0000
+Next Token : -, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : y, Posbility: 0.0001
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0167
+Next Token :  not, Posbility: 0.0454
+Next Token :  !, Posbility: 0.0454
+Next Token :  String, Posbility: 0.4316
+Next Token :  , Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0238
+Next Token : (, Posbility: 0.0732
+Next Token : Length, Posbility: 0.0830
+Next Token : List, Posbility: 0.3281
+Next Token : x, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  |, Posbility: 0.0082
+Next Token :  !=, Posbility: 0.0223
+Next Token :  =, Posbility: 0.0223
+Next Token :  , Posbility: 0.4492
+Next Token : ., Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0027
+Next Token : @, Posbility: 0.0027
+Next Token : (, Posbility: 0.0050
+Next Token : length, Posbility: 0.0094
+Next Token : Length, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  <=, Posbility: 0.0236
+Next Token :  !=, Posbility: 0.0388
+Next Token :  >=, Posbility: 0.0498
+Next Token :  , Posbility: 0.3672
+Next Token :  =, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0003
+Next Token :  1, Posbility: 0.0003
+Next Token :  int, Posbility: 0.0009
+Next Token :  , Posbility: 0.0067
+Next Token :  k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length = k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length = 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length = int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length = 1
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length = 0
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0022
+Next Token : /, Posbility: 0.0089
+Next Token : -, Posbility: 0.0145
+Next Token : >, Posbility: 0.1768
+Next Token : <, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0004
+Next Token :  int, Posbility: 0.0006
+Next Token :  , Posbility: 0.0070
+Next Token :  k, Posbility: 0.4316
+Next Token : >, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0007
+Next Token : k, Posbility: 0.0009
+Next Token :  0), Posbility: 0.0012
+Next Token :  , Posbility: 0.0025
+Next Token :  k, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <> k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <> 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <>k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <> int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length < k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length < 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length < int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : k, Posbility: 0.0004
+Next Token : >, Posbility: 0.0005
+Next Token :  int, Posbility: 0.0019
+Next Token :  , Posbility: 0.0067
+Next Token :  k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : k, Posbility: 0.0007
+Next Token :  int, Posbility: 0.0009
+Next Token : =, Posbility: 0.0019
+Next Token :  , Posbility: 0.0040
+Next Token :  k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=> k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  0), Posbility: 0.0012
+Next Token : k, Posbility: 0.0024
+Next Token :  , Posbility: 0.0052
+Next Token :  k, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>= 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=> int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  0, Posbility: 0.0024
+Next Token :  , Posbility: 0.0040
+Next Token :  0), Posbility: 0.0040
+Next Token :  k, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length > k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length > 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length > 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length > 0
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  string, Posbility: 0.0033
+Next Token :  , Posbility: 0.0214
+Next Token : <, Posbility: 0.0311
+Next Token :  1, Posbility: 0.1230
+Next Token :  k, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length - k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length - 1
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0005
+Next Token : k, Posbility: 0.0010
+Next Token :  , Posbility: 0.0031
+Next Token : =, Posbility: 0.0059
+Next Token :  k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -< k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token : k, Posbility: 0.0003
+Next Token :  int, Posbility: 0.0005
+Next Token :  , Posbility: 0.0025
+Next Token :  k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -< 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0003
+Next Token :   , Posbility: 0.0004
+Next Token : k, Posbility: 0.0012
+Next Token :  , Posbility: 0.0015
+Next Token :  k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<> k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  0), Posbility: 0.0005
+Next Token :  , Posbility: 0.0015
+Next Token : k, Posbility: 0.0015
+Next Token :  k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>= 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length -<>=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length - 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length - string
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2.0, Posbility: 0.0019
+Next Token :  String, Posbility: 0.0087
+Next Token :  , Posbility: 0.0820
+Next Token :  k, Posbility: 0.2871
+Next Token : =, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  0), Posbility: 0.0002
+Next Token :  int, Posbility: 0.0009
+Next Token :  , Posbility: 0.0015
+Next Token :  k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /= 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length /=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length / k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length / 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length / String
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length / 2.0
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0148
+Next Token : <, Posbility: 0.0244
+Next Token :  , Posbility: 0.0356
+Next Token :  k, Posbility: 0.1807
+Next Token : =, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0015
+Next Token :  int, Posbility: 0.0015
+Next Token :  , Posbility: 0.0052
+Next Token :  0), Posbility: 0.0052
+Next Token :  k, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^= 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^= 0
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^ k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^ 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0010
+Next Token :  2), Posbility: 0.0013
+Next Token :  , Posbility: 0.0095
+Next Token : =, Posbility: 0.0200
+Next Token :  k, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^< k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : k, Posbility: 0.0003
+Next Token :  int, Posbility: 0.0009
+Next Token :  , Posbility: 0.0041
+Next Token :  k, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^<=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^< 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^< 2)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^< 1
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0147
+Next Token :  String, Posbility: 0.0311
+Next Token : =, Posbility: 0.0845
+Next Token :  , Posbility: 0.2295
+Next Token :  k, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^> k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0002
+Next Token :   , Posbility: 0.0005
+Next Token : k, Posbility: 0.0005
+Next Token :  , Posbility: 0.0041
+Next Token :  k, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^>= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^> String
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length ^> =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  1), Posbility: 0.0004
+Next Token : k, Posbility: 0.0009
+Next Token :  , Posbility: 0.0025
+Next Token :  k, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >= 1)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length >=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length !=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : k, Posbility: 0.0003
+Next Token :  0), Posbility: 0.0003
+Next Token :  , Posbility: 0.0015
+Next Token :  int, Posbility: 0.0015
+Next Token :  k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length != k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length != int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length != 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length != 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length !=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : k, Posbility: 0.0004
+Next Token : >, Posbility: 0.0005
+Next Token :  int, Posbility: 0.0019
+Next Token :  , Posbility: 0.0067
+Next Token :  k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <= int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : k, Posbility: 0.0007
+Next Token :  int, Posbility: 0.0009
+Next Token : =, Posbility: 0.0019
+Next Token :  , Posbility: 0.0040
+Next Token :  k, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=> k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  0), Posbility: 0.0012
+Next Token : k, Posbility: 0.0024
+Next Token :  , Posbility: 0.0052
+Next Token :  k, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>= k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>= 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>= 0)
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>=  
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=> int
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=>k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.Length <=k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0203
+Next Token :  ==, Posbility: 0.0260
+Next Token :  !=, Posbility: 0.0708
+Next Token :  , Posbility: 0.3164
+Next Token :  =, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0), Posbility: 0.0005
+Next Token :  !, Posbility: 0.0009
+Next Token :  int, Posbility: 0.0024
+Next Token :  , Posbility: 0.0109
+Next Token :  k, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  and, Posbility: 0.0010
+Next Token :  |, Posbility: 0.0010
+Next Token :  +, Posbility: 0.0014
+Next Token :  , Posbility: 0.0258
+Next Token : ), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0002
+Next Token : s, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0010
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0001
+Next Token : List, Posbility: 0.0001
+Next Token : (, Posbility: 0.0019
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0043
+Next Token :  =, Posbility: 0.0081
+Next Token :  |, Posbility: 0.0118
+Next Token : 
+, Posbility: 0.0320
+Next Token :  in, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  String, Posbility: 0.0006
+Next Token :   , Posbility: 0.0013
+Next Token : 
+
+, Posbility: 0.0052
+Next Token :  , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0000
+Next Token :       , Posbility: 0.0001
+Next Token :     , Posbility: 0.0003
+Next Token :  , Posbility: 0.0028
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0105
+Next Token : match, Posbility: 0.0119
+Next Token : let, Posbility: 0.2715
+Next Token : List, Posbility: 0.3066
+Next Token : String, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String
+ score:False
+Error type: noerr
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : List, Posbility: 0.0001
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0175
+Next Token : from, Posbility: 0.0175
+Next Token : join, Posbility: 0.0786
+Next Token : concat, Posbility: 0.3516
+Next Token : of, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.of
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :  list, Posbility: 0.0000
+Next Token : list, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.of_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : lists, Posbility: 0.0001
+Next Token : string, Posbility: 0.0002
+Next Token : seq, Posbility: 0.0006
+Next Token : array, Posbility: 0.0015
+Next Token : list, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.of_list
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  String, Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0015
+Next Token : (, Posbility: 0.0025
+Next Token : _, Posbility: 0.0041
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.of_list 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (), Posbility: 0.0000
+Next Token : ([], Posbility: 0.0000
+Next Token : List, Posbility: 0.0005
+Next Token : (, Posbility: 0.0474
+Next Token : s, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.of_list s
+ score:False
+Error type: noerr
+---------------------------
+Next Token : , Posbility: 0.0056
+Next Token : ;, Posbility: 0.0056
+Next Token :  |, Posbility: 0.0135
+Next Token : 
+, Posbility: 0.4492
+Next Token : 
+
+, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x.length = k) s in
+  String.of_list s
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :80.1496353149414
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

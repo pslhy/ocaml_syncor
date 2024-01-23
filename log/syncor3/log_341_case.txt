@@ -1,0 +1,759 @@
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0142
+Next Token :  find, Posbility: 0.0302
+Next Token :  non, Posbility: 0.0439
+Next Token :  , Posbility: 0.2520
+Next Token :  rec, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0229
+Next Token :  count, Posbility: 0.0260
+Next Token :  non, Posbility: 0.0549
+Next Token :  find, Posbility: 0.1162
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0140
+Next Token : gen, Posbility: 0.0181
+Next Token : f, Posbility: 0.0557
+Next Token : n, Posbility: 0.1709
+Next Token : nth, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0100
+Next Token : Non, Posbility: 0.0129
+Next Token :  , Posbility: 0.0576
+Next Token :  =, Posbility: 0.0742
+Next Token : _, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : na, Posbility: 0.0104
+Next Token : num, Posbility: 0.0134
+Next Token : number, Posbility: 0.0251
+Next Token : n, Posbility: 0.0284
+Next Token : non, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_non
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : on, Posbility: 0.0014
+Next Token : ag, Posbility: 0.0064
+Next Token : _, Posbility: 0.0106
+Next Token : a, Posbility: 0.0175
+Next Token : agon, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagon
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ally, Posbility: 0.0002
+Next Token : a, Posbility: 0.0004
+Next Token :  =, Posbility: 0.0006
+Next Token : als, Posbility: 0.0007
+Next Token : al, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  num, Posbility: 0.0125
+Next Token : (, Posbility: 0.0206
+Next Token :  =, Posbility: 0.0923
+Next Token :  , Posbility: 0.1523
+Next Token : _, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : no, Posbility: 0.0034
+Next Token : int, Posbility: 0.0043
+Next Token : n, Posbility: 0.0172
+Next Token : num, Posbility: 0.0767
+Next Token : number, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0188
+Next Token :  i, Posbility: 0.0398
+Next Token : _, Posbility: 0.0654
+Next Token :  =, Posbility: 0.1079
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0126
+Next Token : :, Posbility: 0.0143
+Next Token : x, Posbility: 0.0344
+Next Token : (, Posbility: 0.0728
+Next Token : n, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0121
+Next Token :  k, Posbility: 0.0199
+Next Token :  i, Posbility: 0.0289
+Next Token :  , Posbility: 0.1885
+Next Token :  =, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0032
+Next Token :  function, Posbility: 0.0111
+Next Token :  match, Posbility: 0.0344
+Next Token :  , Posbility: 0.0566
+Next Token : 
+, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0051
+Next Token :    , Posbility: 0.0066
+Next Token : match, Posbility: 0.0066
+Next Token :     , Posbility: 0.1030
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0050
+Next Token : (, Posbility: 0.0121
+Next Token : let, Posbility: 0.1465
+Next Token : match, Posbility: 0.4004
+Next Token : if, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0021
+Next Token :  String, Posbility: 0.0027
+Next Token :  not, Posbility: 0.0035
+Next Token :  N, Posbility: 0.0040
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Is, Posbility: 0.0020
+Next Token : Int, Posbility: 0.0038
+Next Token : nth, Posbility: 0.0063
+Next Token : (, Posbility: 0.0361
+Next Token : n, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0173
+Next Token :  ==, Posbility: 0.0471
+Next Token :  <=, Posbility: 0.1279
+Next Token :  , Posbility: 0.2109
+Next Token :  =, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  4, Posbility: 0.0017
+Next Token :  10, Posbility: 0.0017
+Next Token :  , Posbility: 0.0347
+Next Token :  1, Posbility: 0.2559
+Next Token :  0, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  with, Posbility: 0.0010
+Next Token :  , Posbility: 0.0040
+Next Token :  ||, Posbility: 0.0084
+Next Token : 
+, Posbility: 0.0138
+Next Token :  then, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Some, Posbility: 0.0334
+Next Token :  0, Posbility: 0.1504
+Next Token : 
+, Posbility: 0.2471
+Next Token :  , Posbility: 0.2471
+Next Token :  1, Posbility: 0.2471
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0022
+Next Token :  +, Posbility: 0.0032
+Next Token :  , Posbility: 0.0269
+Next Token :  else, Posbility: 0.4766
+Next Token : 
+, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0004
+Next Token :  else, Posbility: 0.0004
+Next Token :  , Posbility: 0.0012
+Next Token :     , Posbility: 0.0022
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : if, Posbility: 0.0010
+Next Token : then, Posbility: 0.0015
+Next Token : let, Posbility: 0.0019
+Next Token : elif, Posbility: 0.0022
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0016
+Next Token :  match, Posbility: 0.0101
+Next Token :  {, Posbility: 0.0312
+Next Token : 
+, Posbility: 0.2314
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0222
+Next Token : n, Posbility: 0.0286
+Next Token : (, Posbility: 0.0366
+Next Token : if, Posbility: 0.2109
+Next Token : nth, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  non, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : next, Posbility: 0.0001
+Next Token : un, Posbility: 0.0001
+Next Token : sub, Posbility: 0.0001
+Next Token : rec, Posbility: 0.0002
+Next Token : non, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_non
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ag, Posbility: 0.0000
+Next Token : aron, Posbility: 0.0000
+Next Token : ago, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : agon, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagon
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : ally, Posbility: 0.0000
+Next Token : an, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Next Token : al, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : n, Posbility: 0.0000
+Next Token : numbers, Posbility: 0.0000
+Next Token : non, Posbility: 0.0001
+Next Token : num, Posbility: 0.0001
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0030
+Next Token :  (1, Posbility: 0.0103
+Next Token :  ((, Posbility: 0.0171
+Next Token : (, Posbility: 0.0281
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : @@, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0004
+Next Token : -, Posbility: 0.0004
+Next Token : n, Posbility: 0.0292
+Next Token : (, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : succ, Posbility: 0.0039
+Next Token :  , Posbility: 0.0056
+Next Token : 2, Posbility: 0.0093
+Next Token : nth, Posbility: 0.0093
+Next Token : n, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0038
+Next Token : -1, Posbility: 0.0063
+Next Token :  +, Posbility: 0.0322
+Next Token : -1), Posbility: 0.1123
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0005
+Next Token : −, Posbility: 0.0017
+Next Token : /, Posbility: 0.0059
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0159
+Next Token :  1, Posbility: 0.0159
+Next Token :  1);, Posbility: 0.0430
+Next Token :  2), Posbility: 0.0430
+Next Token :  1), Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0684
+Next Token : 
+, Posbility: 0.1279
+Next Token :  *, Posbility: 0.1445
+Next Token : 
+
+, Posbility: 0.2383
+Next Token :  +, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0050
+Next Token :  1;, Posbility: 0.0082
+Next Token : 
+, Posbility: 0.0371
+Next Token :  1, Posbility: 0.1660
+Next Token :  , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0104
+Next Token : 2, Posbility: 0.0601
+Next Token : (, Posbility: 0.0679
+Next Token : n, Posbility: 0.0991
+Next Token : nth, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : even, Posbility: 0.0005
+Next Token : power, Posbility: 0.0006
+Next Token : prime, Posbility: 0.0006
+Next Token : odd, Posbility: 0.0012
+Next Token : non, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_non
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ag, Posbility: 0.0000
+Next Token : ong, Posbility: 0.0000
+Next Token : ago, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : agon, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagon
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : ally, Posbility: 0.0000
+Next Token : an, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Next Token : al, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  number, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : numbers, Posbility: 0.0000
+Next Token : factor, Posbility: 0.0000
+Next Token : num, Posbility: 0.0001
+Next Token : non, Posbility: 0.0001
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0044
+Next Token : (, Posbility: 0.0064
+Next Token :  (1, Posbility: 0.0064
+Next Token :  ((, Posbility: 0.0175
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (0), Posbility: 0.0017
+Next Token : 2, Posbility: 0.0025
+Next Token : nth, Posbility: 0.0029
+Next Token : n, Posbility: 0.0942
+Next Token : (, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0009
+Next Token : 3, Posbility: 0.0011
+Next Token : 2, Posbility: 0.0175
+Next Token : nth, Posbility: 0.0198
+Next Token : n, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  %, Posbility: 0.0048
+Next Token :  *, Posbility: 0.0079
+Next Token : -1), Posbility: 0.0079
+Next Token :  +, Posbility: 0.2598
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0005
+Next Token : //, Posbility: 0.0024
+Next Token : ^, Posbility: 0.0030
+Next Token : /, Posbility: 0.0371
+Next Token : -, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0204
+Next Token :  1);, Posbility: 0.0552
+Next Token :  2);, Posbility: 0.0552
+Next Token :  2), Posbility: 0.4082
+Next Token :  1), Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0776
+Next Token :  *, Posbility: 0.1128
+Next Token : 
+, Posbility: 0.1641
+Next Token :  +, Posbility: 0.1641
+Next Token : 
+
+, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the nth nonagonal number. *)
+let rec nth_nonagonal_number n =
+  if n = 0 then 1
+  else nth_nonagonal_number (n - 1) + nth_nonagonal_number (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :23.997273921966553
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,2313 @@
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0172
+Next Token :  find, Posbility: 0.1279
+Next Token :  minimum, Posbility: 0.1279
+Next Token :  , Posbility: 0.2695
+Next Token :  rec, Posbility: 0.3457
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0126
+Next Token :  loop, Posbility: 0.0234
+Next Token :  minimum, Posbility: 0.0723
+Next Token :  find, Posbility: 0.1963
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0186
+Next Token : smallest, Posbility: 0.0239
+Next Token : f, Posbility: 0.0347
+Next Token : diff, Posbility: 0.0393
+Next Token : min, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0085
+Next Token : (, Posbility: 0.0179
+Next Token : diff, Posbility: 0.0488
+Next Token : Diff, Posbility: 0.1030
+Next Token : _, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : of, Posbility: 0.0043
+Next Token : d, Posbility: 0.0092
+Next Token : pair, Posbility: 0.0118
+Next Token : difference, Posbility: 0.0869
+Next Token : diff, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0059
+Next Token : (, Posbility: 0.0559
+Next Token :  =, Posbility: 0.1523
+Next Token :  , Posbility: 0.1953
+Next Token : _, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pairs, Posbility: 0.0155
+Next Token : of, Posbility: 0.0199
+Next Token : helper, Posbility: 0.0693
+Next Token : rec, Posbility: 0.1895
+Next Token : pair, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0229
+Next Token : (, Posbility: 0.0378
+Next Token : _, Posbility: 0.1030
+Next Token :  =, Posbility: 0.1328
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0176
+Next Token : lst, Posbility: 0.0327
+Next Token : x, Posbility: 0.0610
+Next Token : (, Posbility: 0.1885
+Next Token : arr, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0151
+Next Token :  i, Posbility: 0.0194
+Next Token :  a, Posbility: 0.0527
+Next Token :  , Posbility: 0.1436
+Next Token :  =, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0062
+Next Token :  function, Posbility: 0.0216
+Next Token :  match, Posbility: 0.0586
+Next Token :  , Posbility: 0.0854
+Next Token : 
+, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0063
+Next Token :    , Posbility: 0.0151
+Next Token : 	, Posbility: 0.0249
+Next Token :     , Posbility: 0.2090
+Next Token :   , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0102
+Next Token : (, Posbility: 0.0115
+Next Token : if, Posbility: 0.2324
+Next Token : let, Posbility: 0.2637
+Next Token : match, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0008
+Next Token :  !, Posbility: 0.0008
+Next Token :  [, Posbility: 0.0031
+Next Token :  String, Posbility: 0.0040
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Arr, Posbility: 0.0058
+Next Token : (, Posbility: 0.0294
+Next Token : List, Posbility: 0.0703
+Next Token : Array, Posbility: 0.1025
+Next Token : arr, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0024
+Next Token :  =, Posbility: 0.0024
+Next Token : ., Posbility: 0.0066
+Next Token :  |, Posbility: 0.0066
+Next Token :  with, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0026
+Next Token :  , Posbility: 0.0055
+Next Token :  [, Posbility: 0.0103
+Next Token :  [], Posbility: 0.0464
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0005
+Next Token :       , Posbility: 0.0018
+Next Token :    , Posbility: 0.0018
+Next Token :     , Posbility: 0.0752
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : |[, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Next Token : [, Posbility: 0.0175
+Next Token : [], Posbility: 0.0288
+Next Token : |, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [],, Posbility: 0.0008
+Next Token :  nil, Posbility: 0.0033
+Next Token :  , Posbility: 0.0217
+Next Token :  [, Posbility: 0.0459
+Next Token :  [], Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0039
+Next Token :    , Posbility: 0.0050
+Next Token :  =>, Posbility: 0.0072
+Next Token :  |, Posbility: 0.0173
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : -, Posbility: 0.0003
+Next Token : →, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0036
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0581
+Next Token :  None, Posbility: 0.0957
+Next Token :  0, Posbility: 0.0957
+Next Token :  fail, Posbility: 0.0957
+Next Token :  , Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (0,, Posbility: 0.0610
+Next Token : (), Posbility: 0.0688
+Next Token : (, Posbility: 0.0889
+Next Token : return, Posbility: 0.1006
+Next Token : raise, Posbility: 0.2412
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0233
+Next Token : not, Posbility: 0.0299
+Next Token :  ", Posbility: 0.0559
+Next Token :  , Posbility: 0.3223
+Next Token :  Not, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not
+ score:False
+Error type: noerr
+---------------------------
+Next Token : In, Posbility: 0.0006
+Next Token : A, Posbility: 0.0008
+Next Token : En, Posbility: 0.0008
+Next Token : Defined, Posbility: 0.0012
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : a, Posbility: 0.0118
+Next Token : implement, Posbility: 0.0118
+Next Token : reached, Posbility: 0.0133
+Next Token : Found, Posbility: 0.0151
+Next Token : found, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0306
+Next Token : _, Posbility: 0.0447
+Next Token :  ", Posbility: 0.0505
+Next Token :  , Posbility: 0.0942
+Next Token : 
+, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0001
+Next Token :       , Posbility: 0.0003
+Next Token :  , Posbility: 0.0003
+Next Token :     , Posbility: 0.0013
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : |_|, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0049
+Next Token :  [], Posbility: 0.0171
+Next Token :  a, Posbility: 0.0361
+Next Token :  [, Posbility: 0.3418
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0366
+Next Token : hd, Posbility: 0.0532
+Next Token : head, Posbility: 0.0532
+Next Token : _, Posbility: 0.3047
+Next Token : x, Posbility: 0.3926
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0037
+Next Token : :, Posbility: 0.0167
+Next Token : s, Posbility: 0.0275
+Next Token : ::, Posbility: 0.2949
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0017
+Next Token : :, Posbility: 0.0024
+Next Token : if, Posbility: 0.0058
+Next Token : ->, Posbility: 0.1309
+Next Token : ::, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  [, Posbility: 0.0035
+Next Token :  a, Posbility: 0.0058
+Next Token :  [], Posbility: 0.0140
+Next Token :  rest, Posbility: 0.0913
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : arr, Posbility: 0.0243
+Next Token : tail, Posbility: 0.0354
+Next Token : y, Posbility: 0.0581
+Next Token : _, Posbility: 0.1230
+Next Token : x, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0009
+Next Token :  , Posbility: 0.0019
+Next Token : _, Posbility: 0.0019
+Next Token : ', Posbility: 0.0178
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0021
+Next Token :   , Posbility: 0.0027
+Next Token :  =>, Posbility: 0.0095
+Next Token :  when, Posbility: 0.1162
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0003
+Next Token :  =>, Posbility: 0.0004
+Next Token : if, Posbility: 0.0058
+Next Token : ::, Posbility: 0.0123
+Next Token : ->, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0028
+Next Token :  {, Posbility: 0.0204
+Next Token :  match, Posbility: 0.0337
+Next Token :  , Posbility: 0.2480
+Next Token : 
+, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0053
+Next Token :   , Posbility: 0.0088
+Next Token :      , Posbility: 0.0210
+Next Token :     , Posbility: 0.4785
+Next Token :       , Posbility: 0.4785
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : min, Posbility: 0.0065
+Next Token : (, Posbility: 0.0227
+Next Token : match, Posbility: 0.0791
+Next Token : if, Posbility: 0.1016
+Next Token : let, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0179
+Next Token :  first, Posbility: 0.0203
+Next Token :  pair, Posbility: 0.0229
+Next Token :  rec, Posbility: 0.1167
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0588
+Next Token : (, Posbility: 0.1099
+Next Token : diff, Posbility: 0.1245
+Next Token : min, Posbility: 0.1816
+Next Token : x, Posbility: 0.2061
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0486
+Next Token : s, Posbility: 0.0552
+Next Token : ,, Posbility: 0.1167
+Next Token :  =, Posbility: 0.1167
+Next Token : _, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : i, Posbility: 0.0361
+Next Token : opt, Posbility: 0.0361
+Next Token : index, Posbility: 0.0596
+Next Token : diff, Posbility: 0.0864
+Next Token : min, Posbility: 0.2676
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : diff, Posbility: 0.0028
+Next Token :  , Posbility: 0.0075
+Next Token : _, Posbility: 0.1514
+Next Token : ,, Posbility: 0.1514
+Next Token :  =, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0060
+Next Token :  find, Posbility: 0.0077
+Next Token :  Math, Posbility: 0.0098
+Next Token : 
+, Posbility: 0.0442
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0186
+Next Token : List, Posbility: 0.0503
+Next Token : Array, Posbility: 0.0571
+Next Token : x, Posbility: 0.1992
+Next Token : min, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0015
+Next Token :  [, Posbility: 0.0017
+Next Token : (, Posbility: 0.0020
+Next Token :  , Posbility: 0.3730
+Next Token : _, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elem, Posbility: 0.0053
+Next Token : int, Posbility: 0.0077
+Next Token : element, Posbility: 0.0164
+Next Token : of, Posbility: 0.0184
+Next Token : diff, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0005
+Next Token : (, Posbility: 0.0007
+Next Token :  , Posbility: 0.0259
+Next Token : _, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elem, Posbility: 0.0010
+Next Token : helper, Posbility: 0.0013
+Next Token : rec, Posbility: 0.0017
+Next Token : element, Posbility: 0.0028
+Next Token : pair, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0035
+Next Token :  ~, Posbility: 0.0045
+Next Token : (, Posbility: 0.0066
+Next Token : _, Posbility: 0.0084
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0002
+Next Token : Arr, Posbility: 0.0002
+Next Token : (, Posbility: 0.0176
+Next Token : arr, Posbility: 0.0176
+Next Token : x, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0003
+Next Token :  in, Posbility: 0.0017
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0024
+Next Token : ;, Posbility: 0.0039
+Next Token :  |, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0176
+Next Token :  in, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0001
+Next Token :   , Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0017
+Next Token :  , Posbility: 0.0067
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :           , Posbility: 0.0010
+Next Token :     , Posbility: 0.0011
+Next Token :         , Posbility: 0.0017
+Next Token :      , Posbility: 0.0228
+Next Token :       , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0374
+Next Token : x, Posbility: 0.0422
+Next Token : match, Posbility: 0.0898
+Next Token : if, Posbility: 0.1152
+Next Token : let, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0036
+Next Token :  a, Posbility: 0.0060
+Next Token :  pair, Posbility: 0.0060
+Next Token :  rec, Posbility: 0.0302
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0222
+Next Token : diff, Posbility: 0.0366
+Next Token : min, Posbility: 0.0366
+Next Token : y, Posbility: 0.2715
+Next Token : x, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0038
+Next Token : 2, Posbility: 0.0048
+Next Token :  =, Posbility: 0.0168
+Next Token : s, Posbility: 0.0356
+Next Token : _, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : i, Posbility: 0.0047
+Next Token : next, Posbility: 0.0128
+Next Token : min, Posbility: 0.0942
+Next Token : diff, Posbility: 0.0942
+Next Token : max, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token : ,, Posbility: 0.0010
+Next Token :  , Posbility: 0.0017
+Next Token : _, Posbility: 0.0085
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0011
+Next Token :  fun, Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0129
+Next Token :  max, Posbility: 0.4277
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0354
+Next Token : Array, Posbility: 0.0400
+Next Token : x, Posbility: 0.0515
+Next Token : List, Posbility: 0.0515
+Next Token : min, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : max, Posbility: 0.0002
+Next Token : (, Posbility: 0.0003
+Next Token :  max, Posbility: 0.0007
+Next Token :  , Posbility: 0.0046
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : element, Posbility: 0.0001
+Next Token : pair, Posbility: 0.0001
+Next Token : difference, Posbility: 0.0002
+Next Token : max, Posbility: 0.0003
+Next Token : diff, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token :  pair, Posbility: 0.0000
+Next Token :  max, Posbility: 0.0001
+Next Token :  , Posbility: 0.0010
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : min, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : max, Posbility: 0.0000
+Next Token : pairs, Posbility: 0.0001
+Next Token : pair, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0019
+Next Token :  ~, Posbility: 0.0024
+Next Token : _, Posbility: 0.0040
+Next Token :  [, Posbility: 0.0084
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0076
+Next Token : reverse, Posbility: 0.0087
+Next Token : arr, Posbility: 0.0161
+Next Token : (, Posbility: 0.4707
+Next Token : x, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0007
+Next Token :  |, Posbility: 0.0009
+Next Token :  in, Posbility: 0.0013
+Next Token : _, Posbility: 0.0015
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0030
+Next Token :  , Posbility: 0.0039
+Next Token :  with, Posbility: 0.0039
+Next Token :  |, Posbility: 0.0253
+Next Token :  in, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  [, Posbility: 0.0002
+Next Token :  , Posbility: 0.0032
+Next Token : 
+
+, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0007
+Next Token :           , Posbility: 0.0008
+Next Token :         , Posbility: 0.0030
+Next Token :      , Posbility: 0.0417
+Next Token :       , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0525
+Next Token : match, Posbility: 0.0674
+Next Token : x, Posbility: 0.0864
+Next Token : if, Posbility: 0.2070
+Next Token : let, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0078
+Next Token :  delta, Posbility: 0.0166
+Next Token :  max, Posbility: 0.0214
+Next Token :  rec, Posbility: 0.0310
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0222
+Next Token : y, Posbility: 0.1128
+Next Token : min, Posbility: 0.1279
+Next Token : diff, Posbility: 0.2383
+Next Token : x, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0038
+Next Token : x, Posbility: 0.0038
+Next Token : s, Posbility: 0.0103
+Next Token :  =, Posbility: 0.0359
+Next Token : _, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sum, Posbility: 0.0137
+Next Token : mid, Posbility: 0.0289
+Next Token : max, Posbility: 0.0540
+Next Token : diff, Posbility: 0.3516
+Next Token : min, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0063
+Next Token :  , Posbility: 0.0461
+Next Token : ,, Posbility: 0.0762
+Next Token :  =, Posbility: 0.2656
+Next Token : _, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : minus, Posbility: 0.0264
+Next Token : y, Posbility: 0.0493
+Next Token : x, Posbility: 0.0811
+Next Token : max, Posbility: 0.1182
+Next Token : diff, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token :  , Posbility: 0.0063
+Next Token : ,, Posbility: 0.0063
+Next Token : _, Posbility: 0.0464
+Next Token :  =, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0030
+Next Token :  compare, Posbility: 0.0049
+Next Token :  Math, Posbility: 0.0081
+Next Token : 
+, Posbility: 0.0221
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0193
+Next Token : abs, Posbility: 0.0317
+Next Token : ref, Posbility: 0.0359
+Next Token : (, Posbility: 0.0762
+Next Token : x, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [0], Posbility: 0.0034
+Next Token : ., Posbility: 0.0219
+Next Token : s, Posbility: 0.0219
+Next Token :  , Posbility: 0.2080
+Next Token : _, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token :  max, Posbility: 0.0001
+Next Token : diff, Posbility: 0.0001
+Next Token : min, Posbility: 0.5000
+Next Token : max, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0038
+Next Token : [0], Posbility: 0.0080
+Next Token :  +, Posbility: 0.0117
+Next Token : ., Posbility: 0.0247
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : −, Posbility: 0.0009
+Next Token : >, Posbility: 0.0012
+Next Token : x, Posbility: 0.0013
+Next Token : ^, Posbility: 0.0036
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token : >, Posbility: 0.0001
+Next Token :  1, Posbility: 0.0002
+Next Token : ., Posbility: 0.0008
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : List, Posbility: 0.0002
+Next Token : min, Posbility: 0.0004
+Next Token : (, Posbility: 0.0022
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0002
+Next Token : s, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token :  in, Posbility: 0.0140
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : mini, Posbility: 0.0000
+Next Token : max, Posbility: 0.0006
+Next Token : min, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0019
+Next Token :  |, Posbility: 0.0019
+Next Token :  =, Posbility: 0.0024
+Next Token : ;, Posbility: 0.0031
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0001
+Next Token :   , Posbility: 0.0003
+Next Token :  , Posbility: 0.0046
+Next Token : 
+
+, Posbility: 0.0059
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :        , Posbility: 0.0004
+Next Token :     , Posbility: 0.0004
+Next Token :         , Posbility: 0.0016
+Next Token :      , Posbility: 0.1475
+Next Token :       , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.1099
+Next Token : match, Posbility: 0.1099
+Next Token : x, Posbility: 0.1816
+Next Token : let, Posbility: 0.2334
+Next Token : if, Posbility: 0.2637
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token :  int, Posbility: 0.0019
+Next Token :  compare, Posbility: 0.0031
+Next Token :  not, Posbility: 0.0121
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0016
+Next Token : abs, Posbility: 0.0023
+Next Token : Compare, Posbility: 0.0034
+Next Token : (, Posbility: 0.0322
+Next Token : x, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !=, Posbility: 0.0013
+Next Token :  ==, Posbility: 0.0024
+Next Token :  =, Posbility: 0.0024
+Next Token :  , Posbility: 0.0052
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : is, Posbility: 0.0000
+Next Token : mini, Posbility: 0.0000
+Next Token : diff, Posbility: 0.0005
+Next Token : max, Posbility: 0.0474
+Next Token : min, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0015
+Next Token :  <=, Posbility: 0.0040
+Next Token :  , Posbility: 0.0084
+Next Token :  =, Posbility: 0.0084
+Next Token : _, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : min, Posbility: 0.0000
+Next Token : Diff, Posbility: 0.0000
+Next Token : dist, Posbility: 0.0000
+Next Token : max, Posbility: 0.0001
+Next Token : diff, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0149
+Next Token :  >=, Posbility: 0.0669
+Next Token :  <=, Posbility: 0.1099
+Next Token :  =, Posbility: 0.2988
+Next Token :  , Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ≤, Posbility: 0.0004
+Next Token : -, Posbility: 0.0005
+Next Token : /, Posbility: 0.0005
+Next Token : >, Posbility: 0.2441
+Next Token : <, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  10, Posbility: 0.0041
+Next Token :  1, Posbility: 0.0087
+Next Token : >, Posbility: 0.1357
+Next Token :  , Posbility: 0.2227
+Next Token :  0, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0115
+Next Token :  , Posbility: 0.0131
+Next Token : 
+, Posbility: 0.0148
+Next Token :  ||, Posbility: 0.0216
+Next Token :  then, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0236
+Next Token :  None, Posbility: 0.0236
+Next Token :  Some, Posbility: 0.0236
+Next Token : 
+, Posbility: 0.2871
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0320
+Next Token : (, Posbility: 0.0466
+Next Token : min, Posbility: 0.0601
+Next Token : raise, Posbility: 0.3047
+Next Token : x, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : s, Posbility: 0.0038
+Next Token : 
+, Posbility: 0.0150
+Next Token :  , Posbility: 0.0150
+Next Token :  else, Posbility: 0.0317
+Next Token : _, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : minus, Posbility: 0.0000
+Next Token : diff, Posbility: 0.0005
+Next Token : max, Posbility: 0.1191
+Next Token : min, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0330
+Next Token :  , Posbility: 0.0618
+Next Token :  else, Posbility: 0.1309
+Next Token : _, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Diff, Posbility: 0.0000
+Next Token : dist, Posbility: 0.0000
+Next Token : min, Posbility: 0.0000
+Next Token : max, Posbility: 0.0002
+Next Token : diff, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0069
+Next Token :  |, Posbility: 0.0146
+Next Token : 
+, Posbility: 0.0659
+Next Token :  , Posbility: 0.0957
+Next Token :  else, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0021
+Next Token : 
+, Posbility: 0.0095
+Next Token :  0;, Posbility: 0.0095
+Next Token :  0, Posbility: 0.1152
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0137
+Next Token : (, Posbility: 0.0176
+Next Token : min, Posbility: 0.0199
+Next Token : raise, Posbility: 0.0542
+Next Token : x, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0007
+Next Token :  , Posbility: 0.0008
+Next Token : s, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0028
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token :  max, Posbility: 0.0001
+Next Token : diff, Posbility: 0.0011
+Next Token : max, Posbility: 0.2676
+Next Token : min, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0033
+Next Token :  , Posbility: 0.0079
+Next Token : ;, Posbility: 0.0079
+Next Token : 
+, Posbility: 0.0586
+Next Token : _, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : pair, Posbility: 0.0000
+Next Token : Diff, Posbility: 0.0000
+Next Token : dist, Posbility: 0.0000
+Next Token : max, Posbility: 0.0001
+Next Token : diff, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0197
+Next Token : ;, Posbility: 0.0535
+Next Token :  , Posbility: 0.1001
+Next Token : 
+
+, Posbility: 0.1865
+Next Token : 
+, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0581
+Next Token : ), Posbility: 0.0659
+Next Token :     , Posbility: 0.0845
+Next Token : in, Posbility: 0.1484
+Next Token :   , Posbility: 0.3574
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : }, Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0051
+Next Token : (, Posbility: 0.0066
+Next Token : ;, Posbility: 0.1592
+Next Token : |, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0034
+Next Token :  a, Posbility: 0.0044
+Next Token :  [, Posbility: 0.0222
+Next Token :  [], Posbility: 0.0996
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0047
+Next Token : (, Posbility: 0.0078
+Next Token : y, Posbility: 0.0088
+Next Token : x, Posbility: 0.3301
+Next Token : _, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0035
+Next Token : x, Posbility: 0.0065
+Next Token : ::, Posbility: 0.0073
+Next Token :  as, Posbility: 0.0094
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0009
+Next Token : if, Posbility: 0.0014
+Next Token : x, Posbility: 0.0038
+Next Token : ::, Posbility: 0.1807
+Next Token : ->, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0146
+Next Token :  not, Posbility: 0.0146
+Next Token :  fail, Posbility: 0.0242
+Next Token : 
+, Posbility: 0.1084
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : panic, Posbility: 0.0110
+Next Token : (), Posbility: 0.0160
+Next Token : min, Posbility: 0.0491
+Next Token : assert, Posbility: 0.0718
+Next Token : raise, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ -> raise
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  No, Posbility: 0.0008
+Next Token : _, Posbility: 0.0039
+Next Token :  ", Posbility: 0.0045
+Next Token :  , Posbility: 0.0256
+Next Token :  Not, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ -> raise Not
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  supported, Posbility: 0.0000
+Next Token :  implemented, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  found, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ -> raise Not_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : sorted, Posbility: 0.0003
+Next Token : supported, Posbility: 0.0004
+Next Token : done, Posbility: 0.0005
+Next Token : implement, Posbility: 0.0007
+Next Token : found, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ -> raise Not_found
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ), Posbility: 0.0082
+Next Token :  (*, Posbility: 0.0082
+Next Token :  , Posbility: 0.0223
+Next Token : 
+, Posbility: 0.3496
+Next Token : 
+
+, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to find the minimum difference between any two elements in a given array. https://www.geeksforgeeks.org/find-minimum-difference-pair/ *)
+let rec min_diff_pair arr =
+  match arr with
+  | [] -> raise Not_found
+  | x :: xs ->
+      let x_min = min_diff_pair xs in
+      let x_max = min_diff_pair xs in
+      let x_min_diff = x_max - x_min in
+      if x_min_diff < 0 then x_min_diff else x_min_diff
+  | _ -> raise Not_found
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :58.32498574256897
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

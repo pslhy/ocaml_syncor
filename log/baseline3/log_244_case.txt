@@ -1,0 +1,1376 @@
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let
+Next Token :  rec, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec
+Next Token :  , Posbility: 0.4023
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec 
+Next Token : min, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min
+Next Token : _, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_
+Next Token : length, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length
+Next Token :  , Posbility: 0.2871
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length 
+Next Token : (, Posbility: 0.1895
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (
+Next Token : l, Posbility: 0.1289
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l 
+Next Token : :, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l :
+Next Token :  , Posbility: 0.3750
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : 
+Next Token : List, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List
+Next Token : ., Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.
+Next Token : t, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t
+Next Token : ), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t)
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) 
+Next Token : :, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) :
+Next Token :  int, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int
+Next Token :  =, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+Next Token : 
+, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+
+Next Token :   , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  
+Next Token : match, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match 
+Next Token : List, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.
+Next Token : length, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length
+Next Token :  l, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l
+Next Token :  with, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+
+Next Token :   , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  |
+Next Token :  0, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0
+Next Token :  , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 ->
+Next Token :  , Posbility: 0.3516
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> 
+Next Token : raise, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise 
+Next Token : (, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (
+Next Token : Format, Posbility: 0.0986
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format
+Next Token : ., Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.
+Next Token : sprintf, Posbility: 0.3379
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf
+Next Token :  ", Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "
+Next Token : List, Posbility: 0.1084
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List
+Next Token : ., Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.
+Next Token : length, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length
+Next Token :  is, Posbility: 0.1895
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is
+Next Token :  0, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0
+Next Token : ., Posbility: 0.3359
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.
+Next Token : "), Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  |
+Next Token :  1, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 ->
+Next Token :  0, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  
+Next Token : |, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  |
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | 
+Next Token : n, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n 
+Next Token : ->, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+Next Token : 
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+
+Next Token :     , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    
+Next Token : let, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let
+Next Token :  , Posbility: 0.3457
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let 
+Next Token : m, Posbility: 0.1777
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m
+Next Token :  =, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m =
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = 
+Next Token : List, Posbility: 0.4023
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.
+Next Token : length, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length
+Next Token :  , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length 
+Next Token : (, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (
+Next Token : l, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l 
+Next Token : :, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :
+Next Token : >, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :>
+Next Token :  , Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> 
+Next Token : List, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.
+Next Token : init, Posbility: 0.2852
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init 
+Next Token : n, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n
+Next Token : ), Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n)
+Next Token :  in, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    
+Next Token : if, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if 
+Next Token : m, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m
+Next Token :  , Posbility: 0.4258
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m 
+Next Token : <, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m <
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 
+Next Token : 2, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2
+Next Token :  then, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then 
+Next Token : raise, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise 
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (
+Next Token : Format, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.
+Next Token : sprintf, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf
+Next Token :  ", Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "
+Next Token : List, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List
+Next Token : ., Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.
+Next Token : length, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length
+Next Token :  is, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is
+Next Token :  %, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %
+Next Token : d, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d
+Next Token : ., Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d.
+Next Token : ", Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d."
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." 
+Next Token : m, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m
+Next Token : ), Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+Next Token : 
+, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    
+Next Token : else, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else
+Next Token :  , Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else 
+Next Token : min, Posbility: 0.3379
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (
+Next Token : l, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l 
+Next Token : :, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :
+Next Token : >, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :>
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> 
+Next Token : List, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.
+Next Token : init, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init 
+Next Token : (, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (
+Next Token : m, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m -
+Next Token :  1)), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+Next Token : 
+, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+
+Next Token :   , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  
+Next Token : |, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  |
+Next Token : >, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  |>
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  |> 
+Next Token : List, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  |> List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  |> List.
+Next Token : rev, Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function to find the sublist having minimum length. *)
+let rec min_length (l : List.t) : int =
+  match List.length l with
+  | 0 -> raise (Format.sprintf "List.length is 0.")
+  | 1 -> 0
+  | n ->
+    let m = List.length (l :> List.init n) in
+    if m < 2 then raise (Format.sprintf "List.length is %d." m)
+    else min_length (l :> List.init (m - 1))
+  |> List.rev
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.841582536697388
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

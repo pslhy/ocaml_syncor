@@ -1,0 +1,692 @@
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0121
+Next Token :  , Posbility: 0.0894
+Next Token :  sum, Posbility: 0.1147
+Next Token :  negative, Posbility: 0.1885
+Next Token :  rec, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0186
+Next Token :  loop, Posbility: 0.0305
+Next Token :  negative, Posbility: 0.1553
+Next Token :  sum, Posbility: 0.2891
+Next Token :  , Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0330
+Next Token : fold, Posbility: 0.0615
+Next Token : helper, Posbility: 0.1299
+Next Token : add, Posbility: 0.1895
+Next Token : neg, Posbility: 0.2432
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0177
+Next Token :  , Posbility: 0.0200
+Next Token : s, Posbility: 0.0698
+Next Token : sum, Posbility: 0.1309
+Next Token : _, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0101
+Next Token : nums, Posbility: 0.0212
+Next Token : numbers, Posbility: 0.0579
+Next Token : list, Posbility: 0.0742
+Next Token : sum, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0603
+Next Token :  l, Posbility: 0.0771
+Next Token : _, Posbility: 0.1641
+Next Token :  =, Posbility: 0.1641
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0776
+Next Token : nums, Posbility: 0.0776
+Next Token : lst, Posbility: 0.0879
+Next Token : n, Posbility: 0.1865
+Next Token : x, Posbility: 0.2393
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0115
+Next Token :  acc, Posbility: 0.0189
+Next Token :  , Posbility: 0.1089
+Next Token : s, Posbility: 0.2031
+Next Token :  =, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0019
+Next Token :  function, Posbility: 0.0028
+Next Token :  match, Posbility: 0.0938
+Next Token :  , Posbility: 0.1064
+Next Token : 
+, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0031
+Next Token :    , Posbility: 0.0083
+Next Token : 	, Posbility: 0.0107
+Next Token :     , Posbility: 0.1147
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0056
+Next Token : List, Posbility: 0.0369
+Next Token : let, Posbility: 0.1138
+Next Token : if, Posbility: 0.1650
+Next Token : match, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0004
+Next Token :  [], Posbility: 0.0004
+Next Token :  !, Posbility: 0.0010
+Next Token :  String, Posbility: 0.0046
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0009
+Next Token : Seq, Posbility: 0.0023
+Next Token : (, Posbility: 0.0044
+Next Token : List, Posbility: 0.1455
+Next Token : x, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0005
+Next Token :  , Posbility: 0.0009
+Next Token :  @, Posbility: 0.0009
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token :  , Posbility: 0.0047
+Next Token :  [, Posbility: 0.0089
+Next Token :  [], Posbility: 0.0742
+Next Token : 
+, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0006
+Next Token :       , Posbility: 0.0012
+Next Token :    , Posbility: 0.0023
+Next Token :     , Posbility: 0.0674
+Next Token :   , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Nil, Posbility: 0.0003
+Next Token : (, Posbility: 0.0003
+Next Token : [, Posbility: 0.0167
+Next Token : [], Posbility: 0.0664
+Next Token : |, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0023
+Next Token :  [, Posbility: 0.0105
+Next Token :  nil, Posbility: 0.0105
+Next Token :  , Posbility: 0.0284
+Next Token :  [], Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0031
+Next Token :    , Posbility: 0.0039
+Next Token :  =>, Posbility: 0.0065
+Next Token :  |, Posbility: 0.0065
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : →, Posbility: 0.0003
+Next Token : -, Posbility: 0.0007
+Next Token : ::, Posbility: 0.0010
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0063
+Next Token :  , Posbility: 0.0172
+Next Token : 
+, Posbility: 0.0172
+Next Token :  0.0, Posbility: 0.0172
+Next Token :  0, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token : L, Posbility: 0.0033
+Next Token :   , Posbility: 0.0037
+Next Token :  , Posbility: 0.0129
+Next Token :  |, Posbility: 0.0654
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : |, Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |[, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0038
+Next Token :  a, Posbility: 0.0070
+Next Token :  [], Posbility: 0.0070
+Next Token :  [, Posbility: 0.1416
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0211
+Next Token : hd, Posbility: 0.0308
+Next Token : h, Posbility: 0.0508
+Next Token : _, Posbility: 0.1216
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0035
+Next Token : s, Posbility: 0.0123
+Next Token : :, Posbility: 0.0334
+Next Token : ::, Posbility: 0.4082
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0005
+Next Token : if, Posbility: 0.0017
+Next Token : :, Posbility: 0.0035
+Next Token : ->, Posbility: 0.0123
+Next Token : ::, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  more, Posbility: 0.0015
+Next Token :  l, Posbility: 0.0017
+Next Token :  [], Posbility: 0.0087
+Next Token :  rest, Posbility: 0.0830
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0119
+Next Token : tail, Posbility: 0.0322
+Next Token : _, Posbility: 0.0605
+Next Token : y, Posbility: 0.1279
+Next Token : x, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0018
+Next Token : 1, Posbility: 0.0030
+Next Token : _, Posbility: 0.0063
+Next Token : ', Posbility: 0.0464
+Next Token : s, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  @, Posbility: 0.0009
+Next Token :   , Posbility: 0.0014
+Next Token :  =>, Posbility: 0.0030
+Next Token :  when, Posbility: 0.0469
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0002
+Next Token : if, Posbility: 0.0010
+Next Token : ::, Posbility: 0.0076
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0021
+Next Token :  0, Posbility: 0.0056
+Next Token :  -1, Posbility: 0.0253
+Next Token : 
+, Posbility: 0.1133
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0139
+Next Token : (, Posbility: 0.0625
+Next Token : x, Posbility: 0.1494
+Next Token : neg, Posbility: 0.1494
+Next Token : -, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sum, Posbility: 0.0066
+Next Token : neg, Posbility: 0.0625
+Next Token : x, Posbility: 0.1035
+Next Token :  , Posbility: 0.2188
+Next Token : (, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0251
+Next Token : sum, Posbility: 0.0415
+Next Token : 1, Posbility: 0.0532
+Next Token : x, Posbility: 0.3066
+Next Token : neg, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token :  sum, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0025
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : x, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : count, Posbility: 0.0000
+Next Token : s, Posbility: 0.0001
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0007
+Next Token :  ~, Posbility: 0.0010
+Next Token : (, Posbility: 0.0052
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token : f, Posbility: 0.0000
+Next Token : y, Posbility: 0.0002
+Next Token : (, Posbility: 0.0110
+Next Token : x, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ),, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : ), Posbility: 0.0015
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : );, Posbility: 0.0009
+Next Token : )), Posbility: 0.0009
+Next Token :  , Posbility: 0.0024
+Next Token :  +, Posbility: 0.0067
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : +, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0203
+Next Token : 
+
+, Posbility: 0.0229
+Next Token :  , Posbility: 0.0908
+Next Token :  +, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0005
+Next Token :  (1, Posbility: 0.0006
+Next Token :  sum, Posbility: 0.0007
+Next Token :  1, Posbility: 0.0012
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0008
+Next Token : head, Posbility: 0.0029
+Next Token : neg, Posbility: 0.0217
+Next Token : (, Posbility: 0.0459
+Next Token : x, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) + x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0032
+Next Token :  , Posbility: 0.0110
+Next Token : ), Posbility: 0.0234
+Next Token : 
+, Posbility: 0.4141
+Next Token : 
+
+, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) + x
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :21.561787128448486
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

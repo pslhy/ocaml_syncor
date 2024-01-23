@@ -1,0 +1,309 @@
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let
+Next Token :  , Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let 
+Next Token : (, Posbility: 0.1777
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (
+Next Token : ,, Posbility: 0.0957
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (,
+Next Token :  , Posbility: 0.2930
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, 
+Next Token : _, Posbility: 0.1465
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _
+Next Token : ), Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _)
+Next Token :  =, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) =
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = 
+Next Token : List, Posbility: 0.1738
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.
+Next Token : fold, Posbility: 0.2441
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold
+Next Token : _, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_
+Next Token : left, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left 
+Next Token : (, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (
+Next Token : fun, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun 
+Next Token : (, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (
+Next Token : acc, Posbility: 0.1582
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc
+Next Token : ,, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc,
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, 
+Next Token : _, Posbility: 0.1934
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _
+Next Token : ), Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _)
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) 
+Next Token : ->, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) ->
+Next Token :  , Posbility: 0.3926
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> 
+Next Token : (, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (
+Next Token : acc, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc
+Next Token : ,, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc,
+Next Token :  , Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, 
+Next Token : _, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _
+Next Token : )), Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _))
+Next Token :  , Posbility: 0.3711
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) 
+Next Token : (, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (
+Next Token : List, Posbility: 0.1475
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.
+Next Token : rev, Posbility: 0.2578
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev
+Next Token :  acc, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc
+Next Token : ), Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc)
+Next Token :  , Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) 
+Next Token : (, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (
+Next Token : String, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String
+Next Token : ., Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.
+Next Token : split, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split
+Next Token : _, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_
+Next Token : on, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on
+Next Token :  ', Posbility: 0.3555
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on '
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' 
+Next Token : '), Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ')
+Next Token :  , Posbility: 0.2578
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') 
+Next Token : (, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (
+Next Token : String, Posbility: 0.3145
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.
+Next Token : split, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.split
+Next Token : _, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.split_
+Next Token : on, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.split_on
+Next Token :  ', Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.split_on '
+Next Token :  , Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.split_on ' 
+Next Token : '), Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to create a new tuple from the given string and list. *)
+let (, _) = List.fold_left (fun (acc, _) -> (acc, _)) (List.rev acc) (String.split_on ' ') (String.split_on ' ')
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.7283716201782227
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

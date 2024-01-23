@@ -1,0 +1,503 @@
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  make, Posbility: 0.0110
+Next Token :  create, Posbility: 0.0161
+Next Token :  , Posbility: 0.1187
+Next Token :  next, Posbility: 0.1729
+Next Token :  rec, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0148
+Next Token :  create, Posbility: 0.0168
+Next Token :  make, Posbility: 0.0244
+Next Token :  , Posbility: 0.3379
+Next Token :  next, Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Big, Posbility: 0.0183
+Next Token : -, Posbility: 0.0386
+Next Token :  , Posbility: 0.0562
+Next Token :  =, Posbility: 0.1533
+Next Token : _, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : digit, Posbility: 0.0315
+Next Token : num, Posbility: 0.0459
+Next Token : large, Posbility: 0.0854
+Next Token : number, Posbility: 0.0972
+Next Token : big, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_big
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0157
+Next Token : gest, Posbility: 0.0157
+Next Token : _, Posbility: 0.0430
+Next Token :  =, Posbility: 0.0430
+Next Token : ger, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0170
+Next Token :  num, Posbility: 0.0281
+Next Token :  , Posbility: 0.2070
+Next Token :  =, Posbility: 0.3418
+Next Token : _, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : int, Posbility: 0.0243
+Next Token : n, Posbility: 0.0312
+Next Token : digit, Posbility: 0.0752
+Next Token : num, Posbility: 0.2305
+Next Token : number, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0198
+Next Token :  a, Posbility: 0.0369
+Next Token : _, Posbility: 0.0537
+Next Token :  =, Posbility: 0.2402
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : digits, Posbility: 0.0295
+Next Token : :, Posbility: 0.0378
+Next Token : (, Posbility: 0.0552
+Next Token : x, Posbility: 0.1318
+Next Token : n, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0031
+Next Token :  acc, Posbility: 0.0059
+Next Token :  i, Posbility: 0.0059
+Next Token :  , Posbility: 0.0713
+Next Token :  =, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0031
+Next Token :  function, Posbility: 0.0085
+Next Token :  match, Posbility: 0.0435
+Next Token :  , Posbility: 0.0630
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0050
+Next Token :    , Posbility: 0.0082
+Next Token : 	, Posbility: 0.0082
+Next Token :     , Posbility: 0.1279
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0044
+Next Token : (, Posbility: 0.0136
+Next Token : let, Posbility: 0.1875
+Next Token : if, Posbility: 0.3105
+Next Token : match, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0032
+Next Token :  !, Posbility: 0.0042
+Next Token :  int, Posbility: 0.0047
+Next Token :  String, Posbility: 0.0574
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Char, Posbility: 0.0238
+Next Token : (, Posbility: 0.0347
+Next Token : List, Posbility: 0.0393
+Next Token : Int, Posbility: 0.0447
+Next Token : n, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0066
+Next Token : ., Posbility: 0.0178
+Next Token :  , Posbility: 0.0486
+Next Token :  %, Posbility: 0.1318
+Next Token :  with, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0021
+Next Token :  0, Posbility: 0.0031
+Next Token :  {, Posbility: 0.0035
+Next Token :  , Posbility: 0.0058
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0005
+Next Token :       , Posbility: 0.0022
+Next Token :    , Posbility: 0.0032
+Next Token :     , Posbility: 0.1060
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0006
+Next Token : [], Posbility: 0.0008
+Next Token : [, Posbility: 0.0015
+Next Token : 0, Posbility: 0.0123
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0109
+Next Token :  [], Posbility: 0.0337
+Next Token :  1, Posbility: 0.0432
+Next Token :  , Posbility: 0.2812
+Next Token :  0, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0072
+Next Token :   , Posbility: 0.0093
+Next Token :  =>, Posbility: 0.0471
+Next Token :  |, Posbility: 0.0532
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0006
+Next Token : →, Posbility: 0.0008
+Next Token : if, Posbility: 0.0009
+Next Token : ::, Posbility: 0.0085
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  10, Posbility: 0.0270
+Next Token : 
+, Posbility: 0.0732
+Next Token :  0, Posbility: 0.0732
+Next Token :  , Posbility: 0.1992
+Next Token :  1, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0027
+Next Token :  +, Posbility: 0.0030
+Next Token :  |, Posbility: 0.0064
+Next Token :  , Posbility: 0.0175
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0001
+Next Token : |, Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Next Token :     , Posbility: 0.0004
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0102
+Next Token :  k, Posbility: 0.0102
+Next Token :  i, Posbility: 0.0457
+Next Token :  1, Posbility: 0.3379
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0275
+Next Token : d, Posbility: 0.1230
+Next Token : x, Posbility: 0.1582
+Next Token : _, Posbility: 0.2031
+Next Token : n, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0126
+Next Token : 0, Posbility: 0.0161
+Next Token : 1, Posbility: 0.0161
+Next Token :  when, Posbility: 0.1055
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : >, Posbility: 0.0070
+Next Token : <, Posbility: 0.0148
+Next Token : ::, Posbility: 0.0148
+Next Token : if, Posbility: 0.1406
+Next Token : ->, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0239
+Next Token :  match, Posbility: 0.0649
+Next Token :  next, Posbility: 0.0649
+Next Token : 
+, Posbility: 0.2910
+Next Token :  , Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0383
+Next Token : if, Posbility: 0.0923
+Next Token : (, Posbility: 0.1719
+Next Token : let, Posbility: 0.2500
+Next Token : n, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ', Posbility: 0.0349
+Next Token : +1, Posbility: 0.0396
+Next Token :  , Posbility: 0.1377
+Next Token :  *, Posbility: 0.2930
+Next Token :  +, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0073
+Next Token :  match, Posbility: 0.0121
+Next Token :  next, Posbility: 0.0199
+Next Token :  , Posbility: 0.2422
+Next Token :  1, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n + 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0271
+Next Token :  +, Posbility: 0.0393
+Next Token :  , Posbility: 0.0574
+Next Token : 
+, Posbility: 0.3730
+Next Token : 
+
+, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n + 1
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :16.306166172027588
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

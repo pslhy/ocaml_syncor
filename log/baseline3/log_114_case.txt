@@ -1,0 +1,240 @@
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let
+Next Token :  set, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set
+Next Token : _, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_
+Next Token : even, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even
+Next Token : _, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_
+Next Token : bits, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits
+Next Token :  , Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits 
+Next Token : n, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n
+Next Token :  =, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+Next Token : 
+, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+
+Next Token :   , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  
+Next Token : let, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let
+Next Token :  , Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let 
+Next Token : n, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n
+Next Token :  =, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n =
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = 
+Next Token : n, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n
+Next Token :  in, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+
+Next Token :   , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  
+Next Token : let, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let 
+Next Token : n, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n
+Next Token :  =, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n =
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = 
+Next Token : n, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n
+Next Token :  +, Posbility: 0.2275
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n +
+Next Token :  , Posbility: 0.4355
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + 
+Next Token : (, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (
+Next Token : n, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n
+Next Token :  mod, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n mod
+Next Token :  2), Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n mod 2)
+Next Token :  in, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n mod 2) in
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n mod 2) in
+
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n mod 2) in
+  
+Next Token : n, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to set all even bits of a given number. *)
+let set_even_bits n =
+  let n = n in
+  let n = n + (n mod 2) in
+  n
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.1984682083129883
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

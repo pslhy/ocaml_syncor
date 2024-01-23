@@ -1,0 +1,1650 @@
+code:
+ (* Write a function to find the nth octagonal number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0084
+Next Token :  get, Posbility: 0.0157
+Next Token :  find, Posbility: 0.0260
+Next Token :  , Posbility: 0.3164
+Next Token :  rec, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0172
+Next Token :  rec, Posbility: 0.0195
+Next Token :  get, Posbility: 0.0250
+Next Token :  find, Posbility: 0.0991
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : oc, Posbility: 0.0116
+Next Token : f, Posbility: 0.0315
+Next Token : n, Posbility: 0.0588
+Next Token : oct, Posbility: 0.2324
+Next Token : nth, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Oct, Posbility: 0.0099
+Next Token : (, Posbility: 0.0127
+Next Token :  =, Posbility: 0.0645
+Next Token :  , Posbility: 0.1060
+Next Token : _, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : num, Posbility: 0.0041
+Next Token : of, Posbility: 0.0053
+Next Token : number, Posbility: 0.0184
+Next Token : oc, Posbility: 0.0237
+Next Token : oct, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_oct
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : a, Posbility: 0.0063
+Next Token : _, Posbility: 0.0104
+Next Token :  , Posbility: 0.0171
+Next Token :  =, Posbility: 0.0171
+Next Token : agon, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagon
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0024
+Next Token : (, Posbility: 0.0024
+Next Token :  , Posbility: 0.0066
+Next Token :  =, Posbility: 0.0066
+Next Token : al, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  number, Posbility: 0.0104
+Next Token : (, Posbility: 0.0469
+Next Token :  =, Posbility: 0.1270
+Next Token :  , Posbility: 0.2100
+Next Token : _, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0033
+Next Token : n, Posbility: 0.0042
+Next Token : numbers, Posbility: 0.0048
+Next Token : num, Posbility: 0.0454
+Next Token : number, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0238
+Next Token :  i, Posbility: 0.0393
+Next Token : _, Posbility: 0.0645
+Next Token :  =, Posbility: 0.1367
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0098
+Next Token : nth, Posbility: 0.0234
+Next Token : x, Posbility: 0.0342
+Next Token : (, Posbility: 0.0723
+Next Token : n, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0062
+Next Token :  k, Posbility: 0.0116
+Next Token :  i, Posbility: 0.0216
+Next Token :  , Posbility: 0.1816
+Next Token :  =, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0028
+Next Token :  function, Posbility: 0.0128
+Next Token :  match, Posbility: 0.0306
+Next Token :  , Posbility: 0.0505
+Next Token : 
+, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0058
+Next Token : let, Posbility: 0.0058
+Next Token : match, Posbility: 0.0075
+Next Token :     , Posbility: 0.1030
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0059
+Next Token : (, Posbility: 0.0124
+Next Token : let, Posbility: 0.1709
+Next Token : if, Posbility: 0.3613
+Next Token : match, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0013
+Next Token :  N, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0019
+Next Token :  [, Posbility: 0.0022
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0027
+Next Token : Int, Posbility: 0.0027
+Next Token : (, Posbility: 0.0135
+Next Token : nth, Posbility: 0.0198
+Next Token : n, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0005
+Next Token :  {, Posbility: 0.0009
+Next Token :  , Posbility: 0.0039
+Next Token :  %, Posbility: 0.0291
+Next Token :  with, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0024
+Next Token :  {, Posbility: 0.0024
+Next Token :  , Posbility: 0.0035
+Next Token :  0, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0003
+Next Token :       , Posbility: 0.0015
+Next Token :    , Posbility: 0.0022
+Next Token :     , Posbility: 0.0947
+Next Token :   , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0005
+Next Token : [, Posbility: 0.0019
+Next Token : 1, Posbility: 0.0024
+Next Token : 0, Posbility: 0.0327
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  N, Posbility: 0.0133
+Next Token :  [], Posbility: 0.0133
+Next Token :  , Posbility: 0.0981
+Next Token :  1, Posbility: 0.0981
+Next Token :  0, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0051
+Next Token :   , Posbility: 0.0109
+Next Token :  |, Posbility: 0.0295
+Next Token :  =>, Posbility: 0.0708
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : :, Posbility: 0.0002
+Next Token : →, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0025
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ", Posbility: 0.0298
+Next Token : 
+, Posbility: 0.0493
+Next Token :  0, Posbility: 0.2207
+Next Token :  1, Posbility: 0.2207
+Next Token :  , Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (1,, Posbility: 0.0649
+Next Token : Ok, Posbility: 0.0732
+Next Token : return, Posbility: 0.0830
+Next Token : n, Posbility: 0.0830
+Next Token : (), Posbility: 0.1211
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0110
+Next Token :  (*, Posbility: 0.0125
+Next Token :  --, Posbility: 0.0233
+Next Token :  , Posbility: 0.0383
+Next Token : 
+, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token :       , Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : let, Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0081
+Next Token :  0, Posbility: 0.0134
+Next Token :  i, Posbility: 0.0601
+Next Token :  1, Posbility: 0.4434
+Next Token :  , Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0144
+Next Token : 2, Posbility: 0.0305
+Next Token : x, Posbility: 0.0645
+Next Token : n, Posbility: 0.3730
+Next Token : _, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0034
+Next Token :  |, Posbility: 0.0038
+Next Token :   , Posbility: 0.0043
+Next Token :  when, Posbility: 0.0361
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0003
+Next Token : →, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0043
+Next Token : if, Posbility: 0.0598
+Next Token : ->, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token :  match, Posbility: 0.0117
+Next Token :  {, Posbility: 0.0150
+Next Token : 
+, Posbility: 0.3848
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0206
+Next Token : n, Posbility: 0.0206
+Next Token : (), Posbility: 0.0339
+Next Token : print, Posbility: 0.0437
+Next Token : nth, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth
+ score:False
+Error type: noerr
+---------------------------
+Next Token : r, Posbility: 0.0000
+Next Token :  ((, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0004
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : tri, Posbility: 0.0002
+Next Token : quad, Posbility: 0.0002
+Next Token : oc, Posbility: 0.0006
+Next Token : hex, Posbility: 0.0006
+Next Token : oct, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_oct
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ag, Posbility: 0.0000
+Next Token : og, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ago, Posbility: 0.0000
+Next Token : agon, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagon
+ score:False
+Error type: noerr
+---------------------------
+Next Token : a, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : al, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : index, Posbility: 0.0000
+Next Token : pair, Posbility: 0.0000
+Next Token : num, Posbility: 0.0001
+Next Token : numbers, Posbility: 0.0003
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0043
+Next Token : (, Posbility: 0.0081
+Next Token :  (1, Posbility: 0.0150
+Next Token :  ((, Posbility: 0.0317
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token : C, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0007
+Next Token : n, Posbility: 0.0371
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : nth, Posbility: 0.0033
+Next Token :  , Posbility: 0.0049
+Next Token : succ, Posbility: 0.0049
+Next Token : 2, Posbility: 0.0132
+Next Token : n, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0106
+Next Token : -1, Posbility: 0.0106
+Next Token :  +, Posbility: 0.0610
+Next Token : -1), Posbility: 0.1289
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : div, Posbility: 0.0008
+Next Token : −, Posbility: 0.0011
+Next Token : ^, Posbility: 0.0017
+Next Token : /, Posbility: 0.0203
+Next Token : -, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0159
+Next Token :  1);, Posbility: 0.0159
+Next Token :  , Posbility: 0.0261
+Next Token :  2), Posbility: 0.0261
+Next Token :  1), Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0496
+Next Token :  , Posbility: 0.0820
+Next Token :  ++, Posbility: 0.0928
+Next Token : 
+
+, Posbility: 0.2227
+Next Token : 
+, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : %, Posbility: 0.0145
+Next Token : ;, Posbility: 0.0155
+Next Token : end, Posbility: 0.0786
+Next Token :   , Posbility: 0.1074
+Next Token : let, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  test, Posbility: 0.0074
+Next Token :  find, Posbility: 0.0139
+Next Token :  main, Posbility: 0.2168
+Next Token :  , Posbility: 0.3145
+Next Token :  rec, Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0131
+Next Token :  rec, Posbility: 0.0217
+Next Token :  find, Posbility: 0.0459
+Next Token :  count, Posbility: 0.0520
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0072
+Next Token : n, Posbility: 0.0119
+Next Token : print, Posbility: 0.0135
+Next Token : oct, Posbility: 0.1279
+Next Token : nth, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Oct, Posbility: 0.0002
+Next Token : (, Posbility: 0.0008
+Next Token :  =, Posbility: 0.0012
+Next Token :  , Posbility: 0.0059
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : tri, Posbility: 0.0037
+Next Token : hex, Posbility: 0.0069
+Next Token : oc, Posbility: 0.0078
+Next Token : number, Posbility: 0.0088
+Next Token : oct, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_oct
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : on, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : a, Posbility: 0.0003
+Next Token : _, Posbility: 0.0012
+Next Token : agon, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagon
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0003
+Next Token : als, Posbility: 0.0012
+Next Token :  , Posbility: 0.0019
+Next Token : _, Posbility: 0.0019
+Next Token : al, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  number, Posbility: 0.0004
+Next Token : (, Posbility: 0.0024
+Next Token :  =, Posbility: 0.0040
+Next Token :  , Posbility: 0.0228
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sum, Posbility: 0.0070
+Next Token : index, Posbility: 0.0079
+Next Token : num, Posbility: 0.0148
+Next Token : numbers, Posbility: 0.0245
+Next Token : number, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0103
+Next Token : 2, Posbility: 0.0248
+Next Token :  , Posbility: 0.0361
+Next Token : ', Posbility: 0.0674
+Next Token : _, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0264
+Next Token : helper, Posbility: 0.0298
+Next Token : loop, Posbility: 0.0491
+Next Token : rec, Posbility: 0.0713
+Next Token : iter, Posbility: 0.1514
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0143
+Next Token :  i, Posbility: 0.0236
+Next Token :  =, Posbility: 0.0267
+Next Token : ative, Posbility: 0.0933
+Next Token :  , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0021
+Next Token : m, Posbility: 0.0031
+Next Token : (), Posbility: 0.0065
+Next Token : (, Posbility: 0.0107
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  iter, Posbility: 0.0047
+Next Token :  acc, Posbility: 0.0060
+Next Token :  i, Posbility: 0.0162
+Next Token :  , Posbility: 0.0566
+Next Token :  =, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0029
+Next Token :  function, Posbility: 0.0042
+Next Token :  match, Posbility: 0.0100
+Next Token :  , Posbility: 0.0742
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0004
+Next Token :    , Posbility: 0.0013
+Next Token : let, Posbility: 0.0019
+Next Token :     , Posbility: 0.0059
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0165
+Next Token : nth, Posbility: 0.0576
+Next Token : if, Posbility: 0.1074
+Next Token : let, Posbility: 0.1387
+Next Token : match, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  String, Posbility: 0.0001
+Next Token :  N, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token :  !, Posbility: 0.0003
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0004
+Next Token : List, Posbility: 0.0008
+Next Token : (, Posbility: 0.0019
+Next Token : nth, Posbility: 0.0046
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : ., Posbility: 0.0002
+Next Token :  , Posbility: 0.0006
+Next Token :  %, Posbility: 0.0010
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  0, Posbility: 0.0001
+Next Token :  {, Posbility: 0.0001
+Next Token :  , Posbility: 0.0004
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :    , Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0000
+Next Token : |0|, Posbility: 0.0000
+Next Token : {, Posbility: 0.0001
+Next Token : case, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0023
+Next Token :  [], Posbility: 0.0023
+Next Token :  , Posbility: 0.0170
+Next Token :  1, Posbility: 0.0461
+Next Token :  0, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0005
+Next Token :  =>, Posbility: 0.0025
+Next Token :  |, Posbility: 0.0032
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0000
+Next Token :  =>, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : (), Posbility: 0.0001
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0038
+Next Token :  1, Posbility: 0.0038
+Next Token : 
+, Posbility: 0.0102
+Next Token :  [], Posbility: 0.0457
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : print, Posbility: 0.0027
+Next Token : n, Posbility: 0.0034
+Next Token : (, Posbility: 0.0044
+Next Token : return, Posbility: 0.0120
+Next Token : (), Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  |, Posbility: 0.0003
+Next Token :  (*, Posbility: 0.0003
+Next Token :  , Posbility: 0.0015
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : let, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  N, Posbility: 0.0029
+Next Token :  0, Posbility: 0.0129
+Next Token :  i, Posbility: 0.0129
+Next Token :  1, Posbility: 0.2578
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0038
+Next Token : x, Posbility: 0.0081
+Next Token : n, Posbility: 0.0461
+Next Token : _, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  then, Posbility: 0.0004
+Next Token :  |, Posbility: 0.0006
+Next Token :  =>, Posbility: 0.0013
+Next Token :  when, Posbility: 0.0036
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0000
+Next Token : →, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0002
+Next Token : if, Posbility: 0.0008
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token :  match, Posbility: 0.0051
+Next Token :  {, Posbility: 0.0096
+Next Token : 
+, Posbility: 0.1167
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0024
+Next Token : let, Posbility: 0.0031
+Next Token : (, Posbility: 0.0045
+Next Token : n, Posbility: 0.0058
+Next Token : nth, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Oct, Posbility: 0.0000
+Next Token : hex, Posbility: 0.0000
+Next Token : quad, Posbility: 0.0000
+Next Token : oc, Posbility: 0.0001
+Next Token : oct, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_oct
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : og, Posbility: 0.0000
+Next Token : ogen, Posbility: 0.0000
+Next Token : ogram, Posbility: 0.0000
+Next Token : agon, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagon
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : als, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : al, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : function, Posbility: 0.0000
+Next Token : Number, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : numbers, Posbility: 0.0002
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  0, Posbility: 0.0007
+Next Token :  1, Posbility: 0.0014
+Next Token :  ((, Posbility: 0.0018
+Next Token :  , Posbility: 0.0471
+Next Token : _, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : int, Posbility: 0.0001
+Next Token : recursive, Posbility: 0.0001
+Next Token : helper, Posbility: 0.0001
+Next Token : rec, Posbility: 0.0015
+Next Token : iter, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  --, Posbility: 0.0004
+Next Token : _, Posbility: 0.0015
+Next Token : (, Posbility: 0.0022
+Next Token :  ((, Posbility: 0.0036
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : nth, Posbility: 0.0001
+Next Token : Int, Posbility: 0.0001
+Next Token : (--, Posbility: 0.0001
+Next Token : n, Posbility: 0.0046
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : List, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0003
+Next Token :  , Posbility: 0.0004
+Next Token : nth, Posbility: 0.0005
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1, Posbility: 0.0002
+Next Token :  -1), Posbility: 0.0003
+Next Token : -1), Posbility: 0.0025
+Next Token :  +, Posbility: 0.0041
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0000
+Next Token : −, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : /, Posbility: 0.0013
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0009
+Next Token :  , Posbility: 0.0024
+Next Token :  2), Posbility: 0.0065
+Next Token :  1);, Posbility: 0.0177
+Next Token :  1), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0044
+Next Token :  in, Posbility: 0.0072
+Next Token :  , Posbility: 0.0106
+Next Token : 
+, Posbility: 0.4473
+Next Token : 
+
+, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the nth octagonal number. *)
+let rec nth_octagonal_number n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number (n - 1)
+let rec nth_octagonal_number_iter n =
+  match n with
+  | 0 -> ()
+  | _ -> nth_octagonal_number_iter (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :43.91236734390259
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

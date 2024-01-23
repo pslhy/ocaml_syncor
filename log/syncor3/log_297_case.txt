@@ -1,0 +1,1767 @@
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0159
+Next Token :  first, Posbility: 0.0262
+Next Token :  inter, Posbility: 0.1177
+Next Token :  , Posbility: 0.3203
+Next Token :  rec, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0209
+Next Token :  list, Posbility: 0.0269
+Next Token :  loop, Posbility: 0.0269
+Next Token :  inter, Posbility: 0.1206
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : flip, Posbility: 0.0247
+Next Token : f, Posbility: 0.0408
+Next Token : reverse, Posbility: 0.0408
+Next Token : rev, Posbility: 0.0593
+Next Token : swap, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0217
+Next Token :  l, Posbility: 0.0280
+Next Token :  =, Posbility: 0.1104
+Next Token :  , Posbility: 0.2334
+Next Token : _, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0220
+Next Token : head, Posbility: 0.0410
+Next Token : last, Posbility: 0.0527
+Next Token : list, Posbility: 0.0674
+Next Token : first, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : last, Posbility: 0.0010
+Next Token :  last, Posbility: 0.0065
+Next Token :  , Posbility: 0.0095
+Next Token :  =, Posbility: 0.0095
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : first, Posbility: 0.0006
+Next Token : to, Posbility: 0.0009
+Next Token : end, Posbility: 0.0009
+Next Token : and, Posbility: 0.3730
+Next Token : last, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0214
+Next Token :  ~, Posbility: 0.0214
+Next Token : _, Posbility: 0.0654
+Next Token :  =, Posbility: 0.3340
+Next Token :  , Posbility: 0.4844
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : L, Posbility: 0.0269
+Next Token : ls, Posbility: 0.0503
+Next Token : (, Posbility: 0.0732
+Next Token : lst, Posbility: 0.2246
+Next Token : x, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0022
+Next Token :  l, Posbility: 0.0069
+Next Token :  , Posbility: 0.1226
+Next Token :  =, Posbility: 0.2295
+Next Token : s, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0014
+Next Token :   , Posbility: 0.0018
+Next Token :  a, Posbility: 0.0018
+Next Token :  , Posbility: 0.0366
+Next Token :  =, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0034
+Next Token :  {, Posbility: 0.0071
+Next Token :  match, Posbility: 0.0674
+Next Token :  , Posbility: 0.0869
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0080
+Next Token : 	, Posbility: 0.0103
+Next Token :    , Posbility: 0.0132
+Next Token :     , Posbility: 0.1250
+Next Token :   , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0049
+Next Token : List, Posbility: 0.0055
+Next Token : let, Posbility: 0.0977
+Next Token : if, Posbility: 0.2334
+Next Token : match, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0010
+Next Token :  [, Posbility: 0.0013
+Next Token :  !, Posbility: 0.0017
+Next Token :  String, Posbility: 0.0058
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : H, Posbility: 0.0012
+Next Token : Seq, Posbility: 0.0017
+Next Token : (, Posbility: 0.0087
+Next Token : List, Posbility: 0.0933
+Next Token : x, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  =, Posbility: 0.0001
+Next Token :  with, Posbility: 0.0003
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0005
+Next Token :  @, Posbility: 0.0005
+Next Token :  , Posbility: 0.0009
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0030
+Next Token :  , Posbility: 0.0050
+Next Token :  [, Posbility: 0.0056
+Next Token :  [], Posbility: 0.0325
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token :       , Posbility: 0.0022
+Next Token :    , Posbility: 0.0028
+Next Token :     , Posbility: 0.1060
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : [, Posbility: 0.0122
+Next Token : [], Posbility: 0.0177
+Next Token : |, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  null, Posbility: 0.0014
+Next Token :  nil, Posbility: 0.0100
+Next Token :  , Posbility: 0.0349
+Next Token :  [, Posbility: 0.0449
+Next Token :  [], Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0080
+Next Token :    , Posbility: 0.0103
+Next Token :  =>, Posbility: 0.0132
+Next Token :  |, Posbility: 0.0132
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0002
+Next Token : →, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0019
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0040
+Next Token :  fail, Posbility: 0.0085
+Next Token : 
+, Posbility: 0.0139
+Next Token :  , Posbility: 0.3594
+Next Token :  [], Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0024
+Next Token :   , Posbility: 0.0050
+Next Token :  |, Posbility: 0.0094
+Next Token :  , Posbility: 0.0120
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token : |, Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0021
+Next Token :  [], Posbility: 0.0051
+Next Token :  a, Posbility: 0.0084
+Next Token :  [, Posbility: 0.2158
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0383
+Next Token : hd, Posbility: 0.0435
+Next Token : h, Posbility: 0.0493
+Next Token : _, Posbility: 0.0559
+Next Token : x, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0035
+Next Token : :, Posbility: 0.0085
+Next Token : s, Posbility: 0.0231
+Next Token : ::, Posbility: 0.3613
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0003
+Next Token : x, Posbility: 0.0004
+Next Token : ->, Posbility: 0.0004
+Next Token : :, Posbility: 0.0005
+Next Token : ::, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0014
+Next Token :  l, Posbility: 0.0023
+Next Token :  [], Posbility: 0.0080
+Next Token :  rest, Posbility: 0.0522
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0168
+Next Token : tail, Posbility: 0.0192
+Next Token : y, Posbility: 0.0520
+Next Token : _, Posbility: 0.0669
+Next Token : x, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0004
+Next Token : _, Posbility: 0.0005
+Next Token : x, Posbility: 0.0005
+Next Token : ', Posbility: 0.0052
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0299
+Next Token : _, Posbility: 0.0559
+Next Token : 1, Posbility: 0.0718
+Next Token : ', Posbility: 0.1182
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : x, Posbility: 0.0004
+Next Token : if, Posbility: 0.0007
+Next Token : ::, Posbility: 0.0032
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0042
+Next Token :   , Posbility: 0.0053
+Next Token :  [, Posbility: 0.0830
+Next Token : 
+, Posbility: 0.1069
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0072
+Next Token : let, Posbility: 0.0135
+Next Token : swap, Posbility: 0.0369
+Next Token : (, Posbility: 0.0776
+Next Token : x, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ::, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0009
+Next Token :   , Posbility: 0.0011
+Next Token : s, Posbility: 0.0371
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : @@, Posbility: 0.0003
+Next Token : x, Posbility: 0.0007
+Next Token : ^, Posbility: 0.0028
+Next Token : :, Posbility: 0.0036
+Next Token : ::, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0007
+Next Token :  inter, Posbility: 0.0010
+Next Token :  !, Posbility: 0.0040
+Next Token :  [, Posbility: 0.0075
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0025
+Next Token : reverse, Posbility: 0.0068
+Next Token : (, Posbility: 0.1377
+Next Token : x, Posbility: 0.2266
+Next Token : swap, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  first, Posbility: 0.0000
+Next Token : ped, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0000
+Next Token : next, Posbility: 0.0000
+Next Token : second, Posbility: 0.0000
+Next Token : last, Posbility: 0.0015
+Next Token : first, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  last, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : middle, Posbility: 0.0000
+Next Token : second, Posbility: 0.0000
+Next Token : end, Posbility: 0.0000
+Next Token : first, Posbility: 0.0000
+Next Token : last, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0004
+Next Token : _, Posbility: 0.0005
+Next Token : (, Posbility: 0.0110
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : tail, Posbility: 0.0000
+Next Token : reverse, Posbility: 0.0001
+Next Token : y, Posbility: 0.0003
+Next Token : (, Posbility: 0.0474
+Next Token : x, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0002
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0024
+Next Token :  , Posbility: 0.0109
+Next Token : ), Posbility: 0.0179
+Next Token : 
+
+, Posbility: 0.3594
+Next Token : 
+, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0197
+Next Token : in, Posbility: 0.0391
+Next Token : end, Posbility: 0.0569
+Next Token :   , Posbility: 0.0938
+Next Token : let, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0172
+Next Token :  inter, Posbility: 0.0364
+Next Token :  main, Posbility: 0.0771
+Next Token :  , Posbility: 0.2695
+Next Token :  rec, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0177
+Next Token :  loop, Posbility: 0.0200
+Next Token :  inter, Posbility: 0.0258
+Next Token :  rec, Posbility: 0.0258
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fold, Posbility: 0.0059
+Next Token : tail, Posbility: 0.0086
+Next Token : split, Posbility: 0.0110
+Next Token : reverse, Posbility: 0.0110
+Next Token : swap, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0009
+Next Token : 1, Posbility: 0.0010
+Next Token :  =, Posbility: 0.0027
+Next Token :  , Posbility: 0.0200
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rest, Posbility: 0.0046
+Next Token : all, Posbility: 0.0059
+Next Token : list, Posbility: 0.0085
+Next Token : last, Posbility: 0.0432
+Next Token : first, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0003
+Next Token :  last, Posbility: 0.0009
+Next Token :  =, Posbility: 0.0013
+Next Token :  , Posbility: 0.0075
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0024
+Next Token : middle, Posbility: 0.0031
+Next Token : second, Posbility: 0.0031
+Next Token : first, Posbility: 0.0051
+Next Token : last, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0165
+Next Token : 2, Posbility: 0.0349
+Next Token :  , Posbility: 0.1074
+Next Token : ', Posbility: 0.1377
+Next Token : _, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0464
+Next Token : iter, Posbility: 0.0674
+Next Token : aux, Posbility: 0.0981
+Next Token : rec, Posbility: 0.1113
+Next Token : list, Posbility: 0.1836
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0099
+Next Token : _, Posbility: 0.0344
+Next Token :  l, Posbility: 0.0391
+Next Token :  =, Posbility: 0.1543
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : L, Posbility: 0.0052
+Next Token : lst, Posbility: 0.0206
+Next Token : ls, Posbility: 0.0234
+Next Token : (, Posbility: 0.0265
+Next Token : x, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token : list, Posbility: 0.0009
+Next Token : sl, Posbility: 0.0015
+Next Token :  =, Posbility: 0.0178
+Next Token : s, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0019
+Next Token : _, Posbility: 0.0031
+Next Token : s, Posbility: 0.0084
+Next Token :  , Posbility: 0.0107
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0021
+Next Token :  list, Posbility: 0.0027
+Next Token :  match, Posbility: 0.0058
+Next Token :  , Posbility: 0.2178
+Next Token : 
+, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token :    , Posbility: 0.0019
+Next Token : let, Posbility: 0.0022
+Next Token :     , Posbility: 0.0096
+Next Token :   , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : swap, Posbility: 0.0264
+Next Token : List, Posbility: 0.0559
+Next Token : if, Posbility: 0.0811
+Next Token : let, Posbility: 0.1182
+Next Token : match, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0002
+Next Token :  !, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0003
+Next Token :  String, Posbility: 0.0004
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0005
+Next Token : swap, Posbility: 0.0015
+Next Token : (, Posbility: 0.0017
+Next Token : List, Posbility: 0.0157
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0000
+Next Token :  in, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :  with, Posbility: 0.0003
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  avec, Posbility: 0.0001
+Next Token : ., Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token :  with, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0002
+Next Token :  , Posbility: 0.0008
+Next Token :  [], Posbility: 0.0022
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :    , Posbility: 0.0001
+Next Token :     , Posbility: 0.0002
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Next Token : {, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0003
+Next Token :  nil, Posbility: 0.0014
+Next Token :  [, Posbility: 0.0065
+Next Token :  , Posbility: 0.0291
+Next Token :  [], Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0008
+Next Token :  as, Posbility: 0.0009
+Next Token :   , Posbility: 0.0010
+Next Token :  |, Posbility: 0.0031
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token : →, Posbility: 0.0000
+Next Token :  =>, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0003
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0008
+Next Token :  nil, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.1182
+Next Token :  [], Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  |, Posbility: 0.0004
+Next Token :  as, Posbility: 0.0006
+Next Token :  , Posbility: 0.0046
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : let, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0014
+Next Token :  l, Posbility: 0.0018
+Next Token :  [], Posbility: 0.0132
+Next Token :  [, Posbility: 0.0461
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0120
+Next Token : h, Posbility: 0.0154
+Next Token : (, Posbility: 0.0198
+Next Token : _, Posbility: 0.0781
+Next Token : x, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0013
+Next Token : 1, Posbility: 0.0015
+Next Token : s, Posbility: 0.0337
+Next Token : ::, Posbility: 0.0913
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : ->, Posbility: 0.0003
+Next Token : x, Posbility: 0.0008
+Next Token : :, Posbility: 0.0025
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  l, Posbility: 0.0014
+Next Token :  [, Posbility: 0.0024
+Next Token :  rest, Posbility: 0.0031
+Next Token :  [], Posbility: 0.0256
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : (, Posbility: 0.0014
+Next Token : tail, Posbility: 0.0039
+Next Token : y, Posbility: 0.0106
+Next Token : _, Posbility: 0.0223
+Next Token : x, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : ', Posbility: 0.0003
+Next Token :  , Posbility: 0.0006
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0019
+Next Token : 1, Posbility: 0.0021
+Next Token : ', Posbility: 0.0031
+Next Token :  when, Posbility: 0.0066
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token :  =>, Posbility: 0.0000
+Next Token : if, Posbility: 0.0009
+Next Token : ::, Posbility: 0.0009
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0017
+Next Token :  {, Posbility: 0.0047
+Next Token :  [, Posbility: 0.0272
+Next Token : 
+, Posbility: 0.0576
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0102
+Next Token : List, Posbility: 0.0167
+Next Token : (, Posbility: 0.0586
+Next Token : swap, Posbility: 0.1592
+Next Token : x, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0011
+Next Token : ::, Posbility: 0.0018
+Next Token : s, Posbility: 0.0530
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token : @@, Posbility: 0.0002
+Next Token : ^, Posbility: 0.0025
+Next Token : :, Posbility: 0.0075
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : !, Posbility: 0.0005
+Next Token :  rec, Posbility: 0.0005
+Next Token :  [, Posbility: 0.0015
+Next Token :  !, Posbility: 0.0019
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : reverse, Posbility: 0.0023
+Next Token : List, Posbility: 0.0037
+Next Token : (, Posbility: 0.0276
+Next Token : x, Posbility: 0.0454
+Next Token : swap, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : ped, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : next, Posbility: 0.0000
+Next Token : list, Posbility: 0.0001
+Next Token : second, Posbility: 0.0001
+Next Token : last, Posbility: 0.0007
+Next Token : first, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  last, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : second, Posbility: 0.0000
+Next Token : end, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : first, Posbility: 0.0000
+Next Token : last, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0003
+Next Token :  list, Posbility: 0.0005
+Next Token :  , Posbility: 0.0601
+Next Token : _, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : tail, Posbility: 0.0001
+Next Token : last, Posbility: 0.0001
+Next Token : rest, Posbility: 0.0001
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last_list
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token : _, Posbility: 0.0003
+Next Token :  [, Posbility: 0.0004
+Next Token : (, Posbility: 0.0017
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last_list 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : y, Posbility: 0.0002
+Next Token : tail, Posbility: 0.0005
+Next Token : swap, Posbility: 0.0018
+Next Token : (, Posbility: 0.0471
+Next Token : x, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last_list x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ::, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last_list xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token : , Posbility: 0.0029
+Next Token :  +, Posbility: 0.0037
+Next Token :  , Posbility: 0.0088
+Next Token : 
+, Posbility: 0.4238
+Next Token : 
+
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to interchange the first and last elements in a list. *)
+let rec swap_first_last xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last xs
+let rec swap_first_last_list xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> x :: swap_first_last_list xs
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :45.98599314689636
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

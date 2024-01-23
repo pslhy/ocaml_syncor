@@ -1,0 +1,597 @@
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0122
+Next Token :  find, Posbility: 0.0292
+Next Token :  a, Posbility: 0.1680
+Next Token :  , Posbility: 0.2441
+Next Token :  rec, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0159
+Next Token :  loop, Posbility: 0.0378
+Next Token :  find, Posbility: 0.0488
+Next Token :  a, Posbility: 0.3594
+Next Token :  , Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0143
+Next Token : f, Posbility: 0.0342
+Next Token : E, Posbility: 0.0439
+Next Token : e, Posbility: 0.1055
+Next Token : eu, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec eu
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : len, Posbility: 0.0171
+Next Token : cli, Posbility: 0.0171
+Next Token : (, Posbility: 0.0194
+Next Token : _, Posbility: 0.0466
+Next Token : ler, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0532
+Next Token :  =, Posbility: 0.0879
+Next Token : ian, Posbility: 0.1128
+Next Token :  , Posbility: 0.2109
+Next Token : _, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : count, Posbility: 0.0225
+Next Token : n, Posbility: 0.0693
+Next Token : num, Posbility: 0.0693
+Next Token : a, Posbility: 0.0889
+Next Token : number, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0198
+Next Token : _, Posbility: 0.1465
+Next Token :  =, Posbility: 0.1465
+Next Token :  a, Posbility: 0.2412
+Next Token :  , Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0100
+Next Token : x, Posbility: 0.0165
+Next Token : m, Posbility: 0.0576
+Next Token : (, Posbility: 0.1768
+Next Token : n, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0024
+Next Token : _, Posbility: 0.0027
+Next Token :  k, Posbility: 0.0121
+Next Token :  =, Posbility: 0.1152
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0015
+Next Token : n, Posbility: 0.0015
+Next Token : p, Posbility: 0.0017
+Next Token : (, Posbility: 0.0085
+Next Token : m, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0059
+Next Token :  i, Posbility: 0.0140
+Next Token :  k, Posbility: 0.0159
+Next Token :  , Posbility: 0.0713
+Next Token :  =, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0031
+Next Token :  function, Posbility: 0.0045
+Next Token :  match, Posbility: 0.0430
+Next Token :  , Posbility: 0.0801
+Next Token : 
+, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0065
+Next Token :    , Posbility: 0.0074
+Next Token : 	, Posbility: 0.0074
+Next Token :     , Posbility: 0.1147
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0036
+Next Token : (, Posbility: 0.0098
+Next Token : let, Posbility: 0.0640
+Next Token : match, Posbility: 0.2871
+Next Token : if, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0012
+Next Token :  0, Posbility: 0.0015
+Next Token :  !, Posbility: 0.0015
+Next Token :  not, Posbility: 0.0040
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0004
+Next Token : let, Posbility: 0.0011
+Next Token : (, Posbility: 0.0625
+Next Token : n, Posbility: 0.4629
+Next Token : m, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0327
+Next Token :  <=, Posbility: 0.0540
+Next Token :  ==, Posbility: 0.0889
+Next Token :  , Posbility: 0.1465
+Next Token :  =, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  4, Posbility: 0.0003
+Next Token :  -1, Posbility: 0.0008
+Next Token :  , Posbility: 0.0417
+Next Token :  1, Posbility: 0.1138
+Next Token :  0, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ||, Posbility: 0.0103
+Next Token : 
+, Posbility: 0.0132
+Next Token :  and, Posbility: 0.0132
+Next Token :  &&, Posbility: 0.0280
+Next Token :  then, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0247
+Next Token :  a, Posbility: 0.0408
+Next Token :  1, Posbility: 0.1108
+Next Token : 
+, Posbility: 0.3008
+Next Token :  , Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0156
+Next Token : 
+, Posbility: 0.0176
+Next Token : (, Posbility: 0.0176
+Next Token : return, Posbility: 0.0479
+Next Token : n, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0062
+Next Token :  , Posbility: 0.0457
+Next Token :  +, Posbility: 0.0518
+Next Token :  else, Posbility: 0.3828
+Next Token : 
+, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0002
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0012
+Next Token :     , Posbility: 0.0013
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0002
+Next Token : let, Posbility: 0.0008
+Next Token : if, Posbility: 0.0012
+Next Token : elif, Posbility: 0.0022
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0037
+Next Token :  a, Posbility: 0.0069
+Next Token :  {, Posbility: 0.0212
+Next Token : 
+, Posbility: 0.1572
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0403
+Next Token : (, Posbility: 0.0586
+Next Token : n, Posbility: 0.0967
+Next Token : if, Posbility: 0.2314
+Next Token : eu, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else eu
+ score:False
+Error type: noerr
+---------------------------
+Next Token : lem, Posbility: 0.0000
+Next Token : lement, Posbility: 0.0000
+Next Token : ger, Posbility: 0.0000
+Next Token : cli, Posbility: 0.0000
+Next Token : ler, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : sum, Posbility: 0.0000
+Next Token : next, Posbility: 0.0000
+Next Token : n, Posbility: 0.0001
+Next Token : num, Posbility: 0.0002
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0023
+Next Token :  (1, Posbility: 0.0170
+Next Token :  ((, Posbility: 0.0170
+Next Token : (, Posbility: 0.0280
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0012
+Next Token : eu, Posbility: 0.0032
+Next Token : m, Posbility: 0.0388
+Next Token : n, Posbility: 0.1738
+Next Token : (, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  , Posbility: 0.0033
+Next Token : 2, Posbility: 0.0114
+Next Token : m, Posbility: 0.0188
+Next Token : eu, Posbility: 0.0452
+Next Token : n, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1), Posbility: 0.0199
+Next Token :  *, Posbility: 0.0698
+Next Token : +1), Posbility: 0.0698
+Next Token :  , Posbility: 0.1475
+Next Token :  +, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0012
+Next Token :  2), Posbility: 0.0033
+Next Token :  1, Posbility: 0.0090
+Next Token :  1), Posbility: 0.4902
+Next Token :  , Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0160
+Next Token : eu, Posbility: 0.0437
+Next Token : (, Posbility: 0.0493
+Next Token : n, Posbility: 0.1045
+Next Token : m, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1), Posbility: 0.0026
+Next Token :  *, Posbility: 0.0103
+Next Token :  +, Posbility: 0.0217
+Next Token :  , Posbility: 0.1416
+Next Token : ), Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  1, Posbility: 0.0040
+Next Token :  ((, Posbility: 0.0065
+Next Token :  0, Posbility: 0.0065
+Next Token :  (1, Posbility: 0.0065
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0003
+Next Token : eu, Posbility: 0.0011
+Next Token : n, Posbility: 0.0062
+Next Token : m, Posbility: 0.0752
+Next Token : (, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : mod, Posbility: 0.0011
+Next Token : 2, Posbility: 0.0014
+Next Token : eu, Posbility: 0.0322
+Next Token : n, Posbility: 0.3066
+Next Token : m, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) (m
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0024
+Next Token : -1, Posbility: 0.0034
+Next Token :  +, Posbility: 0.0093
+Next Token : -1), Posbility: 0.0287
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) (m 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : div, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0001
+Next Token : −, Posbility: 0.0012
+Next Token : /, Posbility: 0.0025
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) (m -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0023
+Next Token :  , Posbility: 0.0063
+Next Token :  2), Posbility: 0.0063
+Next Token :  1);, Posbility: 0.0466
+Next Token :  1), Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) (m - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0064
+Next Token :  +, Posbility: 0.0064
+Next Token :  , Posbility: 0.0135
+Next Token : 
+, Posbility: 0.3066
+Next Token : 
+
+, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the Eulerian number a(n, m). *)
+let rec euler_number n m =
+  if m = 0 then n
+  else euler_number (n + m) (m - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :19.47212052345276
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,644 @@
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let
+Next Token :  rec, Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec
+Next Token :  remove, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove
+Next Token : _, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_
+Next Token : first, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first
+Next Token : _, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_
+Next Token : last, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last
+Next Token : _, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_
+Next Token : char, Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char 
+Next Token : s, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s
+Next Token :  , Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s 
+Next Token : c, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c
+Next Token :  =, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+
+Next Token :   , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  
+Next Token : match, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match
+Next Token :  , Posbility: 0.4844
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match 
+Next Token : s, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s
+Next Token :  with, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+
+Next Token :   , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  |
+Next Token :  [], Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | []
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] ->
+Next Token :  [], Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  |
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | 
+Next Token : x, Posbility: 0.2578
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x 
+Next Token : ::, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x ::
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: 
+Next Token : x, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: x
+Next Token : s, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs 
+Next Token : ->, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+
+Next Token :       , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      
+Next Token : if, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if 
+Next Token : c, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c
+Next Token :  =, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c =
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = 
+Next Token : x, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x
+Next Token :  then, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then
+Next Token :  remove, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_
+Next Token : first, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_
+Next Token : last, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_
+Next Token : char, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char 
+Next Token : x, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs 
+Next Token : c, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+Next Token : 
+, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+
+Next Token :       , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else
+Next Token :  , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else 
+Next Token : x, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x 
+Next Token : ::, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x ::
+Next Token :  remove, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_
+Next Token : first, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_
+Next Token : last, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_
+Next Token : char, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_char
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_char 
+Next Token : x, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_char x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_char xs
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_char xs 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove first and last occurrence of a given character from the string. *)
+let rec remove_first_last_char s c =
+  match s with
+  | [] -> []
+  | x :: xs ->
+      if c = x then remove_first_last_char xs c
+      else x :: remove_first_last_char xs c
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.118551731109619
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

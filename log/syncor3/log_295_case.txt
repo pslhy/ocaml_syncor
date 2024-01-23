@@ -1,0 +1,985 @@
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0085
+Next Token :  is, Posbility: 0.0261
+Next Token :  find, Posbility: 0.0625
+Next Token :  , Posbility: 0.2188
+Next Token :  rec, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0179
+Next Token :  loop, Posbility: 0.0297
+Next Token :  is, Posbility: 0.0488
+Next Token :  find, Posbility: 0.1934
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ps, Posbility: 0.0403
+Next Token : f, Posbility: 0.0515
+Next Token : perfect, Posbility: 0.0583
+Next Token : sq, Posbility: 0.1592
+Next Token : square, Posbility: 0.2617
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec square
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0154
+Next Token :  =, Posbility: 0.0417
+Next Token :  , Posbility: 0.1006
+Next Token : _, Posbility: 0.3496
+Next Token : s, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0199
+Next Token : (, Posbility: 0.0255
+Next Token : _, Posbility: 0.2422
+Next Token :  , Posbility: 0.2754
+Next Token :  =, Posbility: 0.3535
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0095
+Next Token :  fun, Posbility: 0.0376
+Next Token :  , Posbility: 0.0547
+Next Token : 
+, Posbility: 0.2158
+Next Token :  function, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0030
+Next Token :  num, Posbility: 0.0072
+Next Token : (, Posbility: 0.0134
+Next Token :  , Posbility: 0.2090
+Next Token : 
+, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0132
+Next Token :         , Posbility: 0.0150
+Next Token : |, Posbility: 0.0674
+Next Token :     , Posbility: 0.1260
+Next Token :   , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0030
+Next Token : n, Posbility: 0.0030
+Next Token : [, Posbility: 0.0082
+Next Token : (, Posbility: 0.0175
+Next Token : |, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0232
+Next Token :  [, Posbility: 0.0383
+Next Token :  , Posbility: 0.2832
+Next Token :  0, Posbility: 0.2832
+Next Token :  [], Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.0098
+Next Token :  as, Posbility: 0.0234
+Next Token :  when, Posbility: 0.0386
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0005
+Next Token : :, Posbility: 0.0019
+Next Token : _, Posbility: 0.0031
+Next Token : ::, Posbility: 0.0157
+Next Token : ->, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0088
+Next Token :  None, Posbility: 0.0145
+Next Token :  0, Posbility: 0.0393
+Next Token :  , Posbility: 0.1069
+Next Token :  [], Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0019
+Next Token :  |, Posbility: 0.0027
+Next Token :   , Posbility: 0.0045
+Next Token :  , Posbility: 0.0121
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token : 	, Posbility: 0.0001
+Next Token :       , Posbility: 0.0003
+Next Token :     , Posbility: 0.0005
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : let, Posbility: 0.0004
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0164
+Next Token :  [], Posbility: 0.0164
+Next Token :  num, Posbility: 0.0270
+Next Token :  [, Posbility: 0.3281
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0280
+Next Token : (, Posbility: 0.0522
+Next Token : _, Posbility: 0.1826
+Next Token : n, Posbility: 0.1826
+Next Token : x, Posbility: 0.4375
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0028
+Next Token : :, Posbility: 0.0124
+Next Token : s, Posbility: 0.0262
+Next Token : ::, Posbility: 0.4102
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0010
+Next Token : if, Posbility: 0.0039
+Next Token : :, Posbility: 0.0056
+Next Token : ->, Posbility: 0.0369
+Next Token : ::, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0045
+Next Token :  list, Posbility: 0.0058
+Next Token :  [], Posbility: 0.0058
+Next Token :  rest, Posbility: 0.0913
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : s, Posbility: 0.0476
+Next Token : _, Posbility: 0.0613
+Next Token : square, Posbility: 0.0613
+Next Token : y, Posbility: 0.1011
+Next Token : x, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sq, Posbility: 0.0019
+Next Token : _, Posbility: 0.0024
+Next Token :  , Posbility: 0.0031
+Next Token : ', Posbility: 0.0177
+Next Token : s, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0022
+Next Token :  =>, Posbility: 0.0022
+Next Token : 
+, Posbility: 0.0061
+Next Token :  when, Posbility: 0.0747
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0006
+Next Token : if, Posbility: 0.0045
+Next Token : ::, Posbility: 0.0096
+Next Token : ->, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0022
+Next Token :  1, Posbility: 0.0028
+Next Token :  [, Posbility: 0.1191
+Next Token : 
+, Posbility: 0.3242
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0415
+Next Token : let, Posbility: 0.0415
+Next Token : (, Posbility: 0.0603
+Next Token : if, Posbility: 0.0996
+Next Token : x, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0112
+Next Token :  **, Posbility: 0.0112
+Next Token : s, Posbility: 0.1357
+Next Token :  *, Posbility: 0.2539
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : <, Posbility: 0.0008
+Next Token : x, Posbility: 0.0027
+Next Token : :, Posbility: 0.0123
+Next Token : ^, Posbility: 0.2188
+Next Token : ::, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : !, Posbility: 0.0005
+Next Token :  !, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0009
+Next Token :  [, Posbility: 0.0067
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0016
+Next Token : sq, Posbility: 0.0044
+Next Token : (, Posbility: 0.0889
+Next Token : x, Posbility: 0.2422
+Next Token : square, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: square
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0002
+Next Token : _, Posbility: 0.0003
+Next Token :  , Posbility: 0.0006
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0008
+Next Token : 
+
+, Posbility: 0.0064
+Next Token : (, Posbility: 0.0082
+Next Token : 
+, Posbility: 0.0325
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : y, Posbility: 0.0002
+Next Token : :, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0006
+Next Token : (, Posbility: 0.0229
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ', Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0003
+Next Token :  , Posbility: 0.0013
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0018
+Next Token :  in, Posbility: 0.0029
+Next Token :  , Posbility: 0.0079
+Next Token : 
+
+, Posbility: 0.2637
+Next Token : 
+, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0564
+Next Token : let, Posbility: 0.0679
+Next Token : in, Posbility: 0.1348
+Next Token :   , Posbility: 0.2227
+Next Token : |, Posbility: 0.3242
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+|
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0099
+Next Token : ?, Posbility: 0.0127
+Next Token :  ?, Posbility: 0.0210
+Next Token : >, Posbility: 0.2559
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0106
+Next Token : (, Posbility: 0.0120
+Next Token : n, Posbility: 0.1001
+Next Token : _, Posbility: 0.3496
+Next Token : x, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0109
+Next Token : ,, Posbility: 0.0123
+Next Token :  when, Posbility: 0.0123
+Next Token : s, Posbility: 0.0378
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0054
+Next Token : x, Posbility: 0.0070
+Next Token : if, Posbility: 0.0403
+Next Token : ->, Posbility: 0.1240
+Next Token : ::, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0023
+Next Token :  rest, Posbility: 0.0033
+Next Token :  [, Posbility: 0.0150
+Next Token :  [], Posbility: 0.0405
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : s, Posbility: 0.0110
+Next Token : square, Posbility: 0.0562
+Next Token : y, Posbility: 0.0562
+Next Token : _, Posbility: 0.1523
+Next Token : x, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0004
+Next Token : _, Posbility: 0.0005
+Next Token :  , Posbility: 0.0025
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0034
+Next Token : ,, Posbility: 0.0073
+Next Token : 
+, Posbility: 0.0120
+Next Token :  when, Posbility: 0.1143
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0014
+Next Token : ::, Posbility: 0.0056
+Next Token : if, Posbility: 0.0417
+Next Token : ->, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0044
+Next Token :  1, Posbility: 0.0081
+Next Token :  [, Posbility: 0.0364
+Next Token : 
+, Posbility: 0.1855
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0349
+Next Token : (, Posbility: 0.0396
+Next Token : if, Posbility: 0.0947
+Next Token : square, Posbility: 0.3750
+Next Token : x, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0051
+Next Token :  +, Posbility: 0.0177
+Next Token :  *, Posbility: 0.0258
+Next Token : s, Posbility: 0.0791
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0007
+Next Token : x, Posbility: 0.0024
+Next Token : :, Posbility: 0.0082
+Next Token : ^, Posbility: 0.0327
+Next Token : ::, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0017
+Next Token :  rec, Posbility: 0.0027
+Next Token :  [, Posbility: 0.0157
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sq, Posbility: 0.0023
+Next Token : y, Posbility: 0.0038
+Next Token : (, Posbility: 0.0281
+Next Token : x, Posbility: 0.0281
+Next Token : square, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: square
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0013
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0027
+Next Token :  ((, Posbility: 0.0034
+Next Token : 
+, Posbility: 0.0073
+Next Token :  [, Posbility: 0.0176
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ::, Posbility: 0.0012
+Next Token : y, Posbility: 0.0012
+Next Token : square, Posbility: 0.0012
+Next Token : (, Posbility: 0.1807
+Next Token : x, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0015
+Next Token : 
+
+, Posbility: 0.0017
+Next Token :  , Posbility: 0.0017
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0248
+Next Token :  +, Posbility: 0.0864
+Next Token : 
+
+, Posbility: 0.1836
+Next Token : 
+, Posbility: 0.2354
+Next Token :  , Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0791
+Next Token : ->, Posbility: 0.1016
+Next Token : x, Posbility: 0.1152
+Next Token : if, Posbility: 0.2432
+Next Token : ::, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0055
+Next Token : 
+, Posbility: 0.0062
+Next Token :  [], Posbility: 0.0116
+Next Token :  [, Posbility: 0.0356
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0025
+Next Token : sq, Posbility: 0.0033
+Next Token : (, Posbility: 0.0211
+Next Token : x, Posbility: 0.0576
+Next Token : square, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: square
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token :  , Posbility: 0.0009
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: squares
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0030
+Next Token :  [, Posbility: 0.0043
+Next Token : 
+
+, Posbility: 0.0221
+Next Token : 
+, Posbility: 0.0221
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: squares 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ::, Posbility: 0.0003
+Next Token : square, Posbility: 0.0003
+Next Token : y, Posbility: 0.0013
+Next Token : (, Posbility: 0.1187
+Next Token : x, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: squares x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ), Posbility: 0.0001
+Next Token :  , Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0036
+Next Token : 
+
+, Posbility: 0.0052
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: squares xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0041
+Next Token : ), Posbility: 0.0087
+Next Token :  , Posbility: 0.0342
+Next Token : 
+, Posbility: 0.3242
+Next Token : 
+
+, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find perfect squares between two given numbers. *)
+let rec squares = function
+  | [] -> []
+  | x :: xs -> x :: squares xs
+| x :: xs -> x :: squares xs :: squares xs
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :28.515095233917236
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,4213 @@
+code:
+ (* Write a function to sort a list of elements. *)
+let
+Next Token :  rec, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec
+Next Token :  , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec 
+Next Token : quick, Posbility: 0.2988
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick
+Next Token : _, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_
+Next Token : sort, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort 
+Next Token : lst, Posbility: 0.1982
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst
+Next Token :  =, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+Next Token : 
+, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+
+Next Token :   , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  
+Next Token : if, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if 
+Next Token : lst, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst
+Next Token :  =, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst =
+Next Token :  [], Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = []
+Next Token :  then, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then
+Next Token :  , Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then 
+Next Token : lst, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+Next Token : 
+, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+Next Token : 
+, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+
+Next Token :     , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    
+Next Token : let, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let 
+Next Token : pivot, Posbility: 0.2178
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot
+Next Token :  =, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot =
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = 
+Next Token : lst, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst
+Next Token : [0], Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0]
+Next Token :  in, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    
+Next Token : let, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let
+Next Token :  , Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let 
+Next Token : lt, Posbility: 0.1309
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt
+Next Token :  =, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt =
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = 
+Next Token : List, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.
+Next Token : filter, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (
+Next Token : fun, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun 
+Next Token : x, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x ->
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> 
+Next Token : x, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x 
+Next Token : <, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x <
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < 
+Next Token : pivot, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot
+Next Token : ), Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) 
+Next Token : lst, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst
+Next Token :  in, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    
+Next Token : let, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let 
+Next Token : gt, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt =
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = 
+Next Token : List, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.
+Next Token : filter, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (
+Next Token : fun, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x ->
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x 
+Next Token : >, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x >
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > 
+Next Token : pivot, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot
+Next Token : ), Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) 
+Next Token : lst, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    
+Next Token : let, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let 
+Next Token : lt, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt
+Next Token : _, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_
+Next Token : sorted, Posbility: 0.1357
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted =
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = 
+Next Token : quick, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_
+Next Token : sort, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort 
+Next Token : lt, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    
+Next Token : let, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let 
+Next Token : gt, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_
+Next Token : sorted, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = 
+Next Token : quick, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_
+Next Token : sort, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort 
+Next Token : gt, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    
+Next Token : let, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let 
+Next Token : pivot, Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot
+Next Token : _, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_
+Next Token : index, Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index =
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = 
+Next Token : List, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.
+Next Token : find, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find
+Next Token :  , Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find 
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (
+Next Token : fun, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun 
+Next Token : x, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x ->
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x
+Next Token :  =, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = 
+Next Token : pivot, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot
+Next Token : ), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) 
+Next Token : lst, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst
+Next Token :  in, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    
+Next Token : if, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if 
+Next Token : pivot, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_
+Next Token : index, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index
+Next Token :  =, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index =
+Next Token :  0, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+Next Token : 
+, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+
+Next Token :       , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      
+Next Token : List, Posbility: 0.2715
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.
+Next Token : cons, Posbility: 0.2930
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons 
+Next Token : pivot, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot
+Next Token :  , Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot 
+Next Token : lt, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_
+Next Token : sorted, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+Next Token : 
+, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+
+Next Token :     , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    
+Next Token : else, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+Next Token : 
+, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+
+Next Token :       , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      
+Next Token : if, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if 
+Next Token : pivot, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_
+Next Token : index, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index
+Next Token :  =, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index =
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = 
+Next Token : List, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length 
+Next Token : lst, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst
+Next Token :  , Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst 
+Next Token : -, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst -
+Next Token :  1, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+
+Next Token :         , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        
+Next Token : List, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.
+Next Token : cons, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons 
+Next Token : pivot, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot 
+Next Token : gt, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_
+Next Token : sorted, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+
+Next Token :       , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+
+Next Token :         , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        
+Next Token : let, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let 
+Next Token : pivot, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot
+Next Token : _, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_
+Next Token : index, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index
+Next Token :  =, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index =
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = 
+Next Token : pivot, Posbility: 0.3320
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_
+Next Token : index, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index 
+Next Token : -, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index -
+Next Token :  1, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1
+Next Token :  in, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+
+Next Token :         , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        
+Next Token : let, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let 
+Next Token : pivot, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot
+Next Token : _, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_
+Next Token : left, Posbility: 0.1367
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left
+Next Token :  =, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left =
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = 
+Next Token : List, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.
+Next Token : take, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take 
+Next Token : pivot, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_
+Next Token : index, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index 
+Next Token : lt, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt
+Next Token : _, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_
+Next Token : sorted, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted
+Next Token :  in, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+
+Next Token :         , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        
+Next Token : let, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let 
+Next Token : pivot, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_
+Next Token : right, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right =
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = 
+Next Token : List, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.
+Next Token : drop, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop 
+Next Token : pivot, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_
+Next Token : index, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index 
+Next Token : gt, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_
+Next Token : sorted, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+
+Next Token :         , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        
+Next Token : List, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.
+Next Token : cons, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons 
+Next Token : pivot, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot 
+Next Token : (, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (
+Next Token : quick, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_
+Next Token : sort, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort 
+Next Token : pivot, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_
+Next Token : left, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left
+Next Token : ), Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left)
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) 
+Next Token : (, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (
+Next Token : quick, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_
+Next Token : sort, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_sort
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_sort 
+Next Token : pivot, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_sort pivot
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_sort pivot_
+Next Token : right, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_sort pivot_right
+Next Token : ), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to sort a list of elements. *)
+let rec quick_sort lst =
+  if lst = [] then lst
+  else
+    let pivot = lst[0] in
+    let lt = List.filter (fun x -> x < pivot) lst in
+    let gt = List.filter (fun x -> x > pivot) lst in
+    let lt_sorted = quick_sort lt in
+    let gt_sorted = quick_sort gt in
+    let pivot_index = List.find (fun x -> x = pivot) lst in
+    if pivot_index = 0 then
+      List.cons pivot lt_sorted
+    else
+      if pivot_index = List.length lst - 1 then
+        List.cons pivot gt_sorted
+      else
+        let pivot_index = pivot_index - 1 in
+        let pivot_left = List.take pivot_index lt_sorted in
+        let pivot_right = List.drop pivot_index gt_sorted in
+        List.cons pivot (quick_sort pivot_left) (quick_sort pivot_right)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :9.46839451789856
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,746 @@
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let
+Next Token :  rec, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec
+Next Token :  , Posbility: 0.2988
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec 
+Next Token : repeated, Posbility: 0.2227
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated
+Next Token : _, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_
+Next Token : char, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char
+Next Token :  , Posbility: 0.3691
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char 
+Next Token : s, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s
+Next Token :  =, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+Next Token : 
+, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+
+Next Token :   , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  
+Next Token : match, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match 
+Next Token : s, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s
+Next Token :  with, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  
+Next Token : |, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  |
+Next Token :  [], Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | []
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] ->
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> 
+Next Token : raise, Posbility: 0.1816
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise
+Next Token :  Not, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_
+Next Token : found, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+Next Token : 
+, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  |
+Next Token :  , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | 
+Next Token : _, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ 
+Next Token : ::, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ ::
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: 
+Next Token : t, Posbility: 0.2451
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t 
+Next Token : ->, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+Next Token : 
+, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+
+Next Token :     , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    
+Next Token : let, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let 
+Next Token : c, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c
+Next Token :  =, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c =
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = 
+Next Token : Char, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char
+Next Token : ., Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.
+Next Token : to, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_
+Next Token : string, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string 
+Next Token : s, Posbility: 0.3535
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s
+Next Token : ., Posbility: 0.3926
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.
+Next Token : [0], Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0]
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    
+Next Token : if, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if 
+Next Token : c, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c
+Next Token :  =, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c =
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = 
+Next Token : s, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s
+Next Token : ., Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.
+Next Token : [1], Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1]
+Next Token :  then, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then 
+Next Token : repeated, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_
+Next Token : char, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char 
+Next Token : t, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t
+Next Token :  else, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else 
+Next Token : c, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+Next Token : 
+, Posbility: 0.3145
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+
+Next Token :   , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  
+Next Token : |, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  |
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | 
+Next Token : _, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ 
+Next Token : ->, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ ->
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ -> 
+Next Token : raise, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ -> raise
+Next Token :  Not, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ -> raise Not
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ -> raise Not_
+Next Token : found, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first repeated character in a given string. *)
+let rec repeated_char s =
+  match s with
+  | [] -> raise Not_found
+  | _ :: t ->
+    let c = Char.to_string s.[0] in
+    if c = s.[1] then repeated_char t else c
+  | _ -> raise Not_found
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.311420202255249
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

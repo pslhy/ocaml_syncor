@@ -1,0 +1,566 @@
+code:
+ (* Write a function to find the area of a rectangle. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0203
+Next Token :  find, Posbility: 0.0203
+Next Token :  area, Posbility: 0.1318
+Next Token :  , Posbility: 0.3164
+Next Token :  rec, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0280
+Next Token :  rec, Posbility: 0.0461
+Next Token :  find, Posbility: 0.0977
+Next Token :  area, Posbility: 0.2061
+Next Token :  , Posbility: 0.4375
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0229
+Next Token : f, Posbility: 0.0378
+Next Token : square, Posbility: 0.0552
+Next Token : rect, Posbility: 0.1924
+Next Token : rectangle, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0586
+Next Token : Area, Posbility: 0.0586
+Next Token :  =, Posbility: 0.0752
+Next Token :  , Posbility: 0.1592
+Next Token : _, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : width, Posbility: 0.0024
+Next Token : of, Posbility: 0.0027
+Next Token : rec, Posbility: 0.0031
+Next Token : size, Posbility: 0.0044
+Next Token : area, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0254
+Next Token : _, Posbility: 0.0537
+Next Token :  a, Posbility: 0.0537
+Next Token :  =, Posbility: 0.0889
+Next Token :  , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rect, Posbility: 0.0396
+Next Token : r, Posbility: 0.0737
+Next Token : w, Posbility: 0.1074
+Next Token : x, Posbility: 0.2275
+Next Token : (, Posbility: 0.3301
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : left, Posbility: 0.0471
+Next Token : l, Posbility: 0.0684
+Next Token : w, Posbility: 0.1128
+Next Token : width, Posbility: 0.1641
+Next Token : x, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0344
+Next Token :  , Posbility: 0.0442
+Next Token : 0,, Posbility: 0.1543
+Next Token : 1,, Posbility: 0.3262
+Next Token : ,, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : x, Posbility: 0.0003
+Next Token :  height, Posbility: 0.0005
+Next Token :  width, Posbility: 0.0012
+Next Token : y, Posbility: 0.1816
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : _, Posbility: 0.0003
+Next Token : w, Posbility: 0.0003
+Next Token : h, Posbility: 0.0009
+Next Token : x, Posbility: 0.0025
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1,, Posbility: 0.0007
+Next Token : ),, Posbility: 0.0007
+Next Token : ):, Posbility: 0.0007
+Next Token : ), Posbility: 0.2676
+Next Token : ,, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0087
+Next Token :  height, Posbility: 0.0087
+Next Token :  l, Posbility: 0.0236
+Next Token :  width, Posbility: 0.4727
+Next Token :  , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0117
+Next Token : x, Posbility: 0.0317
+Next Token : dx, Posbility: 0.0317
+Next Token : h, Posbility: 0.0408
+Next Token : w, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token :  =, Posbility: 0.0007
+Next Token : id, Posbility: 0.0009
+Next Token : ), Posbility: 0.0025
+Next Token : ,, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0001
+Next Token : h, Posbility: 0.0004
+Next Token :  v, Posbility: 0.0004
+Next Token :  l, Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0002
+Next Token : t, Posbility: 0.0003
+Next Token : z, Posbility: 0.0004
+Next Token : d, Posbility: 0.0015
+Next Token : h, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0009
+Next Token :  , Posbility: 0.0015
+Next Token : ):, Posbility: 0.0024
+Next Token : ,, Posbility: 0.0109
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0029
+Next Token : 
+, Posbility: 0.0078
+Next Token :  acc, Posbility: 0.0088
+Next Token :  , Posbility: 0.1553
+Next Token :  =, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0035
+Next Token :  {, Posbility: 0.0109
+Next Token :  match, Posbility: 0.0204
+Next Token :  , Posbility: 0.0913
+Next Token : 
+, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0034
+Next Token :    , Posbility: 0.0056
+Next Token : 	, Posbility: 0.0063
+Next Token :     , Posbility: 0.1445
+Next Token :   , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0272
+Next Token : w, Posbility: 0.0349
+Next Token : let, Posbility: 0.1387
+Next Token : match, Posbility: 0.2012
+Next Token : if, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0015
+Next Token :  ((, Posbility: 0.0024
+Next Token : (, Posbility: 0.0028
+Next Token :  not, Posbility: 0.0031
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : y, Posbility: 0.0294
+Next Token : (, Posbility: 0.0796
+Next Token : h, Posbility: 0.0796
+Next Token : x, Posbility: 0.2168
+Next Token : w, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0144
+Next Token :  >=, Posbility: 0.0237
+Next Token :  =, Posbility: 0.1748
+Next Token :  , Posbility: 0.2891
+Next Token :  <=, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0031
+Next Token :  1, Posbility: 0.0051
+Next Token :  , Posbility: 0.0065
+Next Token :  0.0, Posbility: 0.0138
+Next Token :  0, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  and, Posbility: 0.0069
+Next Token :  &&, Posbility: 0.0510
+Next Token :  or, Posbility: 0.0654
+Next Token :  then, Posbility: 0.0654
+Next Token :  ||, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 ||
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0000
+Next Token : h, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0004
+Next Token :   , Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0003
+Next Token : x, Posbility: 0.0003
+Next Token : y, Posbility: 0.0009
+Next Token : w, Posbility: 0.0025
+Next Token : h, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0002
+Next Token :  =, Posbility: 0.0004
+Next Token : <, Posbility: 0.0006
+Next Token :  , Posbility: 0.0019
+Next Token :  <=, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  1, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : 0, Posbility: 0.0012
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0030
+Next Token :   , Posbility: 0.0038
+Next Token :  ||, Posbility: 0.0221
+Next Token : 
+, Posbility: 0.0283
+Next Token :  then, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0061
+Next Token :  0.0, Posbility: 0.0166
+Next Token :  , Posbility: 0.0747
+Next Token : 
+, Posbility: 0.3340
+Next Token :  0, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0031
+Next Token :  , Posbility: 0.0109
+Next Token : ., Posbility: 0.0159
+Next Token :  else, Posbility: 0.1943
+Next Token : 
+, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token :    , Posbility: 0.0003
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : let, Posbility: 0.0002
+Next Token : |, Posbility: 0.0002
+Next Token : //, Posbility: 0.0003
+Next Token : elif, Posbility: 0.0005
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token :  match, Posbility: 0.0047
+Next Token :  {, Posbility: 0.0188
+Next Token : 
+, Posbility: 0.2578
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0200
+Next Token : if, Posbility: 0.0894
+Next Token : (, Posbility: 0.1299
+Next Token : x, Posbility: 0.3125
+Next Token : w, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else w
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0007
+Next Token :  +, Posbility: 0.0035
+Next Token :  , Posbility: 0.0137
+Next Token : *, Posbility: 0.0199
+Next Token :  *, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else w *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  (*, Posbility: 0.0001
+Next Token : h, Posbility: 0.0008
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else w * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0001
+Next Token : w, Posbility: 0.0001
+Next Token : (, Posbility: 0.0015
+Next Token : y, Posbility: 0.0036
+Next Token : h, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else w * h
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0168
+Next Token :  +, Posbility: 0.0168
+Next Token :  , Posbility: 0.0459
+Next Token : 
+, Posbility: 0.3398
+Next Token : 
+
+, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the area of a rectangle. *)
+let rec rectangle_area (x, y, w, h) =
+  if w <= 0 || h <= 0 then 0
+  else w * h
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :19.092888116836548
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

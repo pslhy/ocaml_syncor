@@ -1,0 +1,218 @@
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let
+Next Token :  rec, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec
+Next Token :  is, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_
+Next Token : empty, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty
+Next Token : _, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_
+Next Token : dict, Posbility: 0.3457
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict
+Next Token :  , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict 
+Next Token : d, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d
+Next Token :  =, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+Next Token : 
+, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+
+Next Token :   , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  
+Next Token : match, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match 
+Next Token : d, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d
+Next Token :  with, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  
+Next Token : |, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  |
+Next Token :  {, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {
+Next Token : }, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {}
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} 
+Next Token : ->, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} ->
+Next Token :  true, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  |
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  | 
+Next Token : _, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  | _
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  | _ 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  | _ ->
+Next Token :  false, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to check whether all dictionaries in a list are empty or not. *)
+let rec is_empty_dict d =
+  match d with
+  | {} -> true
+  | _ -> false
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.218061923980713
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

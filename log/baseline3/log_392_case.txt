@@ -1,0 +1,417 @@
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let
+Next Token :  remove, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove
+Next Token : _, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_
+Next Token : k, Posbility: 0.2285
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k
+Next Token : _, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_
+Next Token : length, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length
+Next Token : _, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_
+Next Token : words, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words
+Next Token :  , Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words 
+Next Token : s, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s
+Next Token :  k, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k
+Next Token :  =, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+Next Token : 
+, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  
+Next Token : let, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let
+Next Token :  , Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let 
+Next Token : s, Posbility: 0.1504
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s
+Next Token :  =, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s =
+Next Token :  String, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.
+Next Token : to, Posbility: 0.2324
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_
+Next Token : list, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list 
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  
+Next Token : let, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let
+Next Token :  , Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let 
+Next Token : s, Posbility: 0.2070
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s
+Next Token :  =, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s =
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = 
+Next Token : List, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.
+Next Token : filter, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter 
+Next Token : (, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (
+Next Token : fun, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun
+Next Token :  , Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun 
+Next Token : x, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x ->
+Next Token :  , Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> 
+Next Token : x, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x
+Next Token :  , Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x 
+Next Token : <, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <
+Next Token : >, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <>
+Next Token :  k, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k
+Next Token : ), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) 
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s
+Next Token :  in, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  
+Next Token : String, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String.
+Next Token : of, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String.of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String.of_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String.of_list
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String.of_list 
+Next Token : s, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to remove all the words with k length in the given string. *)
+let remove_k_length_words s k =
+  let s = String.to_list s in
+  let s = List.filter (fun x -> x <> k) s in
+  String.of_list s
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.8395724296569824
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

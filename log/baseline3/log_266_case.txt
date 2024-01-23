@@ -1,0 +1,901 @@
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let
+Next Token :  , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let 
+Next Token : x, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let x
+Next Token : or, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor
+Next Token : _, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_
+Next Token : count, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count 
+Next Token : x, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count x
+Next Token : s, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  
+Next Token : let, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let
+Next Token :  , Posbility: 0.3418
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let 
+Next Token : x, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let x
+Next Token : s, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs
+Next Token :  =, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs =
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = 
+Next Token : List, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.
+Next Token : filter, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter 
+Next Token : (, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (
+Next Token : fun, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun 
+Next Token : x, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x ->
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> 
+Next Token : x, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x 
+Next Token : <, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <
+Next Token : >, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <>
+Next Token :  0), Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs
+Next Token :  in, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  
+Next Token : let, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let
+Next Token :  , Posbility: 0.4492
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let 
+Next Token : x, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let x
+Next Token : s, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs
+Next Token :  =, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs =
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = 
+Next Token : List, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.
+Next Token : map, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map 
+Next Token : (, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (
+Next Token : fun, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun 
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x ->
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> 
+Next Token : x, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x 
+Next Token : ^, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^
+Next Token :  , Posbility: 0.4414
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ 
+Next Token : x, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x
+Next Token : ), Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x)
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  
+Next Token : let, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let 
+Next Token : x, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let x
+Next Token : s, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs
+Next Token :  =, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs =
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = 
+Next Token : List, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.
+Next Token : filter, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter
+Next Token :  , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter 
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (
+Next Token : fun, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun 
+Next Token : x, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x ->
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> 
+Next Token : x, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x
+Next Token :  , Posbility: 0.3848
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x 
+Next Token : <, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <
+Next Token : >, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <>
+Next Token :  0), Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0)
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  
+Next Token : List, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.
+Next Token : length, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length 
+Next Token : (, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (
+Next Token : List, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.
+Next Token : filter, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter 
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (
+Next Token : fun, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun 
+Next Token : x, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x 
+Next Token : ->, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x ->
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> 
+Next Token : x, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x 
+Next Token : <, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <
+Next Token : >, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <>
+Next Token :  0), Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <> 0)
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <> 0) 
+Next Token : x, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <> 0) x
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <> 0) xs
+Next Token : ), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to count the number of pairs whose xor value is odd. *)
+let xor_count xs =
+  let xs = List.filter (fun x -> x <> 0) xs in
+  let xs = List.map (fun x -> x ^ x) xs in
+  let xs = List.filter (fun x -> x <> 0) xs in
+  List.length (List.filter (fun x -> x <> 0) xs)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :4.075191020965576
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

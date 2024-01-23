@@ -1,0 +1,561 @@
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let
+Next Token :  rec, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec
+Next Token :  count, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count
+Next Token : _, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_
+Next Token : occurrence, Posbility: 0.2451
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrence
+Next Token : s, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences 
+Next Token : n, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n
+Next Token :  , Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n 
+Next Token : x, Posbility: 0.2793
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n x
+Next Token : s, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+Next Token : 
+, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  
+Next Token : match, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match 
+Next Token : x, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] ->
+Next Token :  0, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  |
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | 
+Next Token : x, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x 
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x ::
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: 
+Next Token : x, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+
+Next Token :       , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      
+Next Token : if, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if 
+Next Token : x, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = 
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then
+Next Token :  1, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1
+Next Token :  +, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 +
+Next Token :  count, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_
+Next Token : occurrence, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrence
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences 
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n 
+Next Token : x, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+Next Token : 
+, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+
+Next Token :       , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else
+Next Token :  count, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_
+Next Token : occurrence, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrence
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrences
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrences 
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrences n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrences n 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrences n x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+      if x = n then 1 + count_occurrences n xs
+      else count_occurrences n xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.9062204360961914
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

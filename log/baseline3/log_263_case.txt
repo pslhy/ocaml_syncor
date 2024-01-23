@@ -1,0 +1,237 @@
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let
+Next Token :  rec, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec
+Next Token :  , Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec 
+Next Token : digit, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit
+Next Token : _, Posbility: 0.3965
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_
+Next Token : of, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of
+Next Token : _, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_
+Next Token : number, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number 
+Next Token : n, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n
+Next Token :  =, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+
+Next Token :   , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  
+Next Token : if, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if 
+Next Token : n, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n
+Next Token :  , Posbility: 0.4297
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n 
+Next Token : <, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n <
+Next Token :  10, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then 
+Next Token : n, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+Next Token : 
+, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else 
+Next Token : digit, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number 
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (
+Next Token : n, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n 
+Next Token : /, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n /
+Next Token :  10), Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find the first digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n / 10)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.348066806793213
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

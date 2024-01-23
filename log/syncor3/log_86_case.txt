@@ -1,0 +1,353 @@
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  make, Posbility: 0.0055
+Next Token :  numbers, Posbility: 0.0063
+Next Token :  list, Posbility: 0.0171
+Next Token :  rec, Posbility: 0.4395
+Next Token :  , Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : add, Posbility: 0.0088
+Next Token : fold, Posbility: 0.0099
+Next Token : f, Posbility: 0.0270
+Next Token : flat, Posbility: 0.0444
+Next Token : flatten, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0119
+Next Token :  l, Posbility: 0.0251
+Next Token :  , Posbility: 0.2715
+Next Token : _, Posbility: 0.2715
+Next Token :  =, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0245
+Next Token :  fun, Posbility: 0.0520
+Next Token : 
+, Posbility: 0.2637
+Next Token :  function, Posbility: 0.2988
+Next Token :  , Posbility: 0.3398
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0253
+Next Token : fold, Posbility: 0.0325
+Next Token : (, Posbility: 0.0369
+Next Token : 
+, Posbility: 0.0608
+Next Token : List, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0004
+Next Token : (, Posbility: 0.0004
+Next Token : s, Posbility: 0.0013
+Next Token : _, Posbility: 0.0067
+Next Token : ., Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rev, Posbility: 0.0242
+Next Token : iter, Posbility: 0.0310
+Next Token : flatten, Posbility: 0.0352
+Next Token : map, Posbility: 0.1387
+Next Token : fold, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  l, Posbility: 0.0166
+Next Token : r, Posbility: 0.0452
+Next Token : l, Posbility: 0.0742
+Next Token :  , Posbility: 0.0957
+Next Token : _, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : l, Posbility: 0.0015
+Next Token : map, Posbility: 0.0027
+Next Token : assoc, Posbility: 0.0040
+Next Token : right, Posbility: 0.2178
+Next Token : left, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0273
+Next Token : _, Posbility: 0.0273
+Next Token :  ~, Posbility: 0.0310
+Next Token :  [], Posbility: 0.0840
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [0, Posbility: 0.0051
+Next Token : 
+, Posbility: 0.0066
+Next Token : ([], Posbility: 0.0157
+Next Token : List, Posbility: 0.0427
+Next Token : (, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : \, Posbility: 0.0160
+Next Token : +, Posbility: 0.0337
+Next Token : List, Posbility: 0.0337
+Next Token : function, Posbility: 0.0811
+Next Token : fun, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0205
+Next Token :  a, Posbility: 0.0299
+Next Token :  l, Posbility: 0.1182
+Next Token :  acc, Posbility: 0.3633
+Next Token :  , Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0342
+Next Token : s, Posbility: 0.0437
+Next Token : (, Posbility: 0.0640
+Next Token : n, Posbility: 0.0820
+Next Token : x, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0086
+Next Token :  l, Posbility: 0.0098
+Next Token : s, Posbility: 0.1729
+Next Token :  acc, Posbility: 0.1729
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0150
+Next Token : _, Posbility: 0.0248
+Next Token : ->, Posbility: 0.0361
+Next Token : x, Posbility: 0.0762
+Next Token : y, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0005
+Next Token :  acc, Posbility: 0.0008
+Next Token : ->, Posbility: 0.0008
+Next Token : s, Posbility: 0.0075
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : x, Posbility: 0.0001
+Next Token : ::, Posbility: 0.0002
+Next Token : z, Posbility: 0.0004
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0036
+Next Token :  Some, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.0161
+Next Token :  [, Posbility: 0.0723
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0266
+Next Token : (, Posbility: 0.0302
+Next Token : y, Posbility: 0.0640
+Next Token : List, Posbility: 0.1533
+Next Token : x, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  ++, Posbility: 0.0187
+Next Token : ::, Posbility: 0.0239
+Next Token :  *, Posbility: 0.0505
+Next Token :  +, Posbility: 0.0649
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : <, Posbility: 0.0034
+Next Token : @@, Posbility: 0.0050
+Next Token : :, Posbility: 0.0889
+Next Token : ^, Posbility: 0.1465
+Next Token : ::, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : !, Posbility: 0.0011
+Next Token :  !, Posbility: 0.0024
+Next Token :  [, Posbility: 0.0035
+Next Token : :, Posbility: 0.0109
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x :: 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : append, Posbility: 0.0003
+Next Token : List, Posbility: 0.0009
+Next Token : x, Posbility: 0.0024
+Next Token : (, Posbility: 0.0067
+Next Token : y, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x :: y
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ),, Posbility: 0.0003
+Next Token :  |, Posbility: 0.0009
+Next Token : );, Posbility: 0.0040
+Next Token :  , Posbility: 0.0109
+Next Token : ), Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x :: y)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0090
+Next Token : 
+
+, Posbility: 0.0149
+Next Token :  , Posbility: 0.0669
+Next Token :  0, Posbility: 0.0669
+Next Token :  [], Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x :: y) []
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [], Posbility: 0.0184
+Next Token :  0, Posbility: 0.0237
+Next Token :  , Posbility: 0.0269
+Next Token : 
+, Posbility: 0.2891
+Next Token : 
+
+, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to flatten the list of lists into a single set of numbers. *)
+let flatten = List.fold_left (fun x y -> x :: y) []
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :12.922350883483887
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

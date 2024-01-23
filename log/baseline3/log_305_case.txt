@@ -1,0 +1,359 @@
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let
+Next Token :  rec, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec 
+Next Token : fi, Posbility: 0.1572
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fi
+Next Token : b, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib
+Next Token :  , Posbility: 0.3379
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib 
+Next Token : n, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n
+Next Token :  =, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+Next Token : 
+, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  
+Next Token : if, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if 
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n
+Next Token :  =, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n =
+Next Token :  0, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0
+Next Token :  then, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then
+Next Token :  0, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+Next Token : 
+, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  
+Next Token : else, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else 
+Next Token : if, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if 
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n =
+Next Token :  1, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then
+Next Token :  1, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else 
+Next Token : fi, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib 
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n -
+Next Token :  1), Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1)
+Next Token :  +, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) +
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + 
+Next Token : fi, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib 
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n -
+Next Token :  2), Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.717022657394409
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

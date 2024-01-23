@@ -1,0 +1,240 @@
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  make, Posbility: 0.0105
+Next Token :  get, Posbility: 0.0322
+Next Token :  rec, Posbility: 0.1641
+Next Token :  , Posbility: 0.3066
+Next Token :  volume, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : C, Posbility: 0.0047
+Next Token : (, Posbility: 0.0165
+Next Token :  =, Posbility: 0.1777
+Next Token : _, Posbility: 0.3320
+Next Token :  , Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0212
+Next Token : x, Posbility: 0.0349
+Next Token : radius, Posbility: 0.0742
+Next Token : (, Posbility: 0.2578
+Next Token : r, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0040
+Next Token :  height, Posbility: 0.0059
+Next Token : h, Posbility: 0.0298
+Next Token :  =, Posbility: 0.0811
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0009
+Next Token : t, Posbility: 0.0009
+Next Token : y, Posbility: 0.0017
+Next Token : z, Posbility: 0.0022
+Next Token : h, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0007
+Next Token :   , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0015
+Next Token :  , Posbility: 0.0046
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0091
+Next Token :   , Posbility: 0.0103
+Next Token :  Math, Posbility: 0.0117
+Next Token : 
+, Posbility: 0.3008
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 4.0, Posbility: 0.0376
+Next Token : 3.14159, Posbility: 0.0515
+Next Token : r, Posbility: 0.1797
+Next Token : (, Posbility: 0.1914
+Next Token : 3.14, Posbility: 0.3359
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14
+ score:False
+Error type: noerr
+---------------------------
+Next Token : *, Posbility: 0.0287
+Next Token : 16, Posbility: 0.0474
+Next Token :  , Posbility: 0.0884
+Next Token : 15, Posbility: 0.1875
+Next Token :  *, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token :  Math, Posbility: 0.0009
+Next Token : r, Posbility: 0.0015
+Next Token :  ((, Posbility: 0.0066
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0012
+Next Token : pow, Posbility: 0.0043
+Next Token : (, Posbility: 0.1631
+Next Token : r, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ^, Posbility: 0.0027
+Next Token :  , Posbility: 0.0056
+Next Token : ^2, Posbility: 0.0120
+Next Token : *, Posbility: 0.0223
+Next Token :  *, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0002
+Next Token :  ((, Posbility: 0.0002
+Next Token :   , Posbility: 0.0003
+Next Token : r, Posbility: 0.0006
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sqrt, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0007
+Next Token : (, Posbility: 0.0168
+Next Token : h, Posbility: 0.2637
+Next Token : r, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r * r
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token : *, Posbility: 0.0019
+Next Token :  +, Posbility: 0.0019
+Next Token :  , Posbility: 0.0157
+Next Token :  *, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r * r *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  (1, Posbility: 0.0003
+Next Token :  ((, Posbility: 0.0005
+Next Token : h, Posbility: 0.0017
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r * r * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : abs, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0006
+Next Token : r, Posbility: 0.0015
+Next Token : (, Posbility: 0.0110
+Next Token : h, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r * r * h
+ score:False
+Error type: noerr
+---------------------------
+Next Token : , Posbility: 0.0104
+Next Token :  *, Posbility: 0.0134
+Next Token :  , Posbility: 0.1436
+Next Token : 
+, Posbility: 0.2363
+Next Token : 
+
+, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function that takes in the radius and height of a cylinder and returns the the volume. *)
+let volume r h = 3.14 * r * r * h
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :9.197910785675049
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

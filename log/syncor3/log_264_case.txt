@@ -1,0 +1,345 @@
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0311
+Next Token :  is, Posbility: 0.0452
+Next Token :  even, Posbility: 0.0845
+Next Token :  rec, Posbility: 0.1396
+Next Token :  , Posbility: 0.4863
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : map, Posbility: 0.0032
+Next Token : select, Posbility: 0.0041
+Next Token : print, Posbility: 0.0099
+Next Token : f, Posbility: 0.0112
+Next Token : odd, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0067
+Next Token :  , Posbility: 0.0811
+Next Token :  =, Posbility: 0.1338
+Next Token : s, Posbility: 0.3633
+Next Token : _, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : only, Posbility: 0.0461
+Next Token : integer, Posbility: 0.0522
+Next Token : int, Posbility: 0.1250
+Next Token : numbers, Posbility: 0.2070
+Next Token : list, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0171
+Next Token :  l, Posbility: 0.0220
+Next Token : _, Posbility: 0.0527
+Next Token :  , Posbility: 0.2676
+Next Token :  =, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0156
+Next Token :  fun, Posbility: 0.1309
+Next Token :  function, Posbility: 0.2158
+Next Token :  , Posbility: 0.2451
+Next Token : 
+, Posbility: 0.3145
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0068
+Next Token : let, Posbility: 0.0144
+Next Token :    , Posbility: 0.0210
+Next Token :     , Posbility: 0.1367
+Next Token :   , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0140
+Next Token : (, Posbility: 0.0203
+Next Token : fun, Posbility: 0.1167
+Next Token : let, Posbility: 0.3594
+Next Token : List, Posbility: 0.3594
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List
+ score:False
+Error type: noerr
+---------------------------
+Next Token : s, Posbility: 0.0008
+Next Token : (, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0035
+Next Token : _, Posbility: 0.0123
+Next Token : ., Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rev, Posbility: 0.0190
+Next Token : iter, Posbility: 0.0216
+Next Token : fold, Posbility: 0.0588
+Next Token : map, Posbility: 0.1406
+Next Token : filter, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ((, Posbility: 0.0298
+Next Token :  ~, Posbility: 0.0298
+Next Token : _, Posbility: 0.0718
+Next Token : 
+, Posbility: 0.1040
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : f, Posbility: 0.0031
+Next Token : List, Posbility: 0.0065
+Next Token : odd, Posbility: 0.0073
+Next Token : 
+, Posbility: 0.0083
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : List, Posbility: 0.0066
+Next Token : fn, Posbility: 0.0159
+Next Token :  fun, Posbility: 0.0179
+Next Token : function, Posbility: 0.0552
+Next Token : fun, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0095
+Next Token :  l, Posbility: 0.0201
+Next Token :  v, Posbility: 0.0259
+Next Token :  i, Posbility: 0.2461
+Next Token :  , Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : e, Posbility: 0.0052
+Next Token : _, Posbility: 0.0141
+Next Token : (, Posbility: 0.0141
+Next Token : n, Posbility: 0.1719
+Next Token : x, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0002
+Next Token :  i, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0003
+Next Token : ->, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Next Token : →, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  Not, Posbility: 0.0109
+Next Token : 
+, Posbility: 0.0298
+Next Token :  !, Posbility: 0.0491
+Next Token :  not, Posbility: 0.0811
+Next Token :  , Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0090
+Next Token : Mod, Posbility: 0.0245
+Next Token : Int, Posbility: 0.0591
+Next Token : (, Posbility: 0.2061
+Next Token : x, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  =, Posbility: 0.0114
+Next Token :  `, Posbility: 0.0187
+Next Token :  mod, Posbility: 0.0840
+Next Token :  , Posbility: 0.2275
+Next Token :  %, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x %
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0009
+Next Token :  4, Posbility: 0.0009
+Next Token :  int, Posbility: 0.0014
+Next Token :  2), Posbility: 0.0291
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x % 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 5, Posbility: 0.0001
+Next Token : Int, Posbility: 0.0006
+Next Token : (, Posbility: 0.0007
+Next Token : 3, Posbility: 0.0009
+Next Token : 2, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x % 2
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  !==, Posbility: 0.0060
+Next Token :  ==, Posbility: 0.0728
+Next Token :  , Posbility: 0.2539
+Next Token :  !=, Posbility: 0.3262
+Next Token :  =, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x % 2 =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0059
+Next Token :  1, Posbility: 0.0161
+Next Token :  0), Posbility: 0.0437
+Next Token :  1);, Posbility: 0.0437
+Next Token :  1), Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x % 2 = 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  0, Posbility: 0.0049
+Next Token :  , Posbility: 0.0359
+Next Token :  [], Posbility: 0.0977
+Next Token : 
+, Posbility: 0.3867
+Next Token : 
+
+, Posbility: 0.4375
+---------------------------
+code:
+ (* Write a  function which takes a list of integers and only returns the odd ones. *)
+let odd_list =
+  List.filter (fun x -> x % 2 = 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :12.19290566444397
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

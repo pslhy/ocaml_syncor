@@ -1,0 +1,781 @@
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  string, Posbility: 0.0082
+Next Token :  non, Posbility: 0.0684
+Next Token :  , Posbility: 0.1279
+Next Token :  count, Posbility: 0.2715
+Next Token :  rec, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0123
+Next Token :  loop, Posbility: 0.0123
+Next Token :  non, Posbility: 0.0486
+Next Token :  , Posbility: 0.2178
+Next Token :  count, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Non, Posbility: 0.0068
+Next Token : -, Posbility: 0.0078
+Next Token :  , Posbility: 0.0505
+Next Token :  =, Posbility: 0.1069
+Next Token : _, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : str, Posbility: 0.0146
+Next Token : substr, Posbility: 0.0510
+Next Token : sub, Posbility: 0.0654
+Next Token : non, Posbility: 0.2021
+Next Token : substring, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substring
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0023
+Next Token : _, Posbility: 0.0173
+Next Token :  , Posbility: 0.0173
+Next Token :  =, Posbility: 0.0173
+Next Token : s, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0140
+Next Token :  str, Posbility: 0.0231
+Next Token : _, Posbility: 0.0625
+Next Token :  =, Posbility: 0.1709
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0250
+Next Token : x, Posbility: 0.0320
+Next Token : :, Posbility: 0.0364
+Next Token : (, Posbility: 0.0679
+Next Token : s, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  start, Posbility: 0.0114
+Next Token :  len, Posbility: 0.0309
+Next Token :  i, Posbility: 0.0349
+Next Token :  , Posbility: 0.1221
+Next Token :  =, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0039
+Next Token :  function, Posbility: 0.0254
+Next Token :  match, Posbility: 0.0474
+Next Token :  , Posbility: 0.0688
+Next Token : 
+, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0056
+Next Token : 	, Posbility: 0.0092
+Next Token :    , Posbility: 0.0118
+Next Token :     , Posbility: 0.1270
+Next Token :   , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0091
+Next Token : List, Posbility: 0.0117
+Next Token : if, Posbility: 0.2354
+Next Token : let, Posbility: 0.2656
+Next Token : match, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  S, Posbility: 0.0021
+Next Token :  [, Posbility: 0.0023
+Next Token :  !, Posbility: 0.0050
+Next Token :  String, Posbility: 0.3945
+Next Token :  , Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0152
+Next Token : Char, Posbility: 0.0152
+Next Token : Seq, Posbility: 0.0172
+Next Token : List, Posbility: 0.0771
+Next Token : s, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0009
+Next Token :  |, Posbility: 0.0009
+Next Token :  , Posbility: 0.0015
+Next Token : ., Posbility: 0.0025
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0035
+Next Token :  [, Posbility: 0.0035
+Next Token :  {, Posbility: 0.0058
+Next Token :  [], Posbility: 0.0107
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token :       , Posbility: 0.0020
+Next Token :    , Posbility: 0.0025
+Next Token :     , Posbility: 0.0845
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0006
+Next Token : ", Posbility: 0.0051
+Next Token : [, Posbility: 0.0074
+Next Token : [], Posbility: 0.0200
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0160
+Next Token :  ", Posbility: 0.0262
+Next Token :  , Posbility: 0.0713
+Next Token :  "", Posbility: 0.3203
+Next Token :  [], Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0078
+Next Token :   , Posbility: 0.0078
+Next Token :  =>, Posbility: 0.0211
+Next Token :  |, Posbility: 0.0272
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : →, Posbility: 0.0004
+Next Token :  =>, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0025
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0145
+Next Token :  , Posbility: 0.0393
+Next Token :  [], Posbility: 0.0393
+Next Token :  1, Posbility: 0.1069
+Next Token :  0, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0018
+Next Token :   , Posbility: 0.0044
+Next Token :  , Posbility: 0.0093
+Next Token :  |, Posbility: 0.0197
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |, Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ", Posbility: 0.0134
+Next Token :  a, Posbility: 0.0221
+Next Token :  [], Posbility: 0.0221
+Next Token :  [, Posbility: 0.1631
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0229
+Next Token : c, Posbility: 0.0908
+Next Token : s, Posbility: 0.1318
+Next Token : x, Posbility: 0.2178
+Next Token : _, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0081
+Next Token :   , Posbility: 0.0151
+Next Token :  when, Posbility: 0.0364
+Next Token : ::, Posbility: 0.0874
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0006
+Next Token : →, Posbility: 0.0007
+Next Token : if, Posbility: 0.0718
+Next Token : ::, Posbility: 0.3223
+Next Token : ->, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0107
+Next Token :  , Posbility: 0.0791
+Next Token :  count, Posbility: 0.0791
+Next Token : 
+, Posbility: 0.2148
+Next Token :  1, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ++, Posbility: 0.0160
+Next Token :  , Posbility: 0.0233
+Next Token : 
+
+, Posbility: 0.1182
+Next Token : 
+, Posbility: 0.1523
+Next Token :  +, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0035
+Next Token :  rec, Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0156
+Next Token :  , Posbility: 0.1147
+Next Token :  count, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token :  count, Posbility: 0.0001
+Next Token :  ((, Posbility: 0.0001
+Next Token :  , Posbility: 0.0067
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : subset, Posbility: 0.0001
+Next Token : non, Posbility: 0.0001
+Next Token : substr, Posbility: 0.0002
+Next Token : suffix, Posbility: 0.0003
+Next Token : substring, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substring
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : _, Posbility: 0.0003
+Next Token :  , Posbility: 0.0009
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0031
+Next Token :  ((, Posbility: 0.0065
+Next Token : (, Posbility: 0.0094
+Next Token :  [, Posbility: 0.0094
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Char, Posbility: 0.0008
+Next Token : tail, Posbility: 0.0008
+Next Token : substr, Posbility: 0.0009
+Next Token : s, Posbility: 0.0327
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : substring, Posbility: 0.0153
+Next Token : Sub, Posbility: 0.0197
+Next Token : List, Posbility: 0.0471
+Next Token : s, Posbility: 0.2715
+Next Token : String, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 0.0003
+Next Token : s, Posbility: 0.0004
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : split, Posbility: 0.0178
+Next Token : substr, Posbility: 0.0332
+Next Token : substring, Posbility: 0.0332
+Next Token : remove, Posbility: 0.0427
+Next Token : sub, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : seq, Posbility: 0.0005
+Next Token : st, Posbility: 0.0024
+Next Token : s, Posbility: 0.0028
+Next Token : _, Posbility: 0.0066
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : (", Posbility: 0.0000
+Next Token : (0,, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0001
+Next Token : (, Posbility: 0.0025
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0108
+Next Token :  1), Posbility: 0.0801
+Next Token :  0), Posbility: 0.0801
+Next Token :  1, Posbility: 0.2168
+Next Token :  0, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  1, Posbility: 0.0056
+Next Token :  [, Posbility: 0.0118
+Next Token :  -1), Posbility: 0.0527
+Next Token :  1), Posbility: 0.2373
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : length, Posbility: 0.0031
+Next Token : Length, Posbility: 0.0040
+Next Token : Char, Posbility: 0.0425
+Next Token : s, Posbility: 0.1680
+Next Token : (, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : string, Posbility: 0.0009
+Next Token : s, Posbility: 0.0019
+Next Token : Char, Posbility: 0.0019
+Next Token : List, Posbility: 0.0066
+Next Token : String, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token : Len, Posbility: 0.0000
+Next Token : Length, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : size, Posbility: 0.0005
+Next Token : pos, Posbility: 0.0014
+Next Token : len, Posbility: 0.0037
+Next Token : index, Posbility: 0.0752
+Next Token : length, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0003
+Next Token :  -1), Posbility: 0.0003
+Next Token : (, Posbility: 0.0004
+Next Token : -1, Posbility: 0.0006
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : (), Posbility: 0.0000
+Next Token : /, Posbility: 0.0001
+Next Token : (, Posbility: 0.0015
+Next Token : -, Posbility: 0.0015
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length s
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1), Posbility: 0.0073
+Next Token :  -1), Posbility: 0.0153
+Next Token : ), Posbility: 0.0417
+Next Token : )), Posbility: 0.0884
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length s 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : )), Posbility: 0.0001
+Next Token : -2, Posbility: 0.0001
+Next Token : /, Posbility: 0.0003
+Next Token : −, Posbility: 0.0005
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length s -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 0.0009
+Next Token :  1), Posbility: 0.0065
+Next Token :  1, Posbility: 0.0291
+Next Token :  1)), Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length s - 1))
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0037
+Next Token : ), Posbility: 0.0047
+Next Token :  , Posbility: 0.0078
+Next Token : 
+, Posbility: 0.4258
+Next Token : 
+
+, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to count the number of non-empty substrings of a given string. *)
+let rec count_substrings s =
+  match s with
+  | [] -> 0
+  | _ -> 1 + count_substrings (String.sub s 0 (String.length s - 1))
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :23.52716064453125
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

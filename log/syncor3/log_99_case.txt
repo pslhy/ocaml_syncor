@@ -1,0 +1,843 @@
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  number, Posbility: 0.0083
+Next Token :  list, Posbility: 0.0106
+Next Token :  , Posbility: 0.1011
+Next Token :  count, Posbility: 0.2139
+Next Token :  rec, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0078
+Next Token :  find, Posbility: 0.0165
+Next Token :  loop, Posbility: 0.0165
+Next Token :  , Posbility: 0.1572
+Next Token :  count, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0062
+Next Token : -, Posbility: 0.0090
+Next Token :  , Posbility: 0.1807
+Next Token :  =, Posbility: 0.1807
+Next Token : _, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0427
+Next Token : oc, Posbility: 0.0427
+Next Token : number, Posbility: 0.0547
+Next Token : occ, Posbility: 0.1157
+Next Token : occurrence, Posbility: 0.2451
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrence
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0009
+Next Token : _, Posbility: 0.0065
+Next Token :  =, Posbility: 0.0065
+Next Token :  , Posbility: 0.0177
+Next Token : s, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0181
+Next Token :  l, Posbility: 0.0383
+Next Token : _, Posbility: 0.0811
+Next Token :  =, Posbility: 0.1338
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0352
+Next Token : lst, Posbility: 0.0452
+Next Token : (, Posbility: 0.0579
+Next Token : x, Posbility: 0.2285
+Next Token : n, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0347
+Next Token :  acc, Posbility: 0.0649
+Next Token :  =, Posbility: 0.1377
+Next Token :  l, Posbility: 0.1377
+Next Token :  , Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0334
+Next Token : occ, Posbility: 0.0378
+Next Token : ls, Posbility: 0.0801
+Next Token : lst, Posbility: 0.1699
+Next Token : x, Posbility: 0.2793
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0010
+Next Token :  list, Posbility: 0.0010
+Next Token :  , Posbility: 0.0077
+Next Token :  =, Posbility: 0.0938
+Next Token : s, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0010
+Next Token :  list, Posbility: 0.0010
+Next Token :  acc, Posbility: 0.0074
+Next Token :  , Posbility: 0.0176
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0024
+Next Token :  function, Posbility: 0.0028
+Next Token :  match, Posbility: 0.0491
+Next Token :  , Posbility: 0.0713
+Next Token : 
+, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0045
+Next Token :    , Posbility: 0.0074
+Next Token : 	, Posbility: 0.0107
+Next Token :     , Posbility: 0.1147
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0065
+Next Token : List, Posbility: 0.0156
+Next Token : let, Posbility: 0.0791
+Next Token : if, Posbility: 0.2158
+Next Token : match, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0008
+Next Token :  !, Posbility: 0.0013
+Next Token :  String, Posbility: 0.0096
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0048
+Next Token : Seq, Posbility: 0.0048
+Next Token : n, Posbility: 0.0129
+Next Token : List, Posbility: 0.2598
+Next Token : x, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0001
+Next Token :  in, Posbility: 0.0001
+Next Token :  , Posbility: 0.0004
+Next Token :  with, Posbility: 0.0059
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0003
+Next Token :  , Posbility: 0.0009
+Next Token : ., Posbility: 0.0009
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0026
+Next Token :  , Posbility: 0.0038
+Next Token :  [, Posbility: 0.0092
+Next Token :  [], Posbility: 0.0366
+Next Token : 
+, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :       , Posbility: 0.0015
+Next Token :    , Posbility: 0.0020
+Next Token :     , Posbility: 0.0845
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : [, Posbility: 0.0121
+Next Token : [], Posbility: 0.0227
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0014
+Next Token :  nil, Posbility: 0.0106
+Next Token :  , Posbility: 0.0175
+Next Token :  [, Posbility: 0.0175
+Next Token :  [], Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0049
+Next Token :    , Posbility: 0.0081
+Next Token :  =>, Posbility: 0.0104
+Next Token :  when, Posbility: 0.0134
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0002
+Next Token : →, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0005
+Next Token : if, Posbility: 0.0006
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0157
+Next Token :  [], Posbility: 0.0157
+Next Token :  , Posbility: 0.0427
+Next Token :  1, Posbility: 0.0427
+Next Token :  0, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0011
+Next Token :   , Posbility: 0.0027
+Next Token :  , Posbility: 0.0073
+Next Token :  |, Posbility: 0.0176
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :       , Posbility: 0.0000
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0043
+Next Token :  acc, Posbility: 0.0043
+Next Token :  [], Posbility: 0.0071
+Next Token :  [, Posbility: 0.1426
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0142
+Next Token : h, Posbility: 0.0339
+Next Token : hd, Posbility: 0.0718
+Next Token : _, Posbility: 0.1348
+Next Token : x, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0032
+Next Token : s, Posbility: 0.0067
+Next Token : :, Posbility: 0.0098
+Next Token : ::, Posbility: 0.3672
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0000
+Next Token : ->, Posbility: 0.0008
+Next Token : :, Posbility: 0.0015
+Next Token : if, Posbility: 0.0017
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  more, Posbility: 0.0007
+Next Token :  new, Posbility: 0.0011
+Next Token :  [], Posbility: 0.0014
+Next Token :  rest, Posbility: 0.0942
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : y, Posbility: 0.0061
+Next Token : t, Posbility: 0.0079
+Next Token : tail, Posbility: 0.0130
+Next Token : _, Posbility: 0.0454
+Next Token : x, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ts, Posbility: 0.0002
+Next Token : x, Posbility: 0.0003
+Next Token : _, Posbility: 0.0004
+Next Token : ', Posbility: 0.0025
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0126
+Next Token : 1, Posbility: 0.0126
+Next Token : ', Posbility: 0.0126
+Next Token :  when, Posbility: 0.0564
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : -, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0025
+Next Token : if, Posbility: 0.0059
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  count, Posbility: 0.0078
+Next Token :  match, Posbility: 0.0212
+Next Token :  1, Posbility: 0.0952
+Next Token : 
+, Posbility: 0.4277
+Next Token :  , Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0160
+Next Token : 
+, Posbility: 0.0264
+Next Token : (, Posbility: 0.0264
+Next Token : x, Posbility: 0.0435
+Next Token : if, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  not, Posbility: 0.0005
+Next Token :  compare, Posbility: 0.0005
+Next Token :  int, Posbility: 0.0010
+Next Token :  equal, Posbility: 0.0013
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : X, Posbility: 0.0001
+Next Token : eq, Posbility: 0.0003
+Next Token : (, Posbility: 0.0064
+Next Token : n, Posbility: 0.0471
+Next Token : x, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0010
+Next Token :  ===, Posbility: 0.0035
+Next Token :  , Posbility: 0.0256
+Next Token :  ==, Posbility: 0.1147
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token : ?, Posbility: 0.0001
+Next Token :  ?, Posbility: 0.0001
+Next Token : n, Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0000
+Next Token : Int, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : x, Posbility: 0.0001
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : ;, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0008
+Next Token :  , Posbility: 0.0019
+Next Token :  then, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0005
+Next Token :  count, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0024
+Next Token :  , Posbility: 0.0067
+Next Token :  1, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token : +, Posbility: 0.0012
+Next Token :  , Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0058
+Next Token :  +, Posbility: 0.4629
+Next Token :  else, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0003
+Next Token :  0, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0066
+Next Token :  , Posbility: 0.0109
+Next Token :  count, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 1, Posbility: 0.0000
+Next Token :  1, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token :  , Posbility: 0.0015
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : frequency, Posbility: 0.0000
+Next Token : one, Posbility: 0.0000
+Next Token : oc, Posbility: 0.0001
+Next Token : occ, Posbility: 0.0002
+Next Token : occurrence, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrence
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token :  , Posbility: 0.0006
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (1, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : _, Posbility: 0.0004
+Next Token : (, Posbility: 0.0110
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : m, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : x, Posbility: 0.0015
+Next Token : (, Posbility: 0.0032
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences n
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0000
+Next Token :  1, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences n 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : y, Posbility: 0.0000
+Next Token : (, Posbility: 0.0067
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences n x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ), Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences n xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0036
+Next Token : ;, Posbility: 0.0060
+Next Token : ), Posbility: 0.0127
+Next Token : 
+, Posbility: 0.4219
+Next Token : 
+
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to count the number of occurrences of a number in a given list. *)
+let rec count_occurrences n xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> if x = n then 1 else count_occurrences n xs
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :25.41409730911255
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

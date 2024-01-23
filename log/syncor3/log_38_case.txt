@@ -1,0 +1,593 @@
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  con, Posbility: 0.0197
+Next Token :  find, Posbility: 0.0197
+Next Token :  new, Posbility: 0.0688
+Next Token :  , Posbility: 0.2402
+Next Token :  rec, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0172
+Next Token :  find, Posbility: 0.0601
+Next Token :  con, Posbility: 0.0601
+Next Token :  new, Posbility: 0.2695
+Next Token :  , Posbility: 0.3457
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fi, Posbility: 0.0254
+Next Token : nc, Posbility: 0.0254
+Next Token : f, Posbility: 0.0288
+Next Token : n, Posbility: 0.1006
+Next Token : nth, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0124
+Next Token :  num, Posbility: 0.0124
+Next Token :  =, Posbility: 0.1040
+Next Token :  , Posbility: 0.1719
+Next Token : _, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0354
+Next Token : in, Posbility: 0.0515
+Next Token : num, Posbility: 0.1094
+Next Token : new, Posbility: 0.2617
+Next Token : number, Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0332
+Next Token :  new, Posbility: 0.0427
+Next Token :  =, Posbility: 0.1494
+Next Token : _, Posbility: 0.2451
+Next Token :  , Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : seq, Posbility: 0.0113
+Next Token : nth, Posbility: 0.0145
+Next Token : x, Posbility: 0.0308
+Next Token : (, Posbility: 0.0649
+Next Token : n, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0108
+Next Token :  k, Posbility: 0.0228
+Next Token :  i, Posbility: 0.0293
+Next Token :  , Posbility: 0.2793
+Next Token :  =, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0027
+Next Token :  function, Posbility: 0.0139
+Next Token :  match, Posbility: 0.0427
+Next Token :  , Posbility: 0.0708
+Next Token : 
+, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0062
+Next Token : match, Posbility: 0.0080
+Next Token :    , Posbility: 0.0091
+Next Token :     , Posbility: 0.1416
+Next Token :   , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0067
+Next Token : (, Posbility: 0.0075
+Next Token : let, Posbility: 0.0811
+Next Token : match, Posbility: 0.4121
+Next Token : if, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0010
+Next Token :  N, Posbility: 0.0017
+Next Token :  String, Posbility: 0.0017
+Next Token :  not, Posbility: 0.0024
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0008
+Next Token : nth, Posbility: 0.0016
+Next Token : Int, Posbility: 0.0031
+Next Token : (, Posbility: 0.0256
+Next Token : n, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0095
+Next Token :  ==, Posbility: 0.0703
+Next Token :  , Posbility: 0.1914
+Next Token :  <=, Posbility: 0.1914
+Next Token :  =, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  10, Posbility: 0.0018
+Next Token :  -1, Posbility: 0.0018
+Next Token :  , Posbility: 0.0131
+Next Token :  1, Posbility: 0.2637
+Next Token :  0, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  , Posbility: 0.0024
+Next Token :  ||, Posbility: 0.0051
+Next Token : 
+, Posbility: 0.0109
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0035
+Next Token :  , Posbility: 0.0703
+Next Token : 
+, Posbility: 0.1914
+Next Token :  0, Posbility: 0.1914
+Next Token :  1, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0015
+Next Token :   , Posbility: 0.0020
+Next Token :  , Posbility: 0.0187
+Next Token :  else, Posbility: 0.4238
+Next Token : 
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0002
+Next Token :       , Posbility: 0.0005
+Next Token :  , Posbility: 0.0006
+Next Token :     , Posbility: 0.0015
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : then, Posbility: 0.0010
+Next Token : let, Posbility: 0.0017
+Next Token : if, Posbility: 0.0025
+Next Token : elif, Posbility: 0.0041
+Next Token : else, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0012
+Next Token :  match, Posbility: 0.0032
+Next Token :  {, Posbility: 0.0186
+Next Token : 
+, Posbility: 0.1758
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0325
+Next Token : 2, Posbility: 0.0325
+Next Token : n, Posbility: 0.0369
+Next Token : if, Posbility: 0.2119
+Next Token : nth, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Number, Posbility: 0.0001
+Next Token :  number, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : n, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : numbers, Posbility: 0.0001
+Next Token : num, Posbility: 0.0001
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0026
+Next Token :  (1, Posbility: 0.0133
+Next Token :  ((, Posbility: 0.0171
+Next Token : (, Posbility: 0.0281
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0002
+Next Token : @@, Posbility: 0.0002
+Next Token : n, Posbility: 0.0420
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : succ, Posbility: 0.0014
+Next Token : nth, Posbility: 0.0021
+Next Token :  , Posbility: 0.0074
+Next Token : 2, Posbility: 0.0107
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0034
+Next Token : -1, Posbility: 0.0044
+Next Token :  +, Posbility: 0.0322
+Next Token : -1), Posbility: 0.1123
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0005
+Next Token : −, Posbility: 0.0012
+Next Token : /, Posbility: 0.0041
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0104
+Next Token :  1, Posbility: 0.0104
+Next Token :  1);, Posbility: 0.0172
+Next Token :  2), Posbility: 0.0172
+Next Token :  1), Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0466
+Next Token : 
+, Posbility: 0.0869
+Next Token : 
+
+, Posbility: 0.1436
+Next Token :  *, Posbility: 0.2676
+Next Token :  +, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1;, Posbility: 0.0014
+Next Token :  ((, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0064
+Next Token :  1, Posbility: 0.0287
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0038
+Next Token : 2, Posbility: 0.0170
+Next Token : n, Posbility: 0.0170
+Next Token : (, Posbility: 0.0281
+Next Token : nth, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : n, Posbility: 0.0000
+Next Token : function, Posbility: 0.0000
+Next Token : numbers, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  0, Posbility: 0.0013
+Next Token : (, Posbility: 0.0045
+Next Token :  (1, Posbility: 0.0065
+Next Token :  ((, Posbility: 0.0108
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : nth, Posbility: 0.0003
+Next Token : (0), Posbility: 0.0005
+Next Token : 2, Posbility: 0.0007
+Next Token : n, Posbility: 0.0598
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 3, Posbility: 0.0003
+Next Token :  , Posbility: 0.0005
+Next Token : nth, Posbility: 0.0036
+Next Token : 2, Posbility: 0.0085
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  %, Posbility: 0.0018
+Next Token :  *, Posbility: 0.0029
+Next Token : -1), Posbility: 0.0049
+Next Token :  +, Posbility: 0.2637
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0007
+Next Token : +1), Posbility: 0.0009
+Next Token : ^, Posbility: 0.0024
+Next Token : /, Posbility: 0.0140
+Next Token : -, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0125
+Next Token :  1, Posbility: 0.0125
+Next Token :  2);, Posbility: 0.0337
+Next Token :  1), Posbility: 0.2500
+Next Token :  2), Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0130
+Next Token :  *, Posbility: 0.0189
+Next Token :  +, Posbility: 0.0276
+Next Token : 
+, Posbility: 0.2969
+Next Token : 
+
+, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n - 2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :19.259602308273315
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

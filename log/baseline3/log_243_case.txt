@@ -1,0 +1,326 @@
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let
+Next Token :  rec, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec 
+Next Token : reverse, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse
+Next Token : _, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_
+Next Token : list, Posbility: 0.2480
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list
+Next Token :  , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list 
+Next Token : lst, Posbility: 0.2266
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst
+Next Token :  =, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+Next Token : 
+, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+
+Next Token :   , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  
+Next Token : match, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match 
+Next Token : lst, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+
+Next Token :   , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  |
+Next Token :  [], Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | []
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] ->
+Next Token :  [], Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  |
+Next Token :  , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | 
+Next Token : x, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x 
+Next Token : ::, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x ::
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: 
+Next Token : x, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: x
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs 
+Next Token : ->, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs ->
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> 
+Next Token : x, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x
+Next Token :  , Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x 
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x ::
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: 
+Next Token : reverse, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: reverse
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: reverse_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: reverse_list
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: reverse_list 
+Next Token : x, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: reverse_list x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse each string in a given list of string values. *)
+let rec reverse_list lst =
+  match lst with
+  | [] -> []
+  | x :: xs -> x :: reverse_list xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.571352005004883
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,3281 @@
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0242
+Next Token :  find, Posbility: 0.0510
+Next Token :  , Posbility: 0.1787
+Next Token :  depth, Posbility: 0.2295
+Next Token :  rec, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0245
+Next Token :  get, Posbility: 0.0405
+Next Token :  find, Posbility: 0.1816
+Next Token :  depth, Posbility: 0.1816
+Next Token :  , Posbility: 0.2988
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : d, Posbility: 0.0542
+Next Token : aux, Posbility: 0.0542
+Next Token : helper, Posbility: 0.0791
+Next Token : dict, Posbility: 0.1147
+Next Token : dfs, Posbility: 0.1299
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0210
+Next Token : (, Posbility: 0.0238
+Next Token : _, Posbility: 0.0830
+Next Token :  =, Posbility: 0.1992
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0248
+Next Token : dic, Posbility: 0.0596
+Next Token : dict, Posbility: 0.0674
+Next Token : (, Posbility: 0.0767
+Next Token : d, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  node, Posbility: 0.0198
+Next Token :  0, Posbility: 0.0327
+Next Token :  k, Posbility: 0.0610
+Next Token :  , Posbility: 0.3105
+Next Token :  =, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0035
+Next Token :  function, Posbility: 0.0073
+Next Token :  match, Posbility: 0.0422
+Next Token :  , Posbility: 0.0894
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0046
+Next Token : 	, Posbility: 0.0067
+Next Token :    , Posbility: 0.0086
+Next Token :     , Posbility: 0.0923
+Next Token :   , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0134
+Next Token : List, Posbility: 0.0250
+Next Token : if, Posbility: 0.1855
+Next Token : let, Posbility: 0.2100
+Next Token : match, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0013
+Next Token :  Hash, Posbility: 0.0031
+Next Token :  !, Posbility: 0.0035
+Next Token :  String, Posbility: 0.0066
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0078
+Next Token : Dict, Posbility: 0.0129
+Next Token : List, Posbility: 0.0146
+Next Token : Map, Posbility: 0.0310
+Next Token : d, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0002
+Next Token :  {, Posbility: 0.0002
+Next Token :  , Posbility: 0.0005
+Next Token : ., Posbility: 0.0067
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0011
+Next Token : 
+
+, Posbility: 0.0027
+Next Token :  , Posbility: 0.0040
+Next Token :  {, Posbility: 0.0178
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :       , Posbility: 0.0012
+Next Token :    , Posbility: 0.0018
+Next Token :     , Posbility: 0.0674
+Next Token :   , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0010
+Next Token : [, Posbility: 0.0031
+Next Token : [], Posbility: 0.0031
+Next Token : {, Posbility: 0.0139
+Next Token : |, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0176
+Next Token :  None, Posbility: 0.0420
+Next Token :  [], Posbility: 0.1011
+Next Token :  , Posbility: 0.3105
+Next Token :  {, Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0153
+Next Token :  key, Posbility: 0.0251
+Next Token : key, Posbility: 0.0322
+Next Token :  , Posbility: 0.2715
+Next Token : }, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0039
+Next Token :  as, Posbility: 0.0082
+Next Token :  =>, Posbility: 0.0105
+Next Token :  |, Posbility: 0.0135
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {} 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {} |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {} =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {} as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {}   
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Children, Posbility: 0.0289
+Next Token : Name, Posbility: 0.0371
+Next Token : Key, Posbility: 0.0422
+Next Token : _, Posbility: 0.1011
+Next Token : }, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0062
+Next Token :  as, Posbility: 0.0131
+Next Token :  |, Posbility: 0.0131
+Next Token :  =>, Posbility: 0.0168
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { } 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { } =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { } |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { } as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { }::
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0265
+Next Token : :, Posbility: 0.0300
+Next Token : ,, Posbility: 0.1050
+Next Token :  |, Posbility: 0.1729
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { _ 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { _ |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { _,
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { _:
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { _;
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0216
+Next Token :  :=, Posbility: 0.0518
+Next Token : :, Posbility: 0.0967
+Next Token :  , Posbility: 0.1807
+Next Token :  =, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  name, Posbility: 0.0175
+Next Token :  ", Posbility: 0.0476
+Next Token :  key, Posbility: 0.1289
+Next Token :  k, Posbility: 0.3516
+Next Token :  , Posbility: 0.3516
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key = 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key = k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key = key
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key = "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key = name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0483
+Next Token : ::, Posbility: 0.0703
+Next Token : ->, Posbility: 0.0703
+Next Token : }, Posbility: 0.0903
+Next Token : :, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0165
+Next Token :  key, Posbility: 0.0449
+Next Token :  ", Posbility: 0.1221
+Next Token :  k, Posbility: 0.3320
+Next Token :  , Posbility: 0.3320
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key : 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key : k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key : "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key : key
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key : {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0049
+Next Token :  |, Posbility: 0.0071
+Next Token :  as, Posbility: 0.0132
+Next Token : ::, Posbility: 0.0317
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key } 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key }::
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key } as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key } |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key } =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0273
+Next Token :  key, Posbility: 0.0273
+Next Token :  k, Posbility: 0.0742
+Next Token :  None, Posbility: 0.1221
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key -> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key -> None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key -> k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key -> key
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key -> v
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key ::
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  name, Posbility: 0.0283
+Next Token :  None, Posbility: 0.0283
+Next Token :  key, Posbility: 0.0986
+Next Token :  , Posbility: 0.3457
+Next Token :  k, Posbility: 0.3457
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :: k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :: 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :: key
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :: None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :: name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0206
+Next Token :  |, Posbility: 0.0923
+Next Token :  =, Posbility: 0.1348
+Next Token : ;, Posbility: 0.3223
+Next Token :  , Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key _ 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key _;
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key _ =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key _ |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key _,
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key:
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0227
+Next Token :  key, Posbility: 0.0618
+Next Token :  ", Posbility: 0.0796
+Next Token :  k, Posbility: 0.2158
+Next Token :  , Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key: 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key: k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key: "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key: key
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key: {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key :=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  name, Posbility: 0.0170
+Next Token :  ", Posbility: 0.0461
+Next Token :  key, Posbility: 0.1250
+Next Token :  k, Posbility: 0.3398
+Next Token :  , Posbility: 0.3398
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key := 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key := k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key := key
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key := "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key := name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0093
+Next Token :  Some, Posbility: 0.0135
+Next Token :  {, Posbility: 0.0197
+Next Token :  None, Posbility: 0.0535
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key, 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key, None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key, {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key, Some
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Key, v
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0157
+Next Token :  :=, Posbility: 0.0908
+Next Token :  , Posbility: 0.1318
+Next Token : :, Posbility: 0.1494
+Next Token :  =, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0109
+Next Token :  k, Posbility: 0.0294
+Next Token :  ", Posbility: 0.0801
+Next Token :  name, Posbility: 0.2178
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name = 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name = name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name = "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name = k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name = None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name:
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0199
+Next Token :  k, Posbility: 0.0199
+Next Token :  ", Posbility: 0.1475
+Next Token :  name, Posbility: 0.1475
+Next Token :  , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name: 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name: name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name: "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name: k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name:_
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0503
+Next Token : ->, Posbility: 0.0649
+Next Token : n, Posbility: 0.0942
+Next Token : }, Posbility: 0.1069
+Next Token : :, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name :
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0282
+Next Token :  Some, Posbility: 0.0282
+Next Token :  ", Posbility: 0.0767
+Next Token :  name, Posbility: 0.2080
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name : 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name : name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name : "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name : Some
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name : k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0034
+Next Token :  |, Posbility: 0.0081
+Next Token :  as, Posbility: 0.0118
+Next Token : ::, Posbility: 0.0221
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name } 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name }::
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name } as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name } |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name } =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  :=, Posbility: 0.0122
+Next Token :  =, Posbility: 0.0376
+Next Token :  |, Posbility: 0.0703
+Next Token :  , Posbility: 0.2451
+Next Token : ;, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name n;
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name n 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name n |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name n =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name n :=
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0120
+Next Token :  {, Posbility: 0.0120
+Next Token :  name, Posbility: 0.0884
+Next Token :  None, Posbility: 0.0884
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name -> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name -> None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name -> name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name -> {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name ->
+
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0132
+Next Token :  =, Posbility: 0.0972
+Next Token :  |, Posbility: 0.1104
+Next Token :  , Posbility: 0.3008
+Next Token : ;, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name _;
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name _ 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name _ |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name _ =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name _,
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name :=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0244
+Next Token :  None, Posbility: 0.0244
+Next Token :  ", Posbility: 0.0664
+Next Token :  name, Posbility: 0.2969
+Next Token :  , Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name := 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name := name
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name := "
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name := None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name := k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name;
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  N, Posbility: 0.0057
+Next Token :  v, Posbility: 0.0095
+Next Token :  value, Posbility: 0.0156
+Next Token :  None, Posbility: 0.0291
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name; 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name; None
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name; value
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name; v
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Name; N
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0146
+Next Token : :, Posbility: 0.0513
+Next Token :  :=, Posbility: 0.0581
+Next Token :  , Posbility: 0.1084
+Next Token :  =, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0452
+Next Token :  child, Posbility: 0.0452
+Next Token :  [], Posbility: 0.2021
+Next Token :  children, Posbility: 0.2021
+Next Token :  , Posbility: 0.3320
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children = 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children = children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children = []
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children = child
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children = {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : }, Posbility: 0.0649
+Next Token : (, Posbility: 0.0737
+Next Token : ->, Posbility: 0.0737
+Next Token : c, Posbility: 0.1377
+Next Token : :, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children :
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  child, Posbility: 0.0405
+Next Token :  {, Posbility: 0.0664
+Next Token :  [], Posbility: 0.0664
+Next Token :  children, Posbility: 0.2988
+Next Token :  , Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children : 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children : children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children : []
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children : {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children : child
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children c
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0170
+Next Token : ::, Posbility: 0.0359
+Next Token : ;, Posbility: 0.0859
+Next Token :  =, Posbility: 0.0859
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children c 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children c =
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children c;
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children c::
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children c |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0378
+Next Token :  child, Posbility: 0.0486
+Next Token : 
+, Posbility: 0.0801
+Next Token :  children, Posbility: 0.2471
+Next Token :  , Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children -> 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children -> children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children ->
+
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children -> child
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children -> {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children (
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0530
+Next Token : children, Posbility: 0.0530
+Next Token : k, Posbility: 0.0771
+Next Token : d, Posbility: 0.1436
+Next Token : c, Posbility: 0.1631
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children (c
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children (d
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children (k
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children (children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children (_
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children }
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0034
+Next Token :  =>, Posbility: 0.0071
+Next Token :  as, Posbility: 0.0151
+Next Token : ::, Posbility: 0.0194
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children } 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children }::
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children } as
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children } =>
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children } |
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children :=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  child, Posbility: 0.0337
+Next Token :  {, Posbility: 0.0713
+Next Token :  [], Posbility: 0.1514
+Next Token :  children, Posbility: 0.2500
+Next Token :  , Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children := 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children := children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children := []
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children := {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children := child
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children:
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  child, Posbility: 0.0427
+Next Token :  {, Posbility: 0.0903
+Next Token :  [], Posbility: 0.1162
+Next Token :  children, Posbility: 0.1914
+Next Token :  , Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children: 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children: children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children: []
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children: {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children: child
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children =>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0344
+Next Token :  {, Posbility: 0.0442
+Next Token :  child, Posbility: 0.0442
+Next Token :  , Posbility: 0.3262
+Next Token :  children, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children => children
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children => 
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children => child
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children => {
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | { Children => []
+ score:False
+Error type: Syntaxerr.Other_stop
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0742
+Next Token :  , Posbility: 0.1226
+Next Token : :, Posbility: 0.1226
+Next Token : ;, Posbility: 0.1572
+Next Token :  =, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0393
+Next Token :  ", Posbility: 0.1069
+Next Token :  key, Posbility: 0.1069
+Next Token :  k, Posbility: 0.2910
+Next Token :  , Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0194
+Next Token : (), Posbility: 0.0282
+Next Token : Key, Posbility: 0.0410
+Next Token : x, Posbility: 0.0986
+Next Token : _, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0139
+Next Token :  |, Posbility: 0.0552
+Next Token : }, Posbility: 0.0908
+Next Token :  , Posbility: 0.1318
+Next Token : ;, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _;
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  data, Posbility: 0.0156
+Next Token :  sub, Posbility: 0.0330
+Next Token :  children, Posbility: 0.0698
+Next Token :  , Posbility: 0.2432
+Next Token :  value, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0030
+Next Token : =, Posbility: 0.0118
+Next Token :  , Posbility: 0.0133
+Next Token : }, Posbility: 0.0282
+Next Token :  =, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0461
+Next Token :  v, Posbility: 0.0762
+Next Token :  {, Posbility: 0.0762
+Next Token :  None, Posbility: 0.0762
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0152
+Next Token : Value, Posbility: 0.0250
+Next Token : D, Posbility: 0.0413
+Next Token : d, Posbility: 0.1846
+Next Token : _, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : },, Posbility: 0.0043
+Next Token :  |, Posbility: 0.0104
+Next Token :  , Posbility: 0.0598
+Next Token : ;, Posbility: 0.2373
+Next Token : }, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0039
+Next Token :  |, Posbility: 0.0051
+Next Token : ::, Posbility: 0.0065
+Next Token :  =>, Posbility: 0.0065
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0005
+Next Token : -, Posbility: 0.0009
+Next Token : if, Posbility: 0.0045
+Next Token : ::, Posbility: 0.0228
+Next Token : ->, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0093
+Next Token : 
+, Posbility: 0.0688
+Next Token :  , Posbility: 0.1865
+Next Token :  0, Posbility: 0.1865
+Next Token :  1, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0037
+Next Token :  , Posbility: 0.0148
+Next Token :  |, Posbility: 0.0148
+Next Token :  +, Posbility: 0.0400
+Next Token : 
+, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :    , Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : {, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0022
+Next Token :  v, Posbility: 0.0024
+Next Token :  node, Posbility: 0.0036
+Next Token :  , Posbility: 0.1943
+Next Token :  {, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0081
+Next Token : _, Posbility: 0.0081
+Next Token : children, Posbility: 0.0117
+Next Token : value, Posbility: 0.0133
+Next Token : key, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0039
+Next Token : =, Posbility: 0.0045
+Next Token :  , Posbility: 0.0156
+Next Token : ;, Posbility: 0.1147
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0104
+Next Token :  ", Posbility: 0.0284
+Next Token :  key, Posbility: 0.0771
+Next Token :  k, Posbility: 0.2100
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0058
+Next Token : (, Posbility: 0.0109
+Next Token : d, Posbility: 0.0123
+Next Token : x, Posbility: 0.0231
+Next Token : _, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1, Posbility: 0.0010
+Next Token : _, Posbility: 0.0015
+Next Token : }, Posbility: 0.0045
+Next Token :  , Posbility: 0.0138
+Next Token : ;, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _;
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  values, Posbility: 0.0019
+Next Token :  sub, Posbility: 0.0019
+Next Token :  , Posbility: 0.0074
+Next Token :  children, Posbility: 0.0108
+Next Token :  value, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  :=, Posbility: 0.0008
+Next Token : =, Posbility: 0.0012
+Next Token :  , Posbility: 0.0052
+Next Token : }, Posbility: 0.0075
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  sub, Posbility: 0.0150
+Next Token :  Some, Posbility: 0.0280
+Next Token :  v, Posbility: 0.0280
+Next Token :  {, Posbility: 0.2656
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : D, Posbility: 0.0239
+Next Token : dict, Posbility: 0.0349
+Next Token : (, Posbility: 0.0649
+Next Token : _, Posbility: 0.2012
+Next Token : d, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0170
+Next Token : 1, Posbility: 0.0520
+Next Token : 2, Posbility: 0.1416
+Next Token : ', Posbility: 0.1816
+Next Token : }, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token :  =>, Posbility: 0.0015
+Next Token :  when, Posbility: 0.0031
+Next Token : 
+, Posbility: 0.0058
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token : ::, Posbility: 0.0002
+Next Token : if, Posbility: 0.0022
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0101
+Next Token :  (1, Posbility: 0.0101
+Next Token : 
+, Posbility: 0.2031
+Next Token :  1, Posbility: 0.2031
+Next Token :  , Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0107
+Next Token : let, Posbility: 0.0258
+Next Token : (, Posbility: 0.0376
+Next Token : 2, Posbility: 0.1484
+Next Token : dfs, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0026
+Next Token :  {, Posbility: 0.0056
+Next Token : (, Posbility: 0.0221
+Next Token :  value, Posbility: 0.0221
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0001
+Next Token : val, Posbility: 0.0002
+Next Token : dict, Posbility: 0.0005
+Next Token : (, Posbility: 0.0420
+Next Token : d, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0114
+Next Token :  in, Posbility: 0.0189
+Next Token : 
+
+, Posbility: 0.0659
+Next Token : 
+, Posbility: 0.1582
+Next Token : ., Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Value, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0007
+Next Token : key, Posbility: 0.0019
+Next Token : (, Posbility: 0.0052
+Next Token : value, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  in, Posbility: 0.0042
+Next Token :  , Posbility: 0.0114
+Next Token :  +, Posbility: 0.0398
+Next Token : 
+
+, Posbility: 0.3770
+Next Token : 
+, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : end, Posbility: 0.0057
+Next Token : (, Posbility: 0.0327
+Next Token : in, Posbility: 0.1299
+Next Token : let, Posbility: 0.2422
+Next Token :   , Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0005
+Next Token : let, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0009
+Next Token : (, Posbility: 0.0012
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  others, Posbility: 0.0014
+Next Token :  obj, Posbility: 0.0015
+Next Token :  other, Posbility: 0.0015
+Next Token :  , Posbility: 0.4258
+Next Token :  {, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0021
+Next Token : }, Posbility: 0.0027
+Next Token : value, Posbility: 0.0105
+Next Token : _, Posbility: 0.0322
+Next Token : key, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0029
+Next Token : =, Posbility: 0.0069
+Next Token :  , Posbility: 0.0089
+Next Token : ;, Posbility: 0.0737
+Next Token :  =, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0045
+Next Token :  a, Posbility: 0.0121
+Next Token :  key, Posbility: 0.0330
+Next Token :  k, Posbility: 0.2432
+Next Token :  , Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0085
+Next Token : f, Posbility: 0.0109
+Next Token : x, Posbility: 0.0159
+Next Token : _, Posbility: 0.3613
+Next Token : d, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  with, Posbility: 0.0024
+Next Token : ., Posbility: 0.0031
+Next Token :  , Posbility: 0.0051
+Next Token : 1, Posbility: 0.0176
+Next Token : ;, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d;
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token :  values, Posbility: 0.0005
+Next Token :  children, Posbility: 0.0017
+Next Token :  , Posbility: 0.0046
+Next Token :  value, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0003
+Next Token : =, Posbility: 0.0008
+Next Token :  , Posbility: 0.0009
+Next Token : }, Posbility: 0.0067
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0009
+Next Token :  v, Posbility: 0.0009
+Next Token :  [], Posbility: 0.0009
+Next Token :  {, Posbility: 0.0109
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : e, Posbility: 0.0008
+Next Token : b, Posbility: 0.0008
+Next Token : dict, Posbility: 0.0008
+Next Token : d, Posbility: 0.1182
+Next Token : _, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token : ;, Posbility: 0.0002
+Next Token :  , Posbility: 0.0028
+Next Token : }, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0006
+Next Token :   , Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0009
+Next Token :  when, Posbility: 0.0010
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0001
+Next Token : if, Posbility: 0.0006
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0051
+Next Token :  0, Posbility: 0.0139
+Next Token : 
+, Posbility: 0.1030
+Next Token :  1, Posbility: 0.1030
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0015
+Next Token : d, Posbility: 0.0031
+Next Token : let, Posbility: 0.0031
+Next Token : 2, Posbility: 0.0051
+Next Token : dfs, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0009
+Next Token : _, Posbility: 0.0019
+Next Token :  {, Posbility: 0.0019
+Next Token :  value, Posbility: 0.0096
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0001
+Next Token : ({, Posbility: 0.0001
+Next Token : dict, Posbility: 0.0002
+Next Token : (, Posbility: 0.0036
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0004
+Next Token :  , Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0248
+Next Token : 
+
+, Posbility: 0.0410
+Next Token : ., Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : val, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : child, Posbility: 0.0002
+Next Token : key, Posbility: 0.1826
+Next Token : value, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0085
+Next Token :  , Posbility: 0.0140
+Next Token :  +, Posbility: 0.0378
+Next Token : 
+
+, Posbility: 0.4629
+Next Token : 
+, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0096
+Next Token : ;, Posbility: 0.0168
+Next Token : 
+
+, Posbility: 0.0245
+Next Token : let, Posbility: 0.1602
+Next Token :   , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : else, Posbility: 0.0003
+Next Token : end, Posbility: 0.0005
+Next Token : (, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0008
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0005
+Next Token :  others, Posbility: 0.0006
+Next Token :  other, Posbility: 0.0008
+Next Token :  , Posbility: 0.0942
+Next Token :  {, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token : k, Posbility: 0.0005
+Next Token : }, Posbility: 0.0010
+Next Token : _, Posbility: 0.0067
+Next Token : key, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0005
+Next Token :  , Posbility: 0.0012
+Next Token : =, Posbility: 0.0012
+Next Token : ;, Posbility: 0.0041
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0015
+Next Token :  k, Posbility: 0.0024
+Next Token :  {, Posbility: 0.0024
+Next Token :  None, Posbility: 0.0024
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0004
+Next Token : x, Posbility: 0.0009
+Next Token : (, Posbility: 0.0014
+Next Token : _, Posbility: 0.0596
+Next Token : d, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0, Posbility: 0.0008
+Next Token :  , Posbility: 0.0010
+Next Token : _, Posbility: 0.0028
+Next Token : 1, Posbility: 0.1182
+Next Token : ;, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d;
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token : value, Posbility: 0.0001
+Next Token :  , Posbility: 0.0006
+Next Token :  value, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : :, Posbility: 0.0001
+Next Token :  , Posbility: 0.0003
+Next Token : =, Posbility: 0.0005
+Next Token : }, Posbility: 0.0015
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0005
+Next Token :  v, Posbility: 0.0019
+Next Token :  {, Posbility: 0.0067
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0005
+Next Token : c, Posbility: 0.0005
+Next Token : e, Posbility: 0.0015
+Next Token : _, Posbility: 0.0040
+Next Token : d, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0014
+Next Token : 1, Posbility: 0.0015
+Next Token : 2, Posbility: 0.0146
+Next Token : ', Posbility: 0.0742
+Next Token : }, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d}
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0007
+Next Token :  as, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0015
+Next Token :  when, Posbility: 0.0036
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0001
+Next Token : if, Posbility: 0.0008
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0098
+Next Token :  max, Posbility: 0.0266
+Next Token : 
+, Posbility: 0.1963
+Next Token :  1, Posbility: 0.1963
+Next Token :  , Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0194
+Next Token : let, Posbility: 0.0674
+Next Token : d, Posbility: 0.0767
+Next Token : 2, Posbility: 0.1836
+Next Token : dfs, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  {, Posbility: 0.0021
+Next Token :  value, Posbility: 0.0031
+Next Token : (, Posbility: 0.0035
+Next Token : _, Posbility: 0.0074
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ({, Posbility: 0.0003
+Next Token : dict, Posbility: 0.0003
+Next Token : dfs, Posbility: 0.0009
+Next Token : (, Posbility: 0.0292
+Next Token : d, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs d
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0010
+Next Token :  +, Posbility: 0.0031
+Next Token : 
+, Posbility: 0.0074
+Next Token : 
+
+, Posbility: 0.0200
+Next Token : ., Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs d.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : child, Posbility: 0.0001
+Next Token : val, Posbility: 0.0001
+Next Token : key, Posbility: 0.0601
+Next Token : value, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs d.value
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0133
+Next Token :  , Posbility: 0.0320
+Next Token : 
+, Posbility: 0.0767
+Next Token : 
+
+, Posbility: 0.1270
+Next Token :  +, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs d.value +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0020
+Next Token :  (1, Posbility: 0.0020
+Next Token :  max, Posbility: 0.0033
+Next Token :  , Posbility: 0.4941
+Next Token :  1, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs d.value + 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0027
+Next Token :  +, Posbility: 0.0093
+Next Token :  , Posbility: 0.0154
+Next Token : 
+, Posbility: 0.3086
+Next Token : 
+
+, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the depth of a dictionary. *)
+let rec dfs d =
+  match d with
+  | {key = _; value = _} -> 1
+  | {key = _; value = d} -> dfs d.value
+  | {key = d; value = _} -> dfs d.value
+  | {key = d; value = d} -> dfs d.value + 1
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :114.87225365638733
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

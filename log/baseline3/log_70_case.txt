@@ -1,0 +1,2094 @@
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let
+Next Token :  rec, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec
+Next Token :  max, Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max
+Next Token : _, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_
+Next Token : product, Posbility: 0.3379
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product
+Next Token : _, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_
+Next Token : of, Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_
+Next Token : pairs, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs 
+Next Token : (, Posbility: 0.2012
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (
+Next Token : list, Posbility: 0.0972
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list
+Next Token : ,, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list,
+Next Token :  , Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, 
+Next Token : product, Posbility: 0.2090
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product
+Next Token : ), Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product)
+Next Token :  =, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+Next Token : 
+, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  
+Next Token : match, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match
+Next Token :  , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match 
+Next Token : List, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.
+Next Token : hd, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd
+Next Token :  list, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  |
+Next Token :  [], Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | []
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] ->
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> 
+Next Token : product, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+Next Token : 
+, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  |
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | 
+Next Token : (, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (
+Next Token : x, Posbility: 0.3379
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x
+Next Token : ,, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x,
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, 
+Next Token : y, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y
+Next Token : ), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y)
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) 
+Next Token : ->, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+
+Next Token :     , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    
+Next Token : let, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let 
+Next Token : x, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x
+Next Token : _, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_
+Next Token : product, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product
+Next Token :  =, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product =
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = 
+Next Token : x, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x
+Next Token :  *, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x *
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * 
+Next Token : y, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    
+Next Token : let, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let 
+Next Token : y, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_
+Next Token : product, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product =
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = 
+Next Token : y, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y
+Next Token :  *, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y *
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+
+Next Token :     , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    
+Next Token : let, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let
+Next Token :  , Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let 
+Next Token : product, Posbility: 0.4121
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product
+Next Token :  =, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product =
+Next Token :  , Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = 
+Next Token : x, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product
+Next Token :  *, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product *
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product
+Next Token :  in, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    
+Next Token : max, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_
+Next Token : pairs, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs 
+Next Token : (, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (
+Next Token : List, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.
+Next Token : tail, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail
+Next Token :  list, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list
+Next Token : ), Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list)
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) 
+Next Token : product, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+Next Token : 
+, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+
+Next Token :   , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  
+Next Token : |, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  |
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | 
+Next Token : (, Posbility: 0.3496
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (
+Next Token : x, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x
+Next Token : ,, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x,
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, 
+Next Token : y, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y
+Next Token : ), Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y)
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) 
+Next Token : ->, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+Next Token : 
+, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    
+Next Token : let, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let 
+Next Token : x, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_
+Next Token : product, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product =
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = 
+Next Token : x, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x
+Next Token :  *, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x *
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * 
+Next Token : y, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    
+Next Token : let, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let 
+Next Token : y, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product
+Next Token :  =, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product =
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = 
+Next Token : y, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y
+Next Token :  *, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y *
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    
+Next Token : let, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let 
+Next Token : product, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product =
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = 
+Next Token : x, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product
+Next Token :  *, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product *
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    
+Next Token : max, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max
+Next Token : _, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_
+Next Token : pairs, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs 
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (
+Next Token : List, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.
+Next Token : tail, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail
+Next Token :  list, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list)
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) 
+Next Token : product, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list. *)
+let rec max_product_of_pairs (list, product) =
+  match List.hd list with
+  | [] -> product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+  | (x, y) ->
+    let x_product = x * y in
+    let y_product = y * x in
+    let product = x_product * y_product in
+    max_product_of_pairs (List.tail list) product
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :6.3515942096710205
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

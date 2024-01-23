@@ -1,0 +1,155 @@
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  per, Posbility: 0.0078
+Next Token :  side, Posbility: 0.0270
+Next Token :  get, Posbility: 0.0393
+Next Token :  rec, Posbility: 0.1553
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0044
+Next Token : s, Posbility: 0.0063
+Next Token : sq, Posbility: 0.0322
+Next Token : square, Posbility: 0.3457
+Next Token : peri, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let peri
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0010
+Next Token : m, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0028
+Next Token : _, Posbility: 0.0036
+Next Token : meter, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Square, Posbility: 0.0140
+Next Token : (, Posbility: 0.0231
+Next Token :  =, Posbility: 0.1699
+Next Token : _, Posbility: 0.2812
+Next Token :  , Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0684
+Next Token : n, Posbility: 0.0996
+Next Token : length, Posbility: 0.1445
+Next Token : x, Posbility: 0.2109
+Next Token : s, Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0024
+Next Token :  l, Posbility: 0.0024
+Next Token : len, Posbility: 0.0027
+Next Token :  , Posbility: 0.0074
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0048
+Next Token :  4, Posbility: 0.0069
+Next Token :  2*, Posbility: 0.0352
+Next Token : 
+, Posbility: 0.2949
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0287
+Next Token : 
+, Posbility: 0.0608
+Next Token : (, Posbility: 0.0884
+Next Token : 2, Posbility: 0.3086
+Next Token : s, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ^2, Posbility: 0.0054
+Next Token :  , Posbility: 0.0069
+Next Token :  +, Posbility: 0.0079
+Next Token : *, Posbility: 0.0581
+Next Token :  *, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2.0, Posbility: 0.0002
+Next Token : 4, Posbility: 0.0009
+Next Token :  4;, Posbility: 0.0011
+Next Token :  , Posbility: 0.0474
+Next Token :  4, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s * 4
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0171
+Next Token :  =, Posbility: 0.0248
+Next Token :  , Posbility: 0.0248
+Next Token : 
+, Posbility: 0.1621
+Next Token : 
+
+, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function that returns the perimeter of a square given its side length as input. *)
+let perimeter s = s * 4
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :6.27857780456543
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

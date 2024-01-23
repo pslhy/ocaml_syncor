@@ -1,0 +1,501 @@
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let
+Next Token :  rec, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec
+Next Token :  , Posbility: 0.2930
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec 
+Next Token : f, Posbility: 0.0811
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f
+Next Token :  , Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f 
+Next Token : x, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f x
+Next Token : s, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs
+Next Token :  =, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+Next Token : 
+, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  
+Next Token : match, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match 
+Next Token : x, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] ->
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> 
+Next Token : x, Posbility: 0.1523
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> x
+Next Token : s, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+Next Token : 
+, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  |
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | 
+Next Token : x, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x
+Next Token :  , Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x 
+Next Token : ::, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x ::
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: 
+Next Token : x, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs ->
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> 
+Next Token : f, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f 
+Next Token : x, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f x
+Next Token : s, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+Next Token : 
+, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+
+Next Token :   , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  
+Next Token : |, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  |
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | 
+Next Token : x, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x 
+Next Token : ::, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x ::
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: 
+Next Token : x, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: x
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs 
+Next Token : ->, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs ->
+Next Token :  , Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> 
+Next Token : f, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f 
+Next Token : (, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (
+Next Token : x, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x
+Next Token :  , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x 
+Next Token : -, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x -
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x - 
+Next Token : x, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x - x
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x - xs
+Next Token : ), Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the largest negative number from the given list. *)
+let rec f xs =
+  match xs with
+  | [] -> xs
+  | x :: xs -> f xs
+  | x :: xs -> f (x - xs)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.064063549041748
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,475 @@
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let 
+Next Token : vowel, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowel
+Next Token : s, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels
+Next Token :  =, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels =
+Next Token :  ", Posbility: 0.5625
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "
+Next Token : ae, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "ae
+Next Token : io, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeio
+Next Token : uy, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy
+Next Token : ", Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+Next Token : 
+, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+
+Next Token : let, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let 
+Next Token : vowel, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowel
+Next Token : s, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels
+Next Token : _, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_
+Next Token : rev, Posbility: 0.1094
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev
+Next Token :  =, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev =
+Next Token :  , Posbility: 0.3691
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = 
+Next Token : List, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.
+Next Token : rev, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev 
+Next Token : vowel, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowel
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+Next Token : 
+, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+
+Next Token : let, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let
+Next Token :  , Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let 
+Next Token : vowel, Posbility: 0.4277
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowel
+Next Token : s, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels
+Next Token : _, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_
+Next Token : rev, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev
+Next Token : _, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_
+Next Token : str, Posbility: 0.1118
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str
+Next Token :  =, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str =
+Next Token :  String, Posbility: 0.4805
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.
+Next Token : concat, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat
+Next Token :  , Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat 
+Next Token : vowel, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowel
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev
+Next Token :  , Posbility: 0.2451
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev 
+Next Token : ",, Posbility: 0.2402
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ",
+Next Token :  ", Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+Next Token : 
+, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+
+Next Token : let, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let 
+Next Token : vowel, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowel
+Next Token : s, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_
+Next Token : rev, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev
+Next Token : _, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_
+Next Token : str, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str
+Next Token : _, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_
+Next Token : rev, Posbility: 0.2402
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev =
+Next Token :  String, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.
+Next Token : rev, Posbility: 0.4434
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev 
+Next Token : vowel, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev vowel
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev vowels
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev vowels_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev vowels_rev
+Next Token : _, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev vowels_rev_
+Next Token : str, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to reverse only the vowels of a given string (where y is not a vowel). *)
+let vowels = "aeiouy"
+let vowels_rev = List.rev vowels
+let vowels_rev_str = String.concat vowels_rev ", "
+let vowels_rev_str_rev = String.rev vowels_rev_str
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.0720174312591553
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

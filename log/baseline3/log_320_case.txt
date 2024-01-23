@@ -1,0 +1,351 @@
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let
+Next Token :  rec, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec
+Next Token :  , Posbility: 0.4746
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec 
+Next Token : jump, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jump
+Next Token : s, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps 
+Next Token : d, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d
+Next Token :  =, Posbility: 0.4375
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+
+Next Token :   , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  
+Next Token : if, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if 
+Next Token : d, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d
+Next Token :  =, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d =
+Next Token :  0, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0
+Next Token :  then, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then
+Next Token :  0, Posbility: 0.3926
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+Next Token : 
+, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else 
+Next Token : if, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if 
+Next Token : d, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d
+Next Token :  , Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d 
+Next Token : <, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d <
+Next Token :  0, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then 
+Next Token : jump, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jump
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps 
+Next Token : (, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (
+Next Token : d, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d
+Next Token :  +, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d +
+Next Token :  1), Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+Next Token : 
+, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else 
+Next Token : jump, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jump
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps 
+Next Token : (, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (
+Next Token : d, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (d
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (d 
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (d -
+Next Token :  1), Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (d - 1)
+Next Token :  +, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (d - 1) +
+Next Token :  1, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane. *)
+let rec jumps d =
+  if d = 0 then 0
+  else if d < 0 then jumps (d + 1)
+  else jumps (d - 1) + 1
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.514486074447632
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

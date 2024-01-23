@@ -1,0 +1,228 @@
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let
+Next Token :  rec, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec 
+Next Token : pow, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow
+Next Token :  , Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow 
+Next Token : n, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n 
+Next Token : x, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x
+Next Token :  =, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+Next Token : 
+, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+
+Next Token :   , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  
+Next Token : if, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if 
+Next Token : n, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n
+Next Token :  =, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n =
+Next Token :  0, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0
+Next Token :  then, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then
+Next Token :  , Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then 
+Next Token : x, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+Next Token : 
+, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else 
+Next Token : x, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x
+Next Token :  *, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x *
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * 
+Next Token : pow, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow 
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (n
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (n 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (n -
+Next Token :  1), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (n - 1)
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (n - 1) 
+Next Token : x, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to compute the n-th power of each number in a list. *)
+let rec pow n x =
+  if n = 0 then x
+  else x * pow (n - 1) x
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.217209815979004
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

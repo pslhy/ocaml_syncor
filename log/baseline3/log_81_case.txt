@@ -1,0 +1,342 @@
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let
+Next Token :  rec, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec
+Next Token :  , Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec 
+Next Token : neg, Posbility: 0.2432
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg
+Next Token : _, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_
+Next Token : sum, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum 
+Next Token : x, Posbility: 0.2393
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x
+Next Token :  =, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+Next Token : 
+, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  
+Next Token : match, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match 
+Next Token : x, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+Next Token : 
+, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+
+Next Token :   , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  
+Next Token : |, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  |
+Next Token :  [], Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | []
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] ->
+Next Token :  0, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  |
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | 
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x 
+Next Token : ::, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x ::
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: 
+Next Token : x, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: x
+Next Token : s, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+Next Token :  , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> 
+Next Token : -, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -
+Next Token : (, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(
+Next Token : neg, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum 
+Next Token : x, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs)
+Next Token :  +, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) +
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) + 
+Next Token : x, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to calculate the sum of the negative numbers of a given list of numbers. *)
+let rec neg_sum x =
+  match x with
+  | [] -> 0
+  | x :: xs -> -(neg_sum xs) + x
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.488046646118164
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

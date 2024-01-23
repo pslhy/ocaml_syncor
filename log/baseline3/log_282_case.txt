@@ -1,0 +1,861 @@
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let
+Next Token :  rec, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec
+Next Token :  is, Posbility: 0.3359
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is
+Next Token : _, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_
+Next Token : sub, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sub
+Next Token : list, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist 
+Next Token : x, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x 
+Next Token : y, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y
+Next Token :  =, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+
+Next Token :   , Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  
+Next Token : match, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match 
+Next Token : x, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x
+Next Token :  with, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+Next Token : 
+, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+
+Next Token :   , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  
+Next Token : |, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  |
+Next Token :  [], Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | []
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] 
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] ->
+Next Token :  , Posbility: 0.3203
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> 
+Next Token : y, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y
+Next Token :  =, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y =
+Next Token :  [], Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+Next Token : 
+, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  |
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | 
+Next Token : x, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x
+Next Token : ::, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::
+Next Token : x, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::x
+Next Token : s, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs 
+Next Token : ->, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+Next Token : 
+, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+
+Next Token :       , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      
+Next Token : if, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if 
+Next Token : y, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y =
+Next Token :  [], Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = []
+Next Token :  then, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then
+Next Token :  true, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+Next Token : 
+, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+
+Next Token :       , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else
+Next Token :  , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else 
+Next Token : if, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if 
+Next Token : x, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x
+Next Token :  =, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x =
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = 
+Next Token : y, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y
+Next Token :  then, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then
+Next Token :  true, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+
+Next Token :       , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else 
+Next Token : if, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if 
+Next Token : x, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x 
+Next Token : <, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <
+Next Token : >, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <>
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> 
+Next Token : y, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y
+Next Token :  then, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then
+Next Token :  false, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+
+Next Token :       , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else
+Next Token :  is, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_
+Next Token : sub, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sub
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist 
+Next Token : x, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist x
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs 
+Next Token : y, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+Next Token : 
+, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+
+Next Token :   , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  
+Next Token : |, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  |
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  | 
+Next Token : _, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  | _
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  | _ 
+Next Token : ->, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  | _ ->
+Next Token :  false, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to check whether a list is sublist of another or not. *)
+let rec is_sublist x y =
+  match x with
+  | [] -> y = []
+  | x::xs ->
+      if y = [] then true
+      else if x = y then true
+      else if x <> y then false
+      else is_sublist xs y
+  | _ -> false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.9572672843933105
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

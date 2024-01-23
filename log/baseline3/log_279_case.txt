@@ -1,0 +1,816 @@
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let
+Next Token :  rec, Posbility: 0.4688
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec
+Next Token :  remove, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove
+Next Token : _, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_
+Next Token : duplicate, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicate
+Next Token : s, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates
+Next Token :  , Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates 
+Next Token : n, Posbility: 0.2178
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n
+Next Token :  =, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+Next Token : 
+, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+
+Next Token :   , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  
+Next Token : match, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match 
+Next Token : n, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n
+Next Token :  with, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+
+Next Token :   , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  
+Next Token : |, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  |
+Next Token :  0, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 ->
+Next Token :  [], Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+Next Token : 
+, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  |
+Next Token :  , Posbility: 0.4336
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | 
+Next Token : _, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ 
+Next Token : ->, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+Next Token : 
+, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+
+Next Token :       , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      
+Next Token : let, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let
+Next Token :  , Posbility: 0.3516
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let 
+Next Token : n, Posbility: 0.2188
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n
+Next Token :  =, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n =
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = 
+Next Token : n, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n
+Next Token :  , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n 
+Next Token : -, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n -
+Next Token :  1, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1
+Next Token :  in, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+
+Next Token :       , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      
+Next Token : let, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let
+Next Token :  , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let 
+Next Token : x, Posbility: 0.2393
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let x
+Next Token : s, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs
+Next Token :  =, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs =
+Next Token :  remove, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_
+Next Token : duplicate, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicate
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates 
+Next Token : n, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n
+Next Token :  in, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+
+Next Token :       , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      
+Next Token : let, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let 
+Next Token : x, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x
+Next Token :  =, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x =
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = 
+Next Token : x, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs
+Next Token : [0], Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0]
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+
+Next Token :       , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      
+Next Token : let, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let 
+Next Token : x, Posbility: 0.4746
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let x
+Next Token : s, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs
+Next Token :  =, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs =
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = 
+Next Token : x, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs
+Next Token :  , Posbility: 0.3359
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs 
+Next Token : -, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs -
+Next Token :  [, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [
+Next Token : x, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x
+Next Token : ], Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x]
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x] in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x] in
+
+Next Token :       , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x] in
+      
+Next Token : x, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x] in
+      x
+Next Token : s, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to remove duplicate numbers from a given number of lists. *)
+let rec remove_duplicates n =
+  match n with
+  | 0 -> []
+  | _ ->
+      let n = n - 1 in
+      let xs = remove_duplicates n in
+      let x = xs[0] in
+      let xs = xs - [x] in
+      xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.348416328430176
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

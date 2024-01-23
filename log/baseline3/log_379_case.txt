@@ -1,0 +1,1860 @@
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let
+Next Token :  rec, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec
+Next Token :  count, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count
+Next Token : _, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_
+Next Token : pairs, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs
+Next Token :  , Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs 
+Next Token : s, Posbility: 0.3496
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s
+Next Token :  =, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+Next Token : 
+, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  
+Next Token : match, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match 
+Next Token : s, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s
+Next Token :  with, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+Next Token : 
+, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  
+Next Token : |, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  |
+Next Token :  [], Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | []
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] 
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] ->
+Next Token :  0, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+Next Token : 
+, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  |
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | 
+Next Token : x, Posbility: 0.2773
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x
+Next Token :  , Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x 
+Next Token : ::, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x ::
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: 
+Next Token : x, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: x
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs 
+Next Token : ->, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+
+Next Token :     , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    
+Next Token : let, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let
+Next Token :  , Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let 
+Next Token : x, Posbility: 0.2275
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let x
+Next Token : s, Posbility: 0.2471
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs
+Next Token : _, Posbility: 0.3223
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_
+Next Token : rev, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev
+Next Token :  =, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev =
+Next Token :  , Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = 
+Next Token : List, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.
+Next Token : rev, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev 
+Next Token : x, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev x
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    
+Next Token : let, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let
+Next Token :  , Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let 
+Next Token : x, Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x
+Next Token : _, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_
+Next Token : rev, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev
+Next Token :  =, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev =
+Next Token :  , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = 
+Next Token : List, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.
+Next Token : rev, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev 
+Next Token : x, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    
+Next Token : let, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let
+Next Token :  , Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let 
+Next Token : x, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let x
+Next Token : s, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs
+Next Token : _, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_
+Next Token : rev, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev
+Next Token : _, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_
+Next Token : x, Posbility: 0.3301
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x
+Next Token : _, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_
+Next Token : rev, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev =
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = 
+Next Token : List, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.
+Next Token : zip, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip
+Next Token :  , Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip 
+Next Token : x, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev
+Next Token :  in, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    
+Next Token : let, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let 
+Next Token : x, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let x
+Next Token : s, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs
+Next Token : _, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_
+Next Token : rev, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev
+Next Token : _, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_
+Next Token : x, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x
+Next Token : _, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_
+Next Token : rev, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev
+Next Token : _, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_
+Next Token : count, Posbility: 0.3008
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count
+Next Token :  =, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count =
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = 
+Next Token : List, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.
+Next Token : length, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    
+Next Token : let, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let
+Next Token :  , Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let 
+Next Token : x, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x
+Next Token : _, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_
+Next Token : rev, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_
+Next Token : x, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x
+Next Token : _, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_
+Next Token : rev, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev
+Next Token : _, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_
+Next Token : count, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count =
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = 
+Next Token : List, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    
+Next Token : x, Posbility: 0.2988
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    x
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count
+Next Token :  +, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count +
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev_
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev_x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev_x_
+Next Token : rev, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev_x_rev
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev_x_rev_
+Next Token : count, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/-program-to-count-the-pairs-of-reverse-strings/ *)
+let rec count_pairs s =
+  match s with
+  | [] -> 0
+  | x :: xs ->
+    let xs_rev = List.rev xs in
+    let x_rev = List.rev x in
+    let xs_rev_x_rev = List.zip xs_rev x_rev in
+    let xs_rev_x_rev_count = List.length xs_rev_x_rev in
+    let x_rev_x_rev_count = List.length x_rev_x_rev in
+    xs_rev_x_rev_count + x_rev_x_rev_count
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :5.405238151550293
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,546 @@
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let
+Next Token :  rec, Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec
+Next Token :  , Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec 
+Next Token : freq, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq
+Next Token : _, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_
+Next Token : max, Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max
+Next Token :  , Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max 
+Next Token : (, Posbility: 0.1680
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (
+Next Token : freq, Posbility: 0.1030
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq
+Next Token :  , Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq 
+Next Token : :, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq :
+Next Token :  int, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int
+Next Token :  list, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list
+Next Token : ), Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list)
+Next Token :  =, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+Next Token : 
+, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+
+Next Token :   , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  
+Next Token : match, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match 
+Next Token : freq, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq
+Next Token :  with, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+
+Next Token :   , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  |
+Next Token :  [], Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | []
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] ->
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> 
+Next Token : (), Posbility: 0.1875
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+Next Token : 
+, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  |
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | 
+Next Token : x, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x
+Next Token :  , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x 
+Next Token : ::, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x ::
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: 
+Next Token : x, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: x
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs 
+Next Token : ->, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+
+Next Token :     , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    
+Next Token : if, Posbility: 0.3281
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if 
+Next Token : x, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x 
+Next Token : >, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x >
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > 
+Next Token : freq, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq
+Next Token : _, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max 
+Next Token : x, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs
+Next Token :  then, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then 
+Next Token : freq, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq
+Next Token : _, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max 
+Next Token : x, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max x
+Next Token : s, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs
+Next Token :  else, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else 
+Next Token : freq, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else freq
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else freq_
+Next Token : max, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else freq_max
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else freq_max 
+Next Token : x, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else freq_max x
+Next Token : s, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the item with maximum frequency in a given list. *)
+let rec freq_max (freq : int list) =
+  match freq with
+  | [] -> ()
+  | x :: xs ->
+    if x > freq_max xs then freq_max xs else freq_max xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.988096237182617
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,332 @@
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let
+Next Token :  , Posbility: 0.2363
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let 
+Next Token : profit, Posbility: 0.4375
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit
+Next Token : _, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_
+Next Token : and, Posbility: 0.3027
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_
+Next Token : loss, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss
+Next Token :  , Posbility: 0.3359
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss 
+Next Token : x, Posbility: 0.2734
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x
+Next Token :  =, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+Next Token : 
+, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  
+Next Token : let, Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let 
+Next Token : profit, Posbility: 0.1777
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit
+Next Token :  =, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit =
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = 
+Next Token : x, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x
+Next Token :  , Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x 
+Next Token : -, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x -
+Next Token :  , Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - 
+Next Token : x, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x
+Next Token :  in, Posbility: 0.2559
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  
+Next Token : let, Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let
+Next Token :  loss, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss =
+Next Token :  , Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = 
+Next Token : x, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x
+Next Token :  in, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  
+Next Token : if, Posbility: 0.3047
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if 
+Next Token : profit, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit 
+Next Token : <, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit <
+Next Token :  0, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0
+Next Token :  ||, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 ||
+Next Token :  loss, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss 
+Next Token : <, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss <
+Next Token :  0, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss < 0
+Next Token :  then, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss < 0 then
+Next Token :  false, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss < 0 then false
+Next Token :  else, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss < 0 then false else
+Next Token :  true, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check whether the given amount has no profit and no loss *)
+let profit_and_loss x =
+  let profit = x - x in
+  let loss = x in
+  if profit < 0 || loss < 0 then false else true
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.7120840549468994
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

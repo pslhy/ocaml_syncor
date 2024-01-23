@@ -1,0 +1,392 @@
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let
+Next Token :  rec, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec 
+Next Token : map, Posbility: 0.1196
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map
+Next Token : _, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_
+Next Token : tuple, Posbility: 0.1187
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuple
+Next Token : s, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples
+Next Token :  , Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples 
+Next Token : f, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f
+Next Token :  , Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f 
+Next Token : x, Posbility: 0.3438
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f x
+Next Token : s, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+Next Token : 
+, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  
+Next Token : match, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match 
+Next Token : x, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs
+Next Token :  with, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] ->
+Next Token :  [], Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  |
+Next Token :  , Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | 
+Next Token : x, Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x 
+Next Token : ::, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x ::
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: 
+Next Token : x, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs ->
+Next Token :  , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> 
+Next Token : f, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f 
+Next Token : x, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x 
+Next Token : ::, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x ::
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: 
+Next Token : map, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_
+Next Token : tuple, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuple
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuples
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuples 
+Next Token : f, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuples f
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuples f 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuples f x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple. *)
+let rec map_tuples f xs =
+  match xs with
+  | [] -> []
+  | x :: xs -> f x :: map_tuples f xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.6136107444763184
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

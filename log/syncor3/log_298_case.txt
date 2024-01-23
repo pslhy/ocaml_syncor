@@ -1,0 +1,624 @@
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fact, Posbility: 0.0096
+Next Token :  find, Posbility: 0.0181
+Next Token :  sum, Posbility: 0.0337
+Next Token :  , Posbility: 0.2490
+Next Token :  rec, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0221
+Next Token :  fact, Posbility: 0.0221
+Next Token :  find, Posbility: 0.0530
+Next Token :  sum, Posbility: 0.0874
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : co, Posbility: 0.0500
+Next Token : product, Posbility: 0.0500
+Next Token : b, Posbility: 0.0728
+Next Token : prod, Posbility: 0.0825
+Next Token : bin, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec bin
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : co, Posbility: 0.0023
+Next Token : o, Posbility: 0.0062
+Next Token : _, Posbility: 0.0168
+Next Token : om, Posbility: 0.0457
+Next Token : omi, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomi
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0005
+Next Token : (, Posbility: 0.0005
+Next Token : a, Posbility: 0.0040
+Next Token : als, Posbility: 0.0178
+Next Token : al, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0105
+Next Token :  =, Posbility: 0.0415
+Next Token : (, Posbility: 0.0415
+Next Token :  , Posbility: 0.1279
+Next Token : _, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : factor, Posbility: 0.0325
+Next Token : coefficient, Posbility: 0.0781
+Next Token : co, Posbility: 0.1289
+Next Token : product, Posbility: 0.2119
+Next Token : sum, Posbility: 0.2715
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0199
+Next Token : (, Posbility: 0.0291
+Next Token :  =, Posbility: 0.1670
+Next Token : _, Posbility: 0.2148
+Next Token :  , Posbility: 0.4531
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0272
+Next Token : m, Posbility: 0.0398
+Next Token : x, Posbility: 0.0579
+Next Token : (, Posbility: 0.1221
+Next Token : n, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0204
+Next Token :  i, Posbility: 0.0337
+Next Token :  k, Posbility: 0.0913
+Next Token :  , Posbility: 0.3613
+Next Token :  =, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0037
+Next Token :  function, Posbility: 0.0147
+Next Token :  match, Posbility: 0.0581
+Next Token :  , Posbility: 0.1084
+Next Token : 
+, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0054
+Next Token : 	, Posbility: 0.0100
+Next Token :    , Posbility: 0.0129
+Next Token :     , Posbility: 0.1572
+Next Token :   , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0078
+Next Token : n, Posbility: 0.0078
+Next Token : let, Posbility: 0.1074
+Next Token : match, Posbility: 0.3750
+Next Token : if, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0006
+Next Token :  0, Posbility: 0.0007
+Next Token :  not, Posbility: 0.0008
+Next Token :   , Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0003
+Next Token : Int, Posbility: 0.0003
+Next Token : (, Posbility: 0.0110
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0096
+Next Token :  ==, Posbility: 0.0708
+Next Token :  , Posbility: 0.1924
+Next Token :  <=, Posbility: 0.1924
+Next Token :  =, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : 0, Posbility: 0.0008
+Next Token :  , Posbility: 0.0059
+Next Token :  1, Posbility: 0.1182
+Next Token :  0, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0014
+Next Token :  , Posbility: 0.0065
+Next Token : 
+, Posbility: 0.0137
+Next Token :  ||, Posbility: 0.0137
+Next Token :  then, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0020
+Next Token :  , Posbility: 0.1074
+Next Token : 
+, Posbility: 0.2930
+Next Token :  0, Posbility: 0.2930
+Next Token :  1, Posbility: 0.2930
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0030
+Next Token :   , Posbility: 0.0034
+Next Token :  , Posbility: 0.0175
+Next Token : 
+, Posbility: 0.4512
+Next Token :  else, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0040
+Next Token :  (1, Posbility: 0.0059
+Next Token :   , Posbility: 0.0067
+Next Token : 
+, Posbility: 0.3633
+Next Token :  , Posbility: 0.6016
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0247
+Next Token : 2, Posbility: 0.0317
+Next Token : bin, Posbility: 0.0522
+Next Token : (, Posbility: 0.1250
+Next Token : n, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0032
+Next Token : *, Posbility: 0.0347
+Next Token :  , Posbility: 0.0505
+Next Token :  +, Posbility: 0.0942
+Next Token :  *, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0031
+Next Token :  ((, Posbility: 0.0031
+Next Token :  (1, Posbility: 0.0040
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Bin, Posbility: 0.0032
+Next Token : 2, Posbility: 0.0087
+Next Token : n, Posbility: 0.0238
+Next Token : bin, Posbility: 0.4785
+Next Token : (, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : if, Posbility: 0.0020
+Next Token :  , Posbility: 0.0239
+Next Token : 2, Posbility: 0.0649
+Next Token : bin, Posbility: 0.1069
+Next Token : n, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1, Posbility: 0.0082
+Next Token : +1), Posbility: 0.0223
+Next Token : -1), Posbility: 0.0605
+Next Token :  , Posbility: 0.4473
+Next Token :  +, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1);, Posbility: 0.0024
+Next Token :  2), Posbility: 0.0024
+Next Token :  , Posbility: 0.0066
+Next Token :  1, Posbility: 0.0066
+Next Token :  1), Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0109
+Next Token : 
+, Posbility: 0.0381
+Next Token : 
+
+, Posbility: 0.0432
+Next Token :  *, Posbility: 0.3613
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0018
+Next Token : -, Posbility: 0.0116
+Next Token : ^, Posbility: 0.0168
+Next Token : //, Posbility: 0.0405
+Next Token : /, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) /
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2.0, Posbility: 0.0017
+Next Token : 2, Posbility: 0.0046
+Next Token :  ((, Posbility: 0.0126
+Next Token :  2;, Posbility: 0.0928
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0043
+Next Token : Factor, Posbility: 0.0091
+Next Token : bin, Posbility: 0.0117
+Next Token : (, Posbility: 0.1426
+Next Token : 2, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.1108
+Next Token :  , Posbility: 0.1426
+Next Token :  +, Posbility: 0.2070
+Next Token : 
+
+, Posbility: 0.2344
+Next Token :  *, Posbility: 0.2656
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0012
+Next Token :  ((, Posbility: 0.0012
+Next Token :  (1, Posbility: 0.0017
+Next Token : 
+, Posbility: 0.0040
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0032
+Next Token : Bin, Posbility: 0.0087
+Next Token : n, Posbility: 0.0143
+Next Token : (, Posbility: 0.1738
+Next Token : bin, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * bin
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : oma, Posbility: 0.0000
+Next Token : om, Posbility: 0.0000
+Next Token : omo, Posbility: 0.0000
+Next Token : omi, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : ally, Posbility: 0.0000
+Next Token : als, Posbility: 0.0000
+Next Token : a, Posbility: 0.0001
+Next Token : al, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Next Token : (, Posbility: 0.0017
+Next Token :  , Posbility: 0.0085
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : co, Posbility: 0.0002
+Next Token : factor, Posbility: 0.0007
+Next Token : prod, Posbility: 0.0015
+Next Token : product, Posbility: 0.0041
+Next Token : sum, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (1, Posbility: 0.0011
+Next Token :  --, Posbility: 0.0014
+Next Token :  ((, Posbility: 0.0034
+Next Token : (, Posbility: 0.0371
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0001
+Next Token : n, Posbility: 0.0067
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Int, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Next Token : Math, Posbility: 0.0001
+Next Token :  , Posbility: 0.0006
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  –, Posbility: 0.0011
+Next Token : -1, Posbility: 0.0031
+Next Token :  +, Posbility: 0.0051
+Next Token : -1), Posbility: 0.0178
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : /, Posbility: 0.0008
+Next Token : −, Posbility: 0.0008
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0008
+Next Token :  1, Posbility: 0.0008
+Next Token :  2), Posbility: 0.0059
+Next Token :  1);, Posbility: 0.1182
+Next Token :  1), Posbility: 0.8711
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0046
+Next Token :  , Posbility: 0.0266
+Next Token :  in, Posbility: 0.0928
+Next Token : 
+, Posbility: 0.2520
+Next Token : 
+
+, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find the sum of the product of consecutive binomial co-efficients. *)
+let rec binomial_sum n =
+  if n = 0 then 1 else n * (n + 1) / 2 * binomial_sum (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :20.767090320587158
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

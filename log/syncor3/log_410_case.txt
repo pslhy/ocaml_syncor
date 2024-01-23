@@ -1,0 +1,505 @@
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  num, Posbility: 0.0111
+Next Token :  list, Posbility: 0.0234
+Next Token :  , Posbility: 0.1738
+Next Token :  count, Posbility: 0.1963
+Next Token :  rec, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  make, Posbility: 0.0077
+Next Token :  list, Posbility: 0.0267
+Next Token :  loop, Posbility: 0.0342
+Next Token :  , Posbility: 0.1973
+Next Token :  count, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0063
+Next Token : -, Posbility: 0.0082
+Next Token :  , Posbility: 0.0684
+Next Token :  =, Posbility: 0.1445
+Next Token : _, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : all, Posbility: 0.0090
+Next Token : of, Posbility: 0.0167
+Next Token : length, Posbility: 0.0215
+Next Token : list, Posbility: 0.1089
+Next Token : lists, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0167
+Next Token : (, Posbility: 0.0312
+Next Token : _, Posbility: 0.0850
+Next Token :  =, Posbility: 0.2969
+Next Token :  , Posbility: 0.4883
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0289
+Next Token : :, Posbility: 0.0476
+Next Token : lists, Posbility: 0.0613
+Next Token : (, Posbility: 0.0889
+Next Token : n, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0168
+Next Token :  acc, Posbility: 0.0278
+Next Token :  l, Posbility: 0.0588
+Next Token :  , Posbility: 0.1816
+Next Token :  =, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fun, Posbility: 0.0038
+Next Token :  function, Posbility: 0.0170
+Next Token :  match, Posbility: 0.0522
+Next Token :  , Posbility: 0.0977
+Next Token : 
+, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0057
+Next Token :    , Posbility: 0.0083
+Next Token : 	, Posbility: 0.0083
+Next Token :     , Posbility: 0.1143
+Next Token :   , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0053
+Next Token : n, Posbility: 0.0060
+Next Token : let, Posbility: 0.0505
+Next Token : match, Posbility: 0.3730
+Next Token : if, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0008
+Next Token :  0, Posbility: 0.0012
+Next Token :   , Posbility: 0.0017
+Next Token :  not, Posbility: 0.0017
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0003
+Next Token : Int, Posbility: 0.0012
+Next Token : List, Posbility: 0.0015
+Next Token : (, Posbility: 0.0124
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0192
+Next Token :  ==, Posbility: 0.0522
+Next Token :  <=, Posbility: 0.1416
+Next Token :  , Posbility: 0.3867
+Next Token :  =, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  , Posbility: 0.0023
+Next Token :  [], Posbility: 0.0023
+Next Token :  1, Posbility: 0.0471
+Next Token :  0, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0011
+Next Token :  with, Posbility: 0.0011
+Next Token :  , Posbility: 0.0084
+Next Token : 
+, Posbility: 0.0139
+Next Token :  then, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0115
+Next Token :  , Posbility: 0.0312
+Next Token : 
+, Posbility: 0.0850
+Next Token :  0, Posbility: 0.2305
+Next Token :  1, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0025
+Next Token :   , Posbility: 0.0028
+Next Token :  , Posbility: 0.0126
+Next Token : 
+, Posbility: 0.3691
+Next Token :  else, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0041
+Next Token :  1, Posbility: 0.0067
+Next Token : 
+, Posbility: 0.1348
+Next Token :  , Posbility: 0.2227
+Next Token :  count, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0001
+Next Token :  +, Posbility: 0.0001
+Next Token : (, Posbility: 0.0006
+Next Token :  , Posbility: 0.0012
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : more, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : cons, Posbility: 0.0000
+Next Token : list, Posbility: 0.0003
+Next Token : lists, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0010
+Next Token :  ((, Posbility: 0.0027
+Next Token :  (1, Posbility: 0.0057
+Next Token : (, Posbility: 0.1465
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (`, Posbility: 0.0001
+Next Token : (--, Posbility: 0.0001
+Next Token : -, Posbility: 0.0003
+Next Token : n, Posbility: 0.0140
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : pred, Posbility: 0.0003
+Next Token : -, Posbility: 0.0005
+Next Token : List, Posbility: 0.0009
+Next Token :  , Posbility: 0.0032
+Next Token : n, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  +, Posbility: 0.0022
+Next Token :  -1), Posbility: 0.0028
+Next Token : -1, Posbility: 0.0060
+Next Token : -1), Posbility: 0.0938
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +1), Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : /, Posbility: 0.0006
+Next Token : −, Posbility: 0.0007
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token :  2), Posbility: 0.0009
+Next Token :  1, Posbility: 0.0023
+Next Token :  1);, Posbility: 0.0471
+Next Token :  1), Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ++, Posbility: 0.0447
+Next Token :  *, Posbility: 0.0649
+Next Token : 
+, Posbility: 0.1377
+Next Token : 
+
+, Posbility: 0.2910
+Next Token :  +, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0062
+Next Token :  1, Posbility: 0.0168
+Next Token :  , Posbility: 0.0457
+Next Token :  count, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0001
+Next Token :  (*, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 0.0025
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : of, Posbility: 0.0000
+Next Token : lst, Posbility: 0.0000
+Next Token : cons, Posbility: 0.0000
+Next Token : list, Posbility: 0.0003
+Next Token : lists, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0100
+Next Token :  (1, Posbility: 0.0165
+Next Token :  1, Posbility: 0.0165
+Next Token :  0, Posbility: 0.0272
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (0);, Posbility: 0.0007
+Next Token : (1), Posbility: 0.0018
+Next Token : (0), Posbility: 0.0049
+Next Token : n, Posbility: 0.2656
+Next Token : (, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : if, Posbility: 0.0002
+Next Token : 0, Posbility: 0.0003
+Next Token :  , Posbility: 0.0004
+Next Token : 2, Posbility: 0.0005
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1, Posbility: 0.0012
+Next Token : ), Posbility: 0.0054
+Next Token : -1), Posbility: 0.0054
+Next Token :  +, Posbility: 0.1797
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0002
+Next Token : +1), Posbility: 0.0006
+Next Token : /, Posbility: 0.0067
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0108
+Next Token :  1);, Posbility: 0.0801
+Next Token :  2);, Posbility: 0.0801
+Next Token :  2), Posbility: 0.2168
+Next Token :  1), Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0086
+Next Token :  , Posbility: 0.0161
+Next Token :  in, Posbility: 0.0234
+Next Token : 
+, Posbility: 0.2520
+Next Token : 
+
+, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to count the number of lists in a given number of lists. *)
+let rec count_lists n =
+  if n = 0 then 1 else count_lists (n - 1) + count_lists (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :17.126944303512573
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

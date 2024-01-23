@@ -1,0 +1,344 @@
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let
+Next Token :  rec, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec
+Next Token :  , Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec 
+Next Token : length, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length
+Next Token : _, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_
+Next Token : of, Posbility: 0.3594
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of
+Next Token : _, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_
+Next Token : names, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names
+Next Token :  , Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names 
+Next Token : x, Posbility: 0.2012
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x
+Next Token :  =, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+
+Next Token :   , Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  
+Next Token : match, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match 
+Next Token : x, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+Next Token : 
+, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+
+Next Token :   , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  
+Next Token : |, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  |
+Next Token :  [], Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | []
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] ->
+Next Token :  0, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  |
+Next Token :  , Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | 
+Next Token : x, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x
+Next Token :  , Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x 
+Next Token : ::, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x ::
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: 
+Next Token : x, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: x
+Next Token : s, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs 
+Next Token : ->, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+Next Token :  , Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> 
+Next Token : x, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x
+Next Token :  +, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x +
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + 
+Next Token : length, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_of_
+Next Token : names, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_of_names
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_of_names 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_of_names x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter. *)
+let rec length_of_names x =
+  match x with
+  | [] -> 0
+  | x :: xs -> x + length_of_names xs
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4610328674316406
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,213 @@
+code:
+ (* Write a function to find the circumference of a circle. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  area, Posbility: 0.0077
+Next Token :  get, Posbility: 0.0164
+Next Token :  find, Posbility: 0.0238
+Next Token :  rec, Posbility: 0.2256
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : radius, Posbility: 0.0267
+Next Token : circle, Posbility: 0.0933
+Next Token : pi, Posbility: 0.1055
+Next Token : circ, Posbility: 0.1196
+Next Token : circum, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fr, Posbility: 0.0039
+Next Token :  =, Posbility: 0.0106
+Next Token : _, Posbility: 0.0106
+Next Token : f, Posbility: 0.0106
+Next Token : fer, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumfer
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : encia, Posbility: 0.0000
+Next Token : ent, Posbility: 0.0000
+Next Token : enc, Posbility: 0.0000
+Next Token : ance, Posbility: 0.0000
+Next Token : ence, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0092
+Next Token :  a, Posbility: 0.0322
+Next Token : _, Posbility: 0.1128
+Next Token :  =, Posbility: 0.1445
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0420
+Next Token : (, Posbility: 0.0693
+Next Token : x, Posbility: 0.1143
+Next Token : radius, Posbility: 0.1299
+Next Token : r, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0008
+Next Token : 1, Posbility: 0.0011
+Next Token :  a, Posbility: 0.0038
+Next Token :  , Posbility: 0.0664
+Next Token :  =, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0058
+Next Token :  2.0, Posbility: 0.0229
+Next Token :  2*, Posbility: 0.0549
+Next Token : 
+, Posbility: 0.3574
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3.14, Posbility: 0.0688
+Next Token : 2., Posbility: 0.0732
+Next Token : (, Posbility: 0.0776
+Next Token : r, Posbility: 0.1064
+Next Token : 2, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2
+ score:False
+Error type: noerr
+---------------------------
+Next Token : π, Posbility: 0.0017
+Next Token : *, Posbility: 0.0027
+Next Token : d, Posbility: 0.0045
+Next Token :  , Posbility: 0.0139
+Next Token :  *, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  np, Posbility: 0.0015
+Next Token :  Pi, Posbility: 0.0262
+Next Token :  math, Posbility: 0.1338
+Next Token :  Math, Posbility: 0.1514
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : π, Posbility: 0.0535
+Next Token : 3.14159, Posbility: 0.0879
+Next Token : 3.14, Posbility: 0.1865
+Next Token : r, Posbility: 0.2715
+Next Token : pi, Posbility: 0.3066
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0009
+Next Token : ., Posbility: 0.0010
+Next Token : *, Posbility: 0.0016
+Next Token :  , Posbility: 0.0258
+Next Token :  *, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  float, Posbility: 0.0002
+Next Token :  (1, Posbility: 0.0006
+Next Token : r, Posbility: 0.0046
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : abs, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0005
+Next Token : sqrt, Posbility: 0.0005
+Next Token : (, Posbility: 0.0052
+Next Token : r, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi * r
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0139
+Next Token :  , Posbility: 0.0178
+Next Token :  =, Posbility: 0.0623
+Next Token : 
+, Posbility: 0.2793
+Next Token : 
+
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the circumference of a circle. *)
+let circumference r = 2 * pi * r
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :8.567131519317627
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,734 @@
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  first, Posbility: 0.0179
+Next Token :  find, Posbility: 0.0231
+Next Token :  sum, Posbility: 0.1172
+Next Token :  , Posbility: 0.1934
+Next Token :  rec, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fn, Posbility: 0.0173
+Next Token :  loop, Posbility: 0.0253
+Next Token :  find, Posbility: 0.0605
+Next Token :  sum, Posbility: 0.3086
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fold, Posbility: 0.0310
+Next Token : f, Posbility: 0.0952
+Next Token : n, Posbility: 0.1226
+Next Token : add, Posbility: 0.1387
+Next Token : fi, Posbility: 0.1572
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fi
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : bb, Posbility: 0.0060
+Next Token : bn, Posbility: 0.0060
+Next Token : bs, Posbility: 0.0099
+Next Token : bo, Posbility: 0.0732
+Next Token : b, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0405
+Next Token :  =, Posbility: 0.0520
+Next Token : _, Posbility: 0.2051
+Next Token : on, Posbility: 0.2637
+Next Token :  , Posbility: 0.3379
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0095
+Next Token : f, Posbility: 0.0157
+Next Token : (, Posbility: 0.0334
+Next Token : x, Posbility: 0.0549
+Next Token : n, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0093
+Next Token :  a, Posbility: 0.0119
+Next Token :  i, Posbility: 0.0197
+Next Token :  , Posbility: 0.0879
+Next Token :  =, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token :  {, Posbility: 0.0025
+Next Token :  match, Posbility: 0.0830
+Next Token :  , Posbility: 0.1211
+Next Token : 
+, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0044
+Next Token :    , Posbility: 0.0082
+Next Token : 	, Posbility: 0.0082
+Next Token :     , Posbility: 0.1279
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0021
+Next Token : n, Posbility: 0.0056
+Next Token : let, Posbility: 0.0195
+Next Token : match, Posbility: 0.3926
+Next Token : if, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0004
+Next Token :  not, Posbility: 0.0004
+Next Token : (, Posbility: 0.0005
+Next Token :   , Posbility: 0.0008
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0002
+Next Token : Eq, Posbility: 0.0002
+Next Token : Int, Posbility: 0.0003
+Next Token : (, Posbility: 0.0110
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0100
+Next Token :  ==, Posbility: 0.0272
+Next Token :  , Posbility: 0.2012
+Next Token :  <=, Posbility: 0.2012
+Next Token :  =, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0007
+Next Token : 0, Posbility: 0.0018
+Next Token :  , Posbility: 0.0049
+Next Token :  1, Posbility: 0.2656
+Next Token :  0, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0046
+Next Token :  or, Posbility: 0.0059
+Next Token : 
+, Posbility: 0.0098
+Next Token :  ||, Posbility: 0.0928
+Next Token :  then, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0;, Posbility: 0.0071
+Next Token :  , Posbility: 0.0527
+Next Token : 
+, Posbility: 0.1436
+Next Token :  1, Posbility: 0.3887
+Next Token :  0, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0019
+Next Token :  , Posbility: 0.0095
+Next Token :  |, Posbility: 0.0107
+Next Token :  else, Posbility: 0.4551
+Next Token : 
+, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0005
+Next Token :  , Posbility: 0.0005
+Next Token :         , Posbility: 0.0006
+Next Token :     , Posbility: 0.0028
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : when, Posbility: 0.0003
+Next Token : let, Posbility: 0.0015
+Next Token : if, Posbility: 0.0045
+Next Token : elif, Posbility: 0.0258
+Next Token : else, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0005
+Next Token :   , Posbility: 0.0007
+Next Token :  {, Posbility: 0.0030
+Next Token : 
+, Posbility: 0.0598
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0008
+Next Token : (, Posbility: 0.0063
+Next Token : n, Posbility: 0.0170
+Next Token : fi, Posbility: 0.0461
+Next Token : if, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  1, Posbility: 0.0001
+Next Token :   , Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Fib, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : fi, Posbility: 0.0002
+Next Token : (, Posbility: 0.0012
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0006
+Next Token :  ==, Posbility: 0.0021
+Next Token :  <=, Posbility: 0.0051
+Next Token :  , Posbility: 0.0227
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0001
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0009
+Next Token : 1, Posbility: 0.0015
+Next Token :  1, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0002
+Next Token :  ||, Posbility: 0.0003
+Next Token :   , Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0004
+Next Token :  then, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0009
+Next Token :  0, Posbility: 0.0009
+Next Token :  , Posbility: 0.0025
+Next Token :  1, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0005
+Next Token :  , Posbility: 0.0019
+Next Token :  else, Posbility: 0.0229
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : |, Posbility: 0.0001
+Next Token : let, Posbility: 0.0001
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  then, Posbility: 0.0007
+Next Token :   , Posbility: 0.0010
+Next Token :  {, Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0417
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : return, Posbility: 0.0018
+Next Token : (, Posbility: 0.0134
+Next Token : if, Posbility: 0.0134
+Next Token : n, Posbility: 0.0283
+Next Token : fi, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : bn, Posbility: 0.0000
+Next Token : bo, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (1, Posbility: 0.0002
+Next Token :  ((, Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0002
+Next Token : (, Posbility: 0.2695
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ^, Posbility: 0.0000
+Next Token : (`, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : n, Posbility: 0.0140
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : fi, Posbility: 0.0002
+Next Token : succ, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0003
+Next Token :  , Posbility: 0.0032
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0035
+Next Token :  +, Posbility: 0.0045
+Next Token : -2, Posbility: 0.0058
+Next Token : -1), Posbility: 0.1167
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : -2, Posbility: 0.0001
+Next Token : −, Posbility: 0.0012
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token :  1, Posbility: 0.0003
+Next Token :  3), Posbility: 0.0003
+Next Token :  2), Posbility: 0.0474
+Next Token :  1), Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  ++, Posbility: 0.0005
+Next Token :  *, Posbility: 0.0009
+Next Token :  , Posbility: 0.0025
+Next Token :  +, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0000
+Next Token : fi, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0002
+Next Token :   , Posbility: 0.0006
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0000
+Next Token : if, Posbility: 0.0003
+Next Token : (, Posbility: 0.0025
+Next Token : n, Posbility: 0.0025
+Next Token : fi, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fi
+ score:False
+Error type: noerr
+---------------------------
+Next Token : v, Posbility: 0.0000
+Next Token : bo, Posbility: 0.0000
+Next Token : h, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0000
+Next Token :  (1, Posbility: 0.0000
+Next Token :  ((, Posbility: 0.0001
+Next Token : (, Posbility: 0.0019
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 2, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0000
+Next Token : n, Posbility: 0.0140
+Next Token : (, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -2, Posbility: 0.0003
+Next Token :  -1), Posbility: 0.0003
+Next Token : -1), Posbility: 0.0003
+Next Token :  +, Posbility: 0.0015
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0000
+Next Token : /, Posbility: 0.0000
+Next Token : −, Posbility: 0.0001
+Next Token : -2, Posbility: 0.0015
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2), Posbility: 0.0001
+Next Token :  , Posbility: 0.0003
+Next Token :  1), Posbility: 0.0064
+Next Token :  2);, Posbility: 0.0471
+Next Token :  2), Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0021
+Next Token :  , Posbility: 0.0040
+Next Token :  in, Posbility: 0.1494
+Next Token : 
+, Posbility: 0.3145
+Next Token : 
+
+, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find sum and average of first n natural numbers. *)
+let rec fib n =
+  if n = 0 then 0
+  else if n = 1 then 1
+  else fib (n - 1) + fib (n - 2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :22.933238983154297
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

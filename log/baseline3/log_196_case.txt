@@ -1,0 +1,218 @@
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let
+Next Token :  , Posbility: 0.4355
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let 
+Next Token : odd, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd
+Next Token : _, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_
+Next Token : p, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_p
+Next Token : arity, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity
+Next Token :  , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity 
+Next Token : n, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+Next Token : 
+, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  
+Next Token : let, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let 
+Next Token : p, Posbility: 0.2969
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let p
+Next Token : arity, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity =
+Next Token :  , Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = 
+Next Token : n, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n
+Next Token :  %, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n %
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 
+Next Token : 2, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2
+Next Token :  in, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  
+Next Token : if, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if 
+Next Token : p, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if p
+Next Token : arity, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity
+Next Token :  =, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity =
+Next Token :  0, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then
+Next Token :  false, Posbility: 0.2910
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false
+Next Token :  else, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false else
+Next Token :  true, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false else true
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.133789539337158
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

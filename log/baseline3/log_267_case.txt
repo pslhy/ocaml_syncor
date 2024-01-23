@@ -1,0 +1,537 @@
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let 
+Next Token : toggle, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle
+Next Token : _, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_
+Next Token : case, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case
+Next Token :  , Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case 
+Next Token : s, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s
+Next Token :  =, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+Next Token : 
+, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+
+Next Token :   , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  
+Next Token : let, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let
+Next Token :  , Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let 
+Next Token : s, Posbility: 0.2773
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s
+Next Token :  =, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s =
+Next Token :  String, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.
+Next Token : to, Posbility: 0.2178
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_
+Next Token : list, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list 
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s
+Next Token :  in, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  
+Next Token : let, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let
+Next Token :  , Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let 
+Next Token : s, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s
+Next Token :  =, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s =
+Next Token :  , Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = 
+Next Token : List, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.
+Next Token : map, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map
+Next Token :  , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map 
+Next Token : (, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (
+Next Token : fun, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun
+Next Token :  , Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun 
+Next Token : c, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c ->
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> 
+Next Token : if, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if 
+Next Token : c, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c
+Next Token :  =, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c =
+Next Token :  ', Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = '
+Next Token : A, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A
+Next Token : ', Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A'
+Next Token :  ||, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' ||
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || 
+Next Token : c, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c =
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = '
+Next Token : a, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a
+Next Token : ', Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a'
+Next Token :  then, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then
+Next Token :  ', Posbility: 0.4766
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then '
+Next Token : B, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B
+Next Token : ', Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B'
+Next Token :  else, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else
+Next Token :  ', Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else '
+Next Token : A, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A
+Next Token : '), Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A')
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s
+Next Token :  in, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  
+Next Token : String, Posbility: 0.7070
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.
+Next Token : of, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_list
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_list 
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_list s
+Next Token : 
+, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_list s
+
+Next Token : ;, Posbility: 0.2061
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_list s
+;
+Next Token : ;, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to toggle the case of all characters in a string. *)
+let toggle_case s =
+  let s = String.to_list s in
+  let s = List.map (fun c -> if c = 'A' || c = 'a' then 'B' else 'A') s in
+  String.of_list s
+;;
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.2199103832244873
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

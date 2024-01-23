@@ -1,0 +1,480 @@
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fact, Posbility: 0.0262
+Next Token :  factor, Posbility: 0.0918
+Next Token :  , Posbility: 0.1040
+Next Token :  last, Posbility: 0.1040
+Next Token :  rec, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  last, Posbility: 0.0679
+Next Token :  find, Posbility: 0.0991
+Next Token :  fact, Posbility: 0.1123
+Next Token :  factor, Posbility: 0.1436
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0247
+Next Token : digit, Posbility: 0.0247
+Next Token : f, Posbility: 0.1826
+Next Token : fi, Posbility: 0.2061
+Next Token : fac, Posbility: 0.2344
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rec, Posbility: 0.0187
+Next Token : (, Posbility: 0.0737
+Next Token :  =, Posbility: 0.1562
+Next Token :  , Posbility: 0.2012
+Next Token : _, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0447
+Next Token : rec, Posbility: 0.0835
+Next Token : iter, Posbility: 0.0947
+Next Token : last, Posbility: 0.1562
+Next Token : digit, Posbility: 0.1768
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0315
+Next Token :  i, Posbility: 0.0403
+Next Token : _, Posbility: 0.1094
+Next Token :  =, Posbility: 0.2324
+Next Token :  , Posbility: 0.4922
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0189
+Next Token : f, Posbility: 0.0275
+Next Token : (, Posbility: 0.0513
+Next Token : x, Posbility: 0.0513
+Next Token : n, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  k, Posbility: 0.0072
+Next Token :  acc, Posbility: 0.0092
+Next Token :  i, Posbility: 0.0118
+Next Token :  , Posbility: 0.1123
+Next Token :  =, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token :  {, Posbility: 0.0044
+Next Token :  match, Posbility: 0.0420
+Next Token :  , Posbility: 0.1006
+Next Token : 
+, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0042
+Next Token :    , Posbility: 0.0145
+Next Token : 	, Posbility: 0.0145
+Next Token :     , Posbility: 0.1562
+Next Token :   , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0055
+Next Token : n, Posbility: 0.0062
+Next Token : let, Posbility: 0.0405
+Next Token : match, Posbility: 0.2988
+Next Token : if, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0008
+Next Token :  0, Posbility: 0.0012
+Next Token :  not, Posbility: 0.0015
+Next Token :   , Posbility: 0.0022
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Mod, Posbility: 0.0003
+Next Token : Eq, Posbility: 0.0004
+Next Token : Int, Posbility: 0.0031
+Next Token : (, Posbility: 0.0228
+Next Token : n, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0095
+Next Token :  ==, Posbility: 0.0703
+Next Token :  , Posbility: 0.1914
+Next Token :  <=, Posbility: 0.1914
+Next Token :  =, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0007
+Next Token :  , Posbility: 0.0018
+Next Token :  1, Posbility: 0.2676
+Next Token :  0, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0024
+Next Token :  , Posbility: 0.0039
+Next Token :  ||, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0138
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1;, Posbility: 0.0043
+Next Token :  , Posbility: 0.0315
+Next Token : 
+, Posbility: 0.0854
+Next Token :  0, Posbility: 0.2324
+Next Token :  1, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0006
+Next Token :   , Posbility: 0.0033
+Next Token :  , Posbility: 0.0079
+Next Token :  else, Posbility: 0.4902
+Next Token : 
+, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0003
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0008
+Next Token :     , Posbility: 0.0019
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |, Posbility: 0.0002
+Next Token : if, Posbility: 0.0003
+Next Token : let, Posbility: 0.0006
+Next Token : elif, Posbility: 0.0012
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0012
+Next Token :   , Posbility: 0.0052
+Next Token :  {, Posbility: 0.0161
+Next Token : 
+, Posbility: 0.0928
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0039
+Next Token : (, Posbility: 0.0425
+Next Token : if, Posbility: 0.0898
+Next Token : fac, Posbility: 0.1904
+Next Token : n, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0017
+Next Token :  +, Posbility: 0.0100
+Next Token :  , Posbility: 0.0188
+Next Token : *, Posbility: 0.0579
+Next Token :  *, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0005
+Next Token :  rec, Posbility: 0.0007
+Next Token :  factor, Posbility: 0.0009
+Next Token :   , Posbility: 0.0012
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : if, Posbility: 0.0001
+Next Token : n, Posbility: 0.0009
+Next Token : (, Posbility: 0.0179
+Next Token : fac, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0000
+Next Token :  [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0008
+Next Token :  , Posbility: 0.0013
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Digit, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : digits, Posbility: 0.0001
+Next Token : dig, Posbility: 0.0001
+Next Token : digit, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0003
+Next Token :  (1, Posbility: 0.0022
+Next Token :  ((, Posbility: 0.0029
+Next Token : (, Posbility: 0.0947
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : <, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0000
+Next Token : n, Posbility: 0.0032
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : int, Posbility: 0.0005
+Next Token : pred, Posbility: 0.0008
+Next Token : succ, Posbility: 0.0015
+Next Token :  , Posbility: 0.0096
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  –, Posbility: 0.0021
+Next Token :  -1), Posbility: 0.0034
+Next Token : -1, Posbility: 0.0073
+Next Token : -1), Posbility: 0.1455
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : minus, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0000
+Next Token : /, Posbility: 0.0006
+Next Token : −, Posbility: 0.0010
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  , Posbility: 0.0009
+Next Token :  1, Posbility: 0.0065
+Next Token :  1);, Posbility: 0.0178
+Next Token :  1), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0128
+Next Token :  +, Posbility: 0.0164
+Next Token :  in, Posbility: 0.0271
+Next Token : 
+, Posbility: 0.2266
+Next Token : 
+
+, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a  function to find the last digit in factorial of a given number. *)
+let rec fac_digit n =
+  if n = 0 then 1
+  else n * fac_digit (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :15.598355293273926
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

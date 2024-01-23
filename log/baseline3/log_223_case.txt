@@ -1,0 +1,237 @@
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let
+Next Token :  rec, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec
+Next Token :  , Posbility: 0.3418
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec 
+Next Token : digit, Posbility: 0.2051
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit
+Next Token : _, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_
+Next Token : of, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of
+Next Token : _, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_
+Next Token : number, Posbility: 0.2773
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number 
+Next Token : n, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n
+Next Token :  =, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+Next Token : 
+, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+
+Next Token :   , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  
+Next Token : if, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if 
+Next Token : n, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n
+Next Token :  , Posbility: 0.4316
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n 
+Next Token : <, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n <
+Next Token :  10, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10
+Next Token :  then, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then
+Next Token :  , Posbility: 0.5898
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then 
+Next Token : n, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+Next Token : 
+, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else 
+Next Token : digit, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number 
+Next Token : (, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (
+Next Token : n, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n
+Next Token :  , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n 
+Next Token : /, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n /
+Next Token :  10), Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to find the last digit of a given number. *)
+let rec digit_of_number n =
+  if n < 10 then n
+  else digit_of_number (n / 10)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.1483161449432373
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

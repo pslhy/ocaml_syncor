@@ -1,0 +1,271 @@
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let
+Next Token :  rec, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec 
+Next Token : fi, Posbility: 0.1992
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fi
+Next Token : b, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib
+Next Token :  , Posbility: 0.2891
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib 
+Next Token : n, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+Next Token : 
+, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+
+Next Token :   , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  
+Next Token : if, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if 
+Next Token : n, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n
+Next Token :  <=, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <=
+Next Token :  , Posbility: 0.4180
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 
+Next Token : 2, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2
+Next Token :  then, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then 
+Next Token : n, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else 
+Next Token : fi, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib 
+Next Token : (, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n -
+Next Token :  2), Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2)
+Next Token :  +, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) +
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + 
+Next Token : fi, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib 
+Next Token : (, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib (n
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib (n 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib (n -
+Next Token :  1), Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0). *)
+let rec fib n =
+  if n <= 2 then n
+  else fib (n - 2) + fib (n - 1)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.363205671310425
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

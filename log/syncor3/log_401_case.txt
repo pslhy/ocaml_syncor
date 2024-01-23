@@ -1,0 +1,784 @@
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0415
+Next Token :  sub, Posbility: 0.0532
+Next Token :  sum, Posbility: 0.1128
+Next Token :  , Posbility: 0.1855
+Next Token :  rec, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0287
+Next Token :  sub, Posbility: 0.0471
+Next Token :  find, Posbility: 0.0776
+Next Token :  sum, Posbility: 0.2715
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0408
+Next Token : f, Posbility: 0.0464
+Next Token : add, Posbility: 0.0525
+Next Token : helper, Posbility: 0.1108
+Next Token : odd, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0189
+Next Token : length, Posbility: 0.0189
+Next Token : s, Posbility: 0.0243
+Next Token : Length, Posbility: 0.0312
+Next Token : _, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0032
+Next Token : len, Posbility: 0.1050
+Next Token : sub, Posbility: 0.1738
+Next Token : sum, Posbility: 0.1738
+Next Token : length, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0101
+Next Token : (, Posbility: 0.0101
+Next Token : s, Posbility: 0.0167
+Next Token :  =, Posbility: 0.0454
+Next Token : _, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : array, Posbility: 0.0038
+Next Token : subset, Posbility: 0.0063
+Next Token : helper, Posbility: 0.0063
+Next Token : sum, Posbility: 0.3457
+Next Token : sub, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_sub
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : arr, Posbility: 0.0062
+Next Token : sum, Posbility: 0.0062
+Next Token : sequence, Posbility: 0.0062
+Next Token : _, Posbility: 0.0457
+Next Token : array, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0221
+Next Token :  =, Posbility: 0.0221
+Next Token : (, Posbility: 0.0601
+Next Token : s, Posbility: 0.4434
+Next Token : _, Posbility: 0.4434
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0023
+Next Token : rec, Posbility: 0.0023
+Next Token : count, Posbility: 0.0063
+Next Token : helper, Posbility: 0.0171
+Next Token : sum, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0854
+Next Token : s, Posbility: 0.0854
+Next Token : _, Posbility: 0.1099
+Next Token :  =, Posbility: 0.2324
+Next Token :  , Posbility: 0.3828
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0674
+Next Token : s, Posbility: 0.1108
+Next Token : (, Posbility: 0.1426
+Next Token : n, Posbility: 0.1426
+Next Token : arr, Posbility: 0.2070
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0518
+Next Token :  sum, Posbility: 0.0518
+Next Token :  len, Posbility: 0.0854
+Next Token :  , Posbility: 0.1406
+Next Token :  =, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0085
+Next Token :  function, Posbility: 0.0160
+Next Token :  match, Posbility: 0.0713
+Next Token :  , Posbility: 0.1177
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0061
+Next Token :    , Posbility: 0.0147
+Next Token : 	, Posbility: 0.0214
+Next Token :     , Posbility: 0.2295
+Next Token :   , Posbility: 0.7070
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0099
+Next Token : List, Posbility: 0.0162
+Next Token : if, Posbility: 0.2246
+Next Token : let, Posbility: 0.2246
+Next Token : match, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  O, Posbility: 0.0015
+Next Token :  len, Posbility: 0.0015
+Next Token :  [, Posbility: 0.0024
+Next Token :  String, Posbility: 0.0084
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : length, Posbility: 0.0063
+Next Token : (, Posbility: 0.0283
+Next Token : List, Posbility: 0.0986
+Next Token : Array, Posbility: 0.0986
+Next Token : arr, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0015
+Next Token :  , Posbility: 0.0024
+Next Token :  |, Posbility: 0.0065
+Next Token : ., Posbility: 0.0107
+Next Token :  with, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0018
+Next Token :  , Posbility: 0.0063
+Next Token :  [, Posbility: 0.0081
+Next Token :  [], Posbility: 0.0464
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token :       , Posbility: 0.0018
+Next Token :    , Posbility: 0.0023
+Next Token :     , Posbility: 0.0596
+Next Token :   , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : |[, Posbility: 0.0002
+Next Token : (, Posbility: 0.0003
+Next Token : [, Posbility: 0.0121
+Next Token : [], Posbility: 0.0200
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  null, Posbility: 0.0014
+Next Token :  nil, Posbility: 0.0037
+Next Token :  , Posbility: 0.0276
+Next Token :  [, Posbility: 0.0454
+Next Token :  [], Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0038
+Next Token :   , Posbility: 0.0038
+Next Token :  =>, Posbility: 0.0081
+Next Token :  |, Posbility: 0.0221
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0002
+Next Token : →, Posbility: 0.0003
+Next Token : -, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0059
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0166
+Next Token :  [], Posbility: 0.0166
+Next Token :  , Posbility: 0.0452
+Next Token :  0, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0047
+Next Token : L, Posbility: 0.0060
+Next Token :  , Posbility: 0.0187
+Next Token :  |, Posbility: 0.0574
+Next Token : 
+, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : |, Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : |[, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0070
+Next Token :  [], Posbility: 0.0216
+Next Token :  a, Posbility: 0.0356
+Next Token :  [, Posbility: 0.3379
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : hd, Posbility: 0.0330
+Next Token : h, Posbility: 0.0425
+Next Token : head, Posbility: 0.0544
+Next Token : _, Posbility: 0.2773
+Next Token : x, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0037
+Next Token : :, Posbility: 0.0354
+Next Token : s, Posbility: 0.0581
+Next Token : ::, Posbility: 0.3340
+Next Token :  , Posbility: 0.5508
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0002
+Next Token : :, Posbility: 0.0024
+Next Token : if, Posbility: 0.0082
+Next Token : ->, Posbility: 0.0369
+Next Token : ::, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  a, Posbility: 0.0037
+Next Token :  acc, Posbility: 0.0047
+Next Token :  [], Posbility: 0.0145
+Next Token :  rest, Posbility: 0.0649
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : arr, Posbility: 0.0157
+Next Token : tail, Posbility: 0.0334
+Next Token : y, Posbility: 0.0486
+Next Token : _, Posbility: 0.1030
+Next Token : x, Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0011
+Next Token :  , Posbility: 0.0015
+Next Token : _, Posbility: 0.0015
+Next Token : ', Posbility: 0.0178
+Next Token : s, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0013
+Next Token :   , Posbility: 0.0027
+Next Token :  =>, Posbility: 0.0045
+Next Token :  when, Posbility: 0.1172
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0003
+Next Token : if, Posbility: 0.0051
+Next Token : ::, Posbility: 0.0203
+Next Token : ->, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  match, Posbility: 0.0085
+Next Token :  (1, Posbility: 0.0085
+Next Token :  1, Posbility: 0.0232
+Next Token : 
+, Posbility: 0.4648
+Next Token :  , Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0625
+Next Token : let, Posbility: 0.0806
+Next Token : if, Posbility: 0.1328
+Next Token : odd, Posbility: 0.1699
+Next Token : x, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ::, Posbility: 0.0054
+Next Token : s, Posbility: 0.0061
+Next Token :  *, Posbility: 0.0240
+Next Token :  , Posbility: 0.0396
+Next Token :  +, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0027
+Next Token :  rec, Posbility: 0.0058
+Next Token :  sum, Posbility: 0.0074
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0009
+Next Token : x, Posbility: 0.0039
+Next Token : (, Posbility: 0.0291
+Next Token : odd, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : Length, Posbility: 0.0000
+Next Token :  *, Posbility: 0.0000
+Next Token :  , Posbility: 0.0002
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : array, Posbility: 0.0000
+Next Token : leg, Posbility: 0.0000
+Next Token : sub, Posbility: 0.0000
+Next Token : len, Posbility: 0.0001
+Next Token : length, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  sub, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : substr, Posbility: 0.0000
+Next Token : substring, Posbility: 0.0000
+Next Token : array, Posbility: 0.0001
+Next Token : sum, Posbility: 0.0002
+Next Token : sub, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_sub
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  array, Posbility: 0.0000
+Next Token : arr, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : arry, Posbility: 0.0000
+Next Token : array, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  sum, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : size, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : count, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0007
+Next Token :  ~, Posbility: 0.0008
+Next Token : (, Posbility: 0.0085
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [0, Posbility: 0.0000
+Next Token : y, Posbility: 0.0001
+Next Token : arr, Posbility: 0.0003
+Next Token : (, Posbility: 0.0229
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray_sum x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+
+, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray_sum xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0076
+Next Token :  +, Posbility: 0.0076
+Next Token :  , Posbility: 0.0126
+Next Token : 
+, Posbility: 0.4160
+Next Token : 
+
+, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to find the sum of all odd length subarrays. https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/ *)
+let rec odd_length_subarray_sum arr =
+  match arr with
+  | [] -> 0
+  | x :: xs -> x + odd_length_subarray_sum xs
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :24.406285762786865
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

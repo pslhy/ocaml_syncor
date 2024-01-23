@@ -1,0 +1,1574 @@
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  maximum, Posbility: 0.0256
+Next Token :  find, Posbility: 0.0698
+Next Token :  , Posbility: 0.1299
+Next Token :  max, Posbility: 0.2148
+Next Token :  rec, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0189
+Next Token :  maximum, Posbility: 0.0400
+Next Token :  , Posbility: 0.2031
+Next Token :  find, Posbility: 0.2031
+Next Token :  max, Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0154
+Next Token : -, Posbility: 0.0255
+Next Token :  =, Posbility: 0.0540
+Next Token :  , Posbility: 0.1289
+Next Token : _, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0483
+Next Token : helper, Posbility: 0.0703
+Next Token : val, Posbility: 0.0903
+Next Token : of, Posbility: 0.1484
+Next Token : value, Posbility: 0.1484
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0234
+Next Token :  v, Posbility: 0.0302
+Next Token : _, Posbility: 0.1738
+Next Token :  =, Posbility: 0.1738
+Next Token :  , Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0236
+Next Token : :, Posbility: 0.0933
+Next Token : lst, Posbility: 0.1357
+Next Token : (, Posbility: 0.1738
+Next Token : x, Posbility: 0.2236
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0079
+Next Token :  v, Posbility: 0.0102
+Next Token :  , Posbility: 0.1099
+Next Token :  =, Posbility: 0.3828
+Next Token : s, Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  max, Posbility: 0.0064
+Next Token :  v, Posbility: 0.0082
+Next Token :  acc, Posbility: 0.0105
+Next Token :  , Posbility: 0.0996
+Next Token :  =, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0023
+Next Token :  function, Posbility: 0.0093
+Next Token :  match, Posbility: 0.0605
+Next Token :  , Posbility: 0.0776
+Next Token : 
+, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0045
+Next Token : 	, Posbility: 0.0075
+Next Token :    , Posbility: 0.0085
+Next Token :     , Posbility: 0.1030
+Next Token :   , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0055
+Next Token : List, Posbility: 0.0193
+Next Token : if, Posbility: 0.0596
+Next Token : let, Posbility: 0.1621
+Next Token : match, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0005
+Next Token :  ?, Posbility: 0.0007
+Next Token :  max, Posbility: 0.0012
+Next Token :  String, Posbility: 0.0040
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : H, Posbility: 0.0029
+Next Token : Data, Posbility: 0.0032
+Next Token : (, Posbility: 0.0068
+Next Token : List, Posbility: 0.0737
+Next Token : x, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token :  with, Posbility: 0.0013
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token :  @, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0009
+Next Token : ., Posbility: 0.0009
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0035
+Next Token :  [, Posbility: 0.0045
+Next Token :  , Posbility: 0.0050
+Next Token :  [], Posbility: 0.0199
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0006
+Next Token :       , Posbility: 0.0018
+Next Token :    , Posbility: 0.0023
+Next Token :     , Posbility: 0.0845
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0003
+Next Token : (, Posbility: 0.0005
+Next Token : [, Posbility: 0.0175
+Next Token : [], Posbility: 0.0287
+Next Token : |, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0095
+Next Token :  nil, Posbility: 0.0121
+Next Token :  [, Posbility: 0.0425
+Next Token :  , Posbility: 0.0698
+Next Token :  [], Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0031
+Next Token :    , Posbility: 0.0044
+Next Token :  |, Posbility: 0.0073
+Next Token :  =>, Posbility: 0.0106
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =>, Posbility: 0.0001
+Next Token : -, Posbility: 0.0003
+Next Token : →, Posbility: 0.0003
+Next Token : ::, Posbility: 0.0013
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fail, Posbility: 0.0430
+Next Token :  error, Posbility: 0.0708
+Next Token :  None, Posbility: 0.1167
+Next Token :  , Posbility: 0.3184
+Next Token :  0, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0044
+Next Token : ., Posbility: 0.0121
+Next Token :  , Posbility: 0.0255
+Next Token :  |, Posbility: 0.0894
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token :       , Posbility: 0.0001
+Next Token : |, Posbility: 0.0001
+Next Token :     , Posbility: 0.0004
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : |[, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0052
+Next Token :  {, Posbility: 0.0059
+Next Token :  [], Posbility: 0.0182
+Next Token :  [, Posbility: 0.2520
+Next Token :  , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0330
+Next Token : (, Posbility: 0.0544
+Next Token : hd, Posbility: 0.0615
+Next Token : _, Posbility: 0.1475
+Next Token : x, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0020
+Next Token : :, Posbility: 0.0190
+Next Token : s, Posbility: 0.0315
+Next Token : ::, Posbility: 0.2988
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0002
+Next Token : if, Posbility: 0.0004
+Next Token : :, Posbility: 0.0036
+Next Token : ->, Posbility: 0.0067
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  others, Posbility: 0.0015
+Next Token :  more, Posbility: 0.0019
+Next Token :  [], Posbility: 0.0124
+Next Token :  rest, Posbility: 0.1035
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : t, Posbility: 0.0149
+Next Token : tail, Posbility: 0.0168
+Next Token : y, Posbility: 0.0217
+Next Token : _, Posbility: 0.1099
+Next Token : x, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0004
+Next Token : x, Posbility: 0.0005
+Next Token : _, Posbility: 0.0009
+Next Token : ', Posbility: 0.0052
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0272
+Next Token : 1, Posbility: 0.0272
+Next Token :  when, Posbility: 0.0396
+Next Token : ', Posbility: 0.0649
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token : x, Posbility: 0.0001
+Next Token : if, Posbility: 0.0019
+Next Token : ::, Posbility: 0.0036
+Next Token : ->, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0605
+Next Token :  max, Posbility: 0.0605
+Next Token :  Math, Posbility: 0.0605
+Next Token : 
+, Posbility: 0.2715
+Next Token :  , Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0583
+Next Token : Int, Posbility: 0.0747
+Next Token : (, Posbility: 0.1396
+Next Token : if, Posbility: 0.2031
+Next Token : x, Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  >=, Posbility: 0.0311
+Next Token : s, Posbility: 0.0581
+Next Token : 
+, Posbility: 0.0957
+Next Token :  +, Posbility: 0.2305
+Next Token :  , Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : :, Posbility: 0.0292
+Next Token : <, Posbility: 0.0374
+Next Token : ^, Posbility: 0.0544
+Next Token : ::, Posbility: 0.1016
+Next Token : >, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x >
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0182
+Next Token :  , Posbility: 0.0635
+Next Token : ?, Posbility: 0.0815
+Next Token :  ?, Posbility: 0.3223
+Next Token :  max, Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ?, Posbility: 0.0003
+Next Token : (, Posbility: 0.0013
+Next Token :  ?, Posbility: 0.0022
+Next Token :  , Posbility: 0.0028
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : values, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : val, Posbility: 0.0001
+Next Token : of, Posbility: 0.0001
+Next Token : value, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ~, Posbility: 0.0005
+Next Token : _, Posbility: 0.0009
+Next Token :  ?, Posbility: 0.0051
+Next Token : (, Posbility: 0.0139
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : f, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : y, Posbility: 0.0002
+Next Token : (, Posbility: 0.0085
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ?, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0018
+Next Token :  , Posbility: 0.0083
+Next Token :  ?, Posbility: 0.0476
+Next Token : 
+
+, Posbility: 0.3516
+Next Token : 
+, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0237
+Next Token : in, Posbility: 0.0325
+Next Token : end, Posbility: 0.0684
+Next Token :   , Posbility: 0.1445
+Next Token : let, Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0327
+Next Token :  main, Posbility: 0.0889
+Next Token :  , Posbility: 0.1299
+Next Token :  max, Posbility: 0.1465
+Next Token :  rec, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  loop, Posbility: 0.0152
+Next Token :  rec, Posbility: 0.0364
+Next Token :  find, Posbility: 0.0991
+Next Token :  , Posbility: 0.1855
+Next Token :  max, Posbility: 0.4434
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0013
+Next Token : i, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0083
+Next Token :  , Posbility: 0.0176
+Next Token : _, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : index, Posbility: 0.0063
+Next Token : values, Posbility: 0.0221
+Next Token : list, Posbility: 0.0250
+Next Token : of, Posbility: 0.0250
+Next Token : value, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0200
+Next Token : 2, Posbility: 0.0422
+Next Token : ', Posbility: 0.0479
+Next Token :  , Posbility: 0.1670
+Next Token : _, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : of, Posbility: 0.0330
+Next Token : helper, Posbility: 0.0425
+Next Token : aux, Posbility: 0.0544
+Next Token : rec, Posbility: 0.0898
+Next Token : list, Posbility: 0.0898
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0102
+Next Token :  l, Posbility: 0.0245
+Next Token : _, Posbility: 0.0664
+Next Token :  =, Posbility: 0.1099
+Next Token :  , Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : xl, Posbility: 0.0079
+Next Token : lst, Posbility: 0.0214
+Next Token : ls, Posbility: 0.0242
+Next Token : (, Posbility: 0.0659
+Next Token : x, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0007
+Next Token : list, Posbility: 0.0024
+Next Token : sl, Posbility: 0.0031
+Next Token :  =, Posbility: 0.0109
+Next Token : s, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0038
+Next Token :  , Posbility: 0.0104
+Next Token : _, Posbility: 0.0104
+Next Token : s, Posbility: 0.0283
+Next Token :  =, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0016
+Next Token :  match, Posbility: 0.0072
+Next Token :  , Posbility: 0.0879
+Next Token :  max, Posbility: 0.2393
+Next Token : 
+, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0005
+Next Token : let, Posbility: 0.0015
+Next Token :    , Posbility: 0.0022
+Next Token :     , Posbility: 0.0096
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0240
+Next Token : if, Posbility: 0.0576
+Next Token : max, Posbility: 0.0840
+Next Token : let, Posbility: 0.1777
+Next Token : match, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  list, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0002
+Next Token :  rec, Posbility: 0.0003
+Next Token :  max, Posbility: 0.0067
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Seq, Posbility: 0.0005
+Next Token : Data, Posbility: 0.0007
+Next Token : (, Posbility: 0.0027
+Next Token : List, Posbility: 0.0178
+Next Token : x, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token :  in, Posbility: 0.0000
+Next Token :  with, Posbility: 0.0002
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [0], Posbility: 0.0002
+Next Token :  , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Next Token : ., Posbility: 0.0010
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :  [], Posbility: 0.0005
+Next Token :  , Posbility: 0.0008
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :    , Posbility: 0.0002
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : case, Posbility: 0.0001
+Next Token : {, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0008
+Next Token :  nil, Posbility: 0.0014
+Next Token :  [, Posbility: 0.0170
+Next Token :  , Posbility: 0.0461
+Next Token :  [], Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0006
+Next Token :  as, Posbility: 0.0006
+Next Token :  =>, Posbility: 0.0012
+Next Token :  |, Posbility: 0.0036
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0000
+Next Token :  =>, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0001
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0058
+Next Token :  error, Posbility: 0.0058
+Next Token :  , Posbility: 0.0432
+Next Token :  [], Posbility: 0.0432
+Next Token :  0, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  as, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token :  |, Posbility: 0.0025
+Next Token :  , Posbility: 0.0052
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :       , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : let, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0028
+Next Token :  {, Posbility: 0.0047
+Next Token :  [], Posbility: 0.0267
+Next Token :  [, Posbility: 0.0566
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0100
+Next Token : head, Posbility: 0.0114
+Next Token : _, Posbility: 0.0510
+Next Token : (, Posbility: 0.0576
+Next Token : x, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0011
+Next Token : :, Posbility: 0.0057
+Next Token : s, Posbility: 0.0693
+Next Token : ::, Posbility: 0.0693
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : <, Posbility: 0.0001
+Next Token : x, Posbility: 0.0002
+Next Token : ->, Posbility: 0.0009
+Next Token : :, Posbility: 0.0110
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x ::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  l, Posbility: 0.0009
+Next Token :  [, Posbility: 0.0024
+Next Token :  rest, Posbility: 0.0036
+Next Token :  [], Posbility: 0.0040
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : (, Posbility: 0.0013
+Next Token : tail, Posbility: 0.0013
+Next Token : y, Posbility: 0.0035
+Next Token : _, Posbility: 0.0123
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : ::, Posbility: 0.0003
+Next Token :  , Posbility: 0.0013
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0009
+Next Token : ,, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0015
+Next Token :  when, Posbility: 0.0123
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ::, Posbility: 0.0002
+Next Token : if, Posbility: 0.0009
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0044
+Next Token :  match, Posbility: 0.0199
+Next Token : 
+, Posbility: 0.1475
+Next Token :  max, Posbility: 0.1475
+Next Token :  , Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0042
+Next Token : let, Posbility: 0.0113
+Next Token : (, Posbility: 0.0271
+Next Token : if, Posbility: 0.0396
+Next Token : x, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0038
+Next Token :  >=, Posbility: 0.0049
+Next Token : s, Posbility: 0.0133
+Next Token : ., Posbility: 0.0361
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ->, Posbility: 0.0000
+Next Token : >`, Posbility: 0.0001
+Next Token : ^, Posbility: 0.0001
+Next Token : <, Posbility: 0.0017
+Next Token : >, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x >
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0005
+Next Token : ?, Posbility: 0.0007
+Next Token :  ?, Posbility: 0.0017
+Next Token :  , Posbility: 0.0075
+Next Token :  max, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0001
+Next Token :  ?, Posbility: 0.0001
+Next Token :  , Posbility: 0.0007
+Next Token : (, Posbility: 0.0009
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : element, Posbility: 0.0000
+Next Token : of, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : values, Posbility: 0.0000
+Next Token : value, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  ?, Posbility: 0.0009
+Next Token :  max, Posbility: 0.0012
+Next Token : (, Posbility: 0.0019
+Next Token :  , Posbility: 0.2207
+Next Token : _, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : of, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0000
+Next Token : value, Posbility: 0.0000
+Next Token : list, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value_list
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  max, Posbility: 0.0004
+Next Token :  ?, Posbility: 0.0007
+Next Token : _, Posbility: 0.0008
+Next Token : (, Posbility: 0.0046
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value_list 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : List, Posbility: 0.0001
+Next Token : tail, Posbility: 0.0002
+Next Token : y, Posbility: 0.0002
+Next Token : (, Posbility: 0.0293
+Next Token : x, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value_list x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 1, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value_list xs
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0067
+Next Token :  ?, Posbility: 0.0182
+Next Token :  , Posbility: 0.0339
+Next Token : 
+, Posbility: 0.3652
+Next Token : 
+
+, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the maximum value in a given heterogeneous list. *)
+let rec max_value xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value xs
+let rec max_value_list xs =
+  match xs with
+  | [] -> 0
+  | x :: xs -> x > max_value_list xs
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :40.943498611450195
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

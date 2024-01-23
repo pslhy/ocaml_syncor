@@ -1,0 +1,240 @@
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let
+Next Token :  rec, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec
+Next Token :  next, Posbility: 0.3828
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next
+Next Token : _, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_
+Next Token : big, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_big
+Next Token : ger, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger
+Next Token : _, Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_
+Next Token : number, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number
+Next Token :  , Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number 
+Next Token : n, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n
+Next Token :  =, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+
+Next Token :   , Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  
+Next Token : match, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match 
+Next Token : n, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n
+Next Token :  with, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  
+Next Token : |, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  |
+Next Token :  0, Posbility: 0.5273
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 ->
+Next Token :  1, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  |
+Next Token :  , Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | 
+Next Token : n, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n 
+Next Token : ->, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n ->
+Next Token :  , Posbility: 0.4805
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> 
+Next Token : n, Posbility: 0.2832
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n
+Next Token :  +, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n +
+Next Token :  1, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to create the next bigger number by rearranging the digits of a given number. *)
+let rec next_bigger_number n =
+  match n with
+  | 0 -> 1
+  | n -> n + 1
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.092566728591919
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

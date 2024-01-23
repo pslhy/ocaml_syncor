@@ -1,0 +1,455 @@
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0076
+Next Token :  even, Posbility: 0.0437
+Next Token :  sum, Posbility: 0.1191
+Next Token :  , Posbility: 0.3242
+Next Token :  rec, Posbility: 0.4160
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fact, Posbility: 0.0212
+Next Token :  loop, Posbility: 0.0352
+Next Token :  even, Posbility: 0.0579
+Next Token :  sum, Posbility: 0.2021
+Next Token :  , Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : add, Posbility: 0.0615
+Next Token : f, Posbility: 0.0791
+Next Token : fi, Posbility: 0.0791
+Next Token : sq, Posbility: 0.1680
+Next Token : square, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec square
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0212
+Next Token : (, Posbility: 0.0212
+Next Token : sum, Posbility: 0.0349
+Next Token : _, Posbility: 0.4258
+Next Token : s, Posbility: 0.4258
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0088
+Next Token : (, Posbility: 0.0238
+Next Token :  =, Posbility: 0.2266
+Next Token :  , Posbility: 0.2910
+Next Token : _, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : seq, Posbility: 0.0156
+Next Token : even, Posbility: 0.0330
+Next Token : up, Posbility: 0.0615
+Next Token : sum, Posbility: 0.3125
+Next Token : of, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _1_, Posbility: 0.0003
+Next Token : (, Posbility: 0.0003
+Next Token :  =, Posbility: 0.0015
+Next Token :  , Posbility: 0.0025
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.1040
+Next Token : numbers, Posbility: 0.1040
+Next Token : first, Posbility: 0.1709
+Next Token : even, Posbility: 0.1709
+Next Token : natural, Posbility: 0.1709
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_natural
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0079
+Next Token : (, Posbility: 0.0079
+Next Token :  =, Posbility: 0.0079
+Next Token : _, Posbility: 0.2617
+Next Token : s, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0135
+Next Token : (, Posbility: 0.0222
+Next Token : _, Posbility: 0.0605
+Next Token :  =, Posbility: 0.1279
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0034
+Next Token : :, Posbility: 0.0057
+Next Token : x, Posbility: 0.0093
+Next Token : (, Posbility: 0.0136
+Next Token : n, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0028
+Next Token :  acc, Posbility: 0.0125
+Next Token :  i, Posbility: 0.0206
+Next Token :  , Posbility: 0.0562
+Next Token :  =, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0025
+Next Token :  {, Posbility: 0.0078
+Next Token :  match, Posbility: 0.0579
+Next Token :  , Posbility: 0.1226
+Next Token : 
+, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0053
+Next Token :    , Posbility: 0.0113
+Next Token : 	, Posbility: 0.0128
+Next Token :     , Posbility: 0.1562
+Next Token :   , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0058
+Next Token : n, Posbility: 0.0066
+Next Token : let, Posbility: 0.0554
+Next Token : match, Posbility: 0.3184
+Next Token : if, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0007
+Next Token : (, Posbility: 0.0010
+Next Token :  not, Posbility: 0.0013
+Next Token :   , Posbility: 0.0017
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0001
+Next Token : Eq, Posbility: 0.0002
+Next Token : Int, Posbility: 0.0021
+Next Token : (, Posbility: 0.0259
+Next Token : n, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0154
+Next Token :  ==, Posbility: 0.0420
+Next Token :  , Posbility: 0.3105
+Next Token :  =, Posbility: 0.3105
+Next Token :  <=, Posbility: 0.3105
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <=
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0008
+Next Token : 0, Posbility: 0.0021
+Next Token :  , Posbility: 0.0157
+Next Token :  1, Posbility: 0.1167
+Next Token :  0, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0024
+Next Token :  , Posbility: 0.0051
+Next Token :  ||, Posbility: 0.0065
+Next Token : 
+, Posbility: 0.0138
+Next Token :  then, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0043
+Next Token :  [], Posbility: 0.0315
+Next Token :  , Posbility: 0.0854
+Next Token : 
+, Posbility: 0.2324
+Next Token :  0, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0014
+Next Token :   , Posbility: 0.0064
+Next Token :  , Posbility: 0.0175
+Next Token :  else, Posbility: 0.3086
+Next Token : 
+, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0005
+Next Token :  , Posbility: 0.0017
+Next Token :     , Posbility: 0.0032
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : then, Posbility: 0.0002
+Next Token : elif, Posbility: 0.0003
+Next Token : let, Posbility: 0.0006
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0030
+Next Token :  1, Posbility: 0.0039
+Next Token :  {, Posbility: 0.0222
+Next Token : 
+, Posbility: 0.1279
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : square, Posbility: 0.0122
+Next Token : 2, Posbility: 0.0332
+Next Token : if, Posbility: 0.0618
+Next Token : (, Posbility: 0.1157
+Next Token : n, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  %, Posbility: 0.0182
+Next Token :  , Posbility: 0.0234
+Next Token : *, Posbility: 0.0386
+Next Token :  +, Posbility: 0.1187
+Next Token :  *, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0007
+Next Token : (, Posbility: 0.0007
+Next Token :  (1, Posbility: 0.0012
+Next Token :  ((, Posbility: 0.0025
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sq, Posbility: 0.0043
+Next Token : 2, Posbility: 0.0315
+Next Token : square, Posbility: 0.0859
+Next Token : n, Posbility: 0.2334
+Next Token : (, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n * (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : if, Posbility: 0.0017
+Next Token : square, Posbility: 0.0260
+Next Token :  , Posbility: 0.0334
+Next Token : 2, Posbility: 0.0708
+Next Token : n, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n * (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : +, Posbility: 0.0023
+Next Token :  *, Posbility: 0.0062
+Next Token : +1), Posbility: 0.0168
+Next Token :  , Posbility: 0.0459
+Next Token :  +, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n * (n +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0024
+Next Token :  1);, Posbility: 0.0024
+Next Token :  2), Posbility: 0.0065
+Next Token :  , Posbility: 0.0177
+Next Token :  1), Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n * (n + 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0630
+Next Token :  *, Posbility: 0.1177
+Next Token : 
+, Posbility: 0.1328
+Next Token :  , Posbility: 0.2197
+Next Token : 
+
+, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a  function takes in an integer n and returns the sum of squares of first n even natural numbers. *)
+let rec squares_of_naturals n =
+  if n <= 0 then 0
+  else n * (n + 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :15.374532699584961
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

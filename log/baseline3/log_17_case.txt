@@ -1,0 +1,651 @@
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let
+Next Token :  , Posbility: 0.3418
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let 
+Next Token : opposite, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite
+Next Token : _, Posbility: 0.7383
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_
+Next Token : sign, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign
+Next Token :  , Posbility: 0.3730
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign 
+Next Token : x, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+Next Token : 
+, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+
+Next Token :   , Posbility: 0.7422
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  
+Next Token : let, Posbility: 0.3223
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let 
+Next Token : x, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x
+Next Token : _, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_
+Next Token : is, Posbility: 0.1494
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_
+Next Token : negative, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative
+Next Token :  =, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative =
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = 
+Next Token : x, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x 
+Next Token : <, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x <
+Next Token :  0, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0
+Next Token :  in, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  
+Next Token : let, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let 
+Next Token : y, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_
+Next Token : negative, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = 
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y 
+Next Token : <, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y <
+Next Token :  0, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  
+Next Token : if, Posbility: 0.2520
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if 
+Next Token : x, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_
+Next Token : negative, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative
+Next Token :  &&, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative &&
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_
+Next Token : negative, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative
+Next Token :  ||, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative ||
+Next Token :  , Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || 
+Next Token : x, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_
+Next Token : negative, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative
+Next Token :  &&, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative &&
+Next Token :  , Posbility: 0.5000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && 
+Next Token : y, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y
+Next Token : _, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_
+Next Token : is, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_
+Next Token : negative, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative
+Next Token :  then, Posbility: 0.6445
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+Next Token : 
+, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+
+Next Token :     , Posbility: 0.4902
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    
+Next Token : ", Posbility: 0.4609
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "
+Next Token : Yes, Posbility: 0.1147
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes
+Next Token : ", Posbility: 0.5547
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  
+Next Token : else, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  else
+Next Token : 
+, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  else
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  else
+    
+Next Token : ", Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  else
+    "
+Next Token : No, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  else
+    "No
+Next Token : ", Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to check whether the given two integers have opposite sign or not. *)
+let opposite_sign x y =
+  let x_is_negative = x < 0 in
+  let y_is_negative = y < 0 in
+  if x_is_negative && y_is_negative || x_is_negative && y_is_negative then
+    "Yes"
+  else
+    "No"
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.319610834121704
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

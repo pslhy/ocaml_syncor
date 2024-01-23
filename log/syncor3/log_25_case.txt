@@ -1,0 +1,787 @@
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  find, Posbility: 0.0219
+Next Token :  count, Posbility: 0.0317
+Next Token :  partition, Posbility: 0.0522
+Next Token :  , Posbility: 0.3008
+Next Token :  rec, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ways, Posbility: 0.0181
+Next Token :  partition, Posbility: 0.0337
+Next Token :  find, Posbility: 0.0630
+Next Token :  count, Posbility: 0.2197
+Next Token :  , Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0208
+Next Token : b, Posbility: 0.0208
+Next Token : B, Posbility: 0.0267
+Next Token : n, Posbility: 0.0498
+Next Token : bell, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0278
+Next Token : (, Posbility: 0.0459
+Next Token :  , Posbility: 0.0588
+Next Token : s, Posbility: 0.2051
+Next Token : _, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : part, Posbility: 0.0486
+Next Token : count, Posbility: 0.0708
+Next Token : number, Posbility: 0.1025
+Next Token : way, Posbility: 0.1494
+Next Token : partition, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0181
+Next Token :  =, Posbility: 0.0491
+Next Token : _, Posbility: 0.1328
+Next Token : s, Posbility: 0.3613
+Next Token :  , Posbility: 0.3613
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0415
+Next Token : :, Posbility: 0.0469
+Next Token : x, Posbility: 0.0776
+Next Token : (, Posbility: 0.1641
+Next Token : n, Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0146
+Next Token :  i, Posbility: 0.0165
+Next Token :  k, Posbility: 0.0272
+Next Token :  , Posbility: 0.2275
+Next Token :  =, Posbility: 0.6211
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0062
+Next Token :  function, Posbility: 0.0189
+Next Token :  match, Posbility: 0.0583
+Next Token :  , Posbility: 0.0962
+Next Token : 
+, Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0065
+Next Token : 	, Posbility: 0.0073
+Next Token :    , Posbility: 0.0094
+Next Token :     , Posbility: 0.1143
+Next Token :   , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0031
+Next Token : (, Posbility: 0.0074
+Next Token : let, Posbility: 0.1025
+Next Token : match, Posbility: 0.4043
+Next Token : if, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token :  !, Posbility: 0.0008
+Next Token :  0, Posbility: 0.0009
+Next Token :  not, Posbility: 0.0017
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0004
+Next Token : B, Posbility: 0.0006
+Next Token : Int, Posbility: 0.0011
+Next Token : (, Posbility: 0.0159
+Next Token : n, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0071
+Next Token :  ==, Posbility: 0.0527
+Next Token :  <=, Posbility: 0.1436
+Next Token :  , Posbility: 0.3906
+Next Token :  =, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 0, Posbility: 0.0003
+Next Token :  4, Posbility: 0.0003
+Next Token :  , Posbility: 0.0159
+Next Token :  1, Posbility: 0.1167
+Next Token :  0, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  or, Posbility: 0.0009
+Next Token :  , Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0084
+Next Token :  ||, Posbility: 0.0108
+Next Token :  then, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [], Posbility: 0.0050
+Next Token :  , Posbility: 0.0371
+Next Token : 
+, Posbility: 0.1011
+Next Token :  0, Posbility: 0.1011
+Next Token :  1, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0011
+Next Token :   , Posbility: 0.0029
+Next Token :  , Posbility: 0.0146
+Next Token :  else, Posbility: 0.4844
+Next Token : 
+, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0004
+Next Token :       , Posbility: 0.0005
+Next Token :  , Posbility: 0.0008
+Next Token :     , Posbility: 0.0032
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : then, Posbility: 0.0003
+Next Token : if, Posbility: 0.0007
+Next Token : let, Posbility: 0.0013
+Next Token : elif, Posbility: 0.0032
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0031
+Next Token :  match, Posbility: 0.0138
+Next Token :  {, Posbility: 0.0201
+Next Token : 
+, Posbility: 0.1904
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0349
+Next Token : (, Posbility: 0.1074
+Next Token : n, Posbility: 0.1216
+Next Token : bell, Posbility: 0.2930
+Next Token : if, Posbility: 0.3750
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0004
+Next Token :  1, Posbility: 0.0005
+Next Token :  not, Posbility: 0.0007
+Next Token :  0, Posbility: 0.0010
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : B, Posbility: 0.0007
+Next Token : 2, Posbility: 0.0009
+Next Token : let, Posbility: 0.0010
+Next Token : (, Posbility: 0.0123
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  %, Posbility: 0.0083
+Next Token :  >=, Posbility: 0.0107
+Next Token :  <=, Posbility: 0.0374
+Next Token :  , Posbility: 0.1670
+Next Token :  =, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0009
+Next Token :  4, Posbility: 0.0009
+Next Token :  0, Posbility: 0.0024
+Next Token :  , Posbility: 0.0178
+Next Token :  1, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  or, Posbility: 0.0006
+Next Token :  , Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0013
+Next Token :  ||, Posbility: 0.0067
+Next Token :  then, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0118
+Next Token :  4, Posbility: 0.0118
+Next Token :  0, Posbility: 0.0874
+Next Token :  1, Posbility: 0.2373
+Next Token :  , Posbility: 0.6445
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 6, Posbility: 0.0103
+Next Token : bell, Posbility: 0.0247
+Next Token : n, Posbility: 0.0459
+Next Token : 3, Posbility: 0.0591
+Next Token : 2, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0034
+Next Token :  , Posbility: 0.0104
+Next Token :  *, Posbility: 0.0172
+Next Token :  else, Posbility: 0.0250
+Next Token : 
+, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :          , Posbility: 0.0004
+Next Token :           , Posbility: 0.0007
+Next Token :       , Posbility: 0.0008
+Next Token :     , Posbility: 0.0028
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : elif, Posbility: 0.0001
+Next Token : //, Posbility: 0.0002
+Next Token : let, Posbility: 0.0006
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  then, Posbility: 0.0047
+Next Token :  match, Posbility: 0.0054
+Next Token :  {, Posbility: 0.0166
+Next Token : 
+, Posbility: 0.1572
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0444
+Next Token : let, Posbility: 0.0503
+Next Token : (, Posbility: 0.0571
+Next Token : if, Posbility: 0.2559
+Next Token : bell, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell
+ score:False
+Error type: noerr
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : count, Posbility: 0.0001
+Next Token : sum, Posbility: 0.0002
+Next Token : par, Posbility: 0.0002
+Next Token : part, Posbility: 0.0004
+Next Token : partition, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0026
+Next Token :  (1, Posbility: 0.0079
+Next Token :  ((, Posbility: 0.0079
+Next Token : (, Posbility: 0.0586
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 3, Posbility: 0.0001
+Next Token : B, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0008
+Next Token : n, Posbility: 0.0420
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : succ, Posbility: 0.0007
+Next Token :  , Posbility: 0.0017
+Next Token : B, Posbility: 0.0019
+Next Token : 2, Posbility: 0.0075
+Next Token : n, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0026
+Next Token : -2, Posbility: 0.0056
+Next Token :  +, Posbility: 0.0092
+Next Token : -1), Posbility: 0.1436
+Next Token :  , Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0003
+Next Token : ^, Posbility: 0.0003
+Next Token : −, Posbility: 0.0012
+Next Token : /, Posbility: 0.0076
+Next Token : -, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0021
+Next Token :  3), Posbility: 0.0057
+Next Token :  , Posbility: 0.0156
+Next Token :  2), Posbility: 0.1152
+Next Token :  1), Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0020
+Next Token :  ++, Posbility: 0.0020
+Next Token :  , Posbility: 0.0089
+Next Token :  *, Posbility: 0.1787
+Next Token :  +, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0009
+Next Token :  2*, Posbility: 0.0009
+Next Token :  1, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0067
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0065
+Next Token : n, Posbility: 0.0065
+Next Token : (, Posbility: 0.0177
+Next Token : bell, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  , Posbility: 0.0001
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : count, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : part, Posbility: 0.0001
+Next Token : par, Posbility: 0.0001
+Next Token : partition, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  1, Posbility: 0.0003
+Next Token : (, Posbility: 0.0031
+Next Token :  (1, Posbility: 0.0031
+Next Token :  ((, Posbility: 0.0040
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 3, Posbility: 0.0001
+Next Token : B, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0005
+Next Token : n, Posbility: 0.0474
+Next Token : (, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : B, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0019
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  %, Posbility: 0.0005
+Next Token : -1), Posbility: 0.0009
+Next Token : -2, Posbility: 0.0023
+Next Token :  +, Posbility: 0.0471
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0002
+Next Token : //, Posbility: 0.0003
+Next Token : -2, Posbility: 0.0019
+Next Token : /, Posbility: 0.0052
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0060
+Next Token :  3), Posbility: 0.0060
+Next Token :  1), Posbility: 0.0444
+Next Token :  2);, Posbility: 0.0444
+Next Token :  2), Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition (n - 2)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0090
+Next Token :  *, Posbility: 0.0190
+Next Token :  +, Posbility: 0.0277
+Next Token : 
+, Posbility: 0.2988
+Next Token : 
+
+, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to find the number of ways to partition a set of Bell numbers. *)
+let rec bell_partition n =
+  if n = 0 then 1
+  else if n = 1 then 2
+  else bell_partition (n - 1) + bell_partition (n - 2)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :24.127797842025757
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

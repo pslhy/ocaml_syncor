@@ -1,0 +1,477 @@
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let
+Next Token :  , Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let 
+Next Token : reverse, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse
+Next Token : _, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_
+Next Token : words, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words
+Next Token :  , Posbility: 0.3496
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words 
+Next Token : s, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s
+Next Token :  =, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+Next Token : 
+, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+
+Next Token :   , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  
+Next Token : let, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let
+Next Token :  , Posbility: 0.3438
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let 
+Next Token : s, Posbility: 0.2197
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s
+Next Token :  =, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s =
+Next Token :  String, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String
+Next Token : ., Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.
+Next Token : trim, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim 
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s
+Next Token :  in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  
+Next Token : let, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let
+Next Token :  , Posbility: 0.4785
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let 
+Next Token : s, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s =
+Next Token :  String, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.
+Next Token : split, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split
+Next Token : _, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_
+Next Token : on, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on
+Next Token : _, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_
+Next Token : char, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char 
+Next Token : s, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s
+Next Token :  ', Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s '
+Next Token :  ', Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' '
+Next Token :  in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  
+Next Token : let, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let 
+Next Token : s, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s =
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = 
+Next Token : List, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.
+Next Token : rev, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev 
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  
+Next Token : String, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.
+Next Token : concat, Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat
+Next Token :  , Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat 
+Next Token : s, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s
+Next Token :  ", Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s "
+Next Token :  ", Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s " "
+Next Token : 
+, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s " "
+
+Next Token : end, Posbility: 0.1309
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s " "
+end
+Next Token : ;, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s " "
+end;
+Next Token : ;, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to reverse words seperated by spaces in a given string. *)
+let reverse_words s =
+  let s = String.trim s in
+  let s = String.split_on_char s ' ' in
+  let s = List.rev s in
+  String.concat s " "
+end;;
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.7745070457458496
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

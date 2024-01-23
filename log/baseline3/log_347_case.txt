@@ -1,0 +1,485 @@
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let
+Next Token :  rec, Posbility: 0.4316
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec
+Next Token :  , Posbility: 0.3125
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec 
+Next Token : eq, Posbility: 0.1245
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq
+Next Token : _, Posbility: 0.4414
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_
+Next Token : list, Posbility: 0.1689
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list
+Next Token :  , Posbility: 0.3457
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list 
+Next Token : x, Posbility: 0.3125
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x
+Next Token :  , Posbility: 0.6211
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x 
+Next Token : y, Posbility: 0.9883
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y
+Next Token :  =, Posbility: 0.8984
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+Next Token : 
+, Posbility: 0.8438
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+
+Next Token :   , Posbility: 0.8242
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  
+Next Token : match, Posbility: 0.5469
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match 
+Next Token : x, Posbility: 0.8125
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x
+Next Token : ,, Posbility: 0.7188
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x,
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, 
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+
+Next Token :   , Posbility: 0.9375
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  |
+Next Token :  [],, Posbility: 0.7773
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [],
+Next Token :  [], Posbility: 0.9727
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], []
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] ->
+Next Token :  true, Posbility: 0.8789
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+Next Token : 
+, Posbility: 0.9180
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  |
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | 
+Next Token : x, Posbility: 0.4531
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x
+Next Token : ::, Posbility: 0.3164
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::
+Next Token : x, Posbility: 0.5742
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::x
+Next Token : s, Posbility: 0.8125
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs
+Next Token : ,, Posbility: 0.8086
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs,
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, 
+Next Token : y, Posbility: 0.9648
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y
+Next Token : ::, Posbility: 0.9961
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys ->
+Next Token :  , Posbility: 0.6602
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> 
+Next Token : eq, Posbility: 0.7266
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq
+Next Token : _, Posbility: 0.9805
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_
+Next Token : list, Posbility: 0.9961
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list 
+Next Token : x, Posbility: 0.9805
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs 
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs y
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+Next Token : 
+, Posbility: 0.5117
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+
+Next Token :   , Posbility: 0.6445
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  
+Next Token : |, Posbility: 0.9961
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  |
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | 
+Next Token : _, Posbility: 0.6641
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _
+Next Token : ,, Posbility: 0.6680
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _,
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _, 
+Next Token : _, Posbility: 0.9609
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _, _
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _, _ 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _, _ ->
+Next Token :  false, Posbility: 0.9883
+---------------------------
+code:
+ (* The input is defined as two lists of the same length. Write a function to count indices where the lists have the same values. *)
+let rec eq_list x y =
+  match x, y with
+  | [], [] -> true
+  | x::xs, y::ys -> eq_list xs ys
+  | _, _ -> false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.1835992336273193
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

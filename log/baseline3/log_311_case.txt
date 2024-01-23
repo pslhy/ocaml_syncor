@@ -1,0 +1,124 @@
+code:
+ (* Write a function to convert degrees to radians. *)
+let
+Next Token :  , Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let 
+Next Token : deg, Posbility: 0.2656
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg
+Next Token : _, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_
+Next Token : to, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_
+Next Token : rad, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad
+Next Token :  , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad 
+Next Token : deg, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg =
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = 
+Next Token : deg, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg
+Next Token :  *, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg *
+Next Token :  , Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * 
+Next Token : (, Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (
+Next Token : Math, Posbility: 0.2324
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.
+Next Token : PI, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.PI
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.PI 
+Next Token : /, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.PI /
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.PI / 
+Next Token : 180, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.PI / 180
+Next Token : ), Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to convert degrees to radians. *)
+let deg_to_rad deg = deg * (Math.PI / 180)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.9486329555511475
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

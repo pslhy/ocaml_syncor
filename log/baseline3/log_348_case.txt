@@ -1,0 +1,703 @@
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let
+Next Token :  rec, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec
+Next Token :  , Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec 
+Next Token : digits, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits
+Next Token : _, Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_
+Next Token : sum, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum
+Next Token :  , Posbility: 0.3848
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum 
+Next Token : b, Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b 
+Next Token : p, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p
+Next Token :  =, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+
+Next Token :   , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  
+Next Token : if, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if 
+Next Token : p, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p
+Next Token :  =, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p =
+Next Token :  0, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0
+Next Token :  then, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+Next Token : 
+, Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+
+Next Token :     , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    
+Next Token : 0, Posbility: 0.3145
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+Next Token : 
+, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  
+Next Token : else, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+Next Token : 
+, Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+
+Next Token :     , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    
+Next Token : let, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let 
+Next Token : d, Posbility: 0.1943
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d
+Next Token :  =, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d =
+Next Token :  , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = 
+Next Token : b, Posbility: 0.3711
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b
+Next Token :  , Posbility: 0.3594
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b 
+Next Token : /, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b /
+Next Token :  10, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10
+Next Token :  in, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    
+Next Token : let, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let
+Next Token :  , Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let 
+Next Token : r, Posbility: 0.2539
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r =
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = 
+Next Token : b, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b 
+Next Token : -, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b -
+Next Token :  , Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - 
+Next Token : d, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d
+Next Token :  *, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d *
+Next Token :  10, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    
+Next Token : let, Posbility: 0.2852
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let
+Next Token :  , Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let 
+Next Token : s, Posbility: 0.2988
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s =
+Next Token :  , Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = 
+Next Token : digits, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum 
+Next Token : d, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d 
+Next Token : (, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (
+Next Token : p, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p
+Next Token :  , Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p -
+Next Token :  1), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1)
+Next Token :  in, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+    
+Next Token : s, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+    s
+Next Token :  +, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+    s +
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+    s + 
+Next Token : r, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function that takes base and power as arguments and calculate the sum of all digits of the base to the specified power. *)
+let rec digits_sum b p =
+  if p = 0 then
+    0
+  else
+    let d = b / 10 in
+    let r = b - d * 10 in
+    let s = digits_sum d (p - 1) in
+    s + r
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.123901605606079
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

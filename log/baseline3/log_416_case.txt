@@ -1,0 +1,159 @@
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let
+Next Token :  , Posbility: 0.3848
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let 
+Next Token : rot, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rot
+Next Token : l, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl
+Next Token :  , Posbility: 0.2773
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl 
+Next Token : d, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d 
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x
+Next Token :  =, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x =
+Next Token :  , Posbility: 0.4707
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = 
+Next Token : (, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (
+Next Token : x, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x
+Next Token :  <<, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x <<
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << 
+Next Token : d, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d
+Next Token : ), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d)
+Next Token :  |, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) |
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | 
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x
+Next Token :  >>, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >>
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> 
+Next Token : (, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (
+Next Token : 32, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32
+Next Token :  , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32 -
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32 - 
+Next Token : d, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32 - d
+Next Token : ));, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32 - d));
+Next Token : ;, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit. *)
+let rotl d x = (x << d) | (x >> (32 - d));;
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.097479820251465
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

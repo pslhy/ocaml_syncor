@@ -1,0 +1,289 @@
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let
+Next Token :  is, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is
+Next Token : _, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_
+Next Token : even, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even
+Next Token :  , Posbility: 0.4570
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even 
+Next Token : n, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+Next Token : 
+, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+
+Next Token :   , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  
+Next Token : if, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if 
+Next Token : n, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n
+Next Token :  =, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n =
+Next Token :  0, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0
+Next Token :  then, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+Next Token : 
+, Posbility: 0.2598
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+
+Next Token :     , Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    
+Next Token : ", Posbility: 0.1816
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "
+Next Token : This, Posbility: 0.1089
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This
+Next Token :  is, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is
+Next Token :  an, Posbility: 0.3379
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an
+Next Token :  even, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even
+Next Token :  number, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number
+Next Token : ., Posbility: 0.3809
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number.
+Next Token : ", Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  
+Next Token : else, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+Next Token : 
+, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+
+Next Token :     , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    
+Next Token : ", Posbility: 0.7617
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "
+Next Token : This, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This
+Next Token :  is, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is
+Next Token :  an, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is an
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is an 
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is an odd
+Next Token :  number, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is an odd number
+Next Token : ., Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is an odd number.
+Next Token : ", Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to check whether the given number is even or not. *)
+let is_even n =
+  if n = 0 then
+    "This is an even number."
+  else
+    "This is an odd number."
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4563021659851074
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,278 @@
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let
+Next Token :  rec, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec
+Next Token :  , Posbility: 0.3457
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec 
+Next Token : nth, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth
+Next Token : _, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_
+Next Token : number, Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number
+Next Token :  , Posbility: 0.4043
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number 
+Next Token : n, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n
+Next Token :  =, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+Next Token : 
+, Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+
+Next Token :   , Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  
+Next Token : if, Posbility: 0.4668
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if 
+Next Token : n, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n
+Next Token :  =, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n =
+Next Token :  0, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0
+Next Token :  then, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then
+Next Token :  1, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+Next Token : 
+, Posbility: 0.5430
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  
+Next Token : else, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else 
+Next Token : nth, Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number 
+Next Token : (, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n
+Next Token :  , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n 
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n -
+Next Token :  1), Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1)
+Next Token :  +, Posbility: 0.3906
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) +
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + 
+Next Token : nth, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_
+Next Token : number, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (
+Next Token : n, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n
+Next Token :  , Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n 
+Next Token : -, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n -
+Next Token :  2), Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to find the nth number in the newman conway sequence. *)
+let rec nth_number n =
+  if n = 0 then 1
+  else nth_number (n - 1) + nth_number (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.4582505226135254
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

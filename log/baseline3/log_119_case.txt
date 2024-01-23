@@ -1,0 +1,916 @@
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let
+Next Token :  count, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count
+Next Token : _, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_
+Next Token : char, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_char
+Next Token : s, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars
+Next Token :  , Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars 
+Next Token : s, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s
+Next Token :  =, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+Next Token : 
+, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+
+Next Token :   , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  
+Next Token : let, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let
+Next Token :  , Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let 
+Next Token : c, Posbility: 0.2227
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c
+Next Token :  =, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c =
+Next Token :  , Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = 
+Next Token : ref, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref
+Next Token :  0, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  
+Next Token : let, Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let
+Next Token :  rec, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec
+Next Token :  , Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec 
+Next Token : f, Posbility: 0.3340
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f
+Next Token :  , Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f 
+Next Token : s, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s
+Next Token :  =, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+
+Next Token :     , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    
+Next Token : match, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match
+Next Token :  , Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match 
+Next Token : s, Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+
+Next Token :     , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    |
+Next Token :  [], Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | []
+Next Token :  , Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] ->
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> 
+Next Token : c, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+Next Token : 
+, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    |
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | 
+Next Token : _, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ 
+Next Token : ->, Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+Next Token : 
+, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+
+Next Token :         , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        
+Next Token : let, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let
+Next Token :  , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let 
+Next Token : c, Posbility: 0.3594
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c
+Next Token : ', Posbility: 0.7617
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c'
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' =
+Next Token :  , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = 
+Next Token : ref, Posbility: 0.6836
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref 
+Next Token : c, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c
+Next Token :  in, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+
+Next Token :         , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        
+Next Token : let, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let 
+Next Token : s, Posbility: 0.3984
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s
+Next Token : ', Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s'
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' =
+Next Token :  String, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.
+Next Token : sub, Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub 
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s
+Next Token :  1, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1
+Next Token :  in, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+
+Next Token :         , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        
+Next Token : f, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f 
+Next Token : s, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s
+Next Token : ', Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+Next Token : 
+, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+
+Next Token :    , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+   
+Next Token :  in, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+
+Next Token :   , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  
+Next Token : f, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  f
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  f 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  f s
+Next Token : 
+, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  f s
+
+Next Token : ;, Posbility: 0.2285
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  f s
+;
+Next Token : ;, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to count the total number of characters in a string. *)
+let count_chars s =
+  let c = ref 0 in
+  let rec f s =
+    match s with
+    | [] -> c
+    | _ ->
+        let c' = ref c in
+        let s' = String.sub s 1 in
+        f s'
+    in
+  f s
+;;
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.5229761600494385
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

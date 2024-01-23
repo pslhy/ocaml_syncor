@@ -1,0 +1,1977 @@
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let
+Next Token :  rec, Posbility: 0.3223
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec
+Next Token :  , Posbility: 0.3594
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec 
+Next Token : min, Posbility: 0.4453
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min
+Next Token : _, Posbility: 0.7539
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_
+Next Token : second, Posbility: 0.4707
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second
+Next Token :  , Posbility: 0.4961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second 
+Next Token : x, Posbility: 0.1738
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second x
+Next Token : s, Posbility: 0.5391
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs
+Next Token :  =, Posbility: 0.9297
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+
+Next Token :   , Posbility: 0.8789
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  
+Next Token : match, Posbility: 0.6680
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match 
+Next Token : x, Posbility: 0.8594
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+Next Token : 
+, Posbility: 0.9375
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+
+Next Token :   , Posbility: 0.9297
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  
+Next Token : |, Posbility: 0.9531
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  |
+Next Token :  [], Posbility: 0.9492
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | []
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] ->
+Next Token :  , Posbility: 0.4609
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> 
+Next Token : raise, Posbility: 0.5430
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise
+Next Token :  Not, Posbility: 0.6484
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_
+Next Token : found, Posbility: 0.8867
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+Next Token : 
+, Posbility: 0.6562
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  |
+Next Token :  , Posbility: 0.5625
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | 
+Next Token : (, Posbility: 0.3457
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (
+Next Token : _, Posbility: 0.2520
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_
+Next Token : ,, Posbility: 0.9062
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_,
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, 
+Next Token : _, Posbility: 0.5352
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _
+Next Token : ), Posbility: 0.8789
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _)
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) 
+Next Token : ->, Posbility: 0.8711
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) ->
+Next Token :  , Posbility: 0.6719
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> 
+Next Token : x, Posbility: 0.5586
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+Next Token : 
+, Posbility: 0.5273
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+
+Next Token :   , Posbility: 0.8398
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  
+Next Token : |, Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  |
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | 
+Next Token : (, Posbility: 0.8711
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (
+Next Token : _, Posbility: 0.4062
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_
+Next Token : ,, Posbility: 0.9766
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_,
+Next Token :  , Posbility: 0.6914
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, 
+Next Token : y, Posbility: 0.4102
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y
+Next Token : ), Posbility: 0.8984
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y)
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) 
+Next Token : ->, Posbility: 0.8867
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+Next Token : 
+, Posbility: 0.4609
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+
+Next Token :     , Posbility: 0.7266
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    
+Next Token : let, Posbility: 0.4316
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let
+Next Token :  , Posbility: 0.5664
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let 
+Next Token : y, Posbility: 0.3516
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y
+Next Token :  =, Posbility: 0.3086
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y =
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = 
+Next Token : y, Posbility: 0.5977
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y
+Next Token :  in, Posbility: 0.9688
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    
+Next Token : let, Posbility: 0.2617
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let 
+Next Token : x, Posbility: 0.5391
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let x
+Next Token : s, Posbility: 0.7031
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs
+Next Token :  =, Posbility: 0.5156
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs =
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = 
+Next Token : x, Posbility: 0.6641
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs
+Next Token :  in, Posbility: 0.8828
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+Next Token : 
+, Posbility: 0.9883
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    
+Next Token : if, Posbility: 0.2734
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if 
+Next Token : y, Posbility: 0.7305
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y
+Next Token :  , Posbility: 0.8750
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y 
+Next Token : <, Posbility: 0.9219
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y <
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < 
+Next Token : x, Posbility: 0.4844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs
+Next Token : ., Posbility: 0.8438
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.
+Next Token : (, Posbility: 0.1523
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(
+Next Token : 1, Posbility: 0.2402
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1
+Next Token :  , Posbility: 0.3906
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 
+Next Token : -, Posbility: 0.4590
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 -
+Next Token :  1), Posbility: 0.6914
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1)
+Next Token :  then, Posbility: 0.9297
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then
+Next Token :  , Posbility: 0.7617
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then 
+Next Token : x, Posbility: 0.3828
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs
+Next Token :  else, Posbility: 0.5352
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else 
+Next Token : min, Posbility: 0.8008
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_
+Next Token : second, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second 
+Next Token : (, Posbility: 0.8164
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (
+Next Token : x, Posbility: 0.9180
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (x
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs
+Next Token : ., Posbility: 0.6094
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.
+Next Token : (, Posbility: 0.9258
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(
+Next Token : 1, Posbility: 0.8750
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 -
+Next Token :  1)), Posbility: 0.7773
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+Next Token : 
+, Posbility: 0.6016
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+
+Next Token :   , Posbility: 0.4473
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  
+Next Token : |, Posbility: 0.8828
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  |
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (
+Next Token : x, Posbility: 0.7383
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x
+Next Token : ,, Posbility: 0.9609
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x,
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, 
+Next Token : y, Posbility: 0.5664
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y
+Next Token : ), Posbility: 0.9062
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y)
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) 
+Next Token : ->, Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+Next Token : 
+, Posbility: 0.4922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    
+Next Token : let, Posbility: 0.6797
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let 
+Next Token : x, Posbility: 0.4844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x
+Next Token :  =, Posbility: 0.9180
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    
+Next Token : let, Posbility: 0.8477
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let 
+Next Token : y, Posbility: 0.9453
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = 
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    
+Next Token : if, Posbility: 0.6719
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if 
+Next Token : x, Posbility: 0.7188
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x 
+Next Token : <, Posbility: 0.9531
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x <
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < 
+Next Token : y, Posbility: 0.9805
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then 
+Next Token : (, Posbility: 0.4355
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (
+Next Token : x, Posbility: 0.9531
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x
+Next Token : ,, Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x,
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, 
+Next Token : y, Posbility: 0.8711
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y
+Next Token : ), Posbility: 0.9922
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y)
+Next Token :  else, Posbility: 0.9805
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else 
+Next Token : min, Posbility: 0.9453
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_
+Next Token : second, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second 
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (
+Next Token : x, Posbility: 0.7266
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (x
+Next Token : s, Posbility: 0.9102
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs
+Next Token : ., Posbility: 0.9844
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs.
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs.(
+Next Token : 1, Posbility: 0.8438
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs.(1
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs.(1 
+Next Token : -, Posbility: 1.0000
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs.(1 -
+Next Token :  1)), Posbility: 0.9688
+---------------------------
+code:
+ (* Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value. *)
+let rec min_second xs =
+  match xs with
+  | [] -> raise Not_found
+  | (_, _) -> xs
+  | (_, y) ->
+    let y = y in
+    let xs = xs in
+    if y < xs.(1 - 1) then xs else min_second (xs.(1 - 1))
+  | (x, y) ->
+    let x = x in
+    let y = y in
+    if x < y then (x, y) else min_second (xs.(1 - 1))
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :5.5038628578186035
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

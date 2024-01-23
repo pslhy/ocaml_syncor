@@ -1,0 +1,114 @@
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let
+Next Token :  , Posbility: 0.3848
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let 
+Next Token : vowel, Posbility: 0.2852
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowel
+Next Token : s, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels
+Next Token :  =, Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels =
+Next Token :  , Posbility: 0.3535
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = 
+Next Token : [', Posbility: 0.4023
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['
+Next Token : a, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a
+Next Token : ',, Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a',
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', '
+Next Token : e, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e
+Next Token : ',, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e',
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', '
+Next Token : i, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i
+Next Token : ',, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i',
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i', '
+Next Token : o, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i', 'o
+Next Token : ',, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i', 'o',
+Next Token :  ', Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i', 'o', '
+Next Token : u, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i', 'o', 'u
+Next Token : '], Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to count those characters which have vowels as their neighbors in the given string. *)
+let vowels = ['a', 'e', 'i', 'o', 'u']
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :1.9273366928100586
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

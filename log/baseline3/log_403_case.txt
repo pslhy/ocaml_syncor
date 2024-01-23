@@ -1,0 +1,1844 @@
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let
+Next Token :  rec, Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec
+Next Token :  , Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec 
+Next Token : product, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product
+Next Token : _, Posbility: 0.4727
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_
+Next Token : of, Posbility: 0.3711
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_
+Next Token : even, Posbility: 0.3125
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even
+Next Token : _, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_
+Next Token : and, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd
+Next Token : _, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_
+Next Token : numbers, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers
+Next Token :  , Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers 
+Next Token : x, Posbility: 0.2490
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x
+Next Token :  =, Posbility: 0.4922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+Next Token : 
+, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+
+Next Token :   , Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  
+Next Token : match, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match 
+Next Token : x, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+Next Token : 
+, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+
+Next Token :   , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  
+Next Token : |, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  |
+Next Token :  [], Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | []
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] ->
+Next Token :  0, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+Next Token : 
+, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  |
+Next Token :  , Posbility: 0.7383
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | 
+Next Token : x, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x
+Next Token :  , Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x 
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x ::
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: 
+Next Token : x, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: x
+Next Token : s, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs 
+Next Token : ->, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+Next Token : 
+, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+
+Next Token :     , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    
+Next Token : let, Posbility: 0.6719
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let
+Next Token :  , Posbility: 0.4453
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let 
+Next Token : x, Posbility: 0.2539
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x
+Next Token : _, Posbility: 0.2275
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_
+Next Token : even, Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even
+Next Token :  =, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even =
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = 
+Next Token : x, Posbility: 0.3301
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x
+Next Token :  |, Posbility: 0.3535
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |
+Next Token : >, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |>
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> 
+Next Token : List, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.
+Next Token : filter, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter
+Next Token :  , Posbility: 0.6953
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter 
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (
+Next Token : fun, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun 
+Next Token : x, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x ->
+Next Token :  , Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> 
+Next Token : x, Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x
+Next Token :  %, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x %
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 
+Next Token : 2, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2
+Next Token :  =, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 =
+Next Token :  0), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0)
+Next Token :  in, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+
+Next Token :     , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    
+Next Token : let, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let 
+Next Token : x, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd =
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x
+Next Token :  |, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |
+Next Token : >, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |>
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> 
+Next Token : List, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.
+Next Token : filter, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter 
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (
+Next Token : fun, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x ->
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x
+Next Token :  %, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x %
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 
+Next Token : 2, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2
+Next Token :  =, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 =
+Next Token :  1), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1)
+Next Token :  in, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    
+Next Token : let, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let 
+Next Token : x, Posbility: 0.4492
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x
+Next Token : _, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_
+Next Token : even, Posbility: 0.6992
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even
+Next Token : _, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_
+Next Token : product, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product
+Next Token :  =, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product =
+Next Token :  , Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = 
+Next Token : product, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_
+Next Token : even, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_
+Next Token : and, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_
+Next Token : numbers, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers 
+Next Token : x, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_
+Next Token : even, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even
+Next Token :  in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+Next Token : 
+, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    
+Next Token : let, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product
+Next Token :  =, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product =
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = 
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_
+Next Token : of, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_
+Next Token : even, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_
+Next Token : and, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_
+Next Token : numbers, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers 
+Next Token : x, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+
+Next Token :     , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    
+Next Token : x, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_
+Next Token : even, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even
+Next Token : _, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product
+Next Token :  *, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product *
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * 
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_
+Next Token : odd, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_
+Next Token : product, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+Next Token : 
+, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+
+Next Token :   , Posbility: 0.3184
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  
+Next Token : |, Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  |
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | 
+Next Token : _, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ 
+Next Token : ->, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ ->
+Next Token :  , Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ -> 
+Next Token : raise, Posbility: 0.4570
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ -> raise
+Next Token :  Not, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ -> raise Not
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ -> raise Not_
+Next Token : found, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to find the product of first even and odd number of a given list. *)
+let rec product_of_even_and_odd_numbers x =
+  match x with
+  | [] -> 0
+  | x :: xs ->
+    let x_even = x |> List.filter (fun x -> x % 2 = 0) in
+    let x_odd = x |> List.filter (fun x -> x % 2 = 1) in
+    let x_even_product = product_of_even_and_odd_numbers x_even in
+    let x_odd_product = product_of_even_and_odd_numbers x_odd in
+    x_even_product * x_odd_product
+  | _ -> raise Not_found
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :5.7974207401275635
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

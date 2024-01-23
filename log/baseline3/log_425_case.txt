@@ -1,0 +1,695 @@
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let
+Next Token :  rec, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec
+Next Token :  check, Posbility: 0.2422
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check
+Next Token : _, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_
+Next Token : k, Posbility: 0.3223
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k
+Next Token :  , Posbility: 0.3945
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k 
+Next Token : (, Posbility: 0.3145
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (
+Next Token : k, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k
+Next Token : ,, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k,
+Next Token :  , Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, 
+Next Token : t, Posbility: 0.2676
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t
+Next Token : ), Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t)
+Next Token :  =, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+Next Token : 
+, Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+
+Next Token :   , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  
+Next Token : match, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match
+Next Token :  , Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match 
+Next Token : t, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t
+Next Token :  with, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+
+Next Token :   , Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  
+Next Token : |, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  |
+Next Token :  [], Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | []
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] ->
+Next Token :  , Posbility: 0.2695
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> 
+Next Token : return, Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return
+Next Token :  false, Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  |
+Next Token :  , Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | 
+Next Token : _, Posbility: 0.3203
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ 
+Next Token : ::, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ ::
+Next Token :  , Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: 
+Next Token : t, Posbility: 0.3730
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t
+Next Token :  , Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t 
+Next Token : ->, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+Next Token : 
+, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+
+Next Token :       , Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      
+Next Token : if, Posbility: 0.4531
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if
+Next Token :  , Posbility: 0.4473
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if 
+Next Token : t, Posbility: 0.2812
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t
+Next Token : ., Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.
+Next Token : [0], Posbility: 0.2295
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0]
+Next Token :  =, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] =
+Next Token :  k, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k
+Next Token :  then, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+Next Token : 
+, Posbility: 0.3438
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+
+Next Token :         , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        
+Next Token : check, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_
+Next Token : k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k 
+Next Token : (, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (
+Next Token : k, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k
+Next Token : ,, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k,
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, 
+Next Token : t, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t
+Next Token : ., Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.
+Next Token : [, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[
+Next Token : 1., Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1.
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..
+Next Token : ]), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+Next Token : 
+, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+
+Next Token :       , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+Next Token : 
+, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+
+Next Token :         , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        
+Next Token : check, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_
+Next Token : k, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k 
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k (
+Next Token : k, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k (k
+Next Token : ,, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k (k,
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k (k, 
+Next Token : t, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k (k, t
+Next Token : ), Posbility: 0.6680
+---------------------------
+code:
+ (* Write a function to check if the given tuples contain the k or not. *)
+let rec check_k (k, t) =
+  match t with
+  | [] -> return false
+  | _ :: t ->
+      if t.[0] = k then
+        check_k (k, t.[1..])
+      else
+        check_k (k, t)
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.4976489543914795
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

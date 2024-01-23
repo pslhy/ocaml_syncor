@@ -1,0 +1,1753 @@
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  contains, Posbility: 0.0299
+Next Token :  is, Posbility: 0.0635
+Next Token :  has, Posbility: 0.0635
+Next Token :  rec, Posbility: 0.3652
+Next Token :  , Posbility: 0.3652
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : shared, Posbility: 0.0243
+Next Token : intersection, Posbility: 0.0275
+Next Token : intersect, Posbility: 0.0454
+Next Token : lists, Posbility: 0.0659
+Next Token : common, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0061
+Next Token : 1, Posbility: 0.0070
+Next Token :  , Posbility: 0.0957
+Next Token :  =, Posbility: 0.2305
+Next Token : _, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : elt, Posbility: 0.0284
+Next Token : elem, Posbility: 0.0322
+Next Token : list, Posbility: 0.0603
+Next Token : elements, Posbility: 0.2109
+Next Token : element, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0238
+Next Token :  l, Posbility: 0.0238
+Next Token : _, Posbility: 0.1069
+Next Token :  =, Posbility: 0.2910
+Next Token :  , Posbility: 0.4785
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0320
+Next Token : ls, Posbility: 0.0464
+Next Token : lst, Posbility: 0.0679
+Next Token : (, Posbility: 0.1113
+Next Token : x, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0041
+Next Token :  =, Posbility: 0.0125
+Next Token : 1, Posbility: 0.0234
+Next Token : s, Posbility: 0.4141
+Next Token :  , Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : z, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : (, Posbility: 0.0005
+Next Token : x, Posbility: 0.0012
+Next Token : y, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0005
+Next Token :   , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.0085
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  not, Posbility: 0.0057
+Next Token :  ..., Posbility: 0.0073
+Next Token :  match, Posbility: 0.0225
+Next Token :  , Posbility: 0.1660
+Next Token : 
+, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0073
+Next Token : 	, Posbility: 0.0093
+Next Token :    , Posbility: 0.0175
+Next Token :     , Posbility: 0.1138
+Next Token :   , Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0398
+Next Token : if, Posbility: 0.0452
+Next Token : List, Posbility: 0.1226
+Next Token : match, Posbility: 0.1387
+Next Token : let, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0255
+Next Token :  l, Posbility: 0.0420
+Next Token :  open, Posbility: 0.0476
+Next Token :  , Posbility: 0.3105
+Next Token :  rec, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0432
+Next Token :  go, Posbility: 0.0488
+Next Token :  find, Posbility: 0.0554
+Next Token :  loop, Posbility: 0.1504
+Next Token :  , Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : core, Posbility: 0.0503
+Next Token : f, Posbility: 0.0830
+Next Token : common, Posbility: 0.1064
+Next Token : aux, Posbility: 0.1206
+Next Token : helper, Posbility: 0.2256
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0172
+Next Token :  a, Posbility: 0.0284
+Next Token :  i, Posbility: 0.0684
+Next Token :  =, Posbility: 0.1445
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0122
+Next Token : y, Posbility: 0.0122
+Next Token : lst, Posbility: 0.0201
+Next Token : (, Posbility: 0.0903
+Next Token : x, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0161
+Next Token : _, Posbility: 0.0183
+Next Token : s, Posbility: 0.0266
+Next Token :  =, Posbility: 0.1050
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : c, Posbility: 0.0005
+Next Token : n, Posbility: 0.0005
+Next Token : (, Posbility: 0.0024
+Next Token : x, Posbility: 0.0109
+Next Token : y, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0130
+Next Token :  acc, Posbility: 0.0400
+Next Token :  i, Posbility: 0.1089
+Next Token :  , Posbility: 0.1797
+Next Token :  =, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0008
+Next Token :  function, Posbility: 0.0016
+Next Token :  match, Posbility: 0.0065
+Next Token :  , Posbility: 0.0201
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0024
+Next Token :    , Posbility: 0.0035
+Next Token :       , Posbility: 0.0121
+Next Token :   , Posbility: 0.0177
+Next Token :     , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : case, Posbility: 0.0050
+Next Token : List, Posbility: 0.0056
+Next Token : let, Posbility: 0.0688
+Next Token : if, Posbility: 0.3945
+Next Token : match, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0021
+Next Token :  String, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0035
+Next Token :  [, Posbility: 0.0058
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Seq, Posbility: 0.0020
+Next Token : y, Posbility: 0.0025
+Next Token : List, Posbility: 0.0830
+Next Token : (, Posbility: 0.1069
+Next Token : x, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0024
+Next Token :  @, Posbility: 0.0040
+Next Token :  , Posbility: 0.0294
+Next Token : ,, Posbility: 0.3594
+Next Token :  with, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0013
+Next Token :  , Posbility: 0.0072
+Next Token :  [, Posbility: 0.0153
+Next Token :  [], Posbility: 0.0284
+Next Token : 
+, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0008
+Next Token :   , Posbility: 0.0008
+Next Token :    , Posbility: 0.0012
+Next Token :       , Posbility: 0.0674
+Next Token :     , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Nil, Posbility: 0.0003
+Next Token : (, Posbility: 0.0005
+Next Token : [, Posbility: 0.0154
+Next Token : [], Posbility: 0.0288
+Next Token : |, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0061
+Next Token :  [, Posbility: 0.0166
+Next Token :  nil, Posbility: 0.0166
+Next Token :  , Posbility: 0.0452
+Next Token :  [], Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0039
+Next Token :  =>, Posbility: 0.0039
+Next Token :  when, Posbility: 0.0083
+Next Token :  |, Posbility: 0.1147
+Next Token :  , Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0008
+Next Token : _, Posbility: 0.0010
+Next Token : if, Posbility: 0.0025
+Next Token : ::, Posbility: 0.0046
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  true, Posbility: 0.0569
+Next Token : 
+, Posbility: 0.0938
+Next Token :  match, Posbility: 0.1543
+Next Token :  false, Posbility: 0.2559
+Next Token :  , Posbility: 0.4199
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0143
+Next Token : (, Posbility: 0.0344
+Next Token : helper, Posbility: 0.1196
+Next Token : return, Posbility: 0.2236
+Next Token : y, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0137
+Next Token :  =, Posbility: 0.0227
+Next Token :  , Posbility: 0.0544
+Next Token :  |, Posbility: 0.3555
+Next Token : 
+, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :        , Posbility: 0.0001
+Next Token :         , Posbility: 0.0015
+Next Token :       , Posbility: 0.0031
+Next Token :    , Posbility: 0.0059
+Next Token :     , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : //, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0142
+Next Token :  el, Posbility: 0.0206
+Next Token :  [], Posbility: 0.0496
+Next Token :  [, Posbility: 0.1050
+Next Token :  , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0226
+Next Token : h, Posbility: 0.0615
+Next Token : hd, Posbility: 0.0786
+Next Token : _, Posbility: 0.3535
+Next Token : x, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0168
+Next Token : s, Posbility: 0.0190
+Next Token : ', Posbility: 0.1240
+Next Token :  , Posbility: 0.2969
+Next Token : ::, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : tx, Posbility: 0.0171
+Next Token : tail, Posbility: 0.0248
+Next Token : y, Posbility: 0.0762
+Next Token : _, Posbility: 0.1113
+Next Token : x, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0068
+Next Token : x, Posbility: 0.0112
+Next Token : _, Posbility: 0.0126
+Next Token : ', Posbility: 0.0500
+Next Token : s, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0017
+Next Token :  =>, Posbility: 0.0022
+Next Token : 1, Posbility: 0.0042
+Next Token :  when, Posbility: 0.0742
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0002
+Next Token : -, Posbility: 0.0003
+Next Token : if, Posbility: 0.0045
+Next Token : ::, Posbility: 0.0124
+Next Token : ->, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0007
+Next Token :  {, Posbility: 0.0007
+Next Token :  match, Posbility: 0.1621
+Next Token :  , Posbility: 0.2676
+Next Token : 
+, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0048
+Next Token : 	, Posbility: 0.0048
+Next Token :        , Posbility: 0.0061
+Next Token :       , Posbility: 0.2617
+Next Token :         , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0089
+Next Token : helper, Posbility: 0.0146
+Next Token : let, Posbility: 0.1777
+Next Token : if, Posbility: 0.2930
+Next Token : match, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0004
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0021
+Next Token : (, Posbility: 0.0058
+Next Token : helper, Posbility: 0.0058
+Next Token : x, Posbility: 0.1172
+Next Token : y, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0004
+Next Token :  with, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0000
+Next Token :  |, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 0.0015
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :          , Posbility: 0.0003
+Next Token :             , Posbility: 0.0009
+Next Token :       , Posbility: 0.0022
+Next Token :           , Posbility: 0.0085
+Next Token :         , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : case, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :  0, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0019
+Next Token :  , Posbility: 0.0140
+Next Token :  [], Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | []
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token :   , Posbility: 0.0006
+Next Token :  =>, Posbility: 0.0006
+Next Token :  |, Posbility: 0.0012
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token :  =>, Posbility: 0.0000
+Next Token : →, Posbility: 0.0000
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0058
+Next Token :  true, Posbility: 0.0058
+Next Token :  False, Posbility: 0.0156
+Next Token :  , Posbility: 0.1157
+Next Token :  false, Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  |, Posbility: 0.0004
+Next Token : ;, Posbility: 0.0005
+Next Token :  , Posbility: 0.0028
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 	, Posbility: 0.0001
+Next Token :       , Posbility: 0.0002
+Next Token :     , Posbility: 0.0003
+Next Token :        , Posbility: 0.0003
+Next Token :         , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : //, Posbility: 0.0000
+Next Token : let, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token : else, Posbility: 0.0003
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  el, Posbility: 0.0013
+Next Token :  v, Posbility: 0.0017
+Next Token :  [], Posbility: 0.0040
+Next Token :  [, Posbility: 0.0051
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : head, Posbility: 0.0008
+Next Token : (, Posbility: 0.0013
+Next Token : _, Posbility: 0.0437
+Next Token : x, Posbility: 0.0723
+Next Token : y, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0004
+Next Token : s, Posbility: 0.0009
+Next Token : :, Posbility: 0.0010
+Next Token :  , Posbility: 0.0019
+Next Token : ::, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : yl, Posbility: 0.0009
+Next Token : [, Posbility: 0.0010
+Next Token : yt, Posbility: 0.0013
+Next Token : _, Posbility: 0.0417
+Next Token : y, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0001
+Next Token :  , Posbility: 0.0003
+Next Token : _, Posbility: 0.0004
+Next Token : ', Posbility: 0.0007
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0004
+Next Token :  =>, Posbility: 0.0013
+Next Token :  when, Posbility: 0.0124
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : →, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0001
+Next Token : if, Posbility: 0.0005
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0012
+Next Token :  match, Posbility: 0.0048
+Next Token :  true, Posbility: 0.0062
+Next Token : 
+, Posbility: 0.4883
+Next Token :  , Posbility: 0.4883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0130
+Next Token : (, Posbility: 0.0354
+Next Token : if, Posbility: 0.0354
+Next Token : helper, Posbility: 0.4316
+Next Token : x, Posbility: 0.4316
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0200
+Next Token :  ==, Posbility: 0.0330
+Next Token :  , Posbility: 0.0544
+Next Token : s, Posbility: 0.1152
+Next Token :  =, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : =, Posbility: 0.0016
+Next Token : ?, Posbility: 0.0018
+Next Token : ~, Posbility: 0.0050
+Next Token : :, Posbility: 0.0254
+Next Token :  , Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0021
+Next Token : helper, Posbility: 0.0058
+Next Token : head, Posbility: 0.0058
+Next Token : x, Posbility: 0.1167
+Next Token : y, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ||, Posbility: 0.0623
+Next Token :  and, Posbility: 0.1162
+Next Token : 
+, Posbility: 0.1689
+Next Token : s, Posbility: 0.2168
+Next Token :  &&, Posbility: 0.3164
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y &&
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  (!, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0019
+Next Token :  !, Posbility: 0.0041
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0156
+Next Token : y, Posbility: 0.0422
+Next Token : x, Posbility: 0.0422
+Next Token : common, Posbility: 0.0422
+Next Token : helper, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0005
+Next Token :  [, Posbility: 0.0007
+Next Token : (, Posbility: 0.0085
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : (, Posbility: 0.0066
+Next Token : y, Posbility: 0.0178
+Next Token : x, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ::, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ', Posbility: 0.0001
+Next Token :  , Posbility: 0.0097
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token :  ~, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0007
+Next Token :  [], Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : z, Posbility: 0.0000
+Next Token : helper, Posbility: 0.0001
+Next Token : (, Posbility: 0.0067
+Next Token : x, Posbility: 0.0067
+Next Token : y, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs y
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ||, Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0005
+Next Token : ), Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0159
+Next Token : s, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  or, Posbility: 0.0046
+Next Token : 
+
+, Posbility: 0.0160
+Next Token : ), Posbility: 0.0160
+Next Token :  ||, Posbility: 0.0718
+Next Token : 
+, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0170
+Next Token :         , Posbility: 0.0977
+Next Token :    , Posbility: 0.1611
+Next Token :   , Posbility: 0.2656
+Next Token :     , Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : es, Posbility: 0.0021
+Next Token : (, Posbility: 0.0024
+Next Token : end, Posbility: 0.0057
+Next Token : ;, Posbility: 0.0256
+Next Token : |, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    |
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  nil, Posbility: 0.0006
+Next Token :  a, Posbility: 0.0013
+Next Token :  [, Posbility: 0.0096
+Next Token :  [], Posbility: 0.1167
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0007
+Next Token : (), Posbility: 0.0009
+Next Token : y, Posbility: 0.0630
+Next Token : x, Posbility: 0.2490
+Next Token : _, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0015
+Next Token : ::, Posbility: 0.0027
+Next Token : x, Posbility: 0.0040
+Next Token : ,, Posbility: 0.0084
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : →, Posbility: 0.0001
+Next Token : x, Posbility: 0.0004
+Next Token : if, Posbility: 0.0028
+Next Token : ::, Posbility: 0.0075
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fail, Posbility: 0.0017
+Next Token :  true, Posbility: 0.0126
+Next Token : 
+, Posbility: 0.0344
+Next Token :  , Posbility: 0.2539
+Next Token :  false, Posbility: 0.6914
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0070
+Next Token : 
+
+, Posbility: 0.0189
+Next Token : ), Posbility: 0.0189
+Next Token :  in, Posbility: 0.0243
+Next Token : 
+, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0013
+Next Token :  , Posbility: 0.0031
+Next Token :    , Posbility: 0.0048
+Next Token :     , Posbility: 0.0177
+Next Token :   , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : [, Posbility: 0.0004
+Next Token :  in, Posbility: 0.0027
+Next Token : helper, Posbility: 0.0027
+Next Token : end, Posbility: 0.0109
+Next Token : in, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token :   , Posbility: 0.0010
+Next Token : 
+
+, Posbility: 0.0065
+Next Token :  , Posbility: 0.0327
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0002
+Next Token :       , Posbility: 0.0011
+Next Token :    , Posbility: 0.0017
+Next Token :     , Posbility: 0.0203
+Next Token :   , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0062
+Next Token : let, Posbility: 0.0168
+Next Token : if, Posbility: 0.0168
+Next Token : match, Posbility: 0.0168
+Next Token : helper, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  helper
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0012
+Next Token :  [], Posbility: 0.0017
+Next Token :  [, Posbility: 0.0028
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  helper 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token : List, Posbility: 0.0001
+Next Token : y, Posbility: 0.0002
+Next Token : (, Posbility: 0.0017
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  helper x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  [, Posbility: 0.0002
+Next Token : ., Posbility: 0.0003
+Next Token : s, Posbility: 0.0008
+Next Token :  [], Posbility: 0.0008
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  helper x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : x, Posbility: 0.0001
+Next Token : (, Posbility: 0.0006
+Next Token : y, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  helper x y
+ score:False
+Error type: noerr
+---------------------------
+Next Token : , Posbility: 0.0031
+Next Token :  =, Posbility: 0.0051
+Next Token : ;, Posbility: 0.0229
+Next Token : 
+, Posbility: 0.3594
+Next Token : 
+
+, Posbility: 0.5938
+---------------------------
+code:
+ (* Write a function that takes two lists and returns true if they have at least one common element. *)
+let common_element x y =
+  let rec helper x y =
+    match x with
+    | [] -> y
+    | x::xs ->
+        match y with
+        | [] -> false
+        | y::ys -> x = y && helper xs ys
+    | _ -> false
+  in
+  helper x y
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :43.127034187316895
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

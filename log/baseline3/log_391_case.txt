@@ -1,0 +1,529 @@
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let
+Next Token :  rec, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec
+Next Token :  , Posbility: 0.3516
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec 
+Next Token : balance, Posbility: 0.6367
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balance
+Next Token : d, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced
+Next Token : _, Posbility: 0.3555
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_
+Next Token : parent, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parent
+Next Token : he, Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parenthe
+Next Token : ses, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses
+Next Token :  , Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses 
+Next Token : (, Posbility: 0.2119
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (
+Next Token : expr, Posbility: 0.1279
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr
+Next Token :  , Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr 
+Next Token : :, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr :
+Next Token :  string, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string
+Next Token : ), Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string)
+Next Token :  =, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+Next Token : 
+, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+
+Next Token :   , Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  
+Next Token : match, Posbility: 0.5156
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match 
+Next Token : expr, Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr
+Next Token :  with, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+
+Next Token :   , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  
+Next Token : |, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  |
+Next Token :  ", Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "
+Next Token : (", Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "("
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" 
+Next Token : ->, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" ->
+Next Token :  , Posbility: 0.3809
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> 
+Next Token : balance, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balance
+Next Token : d, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced
+Next Token : _, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_
+Next Token : parent, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parent
+Next Token : he, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parenthe
+Next Token : ses, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses
+Next Token :  , Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses 
+Next Token : (, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (
+Next Token : expr, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr
+Next Token :  , Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr 
+Next Token : :, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr :
+Next Token :  string, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string
+Next Token : ), Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+Next Token : 
+, Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  |
+Next Token :  , Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | 
+Next Token : "), Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")
+Next Token : ", Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")"
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" ->
+Next Token :  , Posbility: 0.2383
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> 
+Next Token : balance, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balance
+Next Token : d, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_
+Next Token : parent, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parent
+Next Token : he, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parenthe
+Next Token : ses, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses
+Next Token :  , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses 
+Next Token : (, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (
+Next Token : expr, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr 
+Next Token : :, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr :
+Next Token :  string, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string
+Next Token : ), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  |
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  | 
+Next Token : _, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  | _
+Next Token :  , Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  | _ 
+Next Token : ->, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  | _ ->
+Next Token :  false, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/ *)
+let rec balanced_parentheses (expr : string) =
+  match expr with
+  | "(" -> balanced_parentheses (expr : string)
+  | ")" -> balanced_parentheses (expr : string)
+  | _ -> false
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.072854518890381
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

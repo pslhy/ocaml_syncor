@@ -1,0 +1,1468 @@
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  array, Posbility: 0.0082
+Next Token :  rec, Posbility: 0.1455
+Next Token :  , Posbility: 0.1865
+Next Token :  check, Posbility: 0.3086
+Next Token :  is, Posbility: 0.3086
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0008
+Next Token : min, Posbility: 0.0023
+Next Token : Heap, Posbility: 0.0170
+Next Token : Min, Posbility: 0.0461
+Next Token : _, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : a, Posbility: 0.0053
+Next Token : binary, Posbility: 0.0144
+Next Token : max, Posbility: 0.0391
+Next Token : heap, Posbility: 0.1064
+Next Token : min, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0009
+Next Token :  =, Posbility: 0.0023
+Next Token : Heap, Posbility: 0.0023
+Next Token : heap, Posbility: 0.0469
+Next Token : _, Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : max, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Next Token : h, Posbility: 0.0003
+Next Token : binary, Posbility: 0.0003
+Next Token : heap, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0227
+Next Token :  array, Posbility: 0.0292
+Next Token : _, Posbility: 0.0425
+Next Token :  =, Posbility: 0.1484
+Next Token :  , Posbility: 0.6641
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : h, Posbility: 0.0356
+Next Token : heap, Posbility: 0.0757
+Next Token : (, Posbility: 0.1245
+Next Token : x, Posbility: 0.1602
+Next Token : arr, Posbility: 0.4355
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0035
+Next Token : _, Posbility: 0.0039
+Next Token :  a, Posbility: 0.0057
+Next Token :  , Posbility: 0.0137
+Next Token :  =, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0075
+Next Token :  not, Posbility: 0.0085
+Next Token :  ..., Posbility: 0.0124
+Next Token :  , Posbility: 0.1514
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0081
+Next Token : 	, Posbility: 0.0134
+Next Token :    , Posbility: 0.0250
+Next Token :     , Posbility: 0.2090
+Next Token :   , Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : for, Posbility: 0.0278
+Next Token : match, Posbility: 0.0315
+Next Token : (, Posbility: 0.0405
+Next Token : if, Posbility: 0.0520
+Next Token : let, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0176
+Next Token :  open, Posbility: 0.0289
+Next Token :  len, Posbility: 0.0786
+Next Token :  , Posbility: 0.2754
+Next Token :  rec, Posbility: 0.3516
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  rec, Posbility: 0.0398
+Next Token :  loop, Posbility: 0.0581
+Next Token :  check, Posbility: 0.0845
+Next Token :  is, Posbility: 0.2021
+Next Token :  , Posbility: 0.3789
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : heap, Posbility: 0.0459
+Next Token : f, Posbility: 0.0520
+Next Token : aux, Posbility: 0.0591
+Next Token : min, Posbility: 0.1602
+Next Token : helper, Posbility: 0.2334
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0192
+Next Token :  0, Posbility: 0.0245
+Next Token :  =, Posbility: 0.1416
+Next Token :  i, Posbility: 0.1816
+Next Token :  , Posbility: 0.4941
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0388
+Next Token : n, Posbility: 0.0439
+Next Token : idx, Posbility: 0.0640
+Next Token : (, Posbility: 0.1196
+Next Token : arr, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0276
+Next Token :  0, Posbility: 0.0752
+Next Token :  =, Posbility: 0.1240
+Next Token :  , Posbility: 0.2041
+Next Token :  i, Posbility: 0.3359
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0134
+Next Token :  k, Posbility: 0.0172
+Next Token :  l, Posbility: 0.0413
+Next Token :  , Posbility: 0.3047
+Next Token :  =, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0011
+Next Token :  function, Posbility: 0.0015
+Next Token :  match, Posbility: 0.0019
+Next Token :  , Posbility: 0.0157
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0011
+Next Token :    , Posbility: 0.0051
+Next Token :       , Posbility: 0.0074
+Next Token :   , Posbility: 0.0123
+Next Token :     , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0120
+Next Token : i, Posbility: 0.0154
+Next Token : match, Posbility: 0.0420
+Next Token : let, Posbility: 0.0693
+Next Token : if, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0017
+Next Token :  !, Posbility: 0.0022
+Next Token :  not, Posbility: 0.0047
+Next Token :  , Posbility: 0.0938
+Next Token :  i, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0267
+Next Token :  <=, Posbility: 0.0344
+Next Token :  >=, Posbility: 0.2539
+Next Token :  , Posbility: 0.3262
+Next Token :  =, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  array, Posbility: 0.0085
+Next Token :  len, Posbility: 0.0140
+Next Token :  1, Posbility: 0.0378
+Next Token :  , Posbility: 0.4629
+Next Token :  0, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0111
+Next Token :  or, Posbility: 0.0142
+Next Token : 
+, Posbility: 0.0386
+Next Token :  ||, Posbility: 0.1348
+Next Token :  then, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0084
+Next Token :  false, Posbility: 0.0294
+Next Token :  , Posbility: 0.2168
+Next Token :  true, Posbility: 0.3574
+Next Token : 
+, Posbility: 0.3574
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :    , Posbility: 0.0031
+Next Token :     , Posbility: 0.0035
+Next Token :         , Posbility: 0.0059
+Next Token :      , Posbility: 0.1177
+Next Token :       , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0569
+Next Token : arr, Posbility: 0.0645
+Next Token : (, Posbility: 0.0938
+Next Token : if, Posbility: 0.2256
+Next Token : return, Posbility: 0.4219
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0284
+Next Token :  True, Posbility: 0.0771
+Next Token :  false, Posbility: 0.0771
+Next Token :  , Posbility: 0.2100
+Next Token :  true, Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  else, Posbility: 0.0017
+Next Token : 
+
+, Posbility: 0.0036
+Next Token :  , Posbility: 0.0126
+Next Token : ;, Posbility: 0.1973
+Next Token : 
+, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0002
+Next Token :   , Posbility: 0.0003
+Next Token :       , Posbility: 0.0022
+Next Token :    , Posbility: 0.0052
+Next Token :     , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0011
+Next Token : els, Posbility: 0.0058
+Next Token : elif, Posbility: 0.0066
+Next Token : end, Posbility: 0.0123
+Next Token : else, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0013
+Next Token :  {, Posbility: 0.0084
+Next Token : if, Posbility: 0.0122
+Next Token :  , Posbility: 0.4570
+Next Token : 
+, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :         , Posbility: 0.0016
+Next Token :      , Posbility: 0.0094
+Next Token :     , Posbility: 0.0094
+Next Token :    , Posbility: 0.0225
+Next Token :       , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0061
+Next Token : (, Posbility: 0.0167
+Next Token : return, Posbility: 0.2031
+Next Token : let, Posbility: 0.2031
+Next Token : if, Posbility: 0.5547
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0019
+Next Token :  !, Posbility: 0.0040
+Next Token :  not, Posbility: 0.0065
+Next Token :  i, Posbility: 0.2168
+Next Token :  , Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0019
+Next Token : Compare, Posbility: 0.0067
+Next Token : helper, Posbility: 0.0820
+Next Token : (, Posbility: 0.1055
+Next Token : arr, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0277
+Next Token :  i, Posbility: 0.0277
+Next Token : ., Posbility: 0.0457
+Next Token :  [, Posbility: 0.1240
+Next Token : [, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0019
+Next Token : 2, Posbility: 0.0039
+Next Token : (, Posbility: 0.0137
+Next Token :  i, Posbility: 0.0137
+Next Token : i, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0021
+Next Token : ]., Posbility: 0.0024
+Next Token : -1], Posbility: 0.0289
+Next Token :  , Posbility: 0.2139
+Next Token : ], Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i]
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0075
+Next Token :  >=, Posbility: 0.1514
+Next Token :  <=, Posbility: 0.1514
+Next Token :  , Posbility: 0.6797
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0017
+Next Token : ≥, Posbility: 0.0022
+Next Token : ≤, Posbility: 0.0053
+Next Token : >, Posbility: 0.3730
+Next Token : <, Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token :  i, Posbility: 0.0007
+Next Token : >, Posbility: 0.0179
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : heap, Posbility: 0.0003
+Next Token : min, Posbility: 0.0013
+Next Token : (, Posbility: 0.0040
+Next Token : helper, Posbility: 0.0140
+Next Token : arr, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  then, Posbility: 0.0009
+Next Token : [0, Posbility: 0.0019
+Next Token :  [, Posbility: 0.0066
+Next Token : [0], Posbility: 0.0109
+Next Token : [, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : helper, Posbility: 0.0192
+Next Token :  , Posbility: 0.0217
+Next Token : arr, Posbility: 0.0315
+Next Token : (, Posbility: 0.1602
+Next Token : i, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : /, Posbility: 0.0195
+Next Token : +1], Posbility: 0.0413
+Next Token :  +, Posbility: 0.0874
+Next Token : -1], Posbility: 0.0991
+Next Token :  , Posbility: 0.7344
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : //, Posbility: 0.0020
+Next Token : -1], Posbility: 0.0033
+Next Token : −, Posbility: 0.0090
+Next Token : /, Posbility: 0.0588
+Next Token : -, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  int, Posbility: 0.0005
+Next Token :  1, Posbility: 0.0012
+Next Token :  i, Posbility: 0.0118
+Next Token :  , Posbility: 0.0466
+Next Token :  1], Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1]
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0054
+Next Token :  &&, Posbility: 0.0079
+Next Token : 
+, Posbility: 0.0131
+Next Token :  ||, Posbility: 0.0518
+Next Token :  then, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0010
+Next Token :  true, Posbility: 0.0057
+Next Token :  false, Posbility: 0.0327
+Next Token :  , Posbility: 0.1143
+Next Token : 
+, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :          , Posbility: 0.0008
+Next Token :           , Posbility: 0.0011
+Next Token :       , Posbility: 0.0019
+Next Token :        , Posbility: 0.0159
+Next Token :         , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0036
+Next Token : (, Posbility: 0.0046
+Next Token : if, Posbility: 0.0046
+Next Token : helper, Posbility: 0.0923
+Next Token : return, Posbility: 0.8750
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0009
+Next Token :  true, Posbility: 0.0023
+Next Token :  , Posbility: 0.0471
+Next Token :  false, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  else, Posbility: 0.0012
+Next Token : 
+
+, Posbility: 0.0019
+Next Token :  , Posbility: 0.0045
+Next Token : ;, Posbility: 0.0085
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token :      , Posbility: 0.0009
+Next Token :         , Posbility: 0.0022
+Next Token :     , Posbility: 0.0140
+Next Token :       , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0001
+Next Token : let, Posbility: 0.0002
+Next Token : elif, Posbility: 0.0002
+Next Token : end, Posbility: 0.0017
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token : if, Posbility: 0.0011
+Next Token :  {, Posbility: 0.0014
+Next Token :  , Posbility: 0.0674
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0006
+Next Token :       , Posbility: 0.0010
+Next Token :           , Posbility: 0.0015
+Next Token :        , Posbility: 0.0015
+Next Token :         , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0134
+Next Token : if, Posbility: 0.0220
+Next Token : let, Posbility: 0.0598
+Next Token : helper, Posbility: 0.4414
+Next Token : return, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  true, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0031
+Next Token :  rec, Posbility: 0.0031
+Next Token :  !, Posbility: 0.0040
+Next Token :  , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token : if, Posbility: 0.0009
+Next Token : arr, Posbility: 0.0015
+Next Token : (, Posbility: 0.0179
+Next Token : helper, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0006
+Next Token :  ~, Posbility: 0.0013
+Next Token :  [, Posbility: 0.0027
+Next Token : (, Posbility: 0.0228
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : aux, Posbility: 0.0000
+Next Token : (, Posbility: 0.0757
+Next Token : arr, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  (1, Posbility: 0.0020
+Next Token :  0, Posbility: 0.0055
+Next Token :  [, Posbility: 0.0055
+Next Token :  i, Posbility: 0.4922
+Next Token :  , Posbility: 0.4922
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (`, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : Int, Posbility: 0.0001
+Next Token : arr, Posbility: 0.0001
+Next Token : (, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Math, Posbility: 0.0003
+Next Token : succ, Posbility: 0.0003
+Next Token : int, Posbility: 0.0008
+Next Token :  i, Posbility: 0.0008
+Next Token : i, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0013
+Next Token :  *, Posbility: 0.0045
+Next Token : -1), Posbility: 0.0121
+Next Token :  +, Posbility: 0.0138
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : //, Posbility: 0.0005
+Next Token : −, Posbility: 0.0009
+Next Token : /, Posbility: 0.0097
+Next Token : -, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0003
+Next Token :  i, Posbility: 0.0009
+Next Token :  1);, Posbility: 0.0066
+Next Token :  2), Posbility: 0.0066
+Next Token :  1), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0055
+Next Token :  ||, Posbility: 0.0081
+Next Token :  &&, Posbility: 0.0151
+Next Token : 
+
+, Posbility: 0.0248
+Next Token : 
+, Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0007
+Next Token :       , Posbility: 0.0008
+Next Token :     , Posbility: 0.0085
+Next Token :    , Posbility: 0.0096
+Next Token :   , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : then, Posbility: 0.0016
+Next Token :  in, Posbility: 0.0030
+Next Token : helper, Posbility: 0.0152
+Next Token : end, Posbility: 0.1445
+Next Token : in, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0000
+Next Token :   , Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0058
+Next Token :  , Posbility: 0.0109
+Next Token : 
+, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token :       , Posbility: 0.0004
+Next Token :    , Posbility: 0.0009
+Next Token :     , Posbility: 0.0085
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0061
+Next Token : if, Posbility: 0.0166
+Next Token : return, Posbility: 0.0275
+Next Token : let, Posbility: 0.0275
+Next Token : helper, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  0, Posbility: 0.0003
+Next Token :  [], Posbility: 0.0006
+Next Token :  [, Posbility: 0.0007
+Next Token :  ~, Posbility: 0.0041
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : [0], Posbility: 0.0000
+Next Token : [0, Posbility: 0.0000
+Next Token : Array, Posbility: 0.0001
+Next Token : (, Posbility: 0.0036
+Next Token : arr, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper arr
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0059
+Next Token :  1, Posbility: 0.0161
+Next Token :  , Posbility: 0.0437
+Next Token :  0;, Posbility: 0.0437
+Next Token :  0, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper arr 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0084
+Next Token :  =, Posbility: 0.0178
+Next Token :  , Posbility: 0.0430
+Next Token : 
+
+, Posbility: 0.1318
+Next Token : 
+, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper arr 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (, Posbility: 0.0254
+Next Token : [, Posbility: 0.0371
+Next Token : let, Posbility: 0.0781
+Next Token : 
+
+, Posbility: 0.1289
+Next Token : ;, Posbility: 0.1465
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper arr 0
+;
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;`), Posbility: 0.0004
+Next Token : ;&, Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0122
+Next Token : 
+, Posbility: 0.0138
+Next Token : ;, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper arr 0
+;;
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0143
+Next Token : *, Posbility: 0.0208
+Next Token : <, Posbility: 0.0284
+Next Token : 
+, Posbility: 0.2100
+Next Token : 
+
+, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to check if the given array represents min heap or not. https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/ *)
+let is_min_heap arr =
+  let rec helper arr i =
+    if i = 0 then
+      return true
+    else
+      if arr[i] < arr[i - 1] then
+        return false
+      else
+        return helper arr (i - 1)
+  in
+  helper arr 0
+;;
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :35.996413230895996
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

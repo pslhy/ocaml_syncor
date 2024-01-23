@@ -1,0 +1,208 @@
+code:
+ (* Write a function to check if a dictionary is empty *)
+let
+Next Token :  rec, Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec
+Next Token :  is, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is
+Next Token : _, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_
+Next Token : empty, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty
+Next Token :  , Posbility: 0.4980
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty 
+Next Token : d, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+
+Next Token :   , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  
+Next Token : match, Posbility: 0.4863
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match 
+Next Token : d, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+Next Token : 
+, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+
+Next Token :   , Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  
+Next Token : |, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  |
+Next Token :  {, Posbility: 0.4297
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {
+Next Token : }, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {}
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} 
+Next Token : ->, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} ->
+Next Token :  true, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  |
+Next Token :  , Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  | 
+Next Token : _, Posbility: 0.7578
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  | _
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  | _ 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  | _ ->
+Next Token :  false, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to check if a dictionary is empty *)
+let rec is_empty d =
+  match d with
+  | {} -> true
+  | _ -> false
+Error type: synerr_stop
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.1362881660461426
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

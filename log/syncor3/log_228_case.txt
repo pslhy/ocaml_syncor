@@ -1,0 +1,3212 @@
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0277
+Next Token :  find, Posbility: 0.0967
+Next Token :  first, Posbility: 0.1406
+Next Token :  , Posbility: 0.2314
+Next Token :  rec, Posbility: 0.3359
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  get, Posbility: 0.0327
+Next Token :  search, Posbility: 0.0479
+Next Token :  first, Posbility: 0.0693
+Next Token :  find, Posbility: 0.2754
+Next Token :  , Posbility: 0.3105
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : print, Posbility: 0.0249
+Next Token : f, Posbility: 0.0283
+Next Token : split, Posbility: 0.0364
+Next Token : adv, Posbility: 0.0410
+Next Token : ad, Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0007
+Next Token : vert, Posbility: 0.0015
+Next Token : vers, Posbility: 0.0024
+Next Token : _, Posbility: 0.0066
+Next Token : verb, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0066
+Next Token :  , Posbility: 0.0381
+Next Token :  =, Posbility: 0.0381
+Next Token : s, Posbility: 0.2197
+Next Token : _, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0569
+Next Token : finder, Posbility: 0.0645
+Next Token : position, Posbility: 0.1060
+Next Token : positions, Posbility: 0.1748
+Next Token : pos, Posbility: 0.1982
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0181
+Next Token : (, Posbility: 0.0298
+Next Token : _, Posbility: 0.2197
+Next Token :  =, Posbility: 0.2197
+Next Token :  , Posbility: 0.3633
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0273
+Next Token : ad, Posbility: 0.0398
+Next Token : sentence, Posbility: 0.0579
+Next Token : (, Posbility: 0.1777
+Next Token : s, Posbility: 0.3770
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0105
+Next Token :  i, Posbility: 0.0366
+Next Token :  pos, Posbility: 0.1128
+Next Token :  , Posbility: 0.1641
+Next Token :  =, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0099
+Next Token :  function, Posbility: 0.0239
+Next Token :  match, Posbility: 0.0574
+Next Token :  , Posbility: 0.0947
+Next Token : 
+, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0056
+Next Token : 	, Posbility: 0.0092
+Next Token :    , Posbility: 0.0104
+Next Token :     , Posbility: 0.1270
+Next Token :   , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0175
+Next Token : List, Posbility: 0.0175
+Next Token : if, Posbility: 0.1138
+Next Token : match, Posbility: 0.2734
+Next Token : let, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0359
+Next Token :  first, Posbility: 0.0461
+Next Token :  pos, Posbility: 0.0977
+Next Token :  rec, Posbility: 0.2070
+Next Token :  , Posbility: 0.3418
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : m, Posbility: 0.0374
+Next Token : (, Posbility: 0.0615
+Next Token : p, Posbility: 0.0698
+Next Token : s, Posbility: 0.1299
+Next Token : ad, Posbility: 0.2432
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0024
+Next Token : vers, Posbility: 0.0024
+Next Token :  =, Posbility: 0.0065
+Next Token : _, Posbility: 0.0176
+Next Token : verb, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0094
+Next Token : ,, Posbility: 0.0693
+Next Token : _, Posbility: 0.1885
+Next Token :  =, Posbility: 0.1885
+Next Token : s, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  :=, Posbility: 0.0011
+Next Token :  , Posbility: 0.0062
+Next Token : _, Posbility: 0.0277
+Next Token : ,, Posbility: 0.0356
+Next Token :  =, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ", Posbility: 0.0134
+Next Token :  [, Posbility: 0.0364
+Next Token : 
+, Posbility: 0.1621
+Next Token :  String, Posbility: 0.2676
+Next Token :  , Posbility: 0.4414
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0284
+Next Token : Regex, Posbility: 0.0415
+Next Token : [", Posbility: 0.0469
+Next Token : s, Posbility: 0.1445
+Next Token : List, Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0006
+Next Token : _, Posbility: 0.0007
+Next Token : (, Posbility: 0.0010
+Next Token : ., Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : map, Posbility: 0.0439
+Next Token : rev, Posbility: 0.0439
+Next Token : of, Posbility: 0.0498
+Next Token : find, Posbility: 0.0723
+Next Token : filter, Posbility: 0.6875
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0123
+Next Token :  ~, Posbility: 0.0123
+Next Token : 
+, Posbility: 0.0140
+Next Token : _, Posbility: 0.0488
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : #, Posbility: 0.0042
+Next Token : Is, Posbility: 0.0088
+Next Token : ad, Posbility: 0.0100
+Next Token : s, Posbility: 0.0271
+Next Token : (, Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : fn, Posbility: 0.0183
+Next Token : Fun, Posbility: 0.0183
+Next Token : function, Posbility: 0.0236
+Next Token : String, Posbility: 0.1738
+Next Token : fun, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  l, Posbility: 0.0095
+Next Token :  str, Posbility: 0.0095
+Next Token :  v, Posbility: 0.0200
+Next Token :  a, Posbility: 0.0698
+Next Token :  , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0879
+Next Token : c, Posbility: 0.0879
+Next Token : p, Posbility: 0.0879
+Next Token : s, Posbility: 0.1445
+Next Token : x, Posbility: 0.3926
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  when, Posbility: 0.0001
+Next Token :  =>, Posbility: 0.0003
+Next Token : ->, Posbility: 0.0007
+Next Token : s, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : y, Posbility: 0.0001
+Next Token : →, Posbility: 0.0001
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  is, Posbility: 0.0132
+Next Token : 
+, Posbility: 0.0219
+Next Token :  string, Posbility: 0.0219
+Next Token :  String, Posbility: 0.1611
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Is, Posbility: 0.0092
+Next Token : Char, Posbility: 0.0118
+Next Token : List, Posbility: 0.0194
+Next Token : (, Posbility: 0.0282
+Next Token : x, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : [1], Posbility: 0.0099
+Next Token : [0], Posbility: 0.0127
+Next Token : ., Posbility: 0.1206
+Next Token :  =, Posbility: 0.2539
+Next Token :  , Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ::, Posbility: 0.0126
+Next Token : :, Posbility: 0.0723
+Next Token : >, Posbility: 0.1533
+Next Token : ^, Posbility: 0.3672
+Next Token : <, Posbility: 0.3672
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ->, Posbility: 0.0024
+Next Token :  , Posbility: 0.0027
+Next Token : @, Posbility: 0.0031
+Next Token : -, Posbility: 0.0066
+Next Token : >, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <>
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  "#, Posbility: 0.0172
+Next Token :  ', Posbility: 0.0466
+Next Token :  , Posbility: 0.1270
+Next Token :  ""), Posbility: 0.1270
+Next Token :  ", Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token : no, Posbility: 0.0515
+Next Token : ., Posbility: 0.0664
+Next Token : a, Posbility: 0.0664
+Next Token : the, Posbility: 0.0752
+Next Token : and, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token : ";, Posbility: 0.0039
+Next Token :  the, Posbility: 0.0044
+Next Token :  , Posbility: 0.0050
+Next Token : ", Posbility: 0.4473
+Next Token : "), Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and")
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0072
+Next Token :  String, Posbility: 0.0082
+Next Token :  [, Posbility: 0.0104
+Next Token : 
+, Posbility: 0.0152
+Next Token :  , Posbility: 0.9414
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ad, Posbility: 0.0149
+Next Token : Split, Posbility: 0.0245
+Next Token : List, Posbility: 0.0315
+Next Token : (, Posbility: 0.2988
+Next Token : s, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0096
+Next Token :  |, Posbility: 0.0432
+Next Token : ., Posbility: 0.0554
+Next Token : 
+, Posbility: 0.1035
+Next Token :  in, Posbility: 0.7656
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0002
+Next Token :   , Posbility: 0.0013
+Next Token :  , Posbility: 0.0065
+Next Token : 
+
+, Posbility: 0.0258
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0002
+Next Token :       , Posbility: 0.0010
+Next Token :  , Posbility: 0.0017
+Next Token :     , Posbility: 0.0025
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0214
+Next Token : List, Posbility: 0.0579
+Next Token : match, Posbility: 0.1226
+Next Token : if, Posbility: 0.2598
+Next Token : let, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0239
+Next Token :  first, Posbility: 0.1069
+Next Token :  pos, Posbility: 0.1069
+Next Token :  rec, Posbility: 0.1768
+Next Token :  , Posbility: 0.2910
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0175
+Next Token : (, Posbility: 0.0225
+Next Token : n, Posbility: 0.0225
+Next Token : positions, Posbility: 0.0610
+Next Token : ad, Posbility: 0.4512
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : vert, Posbility: 0.0015
+Next Token :  =, Posbility: 0.0040
+Next Token : pos, Posbility: 0.0040
+Next Token : _, Posbility: 0.0107
+Next Token : verb, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0193
+Next Token : 1, Posbility: 0.0193
+Next Token :  =, Posbility: 0.1426
+Next Token : _, Posbility: 0.3887
+Next Token : s, Posbility: 0.3887
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0190
+Next Token : ,, Posbility: 0.0216
+Next Token : 2, Posbility: 0.0244
+Next Token :  =, Posbility: 0.3828
+Next Token : _, Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0518
+Next Token : with, Posbility: 0.0586
+Next Token : length, Posbility: 0.0664
+Next Token : len, Posbility: 0.0850
+Next Token : pos, Posbility: 0.2617
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0018
+Next Token : s, Posbility: 0.0064
+Next Token :  , Posbility: 0.0082
+Next Token : _, Posbility: 0.0175
+Next Token :  =, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0021
+Next Token :  [, Posbility: 0.0072
+Next Token :  String, Posbility: 0.0195
+Next Token : 
+, Posbility: 0.3047
+Next Token :  , Posbility: 0.6484
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0078
+Next Token : Map, Posbility: 0.0113
+Next Token : Array, Posbility: 0.0210
+Next Token : ad, Posbility: 0.0210
+Next Token : List, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : iter, Posbility: 0.0052
+Next Token : zip, Posbility: 0.0111
+Next Token : filter, Posbility: 0.0302
+Next Token : fold, Posbility: 0.0388
+Next Token : map, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0147
+Next Token :  ((, Posbility: 0.0167
+Next Token :  i, Posbility: 0.0243
+Next Token : i, Posbility: 0.1089
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : f, Posbility: 0.0033
+Next Token : List, Posbility: 0.0037
+Next Token : Pos, Posbility: 0.0042
+Next Token : ad, Posbility: 0.0454
+Next Token : (, Posbility: 0.9102
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : f, Posbility: 0.0026
+Next Token : let, Posbility: 0.0033
+Next Token : fn, Posbility: 0.0042
+Next Token : function, Posbility: 0.0457
+Next Token : fun, Posbility: 0.9141
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0081
+Next Token :  pos, Posbility: 0.0134
+Next Token :  i, Posbility: 0.0134
+Next Token :  a, Posbility: 0.0171
+Next Token :  , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0164
+Next Token : (, Posbility: 0.0164
+Next Token : s, Posbility: 0.0164
+Next Token : ad, Posbility: 0.0444
+Next Token : x, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0002
+Next Token :  i, Posbility: 0.0002
+Next Token : ->, Posbility: 0.0003
+Next Token :  =>, Posbility: 0.0007
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token : y, Posbility: 0.0003
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0138
+Next Token :  String, Posbility: 0.0138
+Next Token :  {, Posbility: 0.0374
+Next Token :  [, Posbility: 0.1021
+Next Token :  , Posbility: 0.7539
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0177
+Next Token : ad, Posbility: 0.0292
+Next Token : List, Posbility: 0.0791
+Next Token : x, Posbility: 0.2441
+Next Token : (, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Pos, Posbility: 0.0051
+Next Token : List, Posbility: 0.0140
+Next Token : String, Posbility: 0.0261
+Next Token : ad, Posbility: 0.0295
+Next Token : x, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0031
+Next Token : ., Posbility: 0.0039
+Next Token :  +, Posbility: 0.0065
+Next Token :  , Posbility: 0.0176
+Next Token : ,, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1)), Posbility: 0.0147
+Next Token :  pos, Posbility: 0.0167
+Next Token :  0, Posbility: 0.0747
+Next Token :  String, Posbility: 0.0962
+Next Token :  , Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Pos, Posbility: 0.0184
+Next Token : (, Posbility: 0.0236
+Next Token : x, Posbility: 0.0442
+Next Token : s, Posbility: 0.2539
+Next Token : List, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : Position, Posbility: 0.0000
+Next Token : Pos, Posbility: 0.0001
+Next Token : _, Posbility: 0.0002
+Next Token : (, Posbility: 0.0004
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : position, Posbility: 0.0381
+Next Token : pos, Posbility: 0.0430
+Next Token : indexOf, Posbility: 0.0554
+Next Token : find, Posbility: 0.2812
+Next Token : index, Posbility: 0.4082
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : )), Posbility: 0.0007
+Next Token :  [, Posbility: 0.0009
+Next Token : (, Posbility: 0.0026
+Next Token : _, Posbility: 0.1807
+Next Token :  , Posbility: 0.8086
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : (", Posbility: 0.0019
+Next Token : s, Posbility: 0.0141
+Next Token : (, Posbility: 0.1045
+Next Token : ad, Posbility: 0.1045
+Next Token : x, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : s, Posbility: 0.0005
+Next Token :  ~, Posbility: 0.0009
+Next Token : ), Posbility: 0.0010
+Next Token : )), Posbility: 0.0013
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : <, Posbility: 0.0002
+Next Token : ^, Posbility: 0.0004
+Next Token : (, Posbility: 0.0103
+Next Token : s, Posbility: 0.2656
+Next Token : ad, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : noun, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : vers, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0000
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : ), Posbility: 0.0001
+Next Token : _, Posbility: 0.0002
+Next Token : )), Posbility: 0.0006
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0023
+Next Token :  +, Posbility: 0.0023
+Next Token :  , Posbility: 0.0063
+Next Token : ), Posbility: 0.0466
+Next Token : )), Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs))
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token :  [, Posbility: 0.0003
+Next Token :  ~, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0067
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0003
+Next Token : List, Posbility: 0.0003
+Next Token : (, Posbility: 0.0066
+Next Token : s, Posbility: 0.0066
+Next Token : ad, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : VERB, Posbility: 0.0000
+Next Token : vers, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0000
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  in, Posbility: 0.0001
+Next Token : _, Posbility: 0.0006
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0018
+Next Token : ;, Posbility: 0.0055
+Next Token :  , Posbility: 0.0070
+Next Token : 
+, Posbility: 0.0588
+Next Token :  in, Posbility: 0.9180
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ;, Posbility: 0.0001
+Next Token :   , Posbility: 0.0003
+Next Token :  , Posbility: 0.0018
+Next Token : 
+
+, Posbility: 0.0420
+Next Token : 
+, Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0002
+Next Token :       , Posbility: 0.0009
+Next Token :     , Posbility: 0.0025
+Next Token :  , Posbility: 0.0036
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0466
+Next Token : (, Posbility: 0.0869
+Next Token : match, Posbility: 0.0986
+Next Token : if, Posbility: 0.1118
+Next Token : let, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  len, Posbility: 0.0146
+Next Token :  rec, Posbility: 0.1084
+Next Token :  pos, Posbility: 0.1084
+Next Token :  first, Posbility: 0.1787
+Next Token :  , Posbility: 0.2949
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0131
+Next Token : positions, Posbility: 0.0190
+Next Token : longest, Posbility: 0.0216
+Next Token : (, Posbility: 0.0586
+Next Token : ad, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : noun, Posbility: 0.0005
+Next Token :  =, Posbility: 0.0009
+Next Token : pos, Posbility: 0.0009
+Next Token : _, Posbility: 0.0041
+Next Token : verb, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 1, Posbility: 0.0037
+Next Token : ,, Posbility: 0.0273
+Next Token : s, Posbility: 0.2021
+Next Token :  =, Posbility: 0.2021
+Next Token : _, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : positions, Posbility: 0.0228
+Next Token : index, Posbility: 0.0293
+Next Token : and, Posbility: 0.0293
+Next Token : first, Posbility: 0.0483
+Next Token : pos, Posbility: 0.5898
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ', Posbility: 0.0374
+Next Token : s, Posbility: 0.0615
+Next Token :  , Posbility: 0.1016
+Next Token : _, Posbility: 0.2754
+Next Token :  =, Posbility: 0.4551
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0029
+Next Token :  String, Posbility: 0.0042
+Next Token :  match, Posbility: 0.0047
+Next Token : 
+, Posbility: 0.1768
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0054
+Next Token : if, Posbility: 0.0215
+Next Token : (, Posbility: 0.0312
+Next Token : ad, Posbility: 0.0850
+Next Token : List, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0000
+Next Token : Ext, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : sort, Posbility: 0.0449
+Next Token : filter, Posbility: 0.1074
+Next Token : find, Posbility: 0.1377
+Next Token : map, Posbility: 0.2012
+Next Token : fold, Posbility: 0.2275
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : r, Posbility: 0.0054
+Next Token : 
+, Posbility: 0.0061
+Next Token : l, Posbility: 0.0654
+Next Token :  , Posbility: 0.1074
+Next Token : _, Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : map, Posbility: 0.0020
+Next Token : with, Posbility: 0.0020
+Next Token : assoc, Posbility: 0.0020
+Next Token : right, Posbility: 0.1797
+Next Token : left, Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : _, Posbility: 0.0115
+Next Token :  0, Posbility: 0.0115
+Next Token :  ((, Posbility: 0.0583
+Next Token : 
+, Posbility: 0.0747
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0036
+Next Token : ([, Posbility: 0.0036
+Next Token : List, Posbility: 0.0052
+Next Token : ad, Posbility: 0.0918
+Next Token : (, Posbility: 0.8711
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : Fun, Posbility: 0.0011
+Next Token : +, Posbility: 0.0019
+Next Token : fn, Posbility: 0.0045
+Next Token : function, Posbility: 0.0177
+Next Token : fun, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0278
+Next Token :  a, Posbility: 0.0359
+Next Token :  pos, Posbility: 0.1250
+Next Token :  acc, Posbility: 0.1602
+Next Token :  , Posbility: 0.5586
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pp, Posbility: 0.0123
+Next Token : ad, Posbility: 0.0554
+Next Token : p, Posbility: 0.0630
+Next Token : x, Posbility: 0.1934
+Next Token : (, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : acc, Posbility: 0.0571
+Next Token : a, Posbility: 0.0649
+Next Token : x, Posbility: 0.1367
+Next Token : ad, Posbility: 0.1758
+Next Token : pos, Posbility: 0.2256
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0053
+Next Token : 0,, Posbility: 0.0187
+Next Token : 1,, Posbility: 0.0649
+Next Token : _, Posbility: 0.1074
+Next Token : ,, Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  i, Posbility: 0.0182
+Next Token :  a, Posbility: 0.0493
+Next Token :  pos, Posbility: 0.0493
+Next Token :  acc, Posbility: 0.1729
+Next Token :  , Posbility: 0.4688
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : p, Posbility: 0.0231
+Next Token : idx, Posbility: 0.0231
+Next Token : x, Posbility: 0.0913
+Next Token : _, Posbility: 0.2197
+Next Token : ad, Posbility: 0.4102
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : vert, Posbility: 0.0023
+Next Token : pos, Posbility: 0.0103
+Next Token : _, Posbility: 0.0217
+Next Token : ), Posbility: 0.0280
+Next Token : verb, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1), Posbility: 0.0038
+Next Token : ,, Posbility: 0.0103
+Next Token : _, Posbility: 0.2070
+Next Token : s, Posbility: 0.2070
+Next Token : ), Posbility: 0.5625
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0154
+Next Token :  prev, Posbility: 0.0154
+Next Token :  next, Posbility: 0.0175
+Next Token :  acc, Posbility: 0.1875
+Next Token :  , Posbility: 0.6523
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0334
+Next Token : ad, Posbility: 0.0549
+Next Token : x, Posbility: 0.1030
+Next Token : ->, Posbility: 0.1494
+Next Token : (, Posbility: 0.4062
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : i, Posbility: 0.0479
+Next Token : x, Posbility: 0.0542
+Next Token : acc, Posbility: 0.0791
+Next Token : ad, Posbility: 0.0894
+Next Token : pos, Posbility: 0.2148
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1,, Posbility: 0.0757
+Next Token : 2,, Posbility: 0.0972
+Next Token : _, Posbility: 0.1602
+Next Token : ,, Posbility: 0.2061
+Next Token : ',, Posbility: 0.3398
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos',
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  next, Posbility: 0.0040
+Next Token :  new, Posbility: 0.0096
+Next Token :  a, Posbility: 0.0334
+Next Token :  acc, Posbility: 0.0430
+Next Token :  , Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : idx, Posbility: 0.0036
+Next Token : adv, Posbility: 0.0060
+Next Token : x, Posbility: 0.0267
+Next Token : _, Posbility: 0.0442
+Next Token : ad, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : pos, Posbility: 0.0013
+Next Token : vert, Posbility: 0.0015
+Next Token : _, Posbility: 0.0051
+Next Token : ), Posbility: 0.0139
+Next Token : verb, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 1), Posbility: 0.0144
+Next Token : s, Posbility: 0.0825
+Next Token : ), Posbility: 0.1064
+Next Token : _, Posbility: 0.1367
+Next Token : '), Posbility: 0.6094
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb')
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  old, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0084
+Next Token :  acc, Posbility: 0.0121
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0010
+Next Token : ad, Posbility: 0.0013
+Next Token : x, Posbility: 0.0016
+Next Token : (, Posbility: 0.0228
+Next Token : ->, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0044
+Next Token :  ((, Posbility: 0.0044
+Next Token :  pos, Posbility: 0.0693
+Next Token :  , Posbility: 0.2422
+Next Token : 
+, Posbility: 0.6602
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :      , Posbility: 0.0134
+Next Token :   , Posbility: 0.0221
+Next Token :         , Posbility: 0.0250
+Next Token :       , Posbility: 0.3047
+Next Token :     , Posbility: 0.5703
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0291
+Next Token : let, Posbility: 0.0479
+Next Token : (, Posbility: 0.0615
+Next Token : match, Posbility: 0.0791
+Next Token : if, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !, Posbility: 0.0112
+Next Token :  not, Posbility: 0.0305
+Next Token :  String, Posbility: 0.1367
+Next Token :  pos, Posbility: 0.1758
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Ad, Posbility: 0.0022
+Next Token : x, Posbility: 0.0060
+Next Token : (, Posbility: 0.0439
+Next Token : List, Posbility: 0.0439
+Next Token : ad, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : phrase, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : noun, Posbility: 0.0001
+Next Token : vert, Posbility: 0.0008
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0393
+Next Token : _, Posbility: 0.0737
+Next Token : ', Posbility: 0.0737
+Next Token :  , Posbility: 0.3301
+Next Token :  =, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ', Posbility: 0.0047
+Next Token :  pos, Posbility: 0.0579
+Next Token :  "", Posbility: 0.0579
+Next Token :  , Posbility: 0.4277
+Next Token :  ", Posbility: 0.4277
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token :  and, Posbility: 0.0021
+Next Token : a, Posbility: 0.0027
+Next Token : of, Posbility: 0.0030
+Next Token : the, Posbility: 0.0106
+Next Token : and, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and
+ score:False
+Error type: Lexer.Errorr
+---------------------------
+Next Token :  , Posbility: 0.0001
+Next Token :  ", Posbility: 0.0002
+Next Token :  then, Posbility: 0.0003
+Next Token : ";, Posbility: 0.0019
+Next Token : ", Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and"
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ||, Posbility: 0.0049
+Next Token :  , Posbility: 0.0063
+Next Token : 
+, Posbility: 0.0104
+Next Token :  &&, Posbility: 0.0364
+Next Token :  then, Posbility: 0.9375
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0077
+Next Token :  Some, Posbility: 0.0571
+Next Token :  pos, Posbility: 0.2559
+Next Token : 
+, Posbility: 0.3281
+Next Token :  , Posbility: 0.3281
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0046
+Next Token : 
+, Posbility: 0.0077
+Next Token : return, Posbility: 0.0267
+Next Token : ad, Posbility: 0.0566
+Next Token : (, Posbility: 0.8867
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : List, Posbility: 0.0029
+Next Token :  pos, Posbility: 0.0080
+Next Token : Some, Posbility: 0.0090
+Next Token : ad, Posbility: 0.0405
+Next Token : pos, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0220
+Next Token :  +, Posbility: 0.0220
+Next Token : ', Posbility: 0.0361
+Next Token : ,, Posbility: 0.1621
+Next Token : ',, Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos',
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0095
+Next Token :  ", Posbility: 0.0201
+Next Token :  Some, Posbility: 0.0259
+Next Token :  pos, Posbility: 0.0549
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0049
+Next Token : []), Posbility: 0.0071
+Next Token : (, Posbility: 0.0171
+Next Token : List, Posbility: 0.0220
+Next Token : ad, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : phrase, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : noun, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0002
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : _, Posbility: 0.0184
+Next Token : ', Posbility: 0.0391
+Next Token : ), Posbility: 0.0500
+Next Token : ');, Posbility: 0.0500
+Next Token : '), Posbility: 0.7852
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb')
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  |, Posbility: 0.0028
+Next Token : ::, Posbility: 0.0098
+Next Token :  , Posbility: 0.0236
+Next Token : 
+, Posbility: 0.1738
+Next Token :  else, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0026
+Next Token :  ((, Posbility: 0.0217
+Next Token : 
+, Posbility: 0.0359
+Next Token :  pos, Posbility: 0.2070
+Next Token :  , Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0008
+Next Token : List, Posbility: 0.0008
+Next Token : if, Posbility: 0.0157
+Next Token : ad, Posbility: 0.1167
+Next Token : (, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0009
+Next Token : if, Posbility: 0.0011
+Next Token :  pos, Posbility: 0.0024
+Next Token : ad, Posbility: 0.0139
+Next Token : pos, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0124
+Next Token :  +, Posbility: 0.0124
+Next Token : ', Posbility: 0.0337
+Next Token : ,, Posbility: 0.2480
+Next Token : ',, Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos',
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0028
+Next Token :  ", Posbility: 0.0266
+Next Token :  None, Posbility: 0.0266
+Next Token :  pos, Posbility: 0.0439
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0081
+Next Token : ())), Posbility: 0.0081
+Next Token : (, Posbility: 0.0133
+Next Token : List, Posbility: 0.0171
+Next Token : ad, Posbility: 0.9336
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : phrase, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : noun, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0002
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ', Posbility: 0.0688
+Next Token : ), Posbility: 0.1289
+Next Token : '), Posbility: 0.1289
+Next Token : )), Posbility: 0.1865
+Next Token : ')), Posbility: 0.2715
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb'))
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0084
+Next Token :  pos, Posbility: 0.0095
+Next Token :  [], Posbility: 0.0139
+Next Token : 
+, Posbility: 0.0796
+Next Token :  , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Nil, Posbility: 0.0061
+Next Token : ([], Posbility: 0.0272
+Next Token : (0,, Posbility: 0.0840
+Next Token : ad, Posbility: 0.1387
+Next Token : (, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 0, Posbility: 0.0581
+Next Token : None, Posbility: 0.0845
+Next Token : pos, Posbility: 0.1226
+Next Token : ad, Posbility: 0.2021
+Next Token : (0,, Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  None, Posbility: 0.0231
+Next Token : ", Posbility: 0.0432
+Next Token :  ", Posbility: 0.2188
+Next Token :  ""), Posbility: 0.2188
+Next Token :  , Posbility: 0.4629
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0136
+Next Token : ()), Posbility: 0.0136
+Next Token : List, Posbility: 0.0288
+Next Token : []), Posbility: 0.1289
+Next Token : ad, Posbility: 0.7461
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : vers, Posbility: 0.0000
+Next Token : noun, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0001
+Next Token : vert, Posbility: 0.0003
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ), Posbility: 0.0233
+Next Token : )), Posbility: 0.0233
+Next Token : ),, Posbility: 0.0635
+Next Token : _, Posbility: 0.1045
+Next Token : s, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ., Posbility: 0.0267
+Next Token : [0])), Posbility: 0.0267
+Next Token : [1]), Posbility: 0.0442
+Next Token : [0]), Posbility: 0.3262
+Next Token : _, Posbility: 0.5391
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : start, Posbility: 0.0000
+Next Token : head, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : first, Posbility: 0.0000
+Next Token : pos, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0403
+Next Token : [0]), Posbility: 0.1094
+Next Token : ),, Posbility: 0.1094
+Next Token : ), Posbility: 0.2969
+Next Token : )), Posbility: 0.2969
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos))
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  pos, Posbility: 0.0056
+Next Token :  [], Posbility: 0.0119
+Next Token : 
+, Posbility: 0.0135
+Next Token :  0, Posbility: 0.0135
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (), Posbility: 0.0036
+Next Token : (0,, Posbility: 0.0110
+Next Token : s, Posbility: 0.0339
+Next Token : (, Posbility: 0.0562
+Next Token : ad, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : VERB, Posbility: 0.0000
+Next Token : vers, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0000
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : _, Posbility: 0.0952
+Next Token : s, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  pos, Posbility: 0.0016
+Next Token : ;, Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0107
+Next Token :  in, Posbility: 0.0176
+Next Token : _, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : loc, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Next Token : prev, Posbility: 0.0000
+Next Token :  pos, Posbility: 0.0000
+Next Token : pos, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  else, Posbility: 0.0079
+Next Token :  , Posbility: 0.0102
+Next Token : ;, Posbility: 0.0190
+Next Token : 
+, Posbility: 0.2324
+Next Token :  in, Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0000
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 0.0015
+Next Token : 
+
+, Posbility: 0.0293
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0002
+Next Token :    , Posbility: 0.0004
+Next Token :     , Posbility: 0.0095
+Next Token :  , Posbility: 0.0157
+Next Token :   , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0581
+Next Token : if, Posbility: 0.0747
+Next Token : (, Posbility: 0.2021
+Next Token : ad, Posbility: 0.2295
+Next Token : let, Posbility: 0.2949
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  res, Posbility: 0.0143
+Next Token :  rec, Posbility: 0.0237
+Next Token :  first, Posbility: 0.1748
+Next Token :  pos, Posbility: 0.2246
+Next Token :  , Posbility: 0.3691
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0118
+Next Token : n, Posbility: 0.0134
+Next Token : positions, Posbility: 0.0151
+Next Token : (, Posbility: 0.1270
+Next Token : ad, Posbility: 0.5664
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : pos, Posbility: 0.0007
+Next Token : vert, Posbility: 0.0009
+Next Token :  =, Posbility: 0.0012
+Next Token : _, Posbility: 0.0041
+Next Token : verb, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0040
+Next Token : ,, Posbility: 0.0806
+Next Token : s, Posbility: 0.0806
+Next Token :  =, Posbility: 0.2197
+Next Token : _, Posbility: 0.5977
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : and, Posbility: 0.0142
+Next Token : start, Posbility: 0.0142
+Next Token : first, Posbility: 0.0142
+Next Token : index, Posbility: 0.0386
+Next Token : pos, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0206
+Next Token : ,, Posbility: 0.0339
+Next Token : ', Posbility: 0.0923
+Next Token : _, Posbility: 0.2520
+Next Token :  =, Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  String, Posbility: 0.0047
+Next Token :  [, Posbility: 0.0060
+Next Token :  pos, Posbility: 0.0099
+Next Token : 
+, Posbility: 0.0574
+Next Token :  , Posbility: 0.8984
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Array, Posbility: 0.0039
+Next Token : if, Posbility: 0.0173
+Next Token : (, Posbility: 0.0415
+Next Token : ad, Posbility: 0.0684
+Next Token : List, Posbility: 0.8359
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : Ext, Posbility: 0.0000
+Next Token : _, Posbility: 0.0001
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : filter, Posbility: 0.0791
+Next Token : sort, Posbility: 0.0791
+Next Token : fold, Posbility: 0.1670
+Next Token : rev, Posbility: 0.2148
+Next Token : map, Posbility: 0.2754
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  i, Posbility: 0.0069
+Next Token :  pos, Posbility: 0.0101
+Next Token : _, Posbility: 0.0352
+Next Token : i, Posbility: 0.1230
+Next Token :  , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Tuple, Posbility: 0.0014
+Next Token : List, Posbility: 0.0039
+Next Token : ad, Posbility: 0.0094
+Next Token : f, Posbility: 0.0155
+Next Token : (, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : \, Posbility: 0.0015
+Next Token : fn, Posbility: 0.0024
+Next Token : f, Posbility: 0.0031
+Next Token : function, Posbility: 0.0084
+Next Token : fun, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  v, Posbility: 0.0037
+Next Token :  i, Posbility: 0.0100
+Next Token :  ((, Posbility: 0.0272
+Next Token :  pos, Posbility: 0.0449
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ad, Posbility: 0.0057
+Next Token : tup, Posbility: 0.0057
+Next Token : p, Posbility: 0.0154
+Next Token : x, Posbility: 0.1143
+Next Token : (, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : x, Posbility: 0.0165
+Next Token : ad, Posbility: 0.0165
+Next Token : _, Posbility: 0.0165
+Next Token : i, Posbility: 0.0165
+Next Token : pos, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : 0,, Posbility: 0.0011
+Next Token : _, Posbility: 0.0031
+Next Token : 1,, Posbility: 0.0066
+Next Token : ',, Posbility: 0.0139
+Next Token : ,, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos,
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token :  word, Posbility: 0.0015
+Next Token :  pos, Posbility: 0.0024
+Next Token : _, Posbility: 0.0066
+Next Token :  a, Posbility: 0.0066
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, 
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : (, Posbility: 0.0018
+Next Token : ), Posbility: 0.0018
+Next Token : x, Posbility: 0.0130
+Next Token : _, Posbility: 0.2617
+Next Token : ad, Posbility: 0.7109
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : noun, Posbility: 0.0001
+Next Token : vert, Posbility: 0.0001
+Next Token : _, Posbility: 0.0002
+Next Token : ), Posbility: 0.0007
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ,, Posbility: 0.0012
+Next Token : )), Posbility: 0.0015
+Next Token : _, Posbility: 0.0052
+Next Token : s, Posbility: 0.0052
+Next Token : ), Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb)
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token :  =>, Posbility: 0.0002
+Next Token :  pos, Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : -, Posbility: 0.0000
+Next Token : ad, Posbility: 0.0001
+Next Token : (, Posbility: 0.0003
+Next Token : x, Posbility: 0.0004
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) ->
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0134
+Next Token :  ((, Posbility: 0.0361
+Next Token : 
+, Posbility: 0.0986
+Next Token :  pos, Posbility: 0.0986
+Next Token :  , Posbility: 0.7266
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0071
+Next Token : let, Posbility: 0.0091
+Next Token : if, Posbility: 0.0280
+Next Token : ad, Posbility: 0.0977
+Next Token : (, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : List, Posbility: 0.0024
+Next Token : String, Posbility: 0.0030
+Next Token : Math, Posbility: 0.0030
+Next Token : ad, Posbility: 0.0225
+Next Token : pos, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  *, Posbility: 0.0330
+Next Token :  , Posbility: 0.0542
+Next Token : ',, Posbility: 0.0698
+Next Token :  +, Posbility: 0.4004
+Next Token : ,, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos,
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ", Posbility: 0.0148
+Next Token :  Some, Posbility: 0.0148
+Next Token :  String, Posbility: 0.0312
+Next Token :  pos, Posbility: 0.0850
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : x, Posbility: 0.0050
+Next Token : if, Posbility: 0.0198
+Next Token : (, Posbility: 0.1006
+Next Token : List, Posbility: 0.2129
+Next Token : ad, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, ad
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : verse, Posbility: 0.0002
+Next Token : _, Posbility: 0.0003
+Next Token : ), Posbility: 0.0006
+Next Token : vert, Posbility: 0.0009
+Next Token : verb, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  , Posbility: 0.0559
+Next Token : ,, Posbility: 0.0718
+Next Token : ), Posbility: 0.0718
+Next Token : _, Posbility: 0.0923
+Next Token : )), Posbility: 0.5312
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb))
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0002
+Next Token :  pos, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0006
+Next Token :  ~, Posbility: 0.0007
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0000
+Next Token : ^, Posbility: 0.0001
+Next Token : List, Posbility: 0.0001
+Next Token : (, Posbility: 0.0085
+Next Token : ad, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) ad
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Verb, Posbility: 0.0000
+Next Token : VERB, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0001
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ;, Posbility: 0.0000
+Next Token : s, Posbility: 0.0140
+Next Token : _, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : list, Posbility: 0.0000
+Next Token : info, Posbility: 0.0000
+Next Token :  pos, Posbility: 0.0000
+Next Token : positions, Posbility: 0.0000
+Next Token : pos, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  |, Posbility: 0.0011
+Next Token : ;, Posbility: 0.0013
+Next Token :  , Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0201
+Next Token :  in, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  [, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0179
+Next Token : 
+, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token :     , Posbility: 0.0005
+Next Token :  , Posbility: 0.0059
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : List, Posbility: 0.0270
+Next Token : if, Posbility: 0.0571
+Next Token : (, Posbility: 0.0942
+Next Token : let, Posbility: 0.2559
+Next Token : ad, Posbility: 0.4785
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+  ad
+ score:False
+Error type: noerr
+---------------------------
+Next Token : Verb, Posbility: 0.0000
+Next Token : verse, Posbility: 0.0000
+Next Token : VERB, Posbility: 0.0000
+Next Token : vert, Posbility: 0.0001
+Next Token : verb, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+  adverb
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ,, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0002
+Next Token : s, Posbility: 0.0046
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+  adverb_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : start, Posbility: 0.0000
+Next Token : position, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : positions, Posbility: 0.0000
+Next Token : pos, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+  adverb_pos
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  =, Posbility: 0.0057
+Next Token :  , Posbility: 0.0082
+Next Token :  |, Posbility: 0.0106
+Next Token : 
+, Posbility: 0.3086
+Next Token : 
+
+, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to find the first adverb and their positions in a given sentence. *)
+let rec adverb_pos s =
+  let adverbs = List.filter (fun x -> x <> "and") s in
+  let adverbs_pos = List.map (fun x -> (x, List.index x adverbs)) adverbs in
+  let adverb_pos = List.fold_left (fun (pos, adverb) (pos', adverb') ->
+    if adverb = "and" then (pos', adverb') else (pos', adverb')) ((0, adverbs_pos)) adverbs_pos in
+  let adverb_pos = List.map (fun (pos, adverb) -> (pos, adverb)) adverb_pos in
+  adverb_pos
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :88.17009806632996
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,567 @@
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  even, Posbility: 0.0178
+Next Token :  sum, Posbility: 0.0178
+Next Token :  find, Posbility: 0.0201
+Next Token :  , Posbility: 0.4043
+Next Token :  rec, Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  even, Posbility: 0.0146
+Next Token :  loop, Posbility: 0.0146
+Next Token :  find, Posbility: 0.0349
+Next Token :  sum, Posbility: 0.0396
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : fi, Posbility: 0.0152
+Next Token : f, Posbility: 0.0250
+Next Token : cs, Posbility: 0.0283
+Next Token : n, Posbility: 0.0322
+Next Token : cube, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0299
+Next Token : -, Posbility: 0.0299
+Next Token : s, Posbility: 0.0299
+Next Token : sum, Posbility: 0.2207
+Next Token : _, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0005
+Next Token : helper, Posbility: 0.0009
+Next Token : iter, Posbility: 0.0009
+Next Token : of, Posbility: 0.0040
+Next Token : sum, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0160
+Next Token :  i, Posbility: 0.0337
+Next Token :  =, Posbility: 0.1182
+Next Token : _, Posbility: 0.1943
+Next Token :  , Posbility: 0.5273
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : s, Posbility: 0.0055
+Next Token : :, Posbility: 0.0063
+Next Token : (, Posbility: 0.0150
+Next Token : x, Posbility: 0.0280
+Next Token : n, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0087
+Next Token :  acc, Posbility: 0.0236
+Next Token :  i, Posbility: 0.0302
+Next Token :  , Posbility: 0.1055
+Next Token :  =, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  function, Posbility: 0.0036
+Next Token :  {, Posbility: 0.0068
+Next Token :  match, Posbility: 0.0569
+Next Token :  , Posbility: 0.1367
+Next Token : 
+, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0047
+Next Token : 	, Posbility: 0.0128
+Next Token :    , Posbility: 0.0145
+Next Token :     , Posbility: 0.1562
+Next Token :   , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0073
+Next Token : n, Posbility: 0.0082
+Next Token : let, Posbility: 0.0781
+Next Token : match, Posbility: 0.3105
+Next Token : if, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0010
+Next Token :  0, Posbility: 0.0010
+Next Token :   , Posbility: 0.0017
+Next Token :  not, Posbility: 0.0017
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0002
+Next Token : Int, Posbility: 0.0024
+Next Token : (, Posbility: 0.0292
+Next Token : n, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0100
+Next Token :  ==, Posbility: 0.0272
+Next Token :  , Posbility: 0.2012
+Next Token :  <=, Posbility: 0.2012
+Next Token :  =, Posbility: 0.5469
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0003
+Next Token : 0, Posbility: 0.0009
+Next Token :  , Posbility: 0.0024
+Next Token :  1, Posbility: 0.0179
+Next Token :  0, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0019
+Next Token :  , Posbility: 0.0050
+Next Token :  ||, Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0226
+Next Token :  then, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  {, Posbility: 0.0019
+Next Token :  1, Posbility: 0.0374
+Next Token : 
+, Posbility: 0.1016
+Next Token :  , Posbility: 0.1016
+Next Token :  0, Posbility: 0.7500
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  |, Posbility: 0.0016
+Next Token :   , Posbility: 0.0062
+Next Token :  , Posbility: 0.0131
+Next Token :  else, Posbility: 0.3359
+Next Token : 
+, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0006
+Next Token :       , Posbility: 0.0007
+Next Token :  , Posbility: 0.0009
+Next Token :     , Posbility: 0.0032
+Next Token :   , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : if, Posbility: 0.0002
+Next Token : then, Posbility: 0.0003
+Next Token : let, Posbility: 0.0005
+Next Token : elif, Posbility: 0.0012
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0034
+Next Token :  1, Posbility: 0.0049
+Next Token :  {, Posbility: 0.0317
+Next Token : 
+, Posbility: 0.1260
+Next Token :  , Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0104
+Next Token : 2, Posbility: 0.0118
+Next Token : (, Posbility: 0.1270
+Next Token : if, Posbility: 0.1631
+Next Token : n, Posbility: 0.6484
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0060
+Next Token :  , Posbility: 0.0302
+Next Token : *, Posbility: 0.0439
+Next Token :  +, Posbility: 0.1191
+Next Token :  *, Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0012
+Next Token :  (1, Posbility: 0.0031
+Next Token :  ((, Posbility: 0.0052
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0099
+Next Token : 3, Posbility: 0.0210
+Next Token : cube, Posbility: 0.1758
+Next Token : n, Posbility: 0.2891
+Next Token : (, Posbility: 0.4766
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : 3, Posbility: 0.0284
+Next Token : 2, Posbility: 0.0364
+Next Token :  , Posbility: 0.0413
+Next Token : cube, Posbility: 0.0413
+Next Token : n, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  **, Posbility: 0.0145
+Next Token :  , Posbility: 0.0393
+Next Token :  *, Posbility: 0.0649
+Next Token : +1), Posbility: 0.0649
+Next Token :  +, Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n +
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  3), Posbility: 0.0060
+Next Token :  1, Posbility: 0.0162
+Next Token :  , Posbility: 0.0439
+Next Token :  2), Posbility: 0.0439
+Next Token :  1), Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0388
+Next Token : 
+, Posbility: 0.0820
+Next Token :  , Posbility: 0.0933
+Next Token : 
+
+, Posbility: 0.1533
+Next Token :  *, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0006
+Next Token :   , Posbility: 0.0007
+Next Token :  (1, Posbility: 0.0013
+Next Token :  ((, Posbility: 0.0032
+Next Token :  , Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 3, Posbility: 0.0022
+Next Token : 2, Posbility: 0.0060
+Next Token : (, Posbility: 0.3262
+Next Token : n, Posbility: 0.3262
+Next Token : cube, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0001
+Next Token :  sum, Posbility: 0.0001
+Next Token : (, Posbility: 0.0002
+Next Token :  , Posbility: 0.0036
+Next Token : _, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_
+ score:False
+Error type: noerr
+---------------------------
+Next Token : rec, Posbility: 0.0000
+Next Token : add, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : sum, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  --, Posbility: 0.0008
+Next Token :  (1, Posbility: 0.0018
+Next Token :  ((, Posbility: 0.0030
+Next Token : (, Posbility: 0.0471
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : (--, Posbility: 0.0001
+Next Token : n, Posbility: 0.0097
+Next Token : (, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : -, Posbility: 0.0002
+Next Token : succ, Posbility: 0.0002
+Next Token : pred, Posbility: 0.0003
+Next Token :  , Posbility: 0.0009
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum (n
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : -1, Posbility: 0.0015
+Next Token :  -1), Posbility: 0.0019
+Next Token :  +, Posbility: 0.0031
+Next Token : -1), Posbility: 0.0227
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum (n 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : −, Posbility: 0.0008
+Next Token : /, Posbility: 0.0059
+Next Token : -, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum (n -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  , Posbility: 0.0022
+Next Token :  1, Posbility: 0.0022
+Next Token :  1);, Posbility: 0.0449
+Next Token :  2), Posbility: 0.0449
+Next Token :  1), Posbility: 0.8984
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum (n - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  +, Posbility: 0.0066
+Next Token :  in, Posbility: 0.0123
+Next Token :  , Posbility: 0.0123
+Next Token : 
+, Posbility: 0.2793
+Next Token : 
+
+, Posbility: 0.6680
+---------------------------
+code:
+ (* Write a  function to find the cube sum of first n even natural numbers. *)
+let rec cube_sum n =
+  if n = 0 then 0
+  else n * (n + 1) * cube_sum (n - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :18.255690813064575
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

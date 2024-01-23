@@ -1,0 +1,302 @@
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let
+Next Token :  , Posbility: 0.6133
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let 
+Next Token : replace, Posbility: 0.3867
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace
+Next Token : _, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_
+Next Token : space, Posbility: 0.3262
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_space
+Next Token : s, Posbility: 0.7422
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces
+Next Token :  , Posbility: 0.3477
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces 
+Next Token : s, Posbility: 0.8125
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s
+Next Token :  =, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+Next Token : 
+, Posbility: 0.7227
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+
+Next Token :   , Posbility: 0.8516
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  
+Next Token : let, Posbility: 0.7305
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let
+Next Token :  , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let 
+Next Token : s, Posbility: 0.2637
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s
+Next Token :  =, Posbility: 0.5508
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s =
+Next Token :  String, Posbility: 0.5742
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String
+Next Token : ., Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.
+Next Token : replace, Posbility: 0.2090
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace
+Next Token :  , Posbility: 0.6758
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace 
+Next Token : s, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s
+Next Token :  ", Posbility: 0.5000
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s "
+Next Token :  ", Posbility: 0.8164
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " "
+Next Token :  ", Posbility: 0.7148
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "
+Next Token : _, Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_
+Next Token : ", Posbility: 0.8945
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_"
+Next Token :  in, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  
+Next Token : let, Posbility: 0.6016
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let 
+Next Token : s, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s
+Next Token :  =, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s =
+Next Token :  String, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String
+Next Token : ., Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.
+Next Token : replace, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace
+Next Token :  , Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace 
+Next Token : s, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s
+Next Token :  ", Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "
+Next Token : _, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_
+Next Token : ", Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_"
+Next Token :  ", Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_" "
+Next Token :  ", Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_" " "
+Next Token :  in, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_" " " in
+Next Token : 
+, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_" " " in
+
+Next Token :   , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_" " " in
+  
+Next Token : s, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to replace whitespaces with an underscore and vice versa in a given string. *)
+let replace_spaces s =
+  let s = String.replace s " " "_" in
+  let s = String.replace s "_" " " in
+  s
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.511824369430542
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,497 @@
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let
+Next Token :  rec, Posbility: 0.6289
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec
+Next Token :  , Posbility: 0.2598
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec 
+Next Token : fi, Posbility: 0.1406
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fi
+Next Token : b, Posbility: 0.9062
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fib
+Next Token : on, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibon
+Next Token : acc, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacc
+Next Token : i, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci
+Next Token :  , Posbility: 0.4258
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci 
+Next Token : n, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n
+Next Token :  =, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+Next Token : 
+, Posbility: 0.8242
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+
+Next Token :   , Posbility: 0.8555
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  
+Next Token : match, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match 
+Next Token : n, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n
+Next Token :  with, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+Next Token : 
+, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+
+Next Token :   , Posbility: 0.9297
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  
+Next Token : |, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  |
+Next Token :  0, Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 ->
+Next Token :  0, Posbility: 0.4824
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+Next Token : 
+, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  |
+Next Token :  1, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 
+Next Token : ->, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 ->
+Next Token :  1, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+Next Token : 
+, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+
+Next Token :   , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  |
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | 
+Next Token : n, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n 
+Next Token : ->, Posbility: 0.9609
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n ->
+Next Token :  , Posbility: 0.9570
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> 
+Next Token : fi, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fib
+Next Token : on, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibon
+Next Token : acc, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacc
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci
+Next Token :  , Posbility: 0.9023
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci 
+Next Token : (, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (
+Next Token : n, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n
+Next Token :  , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n -
+Next Token :  1), Posbility: 0.9531
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1)
+Next Token :  +, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) +
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + 
+Next Token : fi, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fi
+Next Token : b, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fib
+Next Token : on, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibon
+Next Token : acc, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacc
+Next Token : i, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci 
+Next Token : (, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (
+Next Token : n, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n
+Next Token :  , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n 
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n -
+Next Token :  2), Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to find the kth element in the given array using 1-based indexing. *)
+let rec fibonacci n =
+  match n with
+  | 0 -> 0
+  | 1 -> 1
+  | n -> fibonacci (n - 1) + fibonacci (n - 2)
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :2.767040967941284
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

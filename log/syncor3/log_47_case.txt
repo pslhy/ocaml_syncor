@@ -1,0 +1,483 @@
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  calc, Posbility: 0.0154
+Next Token :  a, Posbility: 0.0537
+Next Token :  power, Posbility: 0.1455
+Next Token :  , Posbility: 0.3086
+Next Token :  rec, Posbility: 0.3496
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  fact, Posbility: 0.0190
+Next Token :  rec, Posbility: 0.0216
+Next Token :  factor, Posbility: 0.0277
+Next Token :  power, Posbility: 0.2969
+Next Token :  , Posbility: 0.4336
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0154
+Next Token : exponent, Posbility: 0.0287
+Next Token : fi, Posbility: 0.0474
+Next Token : f, Posbility: 0.0781
+Next Token : pow, Posbility: 0.5781
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0356
+Next Token :  =, Posbility: 0.1094
+Next Token : _, Posbility: 0.1240
+Next Token :  a, Posbility: 0.1240
+Next Token :  , Posbility: 0.4902
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0723
+Next Token : (, Posbility: 0.1738
+Next Token : :, Posbility: 0.1738
+Next Token : b, Posbility: 0.2227
+Next Token : x, Posbility: 0.2871
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  acc, Posbility: 0.0053
+Next Token :  base, Posbility: 0.0145
+Next Token :  =, Posbility: 0.0272
+Next Token :  a, Posbility: 0.1377
+Next Token :  , Posbility: 0.7930
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : p, Posbility: 0.0027
+Next Token : (, Posbility: 0.0045
+Next Token : n, Posbility: 0.0547
+Next Token : y, Posbility: 0.4043
+Next Token : b, Posbility: 0.5195
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0011
+Next Token :  a, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0031
+Next Token :  , Posbility: 0.0156
+Next Token :  =, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+
+, Posbility: 0.0021
+Next Token :  {, Posbility: 0.0027
+Next Token :  match, Posbility: 0.0374
+Next Token :  , Posbility: 0.1016
+Next Token : 
+, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : match, Posbility: 0.0044
+Next Token :    , Posbility: 0.0093
+Next Token : 	, Posbility: 0.0105
+Next Token :     , Posbility: 0.1279
+Next Token :   , Posbility: 0.8320
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : b, Posbility: 0.0033
+Next Token : (, Posbility: 0.0047
+Next Token : let, Posbility: 0.0187
+Next Token : match, Posbility: 0.2578
+Next Token : if, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0007
+Next Token :  0, Posbility: 0.0012
+Next Token :  int, Posbility: 0.0013
+Next Token :  not, Posbility: 0.0015
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Eq, Posbility: 0.0003
+Next Token : x, Posbility: 0.0024
+Next Token : Int, Posbility: 0.0031
+Next Token : (, Posbility: 0.0139
+Next Token : b, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  >=, Posbility: 0.0014
+Next Token :  <=, Posbility: 0.0103
+Next Token :  ==, Posbility: 0.0168
+Next Token :  , Posbility: 0.0459
+Next Token :  =, Posbility: 0.9219
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  -1, Posbility: 0.0003
+Next Token :  , Posbility: 0.0009
+Next Token :  0.0, Posbility: 0.0009
+Next Token :  1, Posbility: 0.0179
+Next Token :  0, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ||, Posbility: 0.0011
+Next Token :   , Posbility: 0.0015
+Next Token :  , Posbility: 0.0031
+Next Token : 
+, Posbility: 0.0178
+Next Token :  then, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  0, Posbility: 0.0161
+Next Token :  1.0, Posbility: 0.0439
+Next Token : 
+, Posbility: 0.1963
+Next Token :  , Posbility: 0.1963
+Next Token :  1, Posbility: 0.5352
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0033
+Next Token :  , Posbility: 0.0078
+Next Token : ., Posbility: 0.0101
+Next Token :  else, Posbility: 0.4844
+Next Token : 
+, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+
+ score:False
+Error type: noerr
+---------------------------
+Next Token :         , Posbility: 0.0003
+Next Token :       , Posbility: 0.0004
+Next Token :  , Posbility: 0.0010
+Next Token :     , Posbility: 0.0019
+Next Token :   , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  
+ score:False
+Error type: noerr
+---------------------------
+Next Token : if, Posbility: 0.0003
+Next Token : let, Posbility: 0.0003
+Next Token : then, Posbility: 0.0004
+Next Token : elif, Posbility: 0.0009
+Next Token : else, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  a, Posbility: 0.0004
+Next Token :   , Posbility: 0.0028
+Next Token :  {, Posbility: 0.0162
+Next Token : 
+, Posbility: 0.0933
+Next Token :  , Posbility: 0.8828
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 
+, Posbility: 0.0051
+Next Token : (, Posbility: 0.0229
+Next Token : b, Posbility: 0.0378
+Next Token : if, Posbility: 0.4609
+Next Token : x, Posbility: 0.4609
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x
+ score:False
+Error type: noerr
+---------------------------
+Next Token : 
+, Posbility: 0.0006
+Next Token :  (*, Posbility: 0.0007
+Next Token :  , Posbility: 0.0106
+Next Token : *, Posbility: 0.0369
+Next Token :  *, Posbility: 0.9492
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x *
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ?, Posbility: 0.0002
+Next Token :  rec, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0004
+Next Token :   , Posbility: 0.0009
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : if, Posbility: 0.0000
+Next Token : b, Posbility: 0.0009
+Next Token : x, Posbility: 0.0025
+Next Token : (, Posbility: 0.0067
+Next Token : pow, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow
+ score:False
+Error type: noerr
+---------------------------
+Next Token :   , Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ((, Posbility: 0.0008
+Next Token : (, Posbility: 0.0229
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : f, Posbility: 0.0001
+Next Token : y, Posbility: 0.0001
+Next Token : b, Posbility: 0.0025
+Next Token : (, Posbility: 0.2217
+Next Token : x, Posbility: 0.7734
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  *, Posbility: 0.0004
+Next Token :  ((, Posbility: 0.0005
+Next Token :  (1, Posbility: 0.0009
+Next Token :  (*, Posbility: 0.0012
+Next Token :  , Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x 
+ score:False
+Error type: noerr
+---------------------------
+Next Token : (`, Posbility: 0.0002
+Next Token : (--, Posbility: 0.0002
+Next Token : -, Posbility: 0.0002
+Next Token : b, Posbility: 0.0179
+Next Token : (, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x (
+ score:False
+Error type: Syntaxerr.Expecting_continue
+---------------------------
+Next Token : B, Posbility: 0.0005
+Next Token : dec, Posbility: 0.0007
+Next Token : -, Posbility: 0.0017
+Next Token :  , Posbility: 0.0096
+Next Token : b, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x (b
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token :  -1), Posbility: 0.0027
+Next Token : -1, Posbility: 0.0034
+Next Token :  –, Posbility: 0.0050
+Next Token : -1), Posbility: 0.0415
+Next Token :  , Posbility: 0.9453
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x (b 
+ score:False
+Error type: Syntaxerr.Unclosed_continue
+---------------------------
+Next Token : ^, Posbility: 0.0001
+Next Token : div, Posbility: 0.0001
+Next Token : /, Posbility: 0.0012
+Next Token : −, Posbility: 0.0015
+Next Token : -, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x (b -
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2), Posbility: 0.0007
+Next Token :  , Posbility: 0.0015
+Next Token :  1, Posbility: 0.0065
+Next Token :  1);, Posbility: 0.0178
+Next Token :  1), Posbility: 0.9727
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x (b - 1)
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  (*, Posbility: 0.0027
+Next Token :  , Posbility: 0.0073
+Next Token :  in, Posbility: 0.0120
+Next Token : 
+, Posbility: 0.3105
+Next Token : 
+
+, Posbility: 0.6562
+---------------------------
+code:
+ (* Write a function to calculate the value of 'a' to the power 'b'. *)
+let rec pow x b =
+  if b = 0 then 1
+  else x * pow x (b - 1)
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :15.963391780853271
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

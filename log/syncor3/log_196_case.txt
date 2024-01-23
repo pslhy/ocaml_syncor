@@ -1,0 +1,479 @@
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let
+ score:0
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  check, Posbility: 0.0192
+Next Token :  even, Posbility: 0.0359
+Next Token :  rec, Posbility: 0.1816
+Next Token :  is, Posbility: 0.2334
+Next Token :  , Posbility: 0.4355
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Is, Posbility: 0.0027
+Next Token : (, Posbility: 0.0035
+Next Token : f, Posbility: 0.0040
+Next Token : p, Posbility: 0.4082
+Next Token : odd, Posbility: 0.5234
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ?, Posbility: 0.0211
+Next Token :  =, Posbility: 0.1562
+Next Token :  , Posbility: 0.1562
+Next Token : p, Posbility: 0.1562
+Next Token : _, Posbility: 0.4238
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : check, Posbility: 0.0073
+Next Token : or, Posbility: 0.0106
+Next Token : of, Posbility: 0.0198
+Next Token : number, Posbility: 0.0225
+Next Token : p, Posbility: 0.8398
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_p
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0006
+Next Token : _, Posbility: 0.0015
+Next Token :  , Posbility: 0.0051
+Next Token :  =, Posbility: 0.0178
+Next Token : arity, Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : (, Posbility: 0.0139
+Next Token :  num, Posbility: 0.0228
+Next Token : _, Posbility: 0.1021
+Next Token :  =, Posbility: 0.2773
+Next Token :  , Posbility: 0.4590
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : :, Posbility: 0.0039
+Next Token : (, Posbility: 0.0176
+Next Token : p, Posbility: 0.0176
+Next Token : x, Posbility: 0.3535
+Next Token : n, Posbility: 0.5820
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ~, Posbility: 0.0006
+Next Token :   , Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0019
+Next Token :  , Posbility: 0.0075
+Next Token :  =, Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ((, Posbility: 0.0070
+Next Token :  match, Posbility: 0.0090
+Next Token :  not, Posbility: 0.0192
+Next Token :  , Posbility: 0.2637
+Next Token : 
+, Posbility: 0.6328
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : let, Posbility: 0.0076
+Next Token : 	, Posbility: 0.0098
+Next Token :    , Posbility: 0.0302
+Next Token :     , Posbility: 0.1533
+Next Token :   , Posbility: 0.7773
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : n, Posbility: 0.0287
+Next Token : match, Posbility: 0.0776
+Next Token : (, Posbility: 0.1001
+Next Token : if, Posbility: 0.1865
+Next Token : let, Posbility: 0.5078
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  mod, Posbility: 0.0210
+Next Token :  is, Posbility: 0.0238
+Next Token :  v, Posbility: 0.0270
+Next Token :  rec, Posbility: 0.1553
+Next Token :  , Posbility: 0.5430
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : rem, Posbility: 0.0583
+Next Token : odd, Posbility: 0.0752
+Next Token : x, Posbility: 0.0850
+Next Token : n, Posbility: 0.1235
+Next Token : p, Posbility: 0.2969
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let p
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 2, Posbility: 0.0058
+Next Token : _, Posbility: 0.0107
+Next Token : 1, Posbility: 0.0122
+Next Token :  =, Posbility: 0.3555
+Next Token : arity, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : ,, Posbility: 0.0021
+Next Token : 1, Posbility: 0.0035
+Next Token :  , Posbility: 0.0330
+Next Token : _, Posbility: 0.0894
+Next Token :  =, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  1, Posbility: 0.0150
+Next Token :  ((, Posbility: 0.0317
+Next Token :  0, Posbility: 0.0864
+Next Token : 
+, Posbility: 0.1426
+Next Token :  , Posbility: 0.6367
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0371
+Next Token : ref, Posbility: 0.0693
+Next Token : if, Posbility: 0.1299
+Next Token : (, Posbility: 0.2139
+Next Token : n, Posbility: 0.4004
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  +, Posbility: 0.0045
+Next Token :  &, Posbility: 0.0371
+Next Token :  , Posbility: 0.1885
+Next Token :  mod, Posbility: 0.2139
+Next Token :  %, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n %
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  2*, Posbility: 0.0009
+Next Token :  10, Posbility: 0.0024
+Next Token :  4, Posbility: 0.0065
+Next Token :  2;, Posbility: 0.0177
+Next Token :  , Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : 6, Posbility: 0.0012
+Next Token : 8, Posbility: 0.0017
+Next Token : (, Posbility: 0.0028
+Next Token : 3, Posbility: 0.0066
+Next Token : 2, Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  ==, Posbility: 0.0047
+Next Token :  , Posbility: 0.0061
+Next Token : 
+, Posbility: 0.0165
+Next Token :  =, Posbility: 0.0576
+Next Token :  in, Posbility: 0.9023
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :     , Posbility: 0.0004
+Next Token :   , Posbility: 0.0065
+Next Token : 
+
+, Posbility: 0.0095
+Next Token :  , Posbility: 0.0138
+Next Token : 
+, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :       , Posbility: 0.0010
+Next Token :    , Posbility: 0.0010
+Next Token :  , Posbility: 0.0013
+Next Token :     , Posbility: 0.0085
+Next Token :   , Posbility: 0.9844
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : not, Posbility: 0.0481
+Next Token : match, Posbility: 0.0481
+Next Token : (, Posbility: 0.0615
+Next Token : p, Posbility: 0.1016
+Next Token : if, Posbility: 0.5859
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  true, Posbility: 0.0017
+Next Token :  P, Posbility: 0.0019
+Next Token :  not, Posbility: 0.0045
+Next Token :  !, Posbility: 0.0045
+Next Token :  , Posbility: 0.9727
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if 
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token : Int, Posbility: 0.0005
+Next Token : odd, Posbility: 0.0014
+Next Token : n, Posbility: 0.0106
+Next Token : (, Posbility: 0.0288
+Next Token : p, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if p
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  =, Posbility: 0.0000
+Next Token : aria, Posbility: 0.0000
+Next Token : ity, Posbility: 0.0000
+Next Token : arry, Posbility: 0.0000
+Next Token : arity, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  !=, Posbility: 0.0080
+Next Token :  then, Posbility: 0.0591
+Next Token :  , Posbility: 0.0977
+Next Token :  ==, Posbility: 0.0977
+Next Token :  =, Posbility: 0.7188
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity =
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0005
+Next Token :  , Posbility: 0.0033
+Next Token :  1, Posbility: 0.4961
+Next Token :  0, Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :   , Posbility: 0.0004
+Next Token :  &&, Posbility: 0.0004
+Next Token :  , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0052
+Next Token :  then, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  true, Posbility: 0.0649
+Next Token :  ", Posbility: 0.1074
+Next Token : 
+, Posbility: 0.1768
+Next Token :  , Posbility: 0.1768
+Next Token :  false, Posbility: 0.2910
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false
+ score:False
+Error type: noerr
+---------------------------
+Next Token :  , Posbility: 0.0032
+Next Token :  |, Posbility: 0.0036
+Next Token : ;, Posbility: 0.0060
+Next Token : 
+, Posbility: 0.1973
+Next Token :  else, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false else
+ score:False
+Error type: Syntaxerr.Other_continue
+---------------------------
+Next Token :  false, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0016
+Next Token :  !, Posbility: 0.0039
+Next Token :  , Posbility: 0.0258
+Next Token :  true, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false else true
+ score:False
+Error type: noerr
+---------------------------
+Next Token : ;, Posbility: 0.0054
+Next Token : ), Posbility: 0.0061
+Next Token :  , Posbility: 0.0101
+Next Token : 
+, Posbility: 0.3359
+Next Token : 
+
+, Posbility: 0.6250
+---------------------------
+code:
+ (* Write a  function to find whether the parity of a given number is odd. *)
+let odd_parity n =
+  let parity = n % 2 in
+  if parity = 0 then false else true
+
+
+ score:True
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END and No Syntax Error--------
+
+processing time : :15.863016366958618
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

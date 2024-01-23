@@ -1,0 +1,611 @@
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let
+Next Token :  is, Posbility: 0.2715
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is
+Next Token : _, Posbility: 0.8633
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_
+Next Token : unique, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique
+Next Token :  , Posbility: 0.3828
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique 
+Next Token : x, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x
+Next Token :  =, Posbility: 0.6055
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+Next Token : 
+, Posbility: 0.7695
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+
+Next Token :   , Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  
+Next Token : let, Posbility: 0.6172
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let
+Next Token :  rec, Posbility: 0.4395
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec
+Next Token :  , Posbility: 0.2949
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec 
+Next Token : helper, Posbility: 0.1611
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper
+Next Token :  , Posbility: 0.4141
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper 
+Next Token : x, Posbility: 0.6406
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x
+Next Token :  =, Posbility: 0.3965
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+Next Token : 
+, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+
+Next Token :     , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    
+Next Token : match, Posbility: 0.4629
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match
+Next Token :  , Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match 
+Next Token : x, Posbility: 0.8281
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x
+Next Token :  with, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+Next Token : 
+, Posbility: 0.9766
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+
+Next Token :     , Posbility: 0.9375
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    
+Next Token : |, Posbility: 0.9648
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    |
+Next Token :  [], Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | []
+Next Token :  , Posbility: 0.9219
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] 
+Next Token : ->, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] ->
+Next Token :  true, Posbility: 0.7812
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+Next Token : 
+, Posbility: 0.9688
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+
+Next Token :     , Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    
+Next Token : |, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    |
+Next Token :  , Posbility: 0.7891
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | 
+Next Token : x, Posbility: 0.4844
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x
+Next Token :  , Posbility: 0.4961
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x 
+Next Token : ::, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x ::
+Next Token :  , Posbility: 0.8594
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: 
+Next Token : x, Posbility: 0.5586
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: x
+Next Token : s, Posbility: 0.8477
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs
+Next Token :  , Posbility: 0.8906
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs 
+Next Token : ->, Posbility: 0.9531
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+Next Token : 
+, Posbility: 0.5039
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+
+Next Token :         , Posbility: 0.6836
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        
+Next Token : if, Posbility: 0.3535
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if
+Next Token :  , Posbility: 0.8047
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if 
+Next Token : x, Posbility: 0.5117
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x
+Next Token :  =, Posbility: 0.7031
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x =
+Next Token :  , Posbility: 0.9609
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = 
+Next Token : x, Posbility: 0.7852
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = x
+Next Token : s, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs
+Next Token :  then, Posbility: 0.4648
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then
+Next Token :  false, Posbility: 0.8008
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+Next Token : 
+, Posbility: 0.8203
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+
+Next Token :         , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        
+Next Token : else, Posbility: 1.0000
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else
+Next Token :  , Posbility: 0.8672
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else 
+Next Token : helper, Posbility: 0.8789
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper
+Next Token :  , Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper 
+Next Token : x, Posbility: 0.8164
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper x
+Next Token : s, Posbility: 0.9922
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+Next Token : 
+, Posbility: 0.8438
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+
+Next Token :   , Posbility: 0.7969
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  
+Next Token : in, Posbility: 0.9883
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  in
+Next Token : 
+, Posbility: 0.9258
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  in
+
+Next Token :   , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  in
+  
+Next Token : helper, Posbility: 0.8828
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  in
+  helper
+Next Token :  , Posbility: 0.9805
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  in
+  helper 
+Next Token : x, Posbility: 0.9961
+---------------------------
+code:
+ (* Write a  function to check if the elements of a given list are unique or not. *)
+let is_unique x =
+  let rec helper x =
+    match x with
+    | [] -> true
+    | x :: xs ->
+        if x = xs then false
+        else helper xs
+  in
+  helper x
+Error type: noerr
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+----------END--------
+
+processing time : :3.2075154781341553
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
